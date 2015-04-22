@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Wed, 22 Apr 2015 20:47:59 BST</updated>
+    <updated>Wed, 22 Apr 2015 20:49:58 BST</updated>
 
 
 
@@ -588,75 +588,15 @@ will be automatic
 <link>http://anghyflawn.github.io/blog/2015/humidity-causes-complex-tones/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/blog/2015/humidity-causes-complex-tones/</guid>
-<description>&lt;p&gt;(&lt;a href=&#34;http://www.koensebregts.nl&#34;&gt;Koen Sebregts&lt;/a&gt;  points out that the title of my post is misleading, since the authors explicitly state they do &lt;em&gt;not&lt;/em&gt; predict humidity to cause complex tones. I&amp;rsquo;ll leave it unchanged as a warning to myself.)&lt;/p&gt;
-
-&lt;p&gt;There is a new &amp;lsquo;geophonetics&amp;rsquo; paper out at PNAS this morning &lt;a href=&#34;http://dx.doi.org/10.1073/pnas.1417413112&#34;&gt;Climate, vocal folds, and tonal languages: Connecting the physiological and geographic dots&lt;/a&gt; by Caleb Everett, Damián Blasi, and Seán Roberts. In a nutshell, the claim, as I understand it, is that since low humidity is inimical to precise manipulation of vocal folds, languages with &amp;lsquo;complex tone&amp;rsquo; (understood as having a more than two-way pitch-based contrast) are unlikely to thrive in regions with low humidity (i.e. hot and arid, and all types of cold). This hypothesis appears to explain the areal patterns in the prevalence of tone.&lt;/p&gt;
-
-&lt;p&gt;The phonetic component of the argument seems quite sound to me, and I&amp;rsquo;m not really qualified to judge the evolutionary part of this paper in any reasonable way. As a phonologist, there&amp;rsquo;s something that really bothers me though, and that is the almost total lack of critical discussion of what it means to be a tonal language. It&amp;rsquo;s noticeable that the phonological part of the bibliography is really sparse, especially compared to the phonetic part: there&amp;rsquo;s Moira Yip&amp;rsquo;s &lt;em&gt;Tone&lt;/em&gt; textbook, several large-scale overviews like Maddieson (1978) and Hyman (2001), a couple of tonogenesis citations, and Jonathan Kaye&amp;rsquo;s (1990) textbook cited as an example of the consensus as disputed by the authors. No other work by Larry Hyman, who has published a lot on the typology of &amp;lsquo;tone languages&amp;rsquo;, no discussion of the whole idea of &amp;lsquo;pitch accent&amp;rsquo; and how it relates to tone: the only definition given (p. 2) is &amp;lsquo;phonemic tone, in which pitch is used to contrast lexical meaning&amp;rsquo;. The data sources are &lt;a href=&#34;http://www.wals.info&#34;&gt;WALS&lt;/a&gt; and especially the &lt;a href=&#34;http://phonotactics.anu.edu.au/&#34;&gt;ANU phonotactics database&lt;/a&gt;. Both of these sources, while extremely valuable, put a lot of emphasis on documenting &amp;lsquo;diversity&amp;rsquo; and quite a bit less on pinpointing what exactly it is they&amp;rsquo;re talking about.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve gone to the ANU database to have a look at what it says about tone in languages I know about. Now I work on fairly &amp;lsquo;boring&amp;rsquo;, European languages, but recently I&amp;rsquo;ve been getting quite interested in the European &amp;lsquo;pitch accent&amp;rsquo; systems, plus I actually know a bit about these languages, so I thought I&amp;rsquo;d have a go at a selection. I have to say I wasn&amp;rsquo;t exactly happy with the results. The following list gives the number of tonal contrasts given for that language in the ANU database, and my comments if any.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Celtic
-
-&lt;ul&gt;
-&lt;li&gt;Scots Gaelic: 0. This can&amp;rsquo;t be right; there is a &amp;lsquo;pitch accent&amp;rsquo; or glottalization system in most varieties as far as we know. As a shameless plug, &lt;a href=&#34;http://anghyflawn.github.io/pdf/icngl.paper.pdf&#34;&gt;here&lt;/a&gt; is a paper of mine with more references inside.&lt;/li&gt;
-&lt;li&gt;Welsh: 0. (The pitch system of Welsh is non-trivial, but fair enough.)&lt;/li&gt;
-&lt;li&gt;Cornish: 0. (Probably, but how do we know for sure?)&lt;/li&gt;
-&lt;li&gt;Manx: 0. (Probably true, but how did it end up somewhere in the Trossachs?)&lt;/li&gt;
-&lt;li&gt;Breton: 0. (Fair enough, although see the paper linked above for some discussion.)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;North Germanic
-
-&lt;ul&gt;
-&lt;li&gt;Danish: 0. Here&amp;rsquo;s a good example of the controversy. Danish has stød, a type of laryngealization. Does it count? Maybe not, but it has been analysed as being tonal (e.g. by Junko Itô &amp;amp; Armin Mester and Tomas Riad), although &lt;a href=&#34;http://dx.doi.org/10.1159/000354640&#34;&gt;reasonable people disagree&lt;/a&gt;. In any case, tonal dialects of Danish &lt;a href=&#34;http://dx.doi.org/10.1080/03740463.1990.10411522&#34;&gt;definitely exist&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&amp;lsquo;Jysk&amp;rsquo;: 0. (Why not Jutland Danish or the like? Anyway, it has both regular stød and so-called Western Jutland stød, how do we count?)&lt;/li&gt;
-&lt;li&gt;Old Norse: 0. We don&amp;rsquo;t know that! Not zero according to &lt;a href=&#34;http://dx.doi.org/10.1075/dia.15.1.04ria&#34;&gt;Tomas Riad&lt;/a&gt;, anyway. Or see &lt;a href=&#34;http://uni.hi.is/haukurth/doktorsverkefni/&#34;&gt;Haukur Þorgeirsson&amp;rsquo;s dissertation&lt;/a&gt; – OK, it&amp;rsquo;s in Icelandic, but still&amp;hellip;&lt;/li&gt;
-&lt;li&gt;Nynorsk: 2. Nynorsk is a written standard&amp;hellip;&lt;/li&gt;
-&lt;li&gt;Aurland: 2. Why Aurland specifically? But fair enough.&lt;/li&gt;
-&lt;li&gt;Trondheim: 2. Does this mean Standard Norwegian as spoken in Trondheim? Well then yes. But all around Trondheim you have dialects with so-called &amp;lsquo;circumflex accent&amp;rsquo;, where apocope creates a tonal contrast in monosyllables (usually absent in North Germanic). Does it count as 2 (after all, there is only ever a two-way contrast in monosyllables vs polysyllables) or 3 (the traditional way of looking at things)?&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;West Germanic
-
-&lt;ul&gt;
-&lt;li&gt;Limburgish [sic]: 2. OK, so we count pitch accents as tones. But many people have argued that it&amp;rsquo;s not a &lt;em&gt;lexical tone&lt;/em&gt; contrast but instead something else. How do we count? (Actually, the same question applies to much of North Germanic.)&lt;/li&gt;
-&lt;li&gt;Kölsch: 0. Unless I&amp;rsquo;m grossly mistaken, it does have a similar type of &amp;lsquo;tonal accent&amp;rsquo; system to Limburg. So either both have tones or neither.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Baltic
-
-&lt;ul&gt;
-&lt;li&gt;Latvian: 2. That&amp;rsquo;s just incorrect, I think – at least in conservative varieties you have a three-way contrast in stressed syllables. OK, the third &amp;lsquo;accent&amp;rsquo; involves glottalization as well, but how do we decide to exclude that?&lt;/li&gt;
-&lt;li&gt;Lithuanian: 0. Definitely has a pitch accent system. If Latvian is treated as having two contrasts then surely Lithuanian should have (at least) two?&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Slavic
-
-&lt;ul&gt;
-&lt;li&gt;Serbian: 2&lt;/li&gt;
-&lt;li&gt;Croatian: 0&lt;/li&gt;
-&lt;li&gt;Chakavian [sic]: 3&lt;/li&gt;
-&lt;li&gt;Bosnian: 0&lt;/li&gt;
-&lt;li&gt;To me, this doesn&amp;rsquo;t really compute: there are certainly differences among these varieties but as far as I know they&amp;rsquo;re not quite as drastic. (That is off the top of my head, though, I&amp;rsquo;m willing to be corrected.)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;I also note that Basque has 0 contrasts, while Japanese has 2 or 3; there are dialects of Basque that have been argued to have a similar pitch accent system.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;None of this is to say that the ANU database is bad and unusable, or that the paper is incorrect rubbish. This is a random, small selection of unrelated languages in a particular region. There is also much to be said for treating European tonal accents as a typologically unusual special case – Jakobson did that with Baltic tonal &lt;em&gt;Sprachbund&lt;/em&gt; in 1931 already.&lt;/p&gt;
-
-&lt;p&gt;On the other hand, the authors are clear that their predictions should be particularly salient in relatively extreme environmental conditions, so it&amp;rsquo;s not entirely beside the point to look at northern Europe more closely. And it&amp;rsquo;s interesting that in the survey above the ANU database is consistently underreporting the number of tonal contrasts in this fairly cold, fairly dry region.&lt;/p&gt;
-
-&lt;p&gt;This does worry me. I&amp;rsquo;m sure the statistical models give the correct results for the data that&amp;rsquo;s fed into them. I&amp;rsquo;m willing to accept that the large amount of data might drown out this sort of noise. And yet, still, I&amp;rsquo;m finding it difficult to be convinced in matters I know little about when the things that I do know something about are a bit dodgy.&lt;/p&gt;
-
-&lt;p&gt;Again, this isn&amp;rsquo;t about bashing the munging of large-scale data. This paper is certainly quite explicit in its hypotheses and proposes a causal explanation based on more than correlations alone. But the data appears to have been collected without much regard to the theoretical underpinnings of what it is that we&amp;rsquo;re actually collecting here. And that means I&amp;rsquo;m not sure.&lt;/p&gt;
+<description>&lt;p&gt;I present the results of a phonetic study of the relationship between vowel quality and vowel quantity. The results confirm that the descriptions are correct in setting up a categorical distinction between two varieties of long mid vowels (tense [eː oː] and lax [ɛː ɔː]) in South-West Welsh. This system plausibly arose as the enhancement of a pattern where there is no quality distinctions between short and long vowels, with continuous variation in height in both prosodic contexts. The rise of the south-western pattern is connected to the phonologization of a trading relation in duration between the stressed penultimate and the final syllable, which is still attested in the relevant varieties. This presents an interesting example of &amp;lsquo;rule scattering&amp;rsquo; (Bermúdez-Otero 2014).&lt;/p&gt;
 </description>
 </item>
 
 
 
 <item>
-<title>ICNGL paper</title>
-<link>http://anghyflawn.github.io/news/2015/icngl11-paper/</link>
+<title>Representation and variation in substance-free phonology: A case study in Celtic</title>
+<link>http://anghyflawn.github.io/presentation/2009/novemberseminaret-palatalization/</link>
 <pubDate>Tue, 20 Jan 2015 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/news/2015/icngl11-paper/</guid>
 <description>&lt;p&gt;My paper &lt;em&gt;‘Pitch accent’ and prosodic structure in Scottish Gaelic: Reassessing the role of contact&lt;/em&gt; has appeared in &lt;em&gt;New trends in Nordic and general linguistics&lt;/em&gt;, edited by Martin Hilpert, Janet Duke, Christine Mertzlufft, Jan-Ola Östman, and Michael Rießler (Mouton de Gruyter). Read more and download a copy &lt;a href=&#34;http://anghyflawn.github.io/writing/icngl-proceedings/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -727,29 +667,6 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 
 
 <item>
-<title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
-<link>http://anghyflawn.github.io/teaching/2015/lel2d/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/lel2d/</guid>
-<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the entire phonology block. We cover the following topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Phonological typology and theory. Universals in phonology; descriptive and analytic universals&lt;/li&gt;
-&lt;li&gt;Universals of inventory organization; feature theory&lt;/li&gt;
-&lt;li&gt;Syllable structure. Typology of syllable structures&lt;/li&gt;
-&lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
-&lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
-&lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
-&lt;li&gt;Tone and its typology; austosegmental phonology.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Course materials are available on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
 <title>Historical Phonology</title>
 <link>http://anghyflawn.github.io/teaching/2015/historical-phonology/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -772,6 +689,29 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Course materials are available on &lt;a href=&#34;http://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
+<link>http://anghyflawn.github.io/teaching/2015/lel2d/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2015/lel2d/</guid>
+<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the entire phonology block. We cover the following topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Phonological typology and theory. Universals in phonology; descriptive and analytic universals&lt;/li&gt;
+&lt;li&gt;Universals of inventory organization; feature theory&lt;/li&gt;
+&lt;li&gt;Syllable structure. Typology of syllable structures&lt;/li&gt;
+&lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
+&lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
+&lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
+&lt;li&gt;Tone and its typology; austosegmental phonology.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Course materials are available on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
