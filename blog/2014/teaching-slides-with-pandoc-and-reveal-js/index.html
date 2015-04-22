@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Teaching slides with pandoc and reveal.js</title>
+	
+	<link rel="stylesheet" href="http://anghyflawn.github.io//css/kube.css" />
+	<link rel="stylesheet" href="http://anghyflawn.github.io//css/demo.css" />
+ 	<link href='http://fonts.googleapis.com/css?family=Alegreya:400italic,400,700,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+ 	<link href='http://fonts.googleapis.com/css?family=Alegreya+SC:400&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+     
+    <link href="" rel="alternate" type="application/rss+xml" title="Pavel Iosad" />
+	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="http://anghyflawn.github.io/blog/2014/teaching-slides-with-pandoc-and-reveal-js/">
+	<meta name="twitter:title" content="Teaching slides with pandoc and reveal.js">
+	<meta name="twitter:description" content="This past semester I taught a new course entitled Phonological Theory. Apart from the content, I decided to experiment a bit with the technical details, specifically using pandoc and reveal.js to do the slides and lecture notes. I&rsquo;m a pretty consistent LaTeX user, so to the extent I do slides I do them in beamer. There is nothing inherently problematic with this, and AUCTeX saves typing a lot of the boilerplate, but writing two–three presentations per week is still time-consuming.">
+	<meta name="twitter:image" content="http://anghyflawn.github.io//img/avatar2.jpg">
+    <meta name="twitter:site" content="@anghyflawn">
+    <meta name="twitter:creator" content="@anghyflawn">
+</head>
+
+
+<body>
+<div id="topbar">
+<div class="wrapper">
+	<header>
+		<nav class="navbar">
+			<ul>
+				<li class="hd"><a href="http://anghyflawn.github.io/"><b>Pavel Iosad</b></a></li>
+				<li><a href="http://anghyflawn.github.io//writing">Writing</a></li>
+				<li><a href="http://anghyflawn.github.io//presentation">Presentations</a></li>
+				<li><a href="http://anghyflawn.github.io//class">Classes</a></li>
+				<li><span><a href="http://anghyflawn.github.io//blog">Blog</a></span></li>
+				<li><a href="#searchsite">Search</a></li>
+				<li><a href="#about">About</a></li>
+			</ul>
+		</nav>
+	</header>
+</div>
+</div>
+
+<div class="wrapper">
+<div class="units-row">		
+<div class="unit-20">&nbsp;</div>
+<div class="unit-60"><h2><a href="">Teaching slides with pandoc and reveal.js</a></h2></div>
+</div>
+<div class="units-row">		
+<div class="unit-20 dateblock"><h4>December 4, 2014</h4></div>
+<div class="unit-60">
+
+
+<p>This past semester I taught a new course entitled <em><a href="http://www.drps.ed.ac.uk/14-15/dpt/cxlasc10088.htm">Phonological Theory</a></em>. Apart from the content, I decided to experiment a bit with the technical details, specifically using <a href="http://johnmacfarlane.net/pandoc">pandoc</a> and <a href="reveal.js">reveal.js</a> to do the slides and lecture notes.</p>
+
+<p>I&rsquo;m a pretty consistent LaTeX user, so to the extent I do slides I do them in <code>beamer</code>. There is nothing inherently problematic with this, and <a href="https://www.gnu.org/software/auctex/">AUCTeX</a> saves typing a lot of the boilerplate, but writing two–three presentations per week is still time-consuming. I also tend to do the non-recommended thing and put a lot of text on my slides; my justification (apart from the fact that it lets me pace the lectures at least the first time around) is that I use <code>beamerarticle</code> to produce a more text-like notes document that is then quite detailed.</p>
+
+<p>So why pandoc? Well, partly just for the fun of it. My slides + notes workflow also fits quite well with its philosophy of producing multiple output formats from a single input. Perhaps most importantly, markdown is obviously less &lsquo;noisy&rsquo; than LaTeX. Compare this:</p>
+
+<pre><code class="language-markdown">## Slide title ##
+
+* Item 1
+* Item 2
+    * Subitem 1
+    * Subitem 2
+* Item 3
+</code></pre>
+
+<p>and this:</p>
+
+<pre><code class="language-latex">\begin{frame}{Slide title}
+\begin{itemize}
+  \item Item 1
+  \item Item 2
+  \begin{itemize}
+      \item Subitem 1
+      \item Subitem 2
+  \end{itemize}
+  \item Item 3
+\end{itemize}
+\end{frame}
+</code></pre>
+
+<p>Even if you&rsquo;re pretty proficient in LaTeX and filter out the visual noise, I think it&rsquo;s pretty obvious that the former is a bit less horrible.</p>
+
+<p>Anyway, I&rsquo;ve now taught the entire course using this workflow, and overall I think I was quite happy with it. The workflow carries over nicely and although there were things that took a bit more work than they would have done if I were using LaTeX I think I felt at least as productive when using pandoc.</p>
+
+<h2 id="the-good:b7cb6333f64fce53cd91cff316b43a20">The good</h2>
+
+<p>Writing markdown is of course a piece of cake. I&rsquo;m using Emacs with <a href="http://jblevins.org/projects/markdown-mode/">markdown-mode</a> and <a href="https://joostkremers.github.io/pandoc-mode/">pandoc-mode</a>, which makes it even easier. Consider the task of indenting a sublist, e.g. making a list item (and all its subitems) into a subitem of something else. In markdown-mode, it&rsquo;s a matter of a single keystroke, while in LaTeX it&rsquo;d involve a whole new environment and possibly other adjustments.</p>
+
+<p>The text would usually carry over from slides to notes quite painlessly, so that&rsquo;s good. Pandoc-mode also has a handy feature called a <em>project settings file</em> which allows you to reuse pandoc settings (e.g. includes, bibliography files, CSL files etc.) across multiple input files – having chosen a single set of options it&rsquo;s easy to use them for all the <code>.md</code> files in that directory. If, for whatever reason, you need to use a different set of options for an individual document, that&rsquo;s also possible with per-file settings.</p>
+
+<p>Pandoc also gives you a lot of latitude to tweak how the output looks like, since you have full access to the templates it uses to build the output. This means that my lecture notes look pretty much like any other documents I write and don&rsquo;t use the default TeX settings.</p>
+
+<p>I really liked Reveal.js. It looks pretty nice (though see below) and it has some nifty features. Some are perhaps more pretty than really useful, but I though the overview mode and the speaker notes were especially handy (the speaker notes in particular are nice when you don&rsquo;t want to put something on the slide but still have it in the notes).</p>
+
+<h2 id="the-less-good-and-some-tips:b7cb6333f64fce53cd91cff316b43a20">The less good, and some tips</h2>
+
+<p>I did run into some issues that needed resolving, although partly they involve just shaking off the LaTeX mentality. An obvious issue is the lack of access to LaTeX macros. Pandoc has support for a subset of TeX maths in non-TeX output, so it is possible to use things like <code>$\rightarrow$</code> or <code>$\emptyset$</code> (which you need a lot in a course like that), but getting a feature matrix (for which you&rsquo;d use some version of <code>array</code>) is more difficult. Still, it&rsquo;s not as crippling as Word, so that&rsquo;s an advantage already. I didn&rsquo;t really run into a case where there was no way to write what I wanted to write, but I did end up typing out <code>$\rightarrow$</code> a bit more often than I would have wished. (I should probably just have assigned some keystrokes to the right symbols, but I never got round to it.)</p>
+
+<p>(Pandoc-mode does come with something called <code>@@</code>-directives, which can be kicked into a shape resembling TeX macros, but they&rsquo;re still pretty limited and also require more Elisp skills than I could dust off while writing a new course from scratch.)</p>
+
+<p>Diagrams and drawings are another potentially problematic issue. Thankfully, pandoc comes with the filter facility, and the <a href="https://github.com/jgm/pandocfilters/">example repository</a> contains a filter that takes TikZ code and feeds it straight into the output when the output is TeX but creates an image file and embeds it if the output is something else. With a little bit of hacking I was able to make it understand environments like <code>forest</code> (which I recommend for drawing trees) and generally have the pictures assume the desired look and feel. So that&rsquo;s doable.</p>
+
+<p>One potential issue that it took me some time to figure out was getting speaker notes to play nicely. Reveal.js presentations can be shown as static files, but then you don&rsquo;t have access to speaker notes. To get the notes, you need to run a local server using some Node.js magic or other. For one thing, this obviously means that you need to lug your laptop around to the lecture and hope it works. More importantly, reveal.js seems to assume your presentation resides in the same folder as the reveal.js files. If you have multiple source and output files in the directory for your course, you probably don&rsquo;t want to clutter it with its js, css and so on, but rather keep it in a separate folder. But this means that when you run <code>grunt serve</code> from the reveal.js folder, you don&rsquo;t get access to your files. To fix that, you need to go open <code>Gruntfile.js</code> and find the lines</p>
+
+<pre><code class="language-js">		connect: {
+			server: {
+				options: {
+					port: port,
+					base: '.'
+				}
+			}
+		},
+</code></pre>
+
+<p>Change the <code>base</code> option to <code>'../'</code>, and it will serve files from the directory above reveal.js, which is what you probably want.</p>
+
+<p>One feature that I miss in reveal.js is a counterpart to <code>beamer</code>&rsquo;s <code>allowframebreaks</code> option. It does support manual slide breaking, but that is obviously fragile (not least because the screen in the lecture room doesn&rsquo;t necessarily have the same proportions as yours, so you don&rsquo;t have a 100% reliable guide to when the slide is overfull). Of course you don&rsquo;t have this problem if you don&rsquo;t put too much text on your slide.</p>
+
+<p>A final thing that is not so much a problem as a consequence of lack of time for my part is that changing the look and feel of reveal.js beyond the stock themes requires passable CSS skills, and I definitely did <em>not</em> have time for that.</p>
+
+<h2 id="conclusion:b7cb6333f64fce53cd91cff316b43a20">Conclusion</h2>
+
+<p>I found the pandoc + reveal.js route to be a good alternative to beamer for teaching. I think I&rsquo;ll stick to LaTeX/<code>beamer</code> rather than pandoc for serious paper-writing, since the loss of the LaTeX power is only partially compensated by the relative ease of markdown, but for teaching I would recommend this alternative.</p>
+
+
+</div>
+	
+</div>
+
+<div class="units-row">
+<hr>
+
+	<div class="unit-40" style="text-align:right;">
+		
+			<a href="http://anghyflawn.github.io/blog/2014/norsemen-in-scotland-a-linguistic-view-part-2/"> &larr;&nbsp;Norsemen in Scotland: A linguistic view, part 2</a>
+		
+	</div>
+	<div class="unit-20" style="text-align:center;">
+		|&nbsp;
+		<a href="http://anghyflawn.github.io//blog/">Blog archive</a>
+		&nbsp;|
+	</div>
+	<div class="unit-35" style="text-align:left;">
+		
+			<a href="http://anghyflawn.github.io/blog/2015/humidity-causes-complex-tones/">Humidity causes complex tones?&nbsp;&rarr;</a>
+		
+	</div>
+</div>
+
+<div class="units-row">
+	<div class="unit-20">&nbsp;</div>
+	<div class="unit-60">
+		<div id="disqus_thread"></div>
+<script type="text/javascript">
+
+(function() {
+    
+    
+    if (window.location.hostname == "localhost")
+        return;
+
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = 'anghyflawn';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+	</div>
+	<div class="unit-20">&nbsp;</div>
+</div>
+
+
+</div>
+
+<hr class="separator">
+
+<div class="wrapper" style="font-size: 0.9em; line-height: 1.05em;">
+<div class="units-row units-padding">		
+<div class="unit-40">
+<h3><a id="about">About me</a></h3>
+<p>I&rsquo;m <em>Pavel Iosad</em>, and I'm a Lecturer in Theoretical Phonology in the department of <a href="http://www.lel.ed.ac.uk">Linguistics and English Language</a> at the <a href="http://www.ed.ac.uk">University of Edinburgh</a>. &para; You can always go to the <a href="http://anghyflawn.github.io/">start page</a> to learn more.</p>
+</div>
+<div class="unit-30">
+<h3>elsewhere</h3>
+<ul class="compact fa-ul">
+<li><i class="fa-li fa fa-university fa-fw" style="color:#030922;font-size:80%;padding-top:6px;"></i>Linguistics and English Language, The University of Edinburgh, Dugald Stewart Building, 3 Charles Street, Edinburgh EH8 9AD, Scotland.</li>
+<li><i class="fa-li fa fa-envelope fa-fw" style="color:#030922;font-size:80%;padding-top:6px;"></i><a href="mailto:pavel.iosad@ed.ac.uk">pavel.iosad@ed.ac.uk</a></li>
+<li><i class="fa-li fa fa-twitter-square fa-fw" style="color:#030922;font-size:80%;padding-top:6px;"></i><a href="http://twitter.com/anghyflawn">@anghyflawn</a> on Twitter.</li>
+<li><i class="fa-li fa fa-github fa-fw" style="color:#030922;font-size:80%;padding-top:6px;"></i><a href="http://github.com/anghyflawn">@anghyflawn</a> on Github.</li>
+<li><i class="fa-li fa fa-leanpub fa-fw" style="color:#030922;font-size:80%;padding-top:6px;"></i><a href="http://edinburgh.academia.edu/PavelIosad">Academia.edu</a></li>
+<li><i class="fa-li fa fa-user fa-fw" style="color:#030922;font-size:80%;padding-top:6px;"></i><a href="http://www.research.ed.ac.uk/portal/en/persons/pavel-iosad(976edf38-f950-4179-a032-a6cea4b31b3b).html">Edinburgh Research Explorer</a></li>
+</ul>
+</div>
+<div class="unit-30">
+				<h3>Updates</h3>
+				<p>Subscribe to the <a href="http://anghyflawn.github.io//index.xml"><i class="fa fa-rss-square" style="color:#030922;"></i>&nbsp;RSS feed</a>, or follow me on Twitter at <a href="http://twitter.com/anghyflawn"><i class="fa fa-twitter-square" style="color:#030922;"></i>&nbsp;@anghyflawn</a>.</p>
+				<h3>Search</h3>
+				<a id="searchsite">
+					<form method="get" action="http://duckduckgo.com/">
+				<input type="search" name="q" maxlength="255" placeholder="Search the site">
+			<input type="hidden" name="sites" value="anghyflawn.github.io"/>
+			   <input type="hidden" name="ka" value="Alegreya"/>
+			   <input type="hidden" name="k7" value="#faf8f8"/>
+			   <input type="hidden" name="kj" value="#b33"/>
+			   <input type="hidden" name="ky" value="#fafafa"/>
+			   <input type="hidden" name="kx" value="b"/>
+			   <input type="hidden" name="ko" value="-1"/>
+			   <input type="hidden" name="k1" value="-1"/>
+			   <input type="hidden" name="kt" value="Alegreya Sans"/>
+			   <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" /></form></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<footer id="footer">
+<section class="wrapper small">
+	<div style="float:left;">
+		Made with <a href="http://gohugo.io">Hugo</a>
+	</div>
+	<div style="float:right;">
+		<a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
+			<img alt="Creative Commons License" 
+				style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png">
+		</a>
+	</div>
+</section>
+</footer>
+
+</body>
+</html>
+
+

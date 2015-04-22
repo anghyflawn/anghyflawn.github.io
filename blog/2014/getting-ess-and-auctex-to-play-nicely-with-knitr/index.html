@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Getting ESS and AUCTeX to play nicely with knitr</title>
+	
+	<link rel="stylesheet" href="http://anghyflawn.github.io//css/kube.css" />
+	<link rel="stylesheet" href="http://anghyflawn.github.io//css/demo.css" />
+ 	<link href='http://fonts.googleapis.com/css?family=Alegreya:400italic,400,700,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+ 	<link href='http://fonts.googleapis.com/css?family=Alegreya+SC:400&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+     
+    <link href="" rel="alternate" type="application/rss+xml" title="Pavel Iosad" />
+	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="http://anghyflawn.github.io/blog/2014/getting-ess-and-auctex-to-play-nicely-with-knitr/">
+	<meta name="twitter:title" content="Getting ESS and AUCTeX to play nicely with knitr">
+	<meta name="twitter:description" content="Although my job title is &lsquo;Lecturer in Theoretical Phonology&rsquo; (no, really), I&rsquo;ve been getting into more empirical work. I went on a data collection trip to South Wales in February to work with Welsh, and only early this week we had two great days collecting Gaelic data in North Argyll – not an area readily associated with Gaelic these days, but in fact we found quite a few very good speakers.">
+	<meta name="twitter:image" content="http://anghyflawn.github.io//img/avatar2.jpg">
+    <meta name="twitter:site" content="@anghyflawn">
+    <meta name="twitter:creator" content="@anghyflawn">
+</head>
+
+
+<body>
+<div id="topbar">
+<div class="wrapper">
+	<header>
+		<nav class="navbar">
+			<ul>
+				<li class="hd"><a href="http://anghyflawn.github.io/"><b>Pavel Iosad</b></a></li>
+				<li><a href="http://anghyflawn.github.io//writing">Writing</a></li>
+				<li><a href="http://anghyflawn.github.io//presentation">Presentations</a></li>
+				<li><a href="http://anghyflawn.github.io//class">Classes</a></li>
+				<li><span><a href="http://anghyflawn.github.io//blog">Blog</a></span></li>
+				<li><a href="#searchsite">Search</a></li>
+				<li><a href="#about">About</a></li>
+			</ul>
+		</nav>
+	</header>
+</div>
+</div>
+
+<div class="wrapper">
+<div class="units-row">		
+<div class="unit-20">&nbsp;</div>
+<div class="unit-60"><h2><a href="">Getting ESS and AUCTeX to play nicely with knitr</a></h2></div>
+</div>
+<div class="units-row">		
+<div class="unit-20 dateblock"><h4>July 12, 2014</h4></div>
+<div class="unit-60">
+<p>Although my job title is &lsquo;Lecturer in Theoretical Phonology&rsquo; (<a href="http://www.research.ed.ac.uk/portal/en/persons/pavel-iosad(976edf38-f950-4179-a032-a6cea4b31b3b.html">no, really</a>), I&rsquo;ve been getting into more empirical work. I went on a data collection trip to South Wales in February to work with Welsh, and only early this week we had two great days collecting Gaelic data in North Argyll – not an area <em>readily</em> associated with Gaelic these days, but in fact we found quite a few very good speakers.</p>
+
+<p>Anyway, this post isn&rsquo;t about that. Having collected the data and processed some of it, I have also been getting to grips with <em>actually</em> doing statistical analysis (as opposed to working through textbooks), which these days inevitably means <a href="http://www.r-project.org.">R</a>. I&rsquo;m giving a couple of talks in Wales next week (<a href="http://privatewww.essex.ac.uk/~wss/wss-21.htm">here</a> and <a href="http://amrywiaeth.wordpress.com">here</a>) with some of the results, so the time had come for me to think about getting my data into my presentations (and eventually papers). Being a LaTeX user, after some poking about I settled on <a href="http://yihui.name/knitr">knitr</a> as the way to get stuff out of R and into LaTeX.</p>
+
+<p>Most of the R wizards I know use <a href="http://www.rstudio.com">RStudio</a>, which is a very good IDE for R, but doesn&rsquo;t come close to the power of Emacs with AUCTeX for LaTeX writing. So far I have found <a href="http://ess.r-studio.org">ESS</a> to be perfectly adequare for my R needs. ESS also supports knitting <code>.Rnw</code> files out of the box via <code>M-n r</code>. Its default weaving engine, however, is Sweave. After some poking about, here&rsquo;s how to get ESS and AUCTeX to play nicely with knitr.</p>
+
+<p>There are two components. One is to make knitr the default engine when tangling outside AUCTeX. This is easily achieved via <code>(setq ess-swv-processor 'knitr)</code> in your <code>init.el</code>, but this only allows you to use knitr as the default when you tangle via <code>M-n T</code>. What this doesn&rsquo;t automate is running LaTeX on the product of the knitting: you have to switch to the <code>.tex</code> file manually and run stuff from there, but this runs the risk of making edits to the <code>.tex</code> file instead of the <code>.Rnw</code>. ESS also has a <code>latex</code> tangling option (<code>M-n l</code>), but this just runs <code>latex</code> from the shell, without any of the AUCTeX customizations.</p>
+
+<p>ESS also has the option to plug into AUCTeX, making relevant commands available to the user via <code>C-c C-c</code>. This is much handier, but unfortunately the functions which add these commands are hardcoded to use Sweave from the shell rather than <code>ess-swv-run-in-R</code>, which is sensitive to the value of <code>ess-swv-processor</code>. So here&rsquo;s what you need in order to get knitr to run into AUCTeX.</p>
+
+<pre><code class="language-elisp">;; somewhere after (require 'ess-site)
+(setq ess-swv-plug-into-AUCTeX-p t)
+
+(defun ess-swv-add-TeX-commands ()
+  &quot;Add commands to AUCTeX's \\[TeX-command-list].&quot;
+  (unless (and (featurep 'tex-site) (featurep 'tex))
+    (error &quot;AUCTeX does not seem to be loaded&quot;))
+  (add-to-list 'TeX-command-list
+               '(&quot;Knit&quot; &quot;Rscript -e \&quot;library(knitr); knit('%t')\&quot;&quot;
+                 TeX-run-command nil (latex-mode) :help
+                 &quot;Run Knitr&quot;) t)
+  (add-to-list 'TeX-command-list
+               '(&quot;LaTeXKnit&quot; &quot;%l %(mode) %s&quot;
+                 TeX-run-TeX nil (latex-mode) :help
+                 &quot;Run LaTeX after Knit&quot;) t)
+  (setq TeX-command-default &quot;Knit&quot;)
+  (mapc (lambda (suffix)
+          (add-to-list 'TeX-file-extensions suffix))
+        '(&quot;nw&quot; &quot;Snw&quot; &quot;Rnw&quot;)))
+
+(defun ess-swv-remove-TeX-commands (x)
+  &quot;Helper function: check if car of X is one of the Knitr strings&quot;
+  (let ((swv-cmds '(&quot;Knit&quot; &quot;LaTeXKnit&quot;)))
+    (unless (member (car x) swv-cmds) x)))
+</code></pre>
+
+<p>These are just little changes to the original functions defined in <code>ess-swv.el</code>. Now you can, via <code>C-c C-c</code>, access <code>Knit</code> (which just produces the <code>.tex</code> file) and <code>LaTeXKnit</code>, which runs the LaTeX process as customized by AUCTeX (e.g. to use XeTeX or whatever other options you normally use) on the output, without you having to go the <code>.tex</code> file. Which is nice.</p>
+
+
+</div>
+	
+</div>
+
+<div class="units-row">
+<hr>
+
+	<div class="unit-40" style="text-align:right;">
+		
+			<a href="http://anghyflawn.github.io/blog/2014/emacs-give-a-doi-get-a-bibtex-entry/"> &larr;&nbsp;Emacs: give a DOI, get a BibTeX entry</a>
+		
+	</div>
+	<div class="unit-20" style="text-align:center;">
+		|&nbsp;
+		<a href="http://anghyflawn.github.io//blog/">Blog archive</a>
+		&nbsp;|
+	</div>
+	<div class="unit-35" style="text-align:left;">
+		
+			<a href="http://anghyflawn.github.io/blog/2014/norsemen-in-scotland-a-linguistic-view-part-1/">Norsemen in Scotland: A linguistic view, part 1&nbsp;&rarr;</a>
+		
+	</div>
+</div>
+
+<div class="units-row">
+	<div class="unit-20">&nbsp;</div>
+	<div class="unit-60">
+		<div id="disqus_thread"></div>
+<script type="text/javascript">
+
+(function() {
+    
+    
+    if (window.location.hostname == "localhost")
+        return;
+
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = 'anghyflawn';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+	</div>
+	<div class="unit-20">&nbsp;</div>
+</div>
+
+
+</div>
+
+<hr class="separator">
+
+<div class="wrapper" style="font-size: 0.9em; line-height: 1.05em;">
+<div class="units-row units-padding">		
+<div class="unit-40">
+<h3><a id="about">About me</a></h3>
+<p>I&rsquo;m <em>Pavel Iosad</em>, and I'm a Lecturer in Theoretical Phonology in the department of <a href="http://www.lel.ed.ac.uk">Linguistics and English Language</a> at the <a href="http://www.ed.ac.uk">University of Edinburgh</a>. &para; You can always go to the <a href="http://anghyflawn.github.io/">start page</a> to learn more.</p>
+</div>
+<div class="unit-30">
+<h3>elsewhere</h3>
+<ul class="compact fa-ul">
+<li><i class="fa-li fa fa-university fa-fw" style="color:#030922;font-size:80%;padding-top:6px;"></i>Linguistics and English Language, The University of Edinburgh, Dugald Stewart Building, 3 Charles Street, Edinburgh EH8 9AD, Scotland.</li>
+<li><i class="fa-li fa fa-envelope fa-fw" style="color:#030922;font-size:80%;padding-top:6px;"></i><a href="mailto:pavel.iosad@ed.ac.uk">pavel.iosad@ed.ac.uk</a></li>
+<li><i class="fa-li fa fa-twitter-square fa-fw" style="color:#030922;font-size:80%;padding-top:6px;"></i><a href="http://twitter.com/anghyflawn">@anghyflawn</a> on Twitter.</li>
+<li><i class="fa-li fa fa-github fa-fw" style="color:#030922;font-size:80%;padding-top:6px;"></i><a href="http://github.com/anghyflawn">@anghyflawn</a> on Github.</li>
+<li><i class="fa-li fa fa-leanpub fa-fw" style="color:#030922;font-size:80%;padding-top:6px;"></i><a href="http://edinburgh.academia.edu/PavelIosad">Academia.edu</a></li>
+<li><i class="fa-li fa fa-user fa-fw" style="color:#030922;font-size:80%;padding-top:6px;"></i><a href="http://www.research.ed.ac.uk/portal/en/persons/pavel-iosad(976edf38-f950-4179-a032-a6cea4b31b3b).html">Edinburgh Research Explorer</a></li>
+</ul>
+</div>
+<div class="unit-30">
+				<h3>Updates</h3>
+				<p>Subscribe to the <a href="http://anghyflawn.github.io//index.xml"><i class="fa fa-rss-square" style="color:#030922;"></i>&nbsp;RSS feed</a>, or follow me on Twitter at <a href="http://twitter.com/anghyflawn"><i class="fa fa-twitter-square" style="color:#030922;"></i>&nbsp;@anghyflawn</a>.</p>
+				<h3>Search</h3>
+				<a id="searchsite">
+					<form method="get" action="http://duckduckgo.com/">
+				<input type="search" name="q" maxlength="255" placeholder="Search the site">
+			<input type="hidden" name="sites" value="anghyflawn.github.io"/>
+			   <input type="hidden" name="ka" value="Alegreya"/>
+			   <input type="hidden" name="k7" value="#faf8f8"/>
+			   <input type="hidden" name="kj" value="#b33"/>
+			   <input type="hidden" name="ky" value="#fafafa"/>
+			   <input type="hidden" name="kx" value="b"/>
+			   <input type="hidden" name="ko" value="-1"/>
+			   <input type="hidden" name="k1" value="-1"/>
+			   <input type="hidden" name="kt" value="Alegreya Sans"/>
+			   <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" /></form></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<footer id="footer">
+<section class="wrapper small">
+	<div style="float:left;">
+		Made with <a href="http://gohugo.io">Hugo</a>
+	</div>
+	<div style="float:right;">
+		<a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
+			<img alt="Creative Commons License" 
+				style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png">
+		</a>
+	</div>
+</section>
+</footer>
+
+</body>
+</html>
+
+

@@ -1,0 +1,255 @@
+/* =Typography
+-----------------------------------------------------------------------------*/
+body {
+	font-family: 'Alegreya', 'Lora', 'Hoefler Text', Times, Serif;
+	font-size: 1.05em;
+	line-height: 1.6em;
+/*	background-color: #b1b8d3; */
+	background-color: #dee0eb;
+}
+
+form, input[type="search"], select[multiple="multiple"]  {font-family:  'Alegreya', 'Trebuchet MS', Helvetica, Arial, sans-serif;}
+
+/*body {
+  background: #ffffff;
+  color: #333333;
+  font-size: 0.875em;
+  line-height: 1.65em;
+  font-family: 'PT Sans', "Helvetica Neue", Helvetica, Tahoma, sans-serif;
+}
+*/
+h1, h2, h3, h4, h5 {
+	font-family: 'Alegreya', 'Trebuchet MS', Helvetica, Arial, sans-serif;
+	font-style: italic;
+	color: #030922;
+}
+
+#about {
+	color: #030922;
+}
+
+
+h2, h3, h4, h5 {
+	font-weight: normal;
+	font-style: italic;
+}
+h2, h3 {
+	text-transform: lowercase;
+	font-family: 'Alegreya SC';
+	font-style: normal;
+}
+
+.label-red {
+  background-color: #626d9b;
+}
+
+.badge {
+	background-color: #707aa3;
+	color: #dee0eb;
+}
+
+a {color: #626d9b; text-decoration:none;}
+a:hover {text-decoration:underline;
+         color: #030922;}
+
+
+
+/* =Common
+-----------------------------------------------------------------------------*/
+img,
+#feedback,
+#banner,
+#intro li {
+	border-radius: 3px;
+}
+
+nav {text-transform: lowercase;
+	font-family: 'Alegreya SC';}
+
+.hd { font-family: 'Alegreya SC';
+      text-transform: capitalize;
+      font-size: 125%;}
+
+.caps {text-transform: lowercase;
+font-family: 'Alegreya SC'; }
+
+
+.compact { margin: 0 0 0 1.3em; }
+
+hr {border-top: 1px solid #626d9b; margin-top:5ex; margin-bottom: 5ex;}
+
+.separator {border-top: 5px solid #626d9b;}
+
+h2 {border-bottom: 1px solid #626d9b;} 
+
+/* =Layout
+-----------------------------------------------------------------------------*/
+.wrapper {
+	padding: 0 10px;
+	width: 94%;
+	max-width: 1300px;
+	margin: auto;
+}
+
+#topbar {
+	background: #030922;
+	padding:0px;
+	margin:0ex;
+	/* border-bottom: 3px solid #b24; */
+}  
+
+
+#topbar .navbar {padding-bottom:14px; font-size:120%;} 
+#topbar li a {color: #b1b8d3;}
+#topbar li span a {color: #fff;}
+
+/* =Header
+-----------------------------------------------------------------------------*/
+header {
+	padding-top: 15px;
+	margin-bottom: 0em;
+}
+
+
+
+header h1 {	font-size: 24px;
+	margin-top: 1px;
+	margin-bottom: 0;
+/*	color: #ffffff;*/ }
+
+
+#topbar form {float:right; display:inline-block; } 
+
+
+
+/* =Intro
+-----------------------------------------------------------------------------*/
+#intro .subheader {
+	color: rgba(0, 0, 0, .4);
+	padding-bottom: .3em;
+	border-bottom: 1px solid #ccc;
+}
+#intro li {
+/*	background-color: #e9e6da;*/
+}
+
+
+/* =Feedback
+-----------------------------------------------------------------------------*/
+#feedback {
+	background-color: rgba(0,0,0,.5);
+	padding: 2em 3em;
+}
+
+/* =Banner
+-----------------------------------------------------------------------------*/
+#banner {
+	line-height: 0;
+	padding: 1.5em;
+	background-color: #e9e6da;
+}
+
+/* =Blocks
+-----------------------------------------------------------------------------*/
+#blocks dl {
+	overflow: hidden;
+	margin: 0;
+	padding-bottom: 1.5em;
+}
+#blocks dt {
+	float: left;
+	width: 22%;
+	margin-right: 4%;
+}
+#blocks dt img {
+	padding: 4px;
+	background-color: #fff;
+	border: 1px solid #000;
+	box-shadow: 4px 4px 0 #000;
+}
+#blocks dd {
+	margin: 0;
+	float: left;
+	width: 74%;
+	padding-bottom: 1.5em;
+}
+
+
+/* =Partners
+-----------------------------------------------------------------------------*/
+#partners {
+	padding-top: 1.5em;
+}
+#partners h4 {
+	color: #666;
+}
+/* =Footer
+-----------------------------------------------------------------------------*/
+
+.dateblock {text-align:right; }
+
+
+/* =Footer
+-----------------------------------------------------------------------------*/
+#footer {
+	color: #626d9b;
+	margin-top: 3ex;
+	padding-bottom: 20px;
+	font-size: .9em;
+	padding-top: 1em;
+	background-color: #030922;
+	overflow: hidden;
+/*	box-shadow: 0 2px 4px #bbb inset;*/
+/*	background: #f0f0f0;*/
+}
+#footer a { color: #fff; }
+
+#footer nav {
+	float: right;
+}
+#footer nav ul {
+	list-style: none;
+	margin: 0;
+}
+#footer nav ul li {
+	float: left;
+	margin-left: 2em;
+}
+
+
+
+
+/* =Tablet (Portrait)
+-----------------------------------------------------------------------------*/
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+    .wrapper { width: 748px; }
+}
+
+
+
+/* =Mobile (Portrait)
+-----------------------------------------------------------------------------*/
+@media only screen and (max-width: 767px) {
+/*	.wrapper { width: 300px; }*/
+/*	#header h1 { float: none; text-align:center; font-size: 36px;}*/
+/*	#header nav { float:none; text-align:center;}*/
+	/* #header nav ul li { margin: 0; margin-right: 1em; } */
+	#topbar .navbar {padding-bottom:12px; font-size:120%; }
+	#topbar .navbar li {float:left; margin-left:1.1em;} 
+    #banner { text-align: center; margin-bottom: 1.5em; }
+	#footer section, #footer nav { float: none; text-align:center;}
+	#footer nav ul { margin-top: 1em; text-align:center;}
+	#footer nav ul li { margin: 0; margin-right: 1em;}
+	.dateblock {text-align:center;}
+	h1, h2, h3, h4, h5, form, input {text-align:center;}
+}
+
+
+/* =Mobile (Landscape)
+-----------------------------------------------------------------------------*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.wrapper { width: 420px; }
+}
+
+
+/* -------------- */
