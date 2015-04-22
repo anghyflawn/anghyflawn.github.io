@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Wed, 22 Apr 2015 20:49:58 BST</updated>
+    <updated>Wed, 22 Apr 2015 20:52:15 BST</updated>
 
 
 
@@ -129,23 +129,6 @@
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/presentation/2015/quantity-quality-interactions-in-welsh-vowels-phonologization-across-dialects/</guid>
 <description>&lt;p&gt;I present the results of a phonetic study of the relationship between vowel quality and vowel quantity. The results confirm that the descriptions are correct in setting up a categorical distinction between two varieties of long mid vowels (tense [eː oː] and lax [ɛː ɔː]) in South-West Welsh. This system plausibly arose as the enhancement of a pattern where there is no quality distinctions between short and long vowels, with continuous variation in height in both prosodic contexts. The rise of the south-western pattern is connected to the phonologization of a trading relation in duration between the stressed penultimate and the final syllable, which is still attested in the relevant varieties. This presents an interesting example of &amp;lsquo;rule scattering&amp;rsquo; (Bermúdez-Otero 2014).&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>About my name</title>
-<link>http://anghyflawn.github.io/my-name/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/my-name/</guid>
-<description>&lt;p&gt;My name is obviously problematic for English speakers (or indeed for Russian speakers), so I&amp;rsquo;m just putting this up for future reference.&lt;/p&gt;
-
-&lt;p&gt;In Russian, my surname is Иосад, pronounced in Modern Standard Russian as something like [i.aˈsat] &amp;mdash; that&amp;rsquo;s two onsetless syllables in a row, plus final devoicing. English speakers rightly ignore the final devoicing, but the two first syllables can still be a problem. The suggested version for English speakers is [ˈjɔːsəd], with the vowel of &lt;em&gt;thought&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;In a sense, this is nothing but reverting to the historical origins of the name. It is originally Jewish, possibly deriving from Hebrew יסד, and pronounced with an initial [j]. In pre-Revolutionary Russia, &amp;lsquo;my&amp;rsquo; version of the name would have been written Iосадъ, because of the rule that prohibited writing any version of И (including Й, the expected spelling for [j]) before a vowel (see e.g. &lt;a href=&#34;https://en.wikipedia.org/wiki/Dotted_I_(Cyrillic&#34;&gt;this Wikipedia page&lt;/a&gt;). After the spelling reform which abolished I/i in Cyrillic, the name was automatically respelled as Иосад rather than the more correct Йосад. (The same fate befell the words for &lt;em&gt;ion&lt;/em&gt; and &lt;em&gt;iodine&lt;/em&gt;, which are still spelt &lt;em&gt;ион&lt;/em&gt; and, occasionally, &lt;em&gt;иод&lt;/em&gt;, despite being pronounced with [j].) I suppose at some stage my family gave up on correcting people and adopted the spelling pronunciation. So, now you know.&lt;/p&gt;
-
-&lt;p&gt;&lt;small&gt;Thanks to &lt;a href=&#34;https://sites.google.com/site/erschler/&#34;&gt;David Erschler&lt;/a&gt; for help with the Hebrew.&lt;/small&gt;&lt;/p&gt;
 </description>
 </item>
 
@@ -659,138 +642,55 @@ will be automatic
 <link>http://anghyflawn.github.io/news/2015/icngl11-paper/</link>
 <pubDate>Tue, 20 Jan 2015 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/news/2015/icngl11-paper/</guid>
-<description>&lt;p&gt;My paper &lt;em&gt;‘Pitch accent’ and prosodic structure in Scottish Gaelic: Reassessing the role of contact&lt;/em&gt; has appeared in &lt;em&gt;New trends in Nordic and general linguistics&lt;/em&gt;, edited by Martin Hilpert, Janet Duke, Christine Mertzlufft, Jan-Ola Östman, and Michael Rießler (Mouton de Gruyter). Read more and download a copy &lt;a href=&#34;http://anghyflawn.github.io/writing/icngl-proceedings/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
+<description></description>
 </item>
 
 
 
+
+
+
+
+
+
 <item>
-<title>‘Pitch accent’ and prosodic structure in Scottish Gaelic</title>
-<link>http://anghyflawn.github.io/writing/icngl-proceedings/</link>
+<title>Structure versus prominence</title>
+<link>http://anghyflawn.github.io/presentation/2010/ocp7-poster/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/icngl-proceedings/</guid>
-<description>&lt;p&gt;This paper considers the origin of &amp;lsquo;pitch accents&amp;rsquo; in Scottish Gaelic
-with a view to evaluating the hypothesis that this feature was
-borrowed from North Germanic varieties spoken by Norse settlers in
-medieval Scotland. It is shown that the &amp;lsquo;pitch accent&amp;rsquo; system in
-Gaelic is tightly bound with metrical structure (more precisely
-syllable count), certainly diachronically, and probably (at least in
-some varieties) synchronically. Gaelic &amp;lsquo;pitch accent&amp;rsquo; is argued to be
-a plausible internal development, parallel to similar phenomena in
-other branches of Celtic (specifically in Breton), as well as in
-Germanic. This conclusion may appear to undermine the contact
-hypothesis, especially in the absence of reliable written sources;
-nevertheless, a certain role for Norse-Gaelic contact in the
-appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
+<guid>http://anghyflawn.github.io/presentation/2010/ocp7-poster/</guid>
+<description>&lt;p&gt;I propose an analysis of the stress system of Munster Irish, which evinces a disruption of normal directionality only in words with two initial heavy syllables. The analysis relies on recursion of subsyllable constituents and on a formal distinction between &amp;lsquo;stress&amp;rsquo; and &amp;lsquo;head status&amp;rsquo;. The full version of the analysis can be found in &lt;a href=&#34;http://anghyflawn.github.io/writing/munster-irish-stress/&#34;&gt;this paper&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
 
 
 <item>
-<title>Current Issues in Phonology</title>
-<link>http://anghyflawn.github.io/teaching/2015/current-issues-in-phonology/</link>
+<title>Russian palatalization</title>
+<link>http://anghyflawn.github.io/presentation/2010/russian-palatalization-the-true-r-story/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/current-issues-in-phonology/</guid>
-<description>&lt;p&gt;This advanced course introduces students to a variety of live research issues in phonological theory. I teach this course with my colleagues &lt;a href=&#34;http://www.lel.ed.ac.uk/people/heinz-giegerich&#34;&gt;Heinz Giegerich&lt;/a&gt;, &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt;, and &lt;a href=&#34;http://www.lel.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt;. In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I cover the following topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Contrast in phonology and underspecification. Modified Contrastive Specification and the use of contrastive hierarchies&lt;/li&gt;
-&lt;li&gt;Feature theory: markedness, feature geometry, contrast. Diagnostics of markedness and their cross-linguistic validity&lt;/li&gt;
-&lt;li&gt;Suprasegmental phonology: moraic theory; morae and sonority; onset moraicity&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Materials are available on &lt;a href=&#34;http://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;. There is also a &lt;a href=&#34;http://resourcelists.ed.ac.uk/lists/8344213B-35A4-FF8E-C89A-65043B5055F7.html&#34;&gt;Resource List&lt;/a&gt; available.&lt;/p&gt;
+<guid>http://anghyflawn.github.io/presentation/2010/russian-palatalization-the-true-r-story/</guid>
+<description>&lt;p&gt;In this talk we argue that the traditional view of vowel-driven palatalization in Russian is inadequate, at least for two reasons. First, it relies on a six-vowel interpretation of the Russian inventory that is not adequate from a phonetic perspective. Second, and more importantly, it undergenerates the range of alternations found in Modern Standard Russian. Instead, we argue that palatalization must be driven by a floating feature attached to the left edge of suffixes.&lt;/p&gt;
 </description>
 </item>
 
 
 
+
+
 <item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>http://anghyflawn.github.io/teaching/2015/lel2e/</link>
+<title>Right at the left edge</title>
+<link>http://anghyflawn.github.io/writing/rara/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The Indo-European language family&lt;/li&gt;
-&lt;li&gt;Celtic languages&lt;/li&gt;
-&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For course materials, see the relevant page on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;&lt;/p&gt;
+<guid>http://anghyflawn.github.io/writing/rara/</guid>
+<description>&lt;p&gt;In this paper I offer an overview of systems of initial consonant mutations found in the world&amp;rsquo;s languages and attempt to propose a preliminary typology. Many of these phenomena can probably be subsumed under a general theory of nonconcatenative morphology and phonology, but in some cases (notably some of the Celtic ones) the mutations&amp;rsquo; place in the grammar is less clear. For another, more detailed take on this architectural issue in the specific case of Breton, see also &lt;a href=&#34;http://anghyflawn.github.io/writing/breton-mutation/&#34;&gt;this later paper&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
 
 
 <item>
-<title>Historical Phonology</title>
-<link>http://anghyflawn.github.io/teaching/2015/historical-phonology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/historical-phonology/</guid>
-<description>&lt;p&gt;In this course (co-taught with my colleagues &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt; and &lt;a href=&#34;http://www.lel.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt;) we consider a variety of issues connected to phonological change. Throughout the course, we address questions such as the following:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;How do we reconstruct the phonology of past language states?&lt;/li&gt;
-&lt;li&gt;What types of phonological changes are attested?&lt;/li&gt;
-&lt;li&gt;How can synchronic phonological theory assist us in the study of historical phonology?&lt;/li&gt;
-&lt;li&gt;What can we learn about the human language faculty by studying historical phonology?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I cover the following topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Phonological typology and historical phonology (with a focus on consonants)&lt;/li&gt;
-&lt;li&gt;Lenition&lt;/li&gt;
-&lt;li&gt;Historical phonology and phonological representations&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Course materials are available on &lt;a href=&#34;http://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
-<link>http://anghyflawn.github.io/teaching/2015/lel2d/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/lel2d/</guid>
-<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the entire phonology block. We cover the following topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Phonological typology and theory. Universals in phonology; descriptive and analytic universals&lt;/li&gt;
-&lt;li&gt;Universals of inventory organization; feature theory&lt;/li&gt;
-&lt;li&gt;Syllable structure. Typology of syllable structures&lt;/li&gt;
-&lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
-&lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
-&lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
-&lt;li&gt;Tone and its typology; austosegmental phonology.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Course materials are available on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>RSE grant</title>
-<link>http://anghyflawn.github.io/news/2014/rse-grant/</link>
-<pubDate>Fri, 05 Dec 2014 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/news/2014/rse-grant/</guid>
-<description>&lt;p&gt;I received a Small Research Grant in the Arts and Humanities from the &lt;a href=&#34;http://www.royalsoced.org.uk&#34;&gt;Royal Society of Edinburgh&lt;/a&gt; for the project &lt;em&gt;The phonetics and phonology of short vowels in Irish and Scottish Gaelic&lt;/em&gt;, with &lt;a href=&#34;http://www.ucd.ie/research/people/irishcelstirishflling/drmairenichiosain/&#34;&gt;Máire Ní Chiosáin&lt;/a&gt; (University College Dublin).&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Teaching slides with pandoc and reveal.js</title>
-<link>http://anghyflawn.github.io/blog/2014/teaching-slides-with-pandoc-and-reveal-js/</link>
+<title>Feature geometry meets contrastive specification</title>
+<link>http://anghyflawn.github.io/presentation/2010/feature-geometry-meets-contrastive-specification-incomplete-neutralization-reloaded/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/blog/2014/teaching-slides-with-pandoc-and-reveal-js/</guid>
 <description>
@@ -1383,6 +1283,8 @@ interactions.&lt;/p&gt;
 
 
 
+
+
 <item>
 <title>Vowel reduction in Russian</title>
 <link>http://anghyflawn.github.io/writing/jl-russian-vowel-reduction/</link>
@@ -1400,17 +1302,6 @@ interactions.&lt;/p&gt;
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/presentation/2012/in-defence-of-richness-of-the-base-context-free-weight-in-welsh/</guid>
 <description>&lt;p&gt;I briefly present the analysis of mora assignment to consonants in South Welsh. The pattern can be analysed by appeal to the form of the inputs (i.e. with a massive number of accidental gaps, which is undesirable), or by positing a constraint schema with undesirable consequences for factorial typology. I suggest that the latter solution is preferable theoretically, although it may be premature to choose it for that reason alone.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Final devoicing and vowel lengthening in Friulian</title>
-<link>http://anghyflawn.github.io/writing/lingua-friulian/</link>
-<pubDate>Wed, 03 Apr 2013 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/lingua-friulian/</guid>
-<description>&lt;p&gt;Here, I propose an analysis of the interacting between final devoicing and vowel lengthening in Friulian (and other related varieties of northern Italy). Historically, stressed vowels lengthen before voiced obstruents, but this is opacified by final devoicing. I capitalize on phonetic studies showing final devoicing in the language to be incomplete and argue that the process is not in fact opaque: devoicing does not involve neutralization but instead the creation of a third, laryngealy unspecified class of obstruents. I also observe that the distribution of moraicity in Friulian presents a challenge to accepted theories of weight assignment, and propose an analysis that relies on language-specific featural representations.&lt;/p&gt;
 </description>
 </item>
 

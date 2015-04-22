@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Wed, 22 Apr 2015 20:49:58 BST</updated>
+    <updated>Wed, 22 Apr 2015 20:52:15 BST</updated>
 
 
 
@@ -708,6 +708,29 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 
 
 <item>
+<title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
+<link>http://anghyflawn.github.io/teaching/2015/lel2d/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2015/lel2d/</guid>
+<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the entire phonology block. We cover the following topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Phonological typology and theory. Universals in phonology; descriptive and analytic universals&lt;/li&gt;
+&lt;li&gt;Universals of inventory organization; feature theory&lt;/li&gt;
+&lt;li&gt;Syllable structure. Typology of syllable structures&lt;/li&gt;
+&lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
+&lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
+&lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
+&lt;li&gt;Tone and its typology; austosegmental phonology.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Course materials are available on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
 <title>LEL2E: Structure and History of European Languages</title>
 <link>http://anghyflawn.github.io/teaching/2015/lel2e/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -749,29 +772,6 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Course materials are available on &lt;a href=&#34;http://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
-<link>http://anghyflawn.github.io/teaching/2015/lel2d/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/lel2d/</guid>
-<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the entire phonology block. We cover the following topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Phonological typology and theory. Universals in phonology; descriptive and analytic universals&lt;/li&gt;
-&lt;li&gt;Universals of inventory organization; feature theory&lt;/li&gt;
-&lt;li&gt;Syllable structure. Typology of syllable structures&lt;/li&gt;
-&lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
-&lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
-&lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
-&lt;li&gt;Tone and its typology; austosegmental phonology.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Course materials are available on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
@@ -1022,168 +1022,266 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 <link>http://anghyflawn.github.io/blog/2014/getting-ess-and-auctex-to-play-nicely-with-knitr/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/blog/2014/getting-ess-and-auctex-to-play-nicely-with-knitr/</guid>
-<description>&lt;p&gt;Although my job title is &amp;lsquo;Lecturer in Theoretical Phonology&amp;rsquo; (&lt;a href=&#34;http://www.research.ed.ac.uk/portal/en/persons/pavel-iosad(976edf38-f950-4179-a032-a6cea4b31b3b.html&#34;&gt;no, really&lt;/a&gt;), I&amp;rsquo;ve been getting into more empirical work. I went on a data collection trip to South Wales in February to work with Welsh, and only early this week we had two great days collecting Gaelic data in North Argyll – not an area &lt;em&gt;readily&lt;/em&gt; associated with Gaelic these days, but in fact we found quite a few very good speakers.&lt;/p&gt;
-
-&lt;p&gt;Anyway, this post isn&amp;rsquo;t about that. Having collected the data and processed some of it, I have also been getting to grips with &lt;em&gt;actually&lt;/em&gt; doing statistical analysis (as opposed to working through textbooks), which these days inevitably means &lt;a href=&#34;http://www.r-project.org.&#34;&gt;R&lt;/a&gt;. I&amp;rsquo;m giving a couple of talks in Wales next week (&lt;a href=&#34;http://privatewww.essex.ac.uk/~wss/wss-21.htm&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;http://amrywiaeth.wordpress.com&#34;&gt;here&lt;/a&gt;) with some of the results, so the time had come for me to think about getting my data into my presentations (and eventually papers). Being a LaTeX user, after some poking about I settled on &lt;a href=&#34;http://yihui.name/knitr&#34;&gt;knitr&lt;/a&gt; as the way to get stuff out of R and into LaTeX.&lt;/p&gt;
-
-&lt;p&gt;Most of the R wizards I know use &lt;a href=&#34;http://www.rstudio.com&#34;&gt;RStudio&lt;/a&gt;, which is a very good IDE for R, but doesn&amp;rsquo;t come close to the power of Emacs with AUCTeX for LaTeX writing. So far I have found &lt;a href=&#34;http://ess.r-studio.org&#34;&gt;ESS&lt;/a&gt; to be perfectly adequare for my R needs. ESS also supports knitting &lt;code&gt;.Rnw&lt;/code&gt; files out of the box via &lt;code&gt;M-n r&lt;/code&gt;. Its default weaving engine, however, is Sweave. After some poking about, here&amp;rsquo;s how to get ESS and AUCTeX to play nicely with knitr.&lt;/p&gt;
-
-&lt;p&gt;There are two components. One is to make knitr the default engine when tangling outside AUCTeX. This is easily achieved via &lt;code&gt;(setq ess-swv-processor &#39;knitr)&lt;/code&gt; in your &lt;code&gt;init.el&lt;/code&gt;, but this only allows you to use knitr as the default when you tangle via &lt;code&gt;M-n T&lt;/code&gt;. What this doesn&amp;rsquo;t automate is running LaTeX on the product of the knitting: you have to switch to the &lt;code&gt;.tex&lt;/code&gt; file manually and run stuff from there, but this runs the risk of making edits to the &lt;code&gt;.tex&lt;/code&gt; file instead of the &lt;code&gt;.Rnw&lt;/code&gt;. ESS also has a &lt;code&gt;latex&lt;/code&gt; tangling option (&lt;code&gt;M-n l&lt;/code&gt;), but this just runs &lt;code&gt;latex&lt;/code&gt; from the shell, without any of the AUCTeX customizations.&lt;/p&gt;
-
-&lt;p&gt;ESS also has the option to plug into AUCTeX, making relevant commands available to the user via &lt;code&gt;C-c C-c&lt;/code&gt;. This is much handier, but unfortunately the functions which add these commands are hardcoded to use Sweave from the shell rather than &lt;code&gt;ess-swv-run-in-R&lt;/code&gt;, which is sensitive to the value of &lt;code&gt;ess-swv-processor&lt;/code&gt;. So here&amp;rsquo;s what you need in order to get knitr to run into AUCTeX.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-elisp&#34;&gt;;; somewhere after (require &#39;ess-site)
-(setq ess-swv-plug-into-AUCTeX-p t)
-
-(defun ess-swv-add-TeX-commands ()
-  &amp;quot;Add commands to AUCTeX&#39;s \\[TeX-command-list].&amp;quot;
-  (unless (and (featurep &#39;tex-site) (featurep &#39;tex))
-    (error &amp;quot;AUCTeX does not seem to be loaded&amp;quot;))
-  (add-to-list &#39;TeX-command-list
-               &#39;(&amp;quot;Knit&amp;quot; &amp;quot;Rscript -e \&amp;quot;library(knitr); knit(&#39;%t&#39;)\&amp;quot;&amp;quot;
-                 TeX-run-command nil (latex-mode) :help
-                 &amp;quot;Run Knitr&amp;quot;) t)
-  (add-to-list &#39;TeX-command-list
-               &#39;(&amp;quot;LaTeXKnit&amp;quot; &amp;quot;%l %(mode) %s&amp;quot;
-                 TeX-run-TeX nil (latex-mode) :help
-                 &amp;quot;Run LaTeX after Knit&amp;quot;) t)
-  (setq TeX-command-default &amp;quot;Knit&amp;quot;)
-  (mapc (lambda (suffix)
-          (add-to-list &#39;TeX-file-extensions suffix))
-        &#39;(&amp;quot;nw&amp;quot; &amp;quot;Snw&amp;quot; &amp;quot;Rnw&amp;quot;)))
-
-(defun ess-swv-remove-TeX-commands (x)
-  &amp;quot;Helper function: check if car of X is one of the Knitr strings&amp;quot;
-  (let ((swv-cmds &#39;(&amp;quot;Knit&amp;quot; &amp;quot;LaTeXKnit&amp;quot;)))
-    (unless (member (car x) swv-cmds) x)))
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;These are just little changes to the original functions defined in &lt;code&gt;ess-swv.el&lt;/code&gt;. Now you can, via &lt;code&gt;C-c C-c&lt;/code&gt;, access &lt;code&gt;Knit&lt;/code&gt; (which just produces the &lt;code&gt;.tex&lt;/code&gt; file) and &lt;code&gt;LaTeXKnit&lt;/code&gt;, which runs the LaTeX process as customized by AUCTeX (e.g. to use XeTeX or whatever other options you normally use) on the output, without you having to go the &lt;code&gt;.tex&lt;/code&gt; file. Which is nice.&lt;/p&gt;
+<description>&lt;p&gt;I propose a new analysis of so-called &amp;lsquo;vowel mutation&amp;rsquo; in Welsh, whereby final syllables (both stressed and unstressed) only allow a reduced inventory (by disallowing [ə]). I argue that these final syllables are specified with something like a suprasegmental feature that triggers a feature co-occurrence effect, and that there is no need for recourse to a mechanism of metrical prominence akin to that borne by stressed syllables (as previously suggested in the literature). (A fuller version of the analysis can be found in the thesis.) The argument also stresses the need for a distinction between metrical headship and prominence features such as stress (see also &lt;a href=&#34;http://anghyflawn.github.io/writing/munster-irish-stress/&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;
 </description>
 </item>
 
 
 
 <item>
-<title>The phonology and morphosyntax of Breton mutation</title>
-<link>http://anghyflawn.github.io/writing/breton-mutation/</link>
-<pubDate>Sun, 01 Jun 2014 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/breton-mutation/</guid>
-<description>&lt;p&gt;I analyse of initial consonant mutation in a Breton dialect, with a
-focus on establishing the division of labour between phonology and
-morphology in the triggering of mutation and its phonological
-expression. I argue that different types of mutation have different
-status in the grammar: some are purely phonological, others involve
-subsegmental morphemes with a clear morphosyntactic rationale, and for
-some the phonological aspects are clear but the morphosyntactic
-motivation remains obscure. In addition, the differences among the
-types of mutation support a stratal model of morphology-phonology
-interactions.&lt;/p&gt;
-</description>
-</item>
-
-
-
-
-
-<item>
-<title>Phonological Theory (in Russian)</title>
-<link>http://anghyflawn.github.io/teaching/2014/phonological-theory-hse/</link>
+<title>‘Pitch accent’ and prosodic structure in Scottish Gaelic</title>
+<link>http://anghyflawn.github.io/presentation/2012/pitch-accent-and-prosodic-structure-in-scottish-gaelic-historical-implications/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2014/phonological-theory-hse/</guid>
-<description>
-
-&lt;p&gt;Приглашенный мини-курс «Фонологическая теория», Москва, ГУ-ВШЭ.&lt;/p&gt;
-
-&lt;p&gt;В настоящем курсе рассматриваются важнейшие вопросы фонологической теории в ее генеративном варианте. Курс состоит из пяти лекций:&lt;/p&gt;
-
-&lt;h3 id=&#34;лекция-1-архитектура-фонологической-теории:c045439eba0f66e41cba4f58ececd1bb&#34;&gt;Лекция 1: Архитектура фонологической теории&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://anghyflawn.github.io/phon-theory-hse/hse-handout-01.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;материалы&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Тема первой лекции — устройство фонологической теории, место фонологии в теории грамматики и мотивация динамического (генеративного) подхода. В рамках современной теории фонологический модуль представляется как механизм, соотносящий фонологические объекты (множества сегментов, признаков, граничных символов и т.п.), предоставленные словарем, с другими фонологическими объектами, которые описываются в терминах того же алфавита, что и «входные данные», и интерпретируются фонетическим компонентом. В этой лекции рассматриваются мотивация такого подхода, которая связана в первую очередь с его успехом в описании (мор)фонологических чередований, и его преимущества перед одноуровневым описанием, характерным для традиционных фонематических теорий.&lt;/p&gt;
-
-&lt;h3 id=&#34;лекция-2-морфонологические-чередования-и-порядок-правил:c045439eba0f66e41cba4f58ececd1bb&#34;&gt;Лекция 2: Морфонологические чередования и порядок правил&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://anghyflawn.github.io/phon-theory-hse/hse-handout-02.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;материалы&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Во второй лекции мы рассмотрим некоторые типы чередований, которые могут быть изящно описаны в рамках многоуровневой теории. Особое внимание будет уделено «неавтоматическим» чередованиям, условия для которых плохо описываются без привлечения данных о промежуточных представлениях (т.е. о формах соответствующих слов, неидентичных их поверхностным представлениям). Будет рассмотрена типология порядка правил (питающий, блокирующий, контрпитающий и контрблокирующий порядки) и проблема непрозрачности.&lt;/p&gt;
-
-&lt;h3 id=&#34;лекция-3-проблема-абстрактности-вопрос-о-естественности-взаимодействие-фонологии-и-морфологии:c045439eba0f66e41cba4f58ececd1bb&#34;&gt;Лекция 3: Проблема абстрактности, вопрос о «естественности», взаимодействие фонологии и морфологии&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://anghyflawn.github.io/phon-theory-hse/hse-handout-03.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;материалы&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Многоуровневый подход в фонологии предполагает возможность существования достаточно абстрактных представлений на глубинных уровнях, которые сводятся к более «реалистичным» с помощью сложных систем фонологических правил. Тема третьей лекции — различные подходы к разрешению противоречия между (достаточно мощными) формальными возможностями теории и типологически наблюдаемым преобладанием систем, традиционно называемых «естественными» или «немаркированными». Мы рассмотрим несколько возможных ограничений на глубину дериваций, типы правил и порядок их применения (естественная фонология, условие обязательности чередования, строгая цикличность); особое внимание будет уделено лексической фонологии — наиболее разработанной морфонологической концепции.&lt;/p&gt;
-
-&lt;h3 id=&#34;лекция-4-теория-представлений:c045439eba0f66e41cba4f58ececd1bb&#34;&gt;Лекция 4: Теория представлений&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://anghyflawn.github.io/phon-theory-hse/hse-handout-04.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;материалы&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Тема четвертой лекции — различные подходы к уточнению признаковой теории, в первую очередь вопрос о привативности фонологических признаков, признаковой геометрии и неполной спецификации. Как известно, еще Трубецкой в «Основах фонологии» предлагал различать эквиполентные (и градуальные) оппозиции, предполагающие возможность двух (или более) значений признака, и привативные, для которых существенно лишь наличие либо отсутствие признака. Мы рассмотрим типологические данные, говорящие в пользу привативности по крайней мере некоторых признаков, и обсудим вопрос о том, может ли фонологическая теория вовсе обойтись без бинарных признаков. Существование привативных признаков также предполагает возможность отсутствия фонологической спецификации по некоторым параметрам: мы рассмотрим несколько теоретических подходов к такой неполной спецификации. Наконец, теория признаковой геометрии постулирует существование древовидной структуры составляющих «внутри» сегмента: в этой лекции мы обсудим некоторые преимущества такого подхода.&lt;/p&gt;
-
-&lt;h3 id=&#34;лекция-5-ограничения-в-фонологии-теория-оптимальности:c045439eba0f66e41cba4f58ececd1bb&#34;&gt;Лекция 5: Ограничения в фонологии, теория оптимальности&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://anghyflawn.github.io/phon-theory-hse/hse-handout-05.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;материалы&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Традиционную фонологическую теорию можно назвать «ориентированной на входные данные»: действие правил определяется состоянием системы до их запуска. Одно из следствий такого подхода: невозможность адекватного описания так называемых «заговоров», когда некая поверхностная структура избегается за счет применения формально не связанных друг с другом правил. В этой лекции мы обсудим вопрос о необходимости дополнить правила ограничениями, регулирующими применение правил, и недостатки такого гибридного подхода. В рамках лекции также будет дано введение в теорию оптимальности — подход, полностью отказывающийся от правил и оперирующий одними лишь ограничениями.&lt;/p&gt;
+<guid>http://anghyflawn.github.io/presentation/2012/pitch-accent-and-prosodic-structure-in-scottish-gaelic-historical-implications/</guid>
+<description>&lt;p&gt;I consider the nature of the so-called &amp;lsquo;pitch accents&amp;rsquo; in Scottish Gaelic and argue that the contrast is one of metrical structure rather than lexical tone, at least diachronically, and probably also synchronically. This means that they can be reconstructed with an internal origin, and no recourse to contact with North Germanic is &lt;em&gt;necessary&lt;/em&gt; to account for their appearance. The &lt;a href=&#34;http://anghyflawn.github.io/writing/icngl-proceedings/&#34;&gt;paper&lt;/a&gt; has the analysis in detail, and the historical argument is expounded in some detail in later talks &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/an-echoing-tone-pitch-accent-parallels-in-scandinavia-and-scotland/&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/pitch-accent-and-preaspiration-in-gaelic-reconsidering-contact-origins/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
 
 
 <item>
-<title>Phonologization of redundant contrasts and the Contrastivist Hypothesis</title>
-<link>http://anghyflawn.github.io/presentation/2014/phonologization-of-redundant-contrasts-and-the-contrastivist-hypothesis/</link>
+<title>Laryngeal realism revisited</title>
+<link>http://anghyflawn.github.io/presentation/2012/20mfm/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/2014/phonologization-of-redundant-contrasts-and-the-contrastivist-hypothesis/</guid>
-<description>&lt;p&gt;I consider two cases of predictable distributions of phonological categories: &amp;lsquo;tense&amp;rsquo; and &amp;lsquo;lax&amp;rsquo; long vowels in South-West Welsh and the two varieties of the FACE vowel in Ulster English. Their predictable (&amp;lsquo;non-phonemic&amp;rsquo;) distribution is a challenge to the Contrastivist Hypothesis, but I argue that it can be accommodated if we assume that learning, including category formation, proceeds bottom-up, and that learners do not unlearn predictably distributed categories unless compelled to do so by alternations. This forces even predictably distributed symbols into underlying representations, and the Contrastivist Hypothesis is not falsified. The bottom-up learning also predicts the possibility of &amp;lsquo;leaks&amp;rsquo; (i.e. imperfect transmission of the conditions of the distribution), and the prediction appears correct in both cases considered here.&lt;/p&gt;
+<guid>http://anghyflawn.github.io/presentation/2012/20mfm/</guid>
+<description>&lt;p&gt;This talk presents the near-final version of my analysis of Breton laryngeal phonology (largely superseding my &lt;a href=&#34;http://anghyflawn.github.io/presentation/2009/sandhi-mutation-and-contrast-laryngeal-phonology-in-plougrescant-breton/&#34;&gt;Toronto presentation&lt;/a&gt; and to a certain extent my &lt;a href=&#34;http://anghyflawn.github.io/presentation/2010/incomplete-neutralization-and-unorthodox-markedness-in-breton-laryngeal-phonology/&#34;&gt;talk from the 6th CLC&lt;/a&gt;). The detailed version of the analysis is in the thesis. I argue that in Breton voiceless obstruents are the marked members of the laryngeal opposition. If this is true, &amp;lsquo;laryngeal realism&amp;rsquo; is incorrect in assuming that languages which mark fortis obstruents with a feature will always realize that feature as aspiration. I argue that the tight connection between phonological contrast and phonetic representation proposed by laryngeal realism isn&amp;rsquo;t correct in any case, so this mismatch is not a major problem for the analysis.&lt;/p&gt;
 </description>
 </item>
 
 
 
 <item>
-<title>Emacs: give a DOI, get a BibTeX entry</title>
-<link>http://anghyflawn.github.io/blog/2014/emacs-give-a-doi-get-a-bibtex-entry/</link>
+<title>Deconstructing mutation in Breton</title>
+<link>http://anghyflawn.github.io/presentation/2012/deconstructing-mutation-in-breton/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/blog/2014/emacs-give-a-doi-get-a-bibtex-entry/</guid>
-<description>&lt;p&gt;One of my enduring frustrations with the various academic publishing platforms (CJO, ScienceDirect, JSTOR and their ilk) is the wildly inconsistent way in which they export BibTeX entries for articles. Sometimes they put them right on the browser page for easy copy-and-paste; sometimes it comes up after a few clicks in a new window; sometimes you end up downloading a file with an impossibly long or counterintuitive name, or called something like &lt;code&gt;science.bib&lt;/code&gt; (which Chrome tends to turn into &lt;code&gt;science (14).bib&lt;/code&gt; as they accumulate). Since I really only need the BibTeX entry once to get into my master &lt;code&gt;.bib&lt;/code&gt; file, that is a waste of time and resources. So if you&amp;rsquo;re using Emacs, here&amp;rsquo;s a simple function which might be helpful&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-elisp&#34;&gt;(defun get-bibtex-from-doi (doi)
- &amp;quot;Get a BibTeX entry from the DOI&amp;quot;
- (interactive &amp;quot;MDOI: &amp;quot;)
- (let ((url-mime-accept-string &amp;quot;text/bibliography;style=bibtex&amp;quot;))
-   (with-current-buffer 
-     (url-retrieve-synchronously 
-       (format &amp;quot;http://dx.doi.org/%s&amp;quot; 
-       	(replace-regexp-in-string &amp;quot;http://dx.doi.org/&amp;quot; &amp;quot;&amp;quot; doi)))
-     (switch-to-buffer (current-buffer))
-     (goto-char (point-max))
-     (setq bibtex-entry 
-     	  (buffer-substring 
-          	(string-match &amp;quot;@&amp;quot; (buffer-string))
-              (point)))
-     (kill-buffer (current-buffer))))
- (insert (decode-coding-string bibtex-entry &#39;utf-8))
- (bibtex-fill-entry))
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;This will ask you for the DOI (you can keep the &lt;code&gt;http://dx.doi.org/&lt;/code&gt; bit that you get if you do &amp;lsquo;Copy Link Address&amp;rsquo; from the browser), pull the BibTeX entry via the DOI API, and insert it at point. (I&amp;rsquo;m assuming the buffer is in &lt;code&gt;bibtex-mode&lt;/code&gt; already, since it doesn&amp;rsquo;t really make sense for it not to be.) Put this in your &lt;code&gt;init.el&lt;/code&gt; and you can now do &lt;code&gt;M-x get-bibtex-from-doi&lt;/code&gt;, or bind it to a keychord of your choice. The entry might still need fiddling with (e.g. to fix the citekey in line with your scheme, or to remove the Unicode characters if need be), but hopefully this might be useful.&lt;/p&gt;
+<guid>http://anghyflawn.github.io/presentation/2012/deconstructing-mutation-in-breton/</guid>
+<description>&lt;p&gt;I offer the analysis of Breton initial mutations found in my thesis. I argue that there is no such thing as a unified &amp;lsquo;mutation&amp;rsquo; mechanism: instead, this labels covers a variety of processes with different places in the overall grammar. The article-length version of the argument is &lt;a href=&#34;http://anghyflawn.github.io/writing/breton-mutation/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
 
 
 <item>
-<title>The [ATR]/laryngeal connection and emergent features</title>
-<link>http://anghyflawn.github.io/presentation/2014/the-atr-laryngeal-connection-and-emergent-features/</link>
+<title>A unified account of the behaviour of high vowels in Bothoa Breton</title>
+<link>http://anghyflawn.github.io/presentation/2012/a-unified-account-of-the-behaviour-of-high-vowels-in-bothoa-breton/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/2014/the-atr-laryngeal-connection-and-emergent-features/</guid>
-<description>&lt;p&gt;I offer a preliminary analysis of the phenomenon of &lt;em&gt;calediad&lt;/em&gt; (&amp;lsquo;provection&amp;rsquo;) in South-Eastern Welsh, whereby &amp;lsquo;voiced&amp;rsquo; (lenis) stops become &amp;lsquo;voiceless&amp;rsquo; after a stressed vowel. I argue that since vowels before lenis stops are generally long &amp;mdash; and, given the phonology of South Welsh &amp;mdash; tense, provection is an example of vowel-consonant interaction, where the same feature is used for the tense/lax contrast in vowels and laryngeal contrast in consonants. I interpret this as supporting emergent feature theory.&lt;/p&gt;
+<guid>http://anghyflawn.github.io/presentation/2012/a-unified-account-of-the-behaviour-of-high-vowels-in-bothoa-breton/</guid>
+<description>&lt;p&gt;I offer an analysis of gliding in Bothoa Breton, as presented in the thesis. I argue that high vowels (especially [i]) either become glides or coalesce with a preceding consonant, in order to avoid hiatus. However, this pattern is disrupted if the high vowel becomes a nucleus at an earlier stage in the cyclic derivation. This provides an argument for stratal models of phonology-morphology interactions, and a strong argument &lt;em&gt;against&lt;/em&gt; Output-Output Correspondence, because some of the exceptional non-gliding cases cannot be explained by reference to a free-standing form with transparent non-gliding.&lt;/p&gt;
 </description>
 </item>
 
 
+
+<item>
+<title>Final devoicing and vowel lengthening in Friulian</title>
+<link>http://anghyflawn.github.io/writing/lingua-friulian/</link>
+<pubDate>Wed, 03 Apr 2013 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/lingua-friulian/</guid>
+<description>&lt;p&gt;Here, I propose an analysis of the interacting between final devoicing and vowel lengthening in Friulian (and other related varieties of northern Italy). Historically, stressed vowels lengthen before voiced obstruents, but this is opacified by final devoicing. I capitalize on phonetic studies showing final devoicing in the language to be incomplete and argue that the process is not in fact opaque: devoicing does not involve neutralization but instead the creation of a third, laryngealy unspecified class of obstruents. I also observe that the distribution of moraicity in Friulian presents a challenge to accepted theories of weight assignment, and propose an analysis that relies on language-specific featural representations.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>In defence of Richness of the Base</title>
+<link>http://anghyflawn.github.io/presentation/2012/in-defence-of-richness-of-the-base-context-free-weight-in-welsh/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2012/in-defence-of-richness-of-the-base-context-free-weight-in-welsh/</guid>
+<description>&lt;p&gt;I briefly present the analysis of mora assignment to consonants in South Welsh. The pattern can be analysed by appeal to the form of the inputs (i.e. with a massive number of accidental gaps, which is undesirable), or by positing a constraint schema with undesirable consequences for factorial typology. I suggest that the latter solution is preferable theoretically, although it may be premature to choose it for that reason alone.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Vowel reduction in Russian</title>
+<link>http://anghyflawn.github.io/writing/jl-russian-vowel-reduction/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/jl-russian-vowel-reduction/</guid>
+<description>&lt;p&gt;In this paper I propose a substance-free analysis of vowel reduction in Standard Russian. I argue that the traditional distinction between &amp;lsquo;moderate&amp;rsquo; reduction (in pretonic syllables, producing less central vowels) and &amp;lsquo;radical&amp;rsquo; reduction (producing central vowels) is not phonologically relevant. The phonological grammar is only responsible for the neutralization patterns and not for the exact phonetic properties of their outcome. In addition, I show that the necessary input-output mappings cannot be effected in a conventional featural system without some weakly supported assumptions: I argue that this demonstrates the viability of a substance-free, emergent-features approach to phonology.&lt;/p&gt;
+</description>
+</item>
+
+
+
+
+
+<item>
+<title>Quantity-quality interactions in Welsh vowels</title>
+<link>http://anghyflawn.github.io/presentation/2015/quantity-quality-interactions-in-welsh-vowels-phonologization-across-dialects/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2015/quantity-quality-interactions-in-welsh-vowels-phonologization-across-dialects/</guid>
+<description>&lt;p&gt;I present the results of a phonetic study of the relationship between vowel quality and vowel quantity. The results confirm that the descriptions are correct in setting up a categorical distinction between two varieties of long mid vowels (tense [eː oː] and lax [ɛː ɔː]) in South-West Welsh. This system plausibly arose as the enhancement of a pattern where there is no quality distinctions between short and long vowels, with continuous variation in height in both prosodic contexts. The rise of the south-western pattern is connected to the phonologization of a trading relation in duration between the stressed penultimate and the final syllable, which is still attested in the relevant varieties. This presents an interesting example of &amp;lsquo;rule scattering&amp;rsquo; (Bermúdez-Otero 2014).&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Welsh vowels presentation at the mfm</title>
+<link>http://anghyflawn.github.io/news/2015/welsh-vowels/</link>
+<pubDate>Sat, 30 May 2015 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2015/welsh-vowels/</guid>
+<description>&lt;p&gt;I will present &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/quantity-quality-interactions-in-welsh-vowels-phonologization-across-dialects/&#34;&gt;&lt;em&gt;Quantity-quality interactions in Welsh: Phonologization across dialects&lt;/em&gt;&lt;/a&gt; at the &lt;a href=&#34;http://www.lel.ed.ac.uk/mfm/23mfm.html&#34;&gt;23rd Manchester Phonology Meeting&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Why teach the kids Gaelic if you can teach them Mandarin?</title>
+<link>http://anghyflawn.github.io/blog/2015/why-teach-the-kids-gaelic-if-you-can-teach-them-mandarin/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/blog/2015/why-teach-the-kids-gaelic-if-you-can-teach-them-mandarin/</guid>
+<description>&lt;p&gt;This question, asked by the STV journalist Stephen Daisley, caused a bit of a stooshie on Twitter a couple of days back:&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;en&#34;&gt;&lt;p&gt;Is there a strong, non-heritage case for spending taxpayers&amp;#39; money promoting Gaelic instead of thriving, globally-spoken languages?&lt;/p&gt;&amp;mdash; Stephen Daisley (@JournoStephen) &lt;a href=&#34;https://twitter.com/JournoStephen/status/580333375355011072&#34;&gt;March 24, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;This is an important debate, and no points for guessing where I stand on this. I&amp;rsquo;m not going to rehearse why I think minority languages are important – check some of the replies for good ideas.&lt;/p&gt;
+
+&lt;p&gt;Instead, I&amp;rsquo;d like to use more than 140 characters to address an aspect of this question that tends to go unmentioned by those who assume teaching Gaelic (or Welsh, or Mordvin, or Sámi…) is a waste of resources given that we should be teaching the kids &amp;lsquo;useful&amp;rsquo; languages like Chinese or Spanish or Brasilian Portuguese, giving them an advantage in this globalized, competitive world.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s the deal: &lt;em&gt;we can&amp;rsquo;t&lt;/em&gt;. And you know what? I say this as someone who actually did Chinese at school. I was very lucky. I went to a very good (state) school (in Russia) that, for historical reasons, offered Japanese and Chinese as second foreign languages to go with English. It was three years of good, intensive teaching. There&amp;rsquo;s an A for Chinese in my school leaving certificate. I could write a moderately long text, use a dictionary to read more complex texts, and say many things.&lt;/p&gt;
+
+&lt;p&gt;And I&amp;rsquo;m grateful for that. Without this experience, I would probably have missed out on reading some wonderful literature, learning about many interesting things, and probably not have the mind-bending realization that I am very curious about how different languages can be that led me to my career. It&amp;rsquo;s a great thing I did it. But you know what? I have forgotten basically all of the actual Chinese. I have not acquired any direct advantage in the job market by virtue of having taken Chinese at school. I don&amp;rsquo;t put it on my CV, because I don&amp;rsquo;t speak any Chinese any more.&lt;/p&gt;
+
+&lt;p&gt;Why is that? The answer is obvious: you can&amp;rsquo;t learn, or keep up, a foreign language – &lt;em&gt;especially&lt;/em&gt; a language like Chinese that presents obvious issues to the learner like the writing system – without repeated exposure. If I had gone on to do a degree in Chinese, it would have been a different matter – more practice, the year abroad, whatever – but I didn&amp;rsquo;t. And guess what – most people who do degrees in Chinese do not come there having done it at school.&lt;/p&gt;
+
+&lt;p&gt;Exposure is the key to language learning. People tend to assume that differences in language ability have their roots in the school experience – but the real reasons are elsewhere. My six-year-old daughter picked up Norwegian at the nursery, and then repeated the trick with English, changing from a Northern Irish to a Scottish accent in the process. With &lt;em&gt;no&lt;/em&gt; formal instruction except a genial person from the council who comes in for an hour most weeks and checks that there&amp;rsquo;s no issue with the EAL pupils not keeping up (there isn&amp;rsquo;t).&lt;/p&gt;
+
+&lt;p&gt;Or consider the case of our European neighbours. Anyone who has been around Europe will tell you that in the Nordic countries or the Netherlands pretty much anyone you run into speaks passable to very good English, whereas in places like France or Germany the chances of having to resort to gestures and grunts are significantly higher. Is this because of the amazingly better teaching at school? Possible – though hard to believe: Norwegians, for instance, are as fond as the next person of complaining about the teaching methods. A more striking difference presents itself on the telly: there is a lot of imported English-language programming everywhere, but where the Nordic countries subtitle it Germany or France tend to resort to dubbing. And with the best will in the world, a smaller country like Denmark will struggle to produce quite enough Danish-language culture to compete effectively with all the English-language delights out there – whereas for German the volume will be much higher. And the more exposure you get, the better the language. (Someone I know in Norway told me how their child struggled with English at school until the child got into Minecraft and started watching all the YouTube videos in English. That&amp;rsquo;s the sort of thing I&amp;rsquo;m talking about.)&lt;/p&gt;
+
+&lt;p&gt;What does this all have to go with Gaelic? At least two things. First, because immersion is better than L2 instruction, then if you care about the children &lt;em&gt;actually learning&lt;/em&gt; the language you should be thinking about Gaelic-medium (resp. Chinese-medium) education. Can we get parents and children sufficiently energized to demand setting up Chinese-medium schools? I doubt it. People send their children to Gaelic-medium education for all sorts of reasons, but part of the reason why it&amp;rsquo;s a plausible proposition is that it&amp;rsquo;s actually possible (if maybe difficult) to get sufficient exposure to the language, both in the school and to a certain extent outside it (for all the flaws, you do have Gaelic books, songs, BBC Alba and all that). Only a very tiny proportion of schoolchildren and their parents will be motivated enough to seek out an equal amount of exposure to Chinese – or, I would guess, even Spanish.&lt;/p&gt;
+
+&lt;p&gt;Second. I hear you say – &amp;lsquo;all right, immersion education is not a goer, but why teach Gaelic as a second language in schools if we could do Chinese instead?&amp;rsquo; Aside from the obvious proposition that we can do both (given the staffing situation, I&amp;rsquo;m going to take a wild guess and say that it&amp;rsquo;ll be a long time before most schools are able to have permanent staff teaching either Gaelic &lt;em&gt;or&lt;/em&gt; Chinese), I&amp;rsquo;d like to return to the point that L2 instruction at school only very rarely produces speakers who are competent enough to use the language in their jobs. The function of language education in school is less about producing good speakers and more about exposing children to foreign cultures and normalizing the idea of multilingualism. The more childern do languages at school the more of them will consider doing a language degree – and many of them &lt;em&gt;will&lt;/em&gt; go on from a Higher in Spanish or Latin to a degree in Japanese – or at least a language course alongside whatever it is they end up doing. In this respect, Chinese does not have a particular advantage over Gaelic (but it might be argued that both have at least some advantage over your average European language like Spanish in that they&amp;rsquo;re more different from English).&lt;/p&gt;
+
+&lt;p&gt;So yes – by all means teach Chinese to the kids. It&amp;rsquo;s a great experience and one that will come them in good stead. Just don&amp;rsquo;t kid yourself: it is very, very difficult to make Chinese at school go much further than any other language – including Gaelic – when it comes to purely practical utility. There are excellent arguments for teaching Chinese – but they apply equally to Gaelic, Mordvin, and Sámi. (Or indeed Scots – but that&amp;rsquo;s another story.)&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>ICCS</title>
+<link>http://anghyflawn.github.io/news/2015/iccs/</link>
+<pubDate>Mon, 20 Jul 2015 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2015/iccs/</guid>
+<description>&lt;p&gt;I will present &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/pitch-accent-and-preaspiration-in-gaelic-reconsidering-contact-origins/&#34;&gt;&lt;em&gt;Pitch accent and preaspiration in Gaelic: Reconsidering contact origins&lt;/em&gt;&lt;/a&gt; at the &lt;a href=&#34;http://www.celticstudiescongress.org&#34;&gt;15th International Congress of Celtic Studies&lt;/a&gt; at the University of Glasgow, Scotland.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Pitch accent and preaspiration in Gaelic</title>
+<link>http://anghyflawn.github.io/presentation/2015/pitch-accent-and-preaspiration-in-gaelic-reconsidering-contact-origins/</link>
+<pubDate>Sun, 01 Mar 2015 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2015/pitch-accent-and-preaspiration-in-gaelic-reconsidering-contact-origins/</guid>
+<description>&lt;p&gt;I will argue in this talk that the origin of both pitch accents and preaspiration in Gaelic is best understood in the context of a &amp;lsquo;Northern Gaelic&amp;rsquo; area covering Ulster and Scotland, as opposed to Connacht and Munster. Within this area, both preaspiration and pitch accents show the classic pattern of peripheral archaisms, with Lewis and West Ulster as remnant areas and Argyll (in particular North Argyll) as the most innovative zone. This strongly suggests that the stronger Norse presence in the Hebrides does not correlate with a denser distribution of potential contact features, and thus the developments in both cases need not have been triggered by contact &amp;mdash; even though a reinforcing role for contact is very difficult (and probably undesirable) to exclude.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Phonological Theory</title>
+<link>http://anghyflawn.github.io/teaching/2015/phonological-theory/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2015/phonological-theory/</guid>
+<description>&lt;p&gt;This course introduces students to a range of important topics in (generative) phonological theory and to phonological data analysis. On the theoretical side, we will cover the following topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Basics of phonological theory&lt;/li&gt;
+&lt;li&gt;Feature theory&lt;/li&gt;
+&lt;li&gt;Derivations, underlying representations, rules&lt;/li&gt;
+&lt;li&gt;Process interaction and rule ordering&lt;/li&gt;
+&lt;li&gt;Phonological typology&lt;/li&gt;
+&lt;li&gt;Suprasegmental phonology: syllable structure, stress, tone&lt;/li&gt;
+&lt;li&gt;Advanced feature theory: feature geometry, unary features&lt;/li&gt;
+&lt;li&gt;Constraints in phonology: well-formedness conditions, templates, conspiracies, the &amp;lsquo;duplication problem&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;Explanation in phonology&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Throughout the course, there is a strong emphasis on building data analysis and problem solving skills. Click &lt;a href=&#34;http://anghyflawn.github.io/teaching/2014/phonological-theory/&#34;&gt;here&lt;/a&gt; for last year&amp;rsquo;s course handbook.&lt;/p&gt;
+
+&lt;p&gt;Following this course, students will be able to progress to advanced study of phonological theory. In &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;, we will &lt;em&gt;not&lt;/em&gt; be offering LASC10089 Current Issues in Phonology, but it is planned that this will run in the second semester of &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;. Get in touch early with prospective supervisors if you&amp;rsquo;re thinking about an Honours dissertation in phonology in &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;, because it is likely you&amp;rsquo;ll need to do some summer reading. Conversely, LASC10046 Historical Phonology &lt;em&gt;is&lt;/em&gt; running this year, but not next year. Plan accordingly.&lt;/p&gt;
+</description>
+</item>
+
+
+
+
+
+<item>
+<title>Minority languages, microvariation, minimalism and meaning</title>
+<link>http://anghyflawn.github.io/writing/infl-book/</link>
+<pubDate>Fri, 01 Nov 2013 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/infl-book/</guid>
+<description>&lt;p&gt;This books is a collection of papers presented at the inaugural conference of the Irish Network in Formal Linguistics. To see the table of contents and the editors&amp;rsquo; introduction, go &lt;a href=&#34;http://www.cambridgescholars.com/download/sample/59622&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>LEL2E: Structure and History of European Languages</title>
+<link>http://anghyflawn.github.io/teaching/2014/lel2e/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2014/lel2e/</guid>
+<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for the following sections:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Celtic languages&lt;/li&gt;
+&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
+<link>http://anghyflawn.github.io/teaching/2014/lel2d/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2014/lel2d/</guid>
+<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for most of the phonology block. We covered the following topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Phonological typology and theory. Universals in phonology; descriptive and analytic universals&lt;/li&gt;
+&lt;li&gt;Universals of inventory organization; feature theory&lt;/li&gt;
+&lt;li&gt;Syllable structure. Typology of syllable structures&lt;/li&gt;
+&lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
+&lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
+&lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>First post</title>
+<link>http://anghyflawn.github.io/blog/2014/first-post/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/blog/2014/first-post/</guid>
+<description>&lt;p&gt;I don&amp;rsquo;t know what, if anything, will be happening here, but I do sometimes get the urge to rant about things that tweets are too short for. So I&amp;rsquo;ve just this up for now, and hopefully its existence will motivate me to write a bit more.&lt;/p&gt;
+
+&lt;p&gt;Wait and see, in other words.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Connecting the dots</title>
+<link>http://anghyflawn.github.io/presentation/2014/hxphon2014/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2014/hxphon2014/</guid>
+<description>&lt;p&gt;This poster considers the status of the &amp;lsquo;tense&amp;rsquo;/&amp;lsquo;lax&amp;rsquo; contrasts across Welsh dialects and argues that it was originally an enhancement of quantity, but becomes phonologized in different ways across different dialect. For the latest in this project, see the &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/quantity-quality-interactions-in-welsh-vowels-phonologization-across-dialects/&#34;&gt;23mfm paper&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
 
 
 
@@ -1240,177 +1338,46 @@ interactions.&lt;/p&gt;
 
 
 
+
+
 <item>
-<title>Connecting the dots</title>
-<link>http://anghyflawn.github.io/presentation/2014/hxphon2014/</link>
+<title>The [ATR]/laryngeal connection and emergent features</title>
+<link>http://anghyflawn.github.io/presentation/2014/the-atr-laryngeal-connection-and-emergent-features/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/2014/hxphon2014/</guid>
-<description>&lt;p&gt;This poster considers the status of the &amp;lsquo;tense&amp;rsquo;/&amp;lsquo;lax&amp;rsquo; contrasts across Welsh dialects and argues that it was originally an enhancement of quantity, but becomes phonologized in different ways across different dialect. For the latest in this project, see the &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/quantity-quality-interactions-in-welsh-vowels-phonologization-across-dialects/&#34;&gt;23mfm paper&lt;/a&gt;.&lt;/p&gt;
+<guid>http://anghyflawn.github.io/presentation/2014/the-atr-laryngeal-connection-and-emergent-features/</guid>
+<description>&lt;p&gt;I offer a preliminary analysis of the phenomenon of &lt;em&gt;calediad&lt;/em&gt; (&amp;lsquo;provection&amp;rsquo;) in South-Eastern Welsh, whereby &amp;lsquo;voiced&amp;rsquo; (lenis) stops become &amp;lsquo;voiceless&amp;rsquo; after a stressed vowel. I argue that since vowels before lenis stops are generally long &amp;mdash; and, given the phonology of South Welsh &amp;mdash; tense, provection is an example of vowel-consonant interaction, where the same feature is used for the tense/lax contrast in vowels and laryngeal contrast in consonants. I interpret this as supporting emergent feature theory.&lt;/p&gt;
 </description>
 </item>
 
 
 
 <item>
-<title>First post</title>
-<link>http://anghyflawn.github.io/blog/2014/first-post/</link>
+<title>Emacs: give a DOI, get a BibTeX entry</title>
+<link>http://anghyflawn.github.io/blog/2014/emacs-give-a-doi-get-a-bibtex-entry/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/blog/2014/first-post/</guid>
-<description>&lt;p&gt;I don&amp;rsquo;t know what, if anything, will be happening here, but I do sometimes get the urge to rant about things that tweets are too short for. So I&amp;rsquo;ve just this up for now, and hopefully its existence will motivate me to write a bit more.&lt;/p&gt;
+<guid>http://anghyflawn.github.io/blog/2014/emacs-give-a-doi-get-a-bibtex-entry/</guid>
+<description>&lt;p&gt;One of my enduring frustrations with the various academic publishing platforms (CJO, ScienceDirect, JSTOR and their ilk) is the wildly inconsistent way in which they export BibTeX entries for articles. Sometimes they put them right on the browser page for easy copy-and-paste; sometimes it comes up after a few clicks in a new window; sometimes you end up downloading a file with an impossibly long or counterintuitive name, or called something like &lt;code&gt;science.bib&lt;/code&gt; (which Chrome tends to turn into &lt;code&gt;science (14).bib&lt;/code&gt; as they accumulate). Since I really only need the BibTeX entry once to get into my master &lt;code&gt;.bib&lt;/code&gt; file, that is a waste of time and resources. So if you&amp;rsquo;re using Emacs, here&amp;rsquo;s a simple function which might be helpful&lt;/p&gt;
 
-&lt;p&gt;Wait and see, in other words.&lt;/p&gt;
-</description>
-</item>
+&lt;pre&gt;&lt;code class=&#34;language-elisp&#34;&gt;(defun get-bibtex-from-doi (doi)
+ &amp;quot;Get a BibTeX entry from the DOI&amp;quot;
+ (interactive &amp;quot;MDOI: &amp;quot;)
+ (let ((url-mime-accept-string &amp;quot;text/bibliography;style=bibtex&amp;quot;))
+   (with-current-buffer 
+     (url-retrieve-synchronously 
+       (format &amp;quot;http://dx.doi.org/%s&amp;quot; 
+       	(replace-regexp-in-string &amp;quot;http://dx.doi.org/&amp;quot; &amp;quot;&amp;quot; doi)))
+     (switch-to-buffer (current-buffer))
+     (goto-char (point-max))
+     (setq bibtex-entry 
+     	  (buffer-substring 
+          	(string-match &amp;quot;@&amp;quot; (buffer-string))
+              (point)))
+     (kill-buffer (current-buffer))))
+ (insert (decode-coding-string bibtex-entry &#39;utf-8))
+ (bibtex-fill-entry))
+&lt;/code&gt;&lt;/pre&gt;
 
-
-
-<item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>http://anghyflawn.github.io/teaching/2014/lel2e/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2014/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for the following sections:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Celtic languages&lt;/li&gt;
-&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
-<link>http://anghyflawn.github.io/teaching/2014/lel2d/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2014/lel2d/</guid>
-<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for most of the phonology block. We covered the following topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Phonological typology and theory. Universals in phonology; descriptive and analytic universals&lt;/li&gt;
-&lt;li&gt;Universals of inventory organization; feature theory&lt;/li&gt;
-&lt;li&gt;Syllable structure. Typology of syllable structures&lt;/li&gt;
-&lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
-&lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
-&lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Minority languages, microvariation, minimalism and meaning</title>
-<link>http://anghyflawn.github.io/writing/infl-book/</link>
-<pubDate>Fri, 01 Nov 2013 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/infl-book/</guid>
-<description>&lt;p&gt;This books is a collection of papers presented at the inaugural conference of the Irish Network in Formal Linguistics. To see the table of contents and the editors&amp;rsquo; introduction, go &lt;a href=&#34;http://www.cambridgescholars.com/download/sample/59622&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-
-
-<item>
-<title>Honours Foundation: Phonology and Phonetics</title>
-<link>http://anghyflawn.github.io/teaching/2013/hfpp/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2013/hfpp/</guid>
-<description>&lt;p&gt;This course was an introduction to phonological theory and to laboratory phonology &amp;mdash; the use of phonetic evidence to answer theoretical phonological questions. I was responsible for the morphophonology portion of the course.&lt;/p&gt;
-
-&lt;p&gt;This course has now been discontinued. LEL Honours students interested in these topics may look at LASC10088 &lt;em&gt;Phonological Theory&lt;/em&gt; and/or LASC10090 &lt;em&gt;Phonetics and Laboratory Phonology&lt;/em&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Head-dependent asymmetries in Munster Irish prosody</title>
-<link>http://anghyflawn.github.io/writing/munster-irish-stress/</link>
-<pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/munster-irish-stress/</guid>
-<description>&lt;p&gt;In this paper I propose an analysis of stress in Munster Irish which builds on two important premises. First, I argue for a distinction between the notion &amp;lsquo;head of a constituent&amp;rsquo; and the notion of &amp;lsquo;stress&amp;rsquo;: these are separate entities, and the typologically frequent isomorphic distribution of the two is just one possible outcome of the phonological computation. Second, I propose to employ a particular family of constraints requiring head-dependent asymmetries (Dresher and van der Hulst 1998) to account for the mismatch between the placement of foot heads and stress in Munster Irish. Overall, the paper is an argument for elaborate abstract structure as an explanatory factor in phonology, as opposed to relatively shallow, substance-based representations.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Phonemicization vs. phonologization</title>
-<link>http://anghyflawn.github.io/presentation/2013/phonemicization-vs-phonologization-voiced-fricatives-in-old-english-and-brythonic/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/2013/phonemicization-vs-phonologization-voiced-fricatives-in-old-english-and-brythonic/</guid>
-<description>&lt;p&gt;We consider the status of &amp;lsquo;voiced&amp;rsquo; (really lenis) fricatives in Old English and in Brythonic Celtic. In the received view, they are not &amp;lsquo;phonemic&amp;rsquo; in Old English, yet their distribution is clearly sensitive to phonological structure. We propose that they &lt;em&gt;are&lt;/em&gt; distinct phonological symbols, coerced into predictable distributions by the phonological computation. We also offer a similar analysis for Brythonic Celtic. The situation is argued to result as a predictable consequence of the life cycle of phonological processes rather than from language contact, &lt;em&gt;contra&lt;/em&gt; previous suggestions.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Non-contrastive epenthetic segments as surface prosodic structure</title>
-<link>http://anghyflawn.github.io/presentation/2013/non-contrastive-epenthetic-segments-as-surface-prosodic-structure/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/2013/non-contrastive-epenthetic-segments-as-surface-prosodic-structure/</guid>
-<description>&lt;p&gt;I analyse two cases where segment epenthesis must be phonological but involves segments that are otherwise non-phonemic in the relevant languages: Argyll Gaelic (see also the &lt;a href=&#34;http://anghyflawn.github.io/presentation/2013/glottal-stop-insertion-in-scottish-gaelic-and-contrastive-syllabification/&#34;&gt;&lt;em&gt;Teangeolaoícht na Gaeilge&lt;/em&gt; talk&lt;/a&gt; to this effect) and Zealand Danish. Such involvement of non-contrastive information in phonological rules might be problematic for contrastivist approaches to phonology. I argue that this problem can be resolve if the epenthesis is analysed as not involving &lt;em&gt;segments&lt;/em&gt;, but instead &lt;em&gt;features&lt;/em&gt; attaching directly to suprasegmental nodes.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Glottal stop insertion in Scottish Gaelic and contrastive syllabification</title>
-<link>http://anghyflawn.github.io/presentation/2013/glottal-stop-insertion-in-scottish-gaelic-and-contrastive-syllabification/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/2013/glottal-stop-insertion-in-scottish-gaelic-and-contrastive-syllabification/</guid>
-<description>&lt;p&gt;Gaelic dialects, mostly in Argyll, show a process of glottal stop epenthesis in stressed light syllables. This has been analysed as a stress-to-weight effect, and I review the evidence to show that this analysis is likely correct, and also that glottal stop insertion is a live phonological process rather than a lexicalized artefact of history. If this is correct, Argyll Gaelic shows an example of lexical storage of syllable structure, sometimes argued to be impossible.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>The phonological endgame</title>
-<link>http://anghyflawn.github.io/presentation/2012/the-phonological-endgame-welsh-svarabhakti-revisited/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/2012/the-phonological-endgame-welsh-svarabhakti-revisited/</guid>
-<description>&lt;p&gt;I present an analysis of Welsh &amp;lsquo;svarabhakti&amp;rsquo;, whereby a copy of a preceding vowel is inserted to break up final clusters of rising sonority (&lt;em&gt;pwdr&lt;/em&gt; &amp;lsquo;rotten&amp;rsquo; is [pudur] rather than *[pudr]). This pattern is said to coexist with a pattern of deleting consonants in such clusters in polysyllables (&lt;em&gt;perygl&lt;/em&gt; &amp;lsquo;danger&amp;rsquo; is [perɪɡ] rather than *[perɪɡl]). It has been argued that the two differing outcomes can be reconciled by appeal to a single constraint on the form of feet. I show that this analysis is not tenable for South Welsh, and propose that deletion (as in &lt;em&gt;perygl&lt;/em&gt;) is not part of the phonological grammar (at least in South Welsh).&lt;/p&gt;
-</description>
-</item>
-
-
-
-
-
-<item>
-<title>Vowel reduction in Russian</title>
-<link>http://anghyflawn.github.io/writing/jl-russian-vowel-reduction/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/jl-russian-vowel-reduction/</guid>
-<description>&lt;p&gt;In this paper I propose a substance-free analysis of vowel reduction in Standard Russian. I argue that the traditional distinction between &amp;lsquo;moderate&amp;rsquo; reduction (in pretonic syllables, producing less central vowels) and &amp;lsquo;radical&amp;rsquo; reduction (producing central vowels) is not phonologically relevant. The phonological grammar is only responsible for the neutralization patterns and not for the exact phonetic properties of their outcome. In addition, I show that the necessary input-output mappings cannot be effected in a conventional featural system without some weakly supported assumptions: I argue that this demonstrates the viability of a substance-free, emergent-features approach to phonology.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>In defence of Richness of the Base</title>
-<link>http://anghyflawn.github.io/presentation/2012/in-defence-of-richness-of-the-base-context-free-weight-in-welsh/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/2012/in-defence-of-richness-of-the-base-context-free-weight-in-welsh/</guid>
-<description>&lt;p&gt;I briefly present the analysis of mora assignment to consonants in South Welsh. The pattern can be analysed by appeal to the form of the inputs (i.e. with a massive number of accidental gaps, which is undesirable), or by positing a constraint schema with undesirable consequences for factorial typology. I suggest that the latter solution is preferable theoretically, although it may be premature to choose it for that reason alone.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Final devoicing and vowel lengthening in Friulian</title>
-<link>http://anghyflawn.github.io/writing/lingua-friulian/</link>
-<pubDate>Wed, 03 Apr 2013 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/lingua-friulian/</guid>
-<description>&lt;p&gt;Here, I propose an analysis of the interacting between final devoicing and vowel lengthening in Friulian (and other related varieties of northern Italy). Historically, stressed vowels lengthen before voiced obstruents, but this is opacified by final devoicing. I capitalize on phonetic studies showing final devoicing in the language to be incomplete and argue that the process is not in fact opaque: devoicing does not involve neutralization but instead the creation of a third, laryngealy unspecified class of obstruents. I also observe that the distribution of moraicity in Friulian presents a challenge to accepted theories of weight assignment, and propose an analysis that relies on language-specific featural representations.&lt;/p&gt;
+&lt;p&gt;This will ask you for the DOI (you can keep the &lt;code&gt;http://dx.doi.org/&lt;/code&gt; bit that you get if you do &amp;lsquo;Copy Link Address&amp;rsquo; from the browser), pull the BibTeX entry via the DOI API, and insert it at point. (I&amp;rsquo;m assuming the buffer is in &lt;code&gt;bibtex-mode&lt;/code&gt; already, since it doesn&amp;rsquo;t really make sense for it not to be.) Put this in your &lt;code&gt;init.el&lt;/code&gt; and you can now do &lt;code&gt;M-x get-bibtex-from-doi&lt;/code&gt;, or bind it to a keychord of your choice. The entry might still need fiddling with (e.g. to fix the citekey in line with your scheme, or to remove the Unicode characters if need be), but hopefully this might be useful.&lt;/p&gt;
 </description>
 </item>
 
