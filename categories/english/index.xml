@@ -25,13 +25,13 @@
     <language>en-gb</language>
     
     
-    <updated>Fri, 24 Apr 2015 19:47:02 BST</updated>
+    <updated>Fri, 24 Apr 2015 19:51:50 BST</updated>
 
 
 
 <item>
-<title>Celtic, Norse, and English in contact</title>
-<link>http://anghyflawn.github.io/teaching/2016/celtic-norse-english/</link>
+<title>LEL2E: Structure and History of European Languages</title>
+<link>http://anghyflawn.github.io/presentation/2005/nenets/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/teaching/2016/celtic-norse-english/</guid>
 <description>&lt;p&gt;This course runs for the first time in &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt; (but will probably run every other year). It has three main objectives:&lt;/p&gt;
@@ -225,7 +225,7 @@ question of internal vs external origin of preaspiration.&lt;/p&gt;
 <title>About my name</title>
 <link>http://anghyflawn.github.io/my-name/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/my-name/</guid>
+<guid>http://anghyflawn.github.io/news/2015/frlsu/</guid>
 <description>&lt;p&gt;My name is obviously problematic for English speakers (or indeed for Russian speakers), so I&amp;rsquo;m just putting this up for future reference.&lt;/p&gt;
 
 &lt;p&gt;In Russian, my surname is Иосад, pronounced in Modern Standard Russian as something like [i.aˈsat] &amp;mdash; that&amp;rsquo;s two onsetless syllables in a row, plus final devoicing. English speakers rightly ignore the final devoicing, but the two first syllables can still be a problem. The suggested version for English speakers is [ˈjɔːsəd], with the vowel of &lt;em&gt;thought&lt;/em&gt;.&lt;/p&gt;
@@ -753,17 +753,6 @@ will be automatic
 
 
 <item>
-<title>ICNGL paper</title>
-<link>http://anghyflawn.github.io/news/2015/icngl11-paper/</link>
-<pubDate>Tue, 20 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/news/2015/icngl11-paper/</guid>
-<description>&lt;p&gt;My paper &lt;em&gt;‘Pitch accent’ and prosodic structure in Scottish Gaelic: Reassessing the role of contact&lt;/em&gt; has appeared in &lt;em&gt;New trends in Nordic and general linguistics&lt;/em&gt;, edited by Martin Hilpert, Janet Duke, Christine Mertzlufft, Jan-Ola Östman, and Michael Rießler (Mouton de Gruyter). Read more and download a copy &lt;a href=&#34;http://anghyflawn.github.io/writing/icngl-proceedings/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
 <title>‘Pitch accent’ and prosodic structure in Scottish Gaelic</title>
 <link>http://anghyflawn.github.io/writing/icngl-proceedings/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -800,25 +789,6 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Materials are available on &lt;a href=&#34;http://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;. There is also a &lt;a href=&#34;http://resourcelists.ed.ac.uk/lists/8344213B-35A4-FF8E-C89A-65043B5055F7.html&#34;&gt;Resource List&lt;/a&gt; available.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>http://anghyflawn.github.io/teaching/2015/lel2e/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The Indo-European language family&lt;/li&gt;
-&lt;li&gt;Celtic languages&lt;/li&gt;
-&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For course materials, see the relevant page on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;&lt;/p&gt;
 </description>
 </item>
 
@@ -870,6 +840,25 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Course materials are available on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>LEL2E: Structure and History of European Languages</title>
+<link>http://anghyflawn.github.io/teaching/2015/lel2e/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2015/lel2e/</guid>
+<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Indo-European language family&lt;/li&gt;
+&lt;li&gt;Celtic languages&lt;/li&gt;
+&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For course materials, see the relevant page on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;&lt;/p&gt;
 </description>
 </item>
 
@@ -1363,22 +1352,6 @@ interactions.&lt;/p&gt;
 
 
 <item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>http://anghyflawn.github.io/teaching/2014/lel2e/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2014/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for the following sections:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Celtic languages&lt;/li&gt;
-&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-
-
-
-<item>
 <title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
 <link>http://anghyflawn.github.io/teaching/2014/lel2d/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -1392,6 +1365,22 @@ interactions.&lt;/p&gt;
 &lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
 &lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
 &lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>LEL2E: Structure and History of European Languages</title>
+<link>http://anghyflawn.github.io/teaching/2014/lel2e/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2014/lel2e/</guid>
+<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for the following sections:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Celtic languages&lt;/li&gt;
+&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
@@ -1476,6 +1465,8 @@ interactions.&lt;/p&gt;
 <description>&lt;p&gt;I present an analysis of Welsh &amp;lsquo;svarabhakti&amp;rsquo;, whereby a copy of a preceding vowel is inserted to break up final clusters of rising sonority (&lt;em&gt;pwdr&lt;/em&gt; &amp;lsquo;rotten&amp;rsquo; is [pudur] rather than *[pudr]). This pattern is said to coexist with a pattern of deleting consonants in such clusters in polysyllables (&lt;em&gt;perygl&lt;/em&gt; &amp;lsquo;danger&amp;rsquo; is [perɪɡ] rather than *[perɪɡl]). It has been argued that the two differing outcomes can be reconciled by appeal to a single constraint on the form of feet. I show that this analysis is not tenable for South Welsh, and propose that deletion (as in &lt;em&gt;perygl&lt;/em&gt;) is not part of the phonological grammar (at least in South Welsh).&lt;/p&gt;
 </description>
 </item>
+
+
 
 
   </channel>
