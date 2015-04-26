@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Fri, 24 Apr 2015 19:59:39 BST</updated>
+    <updated>Sun, 26 Apr 2015 20:35:30 BST</updated>
 
 
 
@@ -216,6 +216,36 @@ question of internal vs external origin of preaspiration.&lt;/p&gt;
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/presentation/2015/quantity-quality-interactions-in-welsh-vowels-phonologization-across-dialects/</guid>
 <description>&lt;p&gt;I present the results of a phonetic study of the relationship between vowel quality and vowel quantity. The results confirm that the descriptions are correct in setting up a categorical distinction between two varieties of long mid vowels (tense [eː oː] and lax [ɛː ɔː]) in South-West Welsh. This system plausibly arose as the enhancement of a pattern where there is no quality distinctions between short and long vowels, with continuous variation in height in both prosodic contexts. The rise of the south-western pattern is connected to the phonologization of a trading relation in duration between the stressed penultimate and the final syllable, which is still attested in the relevant varieties. This presents an interesting example of &amp;lsquo;rule scattering&amp;rsquo; (Bermúdez-Otero 2014).&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Making Emacs hold your hand: don&#39;t edit a TeX file when you don&#39;t mean to</title>
+<link>http://anghyflawn.github.io/blog/2015/making-emacs-hold-your-hand-dont-edit-a-tex-file-when-you-dont-mean-to/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/blog/2015/making-emacs-hold-your-hand-dont-edit-a-tex-file-when-you-dont-mean-to/</guid>
+<description>&lt;p&gt;As a user of LaTeX, R and Emacs, I naturally write up my research in &lt;code&gt;.Rnw&lt;/code&gt; files, using &lt;a href=&#34;http://yihui.name/knitr&#34;&gt;knitr&lt;/a&gt; to produce &lt;code&gt;.tex&lt;/code&gt; sources. With Emacs, this means I have access to both the awesome AUCTeX for writing LaTeX and the excellent ESS environment for the statistics at the same time. However, being the absent-minded academic that I am, I sometimes end up opening the woven &lt;code&gt;.tex&lt;/code&gt; file instead of the &lt;code&gt;.Rnw&lt;/code&gt; and make edits to that, which means it gets overwritten and lost the next time I run &lt;code&gt;knitr&lt;/code&gt;. This is suboptimal, but of course Emacs allows us to fix it.&lt;/p&gt;
+
+&lt;p&gt;This can be achieved by &lt;em&gt;advising&lt;/em&gt; the relevant function &amp;mdash; in this case &lt;code&gt;switch-to-buffer&lt;/code&gt;. The following bit of Elisp code will ask you when you&amp;rsquo;re trying to switch to a buffer with a &lt;code&gt;.tex&lt;/code&gt; file when there&amp;rsquo;s a corresponding &lt;code&gt;.Rnw&lt;/code&gt; file open at the some time. It&amp;rsquo;s not particularly robust (e.g. it doesn&amp;rsquo;t take cognizance of multiple buffers visiting files of the same name), but it gets the basic job done.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-lisp&#34;&gt;(defun tex-Rnw-check (name)
+  (let* ((rnw-file (format &amp;quot;%s.Rnw&amp;quot; (file-name-sans-extension (buffer-name name)))))
+    (when (and (equal (file-name-extension (buffer-name name)) &amp;quot;tex&amp;quot;)
+	       (member rnw-file (mapcar #&#39;buffer-name (buffer-list))))
+      (if (yes-or-no-p &amp;quot;You are trying to open a .tex file, but the corresponding .Rnw file seems to be open. Are you sure?&amp;quot;)
+	  name
+	rnw-file))))
+
+(defadvice switch-to-buffer (around noweb-check activate)
+  (let ((buffer-or-name (or (tex-Rnw-check (ad-get-arg 0))
+             			    (ad-get-arg 0))))
+    ad-do-it))
+(ad-update &#39;switch-to-buffer)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This uses the old &lt;code&gt;defadvice&lt;/code&gt; mechanism rather than the new &lt;code&gt;add-function&lt;/code&gt;, but seems to work well enough. (I&amp;rsquo;m stuck on Emacs 24.3, as later versions seems to have funky bugs with the display of some Unicode characters that I badly need.)&lt;/p&gt;
 </description>
 </item>
 
@@ -1465,8 +1495,6 @@ interactions.&lt;/p&gt;
 <description>&lt;p&gt;I present an analysis of Welsh &amp;lsquo;svarabhakti&amp;rsquo;, whereby a copy of a preceding vowel is inserted to break up final clusters of rising sonority (&lt;em&gt;pwdr&lt;/em&gt; &amp;lsquo;rotten&amp;rsquo; is [pudur] rather than *[pudr]). This pattern is said to coexist with a pattern of deleting consonants in such clusters in polysyllables (&lt;em&gt;perygl&lt;/em&gt; &amp;lsquo;danger&amp;rsquo; is [perɪɡ] rather than *[perɪɡl]). It has been argued that the two differing outcomes can be reconciled by appeal to a single constraint on the form of feet. I show that this analysis is not tenable for South Welsh, and propose that deletion (as in &lt;em&gt;perygl&lt;/em&gt;) is not part of the phonological grammar (at least in South Welsh).&lt;/p&gt;
 </description>
 </item>
-
-
 
 
   </channel>

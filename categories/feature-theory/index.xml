@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Fri, 24 Apr 2015 19:59:38 BST</updated>
+    <updated>Sun, 26 Apr 2015 20:35:30 BST</updated>
 
 
 
@@ -222,6 +222,36 @@ question of internal vs external origin of preaspiration.&lt;/p&gt;
 
 
 <item>
+<title>Making Emacs hold your hand: don&#39;t edit a TeX file when you don&#39;t mean to</title>
+<link>http://anghyflawn.github.io/blog/2015/making-emacs-hold-your-hand-dont-edit-a-tex-file-when-you-dont-mean-to/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/blog/2015/making-emacs-hold-your-hand-dont-edit-a-tex-file-when-you-dont-mean-to/</guid>
+<description>&lt;p&gt;As a user of LaTeX, R and Emacs, I naturally write up my research in &lt;code&gt;.Rnw&lt;/code&gt; files, using &lt;a href=&#34;http://yihui.name/knitr&#34;&gt;knitr&lt;/a&gt; to produce &lt;code&gt;.tex&lt;/code&gt; sources. With Emacs, this means I have access to both the awesome AUCTeX for writing LaTeX and the excellent ESS environment for the statistics at the same time. However, being the absent-minded academic that I am, I sometimes end up opening the woven &lt;code&gt;.tex&lt;/code&gt; file instead of the &lt;code&gt;.Rnw&lt;/code&gt; and make edits to that, which means it gets overwritten and lost the next time I run &lt;code&gt;knitr&lt;/code&gt;. This is suboptimal, but of course Emacs allows us to fix it.&lt;/p&gt;
+
+&lt;p&gt;This can be achieved by &lt;em&gt;advising&lt;/em&gt; the relevant function &amp;mdash; in this case &lt;code&gt;switch-to-buffer&lt;/code&gt;. The following bit of Elisp code will ask you when you&amp;rsquo;re trying to switch to a buffer with a &lt;code&gt;.tex&lt;/code&gt; file when there&amp;rsquo;s a corresponding &lt;code&gt;.Rnw&lt;/code&gt; file open at the some time. It&amp;rsquo;s not particularly robust (e.g. it doesn&amp;rsquo;t take cognizance of multiple buffers visiting files of the same name), but it gets the basic job done.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-lisp&#34;&gt;(defun tex-Rnw-check (name)
+  (let* ((rnw-file (format &amp;quot;%s.Rnw&amp;quot; (file-name-sans-extension (buffer-name name)))))
+    (when (and (equal (file-name-extension (buffer-name name)) &amp;quot;tex&amp;quot;)
+	       (member rnw-file (mapcar #&#39;buffer-name (buffer-list))))
+      (if (yes-or-no-p &amp;quot;You are trying to open a .tex file, but the corresponding .Rnw file seems to be open. Are you sure?&amp;quot;)
+	  name
+	rnw-file))))
+
+(defadvice switch-to-buffer (around noweb-check activate)
+  (let ((buffer-or-name (or (tex-Rnw-check (ad-get-arg 0))
+             			    (ad-get-arg 0))))
+    ad-do-it))
+(ad-update &#39;switch-to-buffer)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This uses the old &lt;code&gt;defadvice&lt;/code&gt; mechanism rather than the new &lt;code&gt;add-function&lt;/code&gt;, but seems to work well enough. (I&amp;rsquo;m stuck on Emacs 24.3, as later versions seems to have funky bugs with the display of some Unicode characters that I badly need.)&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
 <title>About my name</title>
 <link>http://anghyflawn.github.io/my-name/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -264,7 +294,7 @@ question of internal vs external origin of preaspiration.&lt;/p&gt;
 <title>An echoing tone</title>
 <link>http://anghyflawn.github.io/presentation/2015/an-echoing-tone-pitch-accent-parallels-in-scandinavia-and-scotland/</link>
 <pubDate>Sun, 01 Mar 2015 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/2015/quantity-quality-interactions-in-welsh-vowels-phonologization-across-dialects/</guid>
+<guid>http://anghyflawn.github.io/presentation/2015/an-echoing-tone-pitch-accent-parallels-in-scandinavia-and-scotland/</guid>
 <description>&lt;p&gt;This talk was presented at the &lt;a href=&#34;http://www.nordicresearchnetwork.co.uk&#34;&gt;Nordic Research Network 2015 conference&lt;/a&gt; at the &lt;a href=&#34;http://www.ed.ac.uk&#34;&gt;University of Edinburgh&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;In this talk, I consider the origins of pitch accents in North Germanic and in Scottish Gaelic. I argue that in both cases the more plausible hypothesis involves the realization of an identical tonal melody over different temporal domains, particularly by the mechanism of peak delay. This is not a new idea, but I support it by a consideration of the interaction of tone and apocope in Zealand Danish and in Central Scandinavian. The application of this mechanism to Gaelic shows that tonal accents found in places like Lewis are a special case of a system that is widely spread in Ulster and Scotland, with Argyll and East Ulster as an innovating centre &amp;mdash; recourse to contact with Norse is not necessary to explain their appearance. Find the slides below, or download the &lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://anghyflawn.github.io/pdf/nrn2015.handout.pdf&#34;&gt;handout&lt;/a&gt;, which is slightly more detailed.&lt;/p&gt;
@@ -1352,22 +1382,6 @@ interactions.&lt;/p&gt;
 
 
 <item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>http://anghyflawn.github.io/teaching/2014/lel2e/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2014/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for the following sections:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Celtic languages&lt;/li&gt;
-&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-
-
-
-<item>
 <title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
 <link>http://anghyflawn.github.io/teaching/2014/lel2d/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -1381,6 +1395,22 @@ interactions.&lt;/p&gt;
 &lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
 &lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
 &lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>LEL2E: Structure and History of European Languages</title>
+<link>http://anghyflawn.github.io/teaching/2014/lel2e/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2014/lel2e/</guid>
+<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for the following sections:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Celtic languages&lt;/li&gt;
+&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
@@ -1465,8 +1495,6 @@ interactions.&lt;/p&gt;
 <description>&lt;p&gt;I present an analysis of Welsh &amp;lsquo;svarabhakti&amp;rsquo;, whereby a copy of a preceding vowel is inserted to break up final clusters of rising sonority (&lt;em&gt;pwdr&lt;/em&gt; &amp;lsquo;rotten&amp;rsquo; is [pudur] rather than *[pudr]). This pattern is said to coexist with a pattern of deleting consonants in such clusters in polysyllables (&lt;em&gt;perygl&lt;/em&gt; &amp;lsquo;danger&amp;rsquo; is [perɪɡ] rather than *[perɪɡl]). It has been argued that the two differing outcomes can be reconciled by appeal to a single constraint on the form of feet. I show that this analysis is not tenable for South Welsh, and propose that deletion (as in &lt;em&gt;perygl&lt;/em&gt;) is not part of the phonological grammar (at least in South Welsh).&lt;/p&gt;
 </description>
 </item>
-
-
 
 
   </channel>
