@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Sun, 26 Apr 2015 20:38:45 BST</updated>
+    <updated>Mon, 27 Apr 2015 20:58:58 BST</updated>
 
 
 
@@ -102,7 +102,7 @@
 <link>http://anghyflawn.github.io/news/2015/frlsu/</link>
 <pubDate>Thu, 20 Aug 2015 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/news/2015/frlsu/</guid>
-<description>&lt;p&gt;I will present our &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/preaspiration-in-north-argyll-gaelic-and-its-contribution-to-prosodic-structure/&#34;&gt;joint work on Argyll Gaelic preaspiration&lt;/a&gt; with &lt;a href=&#34;http://www.lel.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt; and &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt; at the conference of the &lt;a href=&#34;http://www.frlsu.org&#34;&gt;Forum for Research on the Languages of Scotland and Ulster&lt;/a&gt; (University of the West of Scotland, Ayr).&lt;/p&gt;
+<description>&lt;p&gt;I will present our &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/preaspiration-in-north-argyll-gaelic-and-its-contribution-to-prosodic-structure/&#34;&gt;joint work on Argyll Gaelic preaspiration&lt;/a&gt; with &lt;a href=&#34;http://www.ppls.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt; and &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt; at the conference of the &lt;a href=&#34;http://www.frlsu.org&#34;&gt;Forum for Research on the Languages of Scotland and Ulster&lt;/a&gt; (University of the West of Scotland, Ayr).&lt;/p&gt;
 </description>
 </item>
 
@@ -196,19 +196,24 @@ question of internal vs external origin of preaspiration.&lt;/p&gt;
 
 &lt;p&gt;This can be achieved by &lt;em&gt;advising&lt;/em&gt; the relevant function &amp;mdash; in this case &lt;code&gt;switch-to-buffer&lt;/code&gt;. The following bit of Elisp code will ask you when you&amp;rsquo;re trying to switch to a buffer with a &lt;code&gt;.tex&lt;/code&gt; file when there&amp;rsquo;s a corresponding &lt;code&gt;.Rnw&lt;/code&gt; file open at the some time. It&amp;rsquo;s not particularly robust (e.g. it doesn&amp;rsquo;t take cognizance of multiple buffers visiting files of the same name), but it gets the basic job done.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-lisp&#34;&gt;(defun tex-Rnw-check (name)
-  (let* ((rnw-file (format &amp;quot;%s.Rnw&amp;quot; (file-name-sans-extension (buffer-name name)))))
-    (when (and (equal (file-name-extension (buffer-name name)) &amp;quot;tex&amp;quot;)
-	       (member rnw-file (mapcar #&#39;buffer-name (buffer-list))))
-      (if (yes-or-no-p &amp;quot;You are trying to open a .tex file, but the corresponding .Rnw file seems to be open. Are you sure?&amp;quot;)
-	  name
-	rnw-file))))
-
-(defadvice switch-to-buffer (around noweb-check activate)
-  (let ((buffer-or-name (or (tex-Rnw-check (ad-get-arg 0))
-             			    (ad-get-arg 0))))
-    ad-do-it))
-(ad-update &#39;switch-to-buffer)
+&lt;pre&gt;&lt;code class=&#34;language-lisp&#34;&gt;        (defun tex-Rnw-check (name)
+          &amp;quot;When opening a .tex file, check to make sure there isn&#39;t a
+      corresponding .Rnw available, to make sure we don&#39;t try to edit
+      the wrong file.&amp;quot;
+          (when (and (bufferp name)
+                     (buffer-file-name name))
+            (let* ((rnw-file (format &amp;quot;%s.Rnw&amp;quot; (file-name-sans-extension (buffer-file-name name)))))
+              (when (and (equal (file-name-extension (buffer-file-name name)) &amp;quot;tex&amp;quot;)
+                         (member rnw-file (mapcar #&#39;buffer-file-name (buffer-list))))
+                (if (yes-or-no-p &amp;quot;You are trying to open a .tex file, but the corresponding .Rnw file seems to be open. Are you sure?&amp;quot;)
+                    name
+                  (find-buffer-visiting rnw-file))))))
+      
+        (defadvice switch-to-buffer (around noweb-check activate)
+          (let ((buffer-or-name (or (tex-Rnw-check (ad-get-arg 0))
+                                    (ad-get-arg 0))))
+            ad-do-it))
+        (ad-update &#39;switch-to-buffer)
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;This uses the old &lt;code&gt;defadvice&lt;/code&gt; mechanism rather than the new &lt;code&gt;add-function&lt;/code&gt;, but seems to work well enough. (I&amp;rsquo;m stuck on Emacs 24.3, as later versions seems to have funky bugs with the display of some Unicode characters that I badly need.)&lt;/p&gt;
@@ -853,25 +858,6 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 
 
 <item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>http://anghyflawn.github.io/teaching/2015/lel2e/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The Indo-European language family&lt;/li&gt;
-&lt;li&gt;Celtic languages&lt;/li&gt;
-&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For course materials, see the relevant page on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
 <title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
 <link>http://anghyflawn.github.io/teaching/2015/lel2d/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -889,6 +875,25 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Course materials are available on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>LEL2E: Structure and History of European Languages</title>
+<link>http://anghyflawn.github.io/teaching/2015/lel2e/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2015/lel2e/</guid>
+<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Indo-European language family&lt;/li&gt;
+&lt;li&gt;Celtic languages&lt;/li&gt;
+&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For course materials, see the relevant page on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;&lt;/p&gt;
 </description>
 </item>
 
@@ -1186,43 +1191,16 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 <link>http://anghyflawn.github.io/writing/breton-mutation/</link>
 <pubDate>Sun, 01 Jun 2014 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/writing/breton-mutation/</guid>
-<description>&lt;p&gt;Although my job title is &amp;lsquo;Lecturer in Theoretical Phonology&amp;rsquo; (&lt;a href=&#34;http://www.research.ed.ac.uk/portal/en/persons/pavel-iosad(976edf38-f950-4179-a032-a6cea4b31b3b.html&#34;&gt;no, really&lt;/a&gt;), I&amp;rsquo;ve been getting into more empirical work. I went on a data collection trip to South Wales in February to work with Welsh, and only early this week we had two great days collecting Gaelic data in North Argyll – not an area &lt;em&gt;readily&lt;/em&gt; associated with Gaelic these days, but in fact we found quite a few very good speakers.&lt;/p&gt;
-
-&lt;p&gt;Anyway, this post isn&amp;rsquo;t about that. Having collected the data and processed some of it, I have also been getting to grips with &lt;em&gt;actually&lt;/em&gt; doing statistical analysis (as opposed to working through textbooks), which these days inevitably means &lt;a href=&#34;http://www.r-project.org.&#34;&gt;R&lt;/a&gt;. I&amp;rsquo;m giving a couple of talks in Wales next week (&lt;a href=&#34;http://privatewww.essex.ac.uk/~wss/wss-21.htm&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;http://amrywiaeth.wordpress.com&#34;&gt;here&lt;/a&gt;) with some of the results, so the time had come for me to think about getting my data into my presentations (and eventually papers). Being a LaTeX user, after some poking about I settled on &lt;a href=&#34;http://yihui.name/knitr&#34;&gt;knitr&lt;/a&gt; as the way to get stuff out of R and into LaTeX.&lt;/p&gt;
-
-&lt;p&gt;Most of the R wizards I know use &lt;a href=&#34;http://www.rstudio.com&#34;&gt;RStudio&lt;/a&gt;, which is a very good IDE for R, but doesn&amp;rsquo;t come close to the power of Emacs with AUCTeX for LaTeX writing. So far I have found &lt;a href=&#34;http://ess.r-studio.org&#34;&gt;ESS&lt;/a&gt; to be perfectly adequare for my R needs. ESS also supports knitting &lt;code&gt;.Rnw&lt;/code&gt; files out of the box via &lt;code&gt;M-n r&lt;/code&gt;. Its default weaving engine, however, is Sweave. After some poking about, here&amp;rsquo;s how to get ESS and AUCTeX to play nicely with knitr.&lt;/p&gt;
-
-&lt;p&gt;There are two components. One is to make knitr the default engine when tangling outside AUCTeX. This is easily achieved via &lt;code&gt;(setq ess-swv-processor &#39;knitr)&lt;/code&gt; in your &lt;code&gt;init.el&lt;/code&gt;, but this only allows you to use knitr as the default when you tangle via &lt;code&gt;M-n T&lt;/code&gt;. What this doesn&amp;rsquo;t automate is running LaTeX on the product of the knitting: you have to switch to the &lt;code&gt;.tex&lt;/code&gt; file manually and run stuff from there, but this runs the risk of making edits to the &lt;code&gt;.tex&lt;/code&gt; file instead of the &lt;code&gt;.Rnw&lt;/code&gt;. ESS also has a &lt;code&gt;latex&lt;/code&gt; tangling option (&lt;code&gt;M-n l&lt;/code&gt;), but this just runs &lt;code&gt;latex&lt;/code&gt; from the shell, without any of the AUCTeX customizations.&lt;/p&gt;
-
-&lt;p&gt;ESS also has the option to plug into AUCTeX, making relevant commands available to the user via &lt;code&gt;C-c C-c&lt;/code&gt;. This is much handier, but unfortunately the functions which add these commands are hardcoded to use Sweave from the shell rather than &lt;code&gt;ess-swv-run-in-R&lt;/code&gt;, which is sensitive to the value of &lt;code&gt;ess-swv-processor&lt;/code&gt;. So here&amp;rsquo;s what you need in order to get knitr to run into AUCTeX.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-elisp&#34;&gt;;; somewhere after (require &#39;ess-site)
-(setq ess-swv-plug-into-AUCTeX-p t)
-
-(defun ess-swv-add-TeX-commands ()
-  &amp;quot;Add commands to AUCTeX&#39;s \\[TeX-command-list].&amp;quot;
-  (unless (and (featurep &#39;tex-site) (featurep &#39;tex))
-    (error &amp;quot;AUCTeX does not seem to be loaded&amp;quot;))
-  (add-to-list &#39;TeX-command-list
-               &#39;(&amp;quot;Knit&amp;quot; &amp;quot;Rscript -e \&amp;quot;library(knitr); knit(&#39;%t&#39;)\&amp;quot;&amp;quot;
-                 TeX-run-command nil (latex-mode) :help
-                 &amp;quot;Run Knitr&amp;quot;) t)
-  (add-to-list &#39;TeX-command-list
-               &#39;(&amp;quot;LaTeXKnit&amp;quot; &amp;quot;%l %(mode) %s&amp;quot;
-                 TeX-run-TeX nil (latex-mode) :help
-                 &amp;quot;Run LaTeX after Knit&amp;quot;) t)
-  (setq TeX-command-default &amp;quot;Knit&amp;quot;)
-  (mapc (lambda (suffix)
-          (add-to-list &#39;TeX-file-extensions suffix))
-        &#39;(&amp;quot;nw&amp;quot; &amp;quot;Snw&amp;quot; &amp;quot;Rnw&amp;quot;)))
-
-(defun ess-swv-remove-TeX-commands (x)
-  &amp;quot;Helper function: check if car of X is one of the Knitr strings&amp;quot;
-  (let ((swv-cmds &#39;(&amp;quot;Knit&amp;quot; &amp;quot;LaTeXKnit&amp;quot;)))
-    (unless (member (car x) swv-cmds) x)))
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;These are just little changes to the original functions defined in &lt;code&gt;ess-swv.el&lt;/code&gt;. Now you can, via &lt;code&gt;C-c C-c&lt;/code&gt;, access &lt;code&gt;Knit&lt;/code&gt; (which just produces the &lt;code&gt;.tex&lt;/code&gt; file) and &lt;code&gt;LaTeXKnit&lt;/code&gt;, which runs the LaTeX process as customized by AUCTeX (e.g. to use XeTeX or whatever other options you normally use) on the output, without you having to go the &lt;code&gt;.tex&lt;/code&gt; file. Which is nice.&lt;/p&gt;
+<description>&lt;p&gt;I analyse of initial consonant mutation in a Breton dialect, with a
+focus on establishing the division of labour between phonology and
+morphology in the triggering of mutation and its phonological
+expression. I argue that different types of mutation have different
+status in the grammar: some are purely phonological, others involve
+subsegmental morphemes with a clear morphosyntactic rationale, and for
+some the phonological aspects are clear but the morphosyntactic
+motivation remains obscure. In addition, the differences among the
+types of mutation support a stratal model of morphology-phonology
+interactions.&lt;/p&gt;
 </description>
 </item>
 
@@ -1409,22 +1387,6 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 
 
 <item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>http://anghyflawn.github.io/teaching/2014/lel2e/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2014/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for the following sections:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Celtic languages&lt;/li&gt;
-&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-
-
-
-<item>
 <title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
 <link>http://anghyflawn.github.io/teaching/2014/lel2d/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -1438,6 +1400,22 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 &lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
 &lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
 &lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>LEL2E: Structure and History of European Languages</title>
+<link>http://anghyflawn.github.io/teaching/2014/lel2e/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2014/lel2e/</guid>
+<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for the following sections:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Celtic languages&lt;/li&gt;
+&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>

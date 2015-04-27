@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Sun, 26 Apr 2015 20:38:45 BST</updated>
+    <updated>Mon, 27 Apr 2015 20:58:59 BST</updated>
 
 
 
@@ -102,7 +102,7 @@
 <link>http://anghyflawn.github.io/news/2015/frlsu/</link>
 <pubDate>Thu, 20 Aug 2015 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/news/2015/frlsu/</guid>
-<description>&lt;p&gt;I will present our &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/preaspiration-in-north-argyll-gaelic-and-its-contribution-to-prosodic-structure/&#34;&gt;joint work on Argyll Gaelic preaspiration&lt;/a&gt; with &lt;a href=&#34;http://www.lel.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt; and &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt; at the conference of the &lt;a href=&#34;http://www.frlsu.org&#34;&gt;Forum for Research on the Languages of Scotland and Ulster&lt;/a&gt; (University of the West of Scotland, Ayr).&lt;/p&gt;
+<description>&lt;p&gt;I will present our &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/preaspiration-in-north-argyll-gaelic-and-its-contribution-to-prosodic-structure/&#34;&gt;joint work on Argyll Gaelic preaspiration&lt;/a&gt; with &lt;a href=&#34;http://www.ppls.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt; and &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt; at the conference of the &lt;a href=&#34;http://www.frlsu.org&#34;&gt;Forum for Research on the Languages of Scotland and Ulster&lt;/a&gt; (University of the West of Scotland, Ayr).&lt;/p&gt;
 </description>
 </item>
 
@@ -169,7 +169,7 @@ question of internal vs external origin of preaspiration.&lt;/p&gt;
 <title>Welsh vowels presentation at the mfm</title>
 <link>http://anghyflawn.github.io/news/2015/welsh-vowels/</link>
 <pubDate>Sat, 30 May 2015 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/news/2015/welsh-vowels/</guid>
+<guid>http://anghyflawn.github.io/news/2015/nrn/</guid>
 <description>&lt;p&gt;I will present &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/quantity-quality-interactions-in-welsh-vowels-phonologization-across-dialects/&#34;&gt;&lt;em&gt;Quantity-quality interactions in Welsh: Phonologization across dialects&lt;/em&gt;&lt;/a&gt; at the &lt;a href=&#34;http://www.lel.ed.ac.uk/mfm/23mfm.html&#34;&gt;23rd Manchester Phonology Meeting&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
@@ -196,19 +196,24 @@ question of internal vs external origin of preaspiration.&lt;/p&gt;
 
 &lt;p&gt;This can be achieved by &lt;em&gt;advising&lt;/em&gt; the relevant function &amp;mdash; in this case &lt;code&gt;switch-to-buffer&lt;/code&gt;. The following bit of Elisp code will ask you when you&amp;rsquo;re trying to switch to a buffer with a &lt;code&gt;.tex&lt;/code&gt; file when there&amp;rsquo;s a corresponding &lt;code&gt;.Rnw&lt;/code&gt; file open at the some time. It&amp;rsquo;s not particularly robust (e.g. it doesn&amp;rsquo;t take cognizance of multiple buffers visiting files of the same name), but it gets the basic job done.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-lisp&#34;&gt;(defun tex-Rnw-check (name)
-  (let* ((rnw-file (format &amp;quot;%s.Rnw&amp;quot; (file-name-sans-extension (buffer-name name)))))
-    (when (and (equal (file-name-extension (buffer-name name)) &amp;quot;tex&amp;quot;)
-	       (member rnw-file (mapcar #&#39;buffer-name (buffer-list))))
-      (if (yes-or-no-p &amp;quot;You are trying to open a .tex file, but the corresponding .Rnw file seems to be open. Are you sure?&amp;quot;)
-	  name
-	rnw-file))))
-
-(defadvice switch-to-buffer (around noweb-check activate)
-  (let ((buffer-or-name (or (tex-Rnw-check (ad-get-arg 0))
-             			    (ad-get-arg 0))))
-    ad-do-it))
-(ad-update &#39;switch-to-buffer)
+&lt;pre&gt;&lt;code class=&#34;language-lisp&#34;&gt;        (defun tex-Rnw-check (name)
+          &amp;quot;When opening a .tex file, check to make sure there isn&#39;t a
+      corresponding .Rnw available, to make sure we don&#39;t try to edit
+      the wrong file.&amp;quot;
+          (when (and (bufferp name)
+                     (buffer-file-name name))
+            (let* ((rnw-file (format &amp;quot;%s.Rnw&amp;quot; (file-name-sans-extension (buffer-file-name name)))))
+              (when (and (equal (file-name-extension (buffer-file-name name)) &amp;quot;tex&amp;quot;)
+                         (member rnw-file (mapcar #&#39;buffer-file-name (buffer-list))))
+                (if (yes-or-no-p &amp;quot;You are trying to open a .tex file, but the corresponding .Rnw file seems to be open. Are you sure?&amp;quot;)
+                    name
+                  (find-buffer-visiting rnw-file))))))
+      
+        (defadvice switch-to-buffer (around noweb-check activate)
+          (let ((buffer-or-name (or (tex-Rnw-check (ad-get-arg 0))
+                                    (ad-get-arg 0))))
+            ad-do-it))
+        (ad-update &#39;switch-to-buffer)
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;This uses the old &lt;code&gt;defadvice&lt;/code&gt; mechanism rather than the new &lt;code&gt;add-function&lt;/code&gt;, but seems to work well enough. (I&amp;rsquo;m stuck on Emacs 24.3, as later versions seems to have funky bugs with the display of some Unicode characters that I badly need.)&lt;/p&gt;
@@ -853,25 +858,6 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 
 
 <item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>http://anghyflawn.github.io/teaching/2015/lel2e/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The Indo-European language family&lt;/li&gt;
-&lt;li&gt;Celtic languages&lt;/li&gt;
-&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For course materials, see the relevant page on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
 <title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
 <link>http://anghyflawn.github.io/teaching/2015/lel2d/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -889,6 +875,25 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Course materials are available on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>LEL2E: Structure and History of European Languages</title>
+<link>http://anghyflawn.github.io/teaching/2015/lel2e/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2015/lel2e/</guid>
+<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Indo-European language family&lt;/li&gt;
+&lt;li&gt;Celtic languages&lt;/li&gt;
+&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For course materials, see the relevant page on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;&lt;/p&gt;
 </description>
 </item>
 

@@ -47,19 +47,24 @@
 
 <p>This can be achieved by <em>advising</em> the relevant function &mdash; in this case <code>switch-to-buffer</code>. The following bit of Elisp code will ask you when you&rsquo;re trying to switch to a buffer with a <code>.tex</code> file when there&rsquo;s a corresponding <code>.Rnw</code> file open at the some time. It&rsquo;s not particularly robust (e.g. it doesn&rsquo;t take cognizance of multiple buffers visiting files of the same name), but it gets the basic job done.</p>
 
-<pre><code class="language-lisp">(defun tex-Rnw-check (name)
-  (let* ((rnw-file (format &quot;%s.Rnw&quot; (file-name-sans-extension (buffer-name name)))))
-    (when (and (equal (file-name-extension (buffer-name name)) &quot;tex&quot;)
-	       (member rnw-file (mapcar #'buffer-name (buffer-list))))
-      (if (yes-or-no-p &quot;You are trying to open a .tex file, but the corresponding .Rnw file seems to be open. Are you sure?&quot;)
-	  name
-	rnw-file))))
-
-(defadvice switch-to-buffer (around noweb-check activate)
-  (let ((buffer-or-name (or (tex-Rnw-check (ad-get-arg 0))
-             			    (ad-get-arg 0))))
-    ad-do-it))
-(ad-update 'switch-to-buffer)
+<pre><code class="language-lisp">        (defun tex-Rnw-check (name)
+          &quot;When opening a .tex file, check to make sure there isn't a
+      corresponding .Rnw available, to make sure we don't try to edit
+      the wrong file.&quot;
+          (when (and (bufferp name)
+                     (buffer-file-name name))
+            (let* ((rnw-file (format &quot;%s.Rnw&quot; (file-name-sans-extension (buffer-file-name name)))))
+              (when (and (equal (file-name-extension (buffer-file-name name)) &quot;tex&quot;)
+                         (member rnw-file (mapcar #'buffer-file-name (buffer-list))))
+                (if (yes-or-no-p &quot;You are trying to open a .tex file, but the corresponding .Rnw file seems to be open. Are you sure?&quot;)
+                    name
+                  (find-buffer-visiting rnw-file))))))
+      
+        (defadvice switch-to-buffer (around noweb-check activate)
+          (let ((buffer-or-name (or (tex-Rnw-check (ad-get-arg 0))
+                                    (ad-get-arg 0))))
+            ad-do-it))
+        (ad-update 'switch-to-buffer)
 </code></pre>
 
 <p>This uses the old <code>defadvice</code> mechanism rather than the new <code>add-function</code>, but seems to work well enough. (I&rsquo;m stuck on Emacs 24.3, as later versions seems to have funky bugs with the display of some Unicode characters that I badly need.)</p>
