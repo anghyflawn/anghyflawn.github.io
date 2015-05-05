@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Mon, 27 Apr 2015 20:58:58 BST</updated>
+    <updated>Tue, 05 May 2015 11:01:35 BST</updated>
 
 
 
@@ -188,6 +188,17 @@ question of internal vs external origin of preaspiration.&lt;/p&gt;
 
 
 <item>
+<title>Representation and variation in substance-free phonology: A case study in Celtic</title>
+<link>http://anghyflawn.github.io/thesis/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/stod/</guid>
+<description>&lt;p&gt;This paper sets out in detail the analysis first offered in my &lt;a href=&#34;http://anghyflawn.github.io/presentation/2013/non-contrastive-epenthetic-segments-as-surface-prosodic-structure/&#34;&gt;21mfm presentation&lt;/a&gt;. I examine the so-called &amp;lsquo;short-vowel stød&amp;rsquo; (&lt;em&gt;kortvokalstød&lt;/em&gt;) found in certain island dialects of Danish, which differs from the &amp;lsquo;common Danish&amp;rsquo; stød in that it is associated with light syllables (open syllable with short vowels or closed syllables with low-sonority codas) rather than heavy ones. I argue that it is best represented as a [constricted glottis] feature associated with a segmentally empty mora, which is projected due to top-down requirements on the internal structure of suprasegmental constituents. Thus, stød is interpreted as another example of a &amp;lsquo;tonal accent&amp;rsquo; phenomenon that submits to an analysis purely in terms of lexically stored metrical structure. I also offer an extension of the model which allows the direct association of features to suprasegmental constituents to Icelandic preaspiration.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
 <title>Making Emacs hold your hand: don&#39;t edit a TeX file when you don&#39;t mean to</title>
 <link>http://anghyflawn.github.io/blog/2015/making-emacs-hold-your-hand-dont-edit-a-tex-file-when-you-dont-mean-to/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -256,6 +267,17 @@ question of internal vs external origin of preaspiration.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;http://anghyflawn.github.io/pdf/viva.presentation.pdf&#34;&gt;Here&lt;/a&gt; is the handout for the short presentation of the thesis&amp;rsquo; main results that I had to do for the viva.&lt;/li&gt;
 &lt;li&gt;A Norwegian doctoral defence is accompanied by a &amp;lsquo;trial lecture&amp;rsquo; (&lt;em&gt;prøveforelesning&lt;/em&gt;) on a topic of the committee&amp;rsquo;s choosing. &lt;a href=&#34;http://anghyflawn.github.io/pdf/viva.lecture.pdf&#34;&gt;Here&lt;/a&gt; is the handout for mine, entitled &lt;em&gt;Progress and problems in language revitalization: The Celtic languages&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Welsh svarabhakti as stem allomorphy</title>
+<link>http://anghyflawn.github.io/writing/svarabhakti/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/svarabhakti/</guid>
+<description>&lt;p&gt;This paper develops the analysis in &lt;a href=&#34;http://anghyflawn.github.io/presentation/2012/the-phonological-endgame-welsh-svarabhakti-revisited/&#34;&gt;this presentation&lt;/a&gt;. I offer an analysis of Welsh epenthesis, whereby a copy of a preceding vowel is inserted to break up final clusters of rising sonority (&lt;em&gt;pwdr&lt;/em&gt; &amp;lsquo;rotten&amp;rsquo; is [pudur] rather than *[pudr]) and deletion in such clusters in polysyllables (&lt;em&gt;perygl&lt;/em&gt; &amp;lsquo;danger&amp;rsquo; is [perɪɡ] rather than *[perɪɡl]). It has previously been argued that both processes can be analysed in a single phonological grammar. I show that this is not tenable for South Welsh dialects, and propose an analysis in terms of part-of-speech-specific allomorphy, formalized as lexical storage of POS-characterized stems rather than roots.&lt;/p&gt;
 </description>
 </item>
 
@@ -830,10 +852,10 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 
 
 <item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>http://anghyflawn.github.io/teaching/2015/lel2e/</link>
+<title>Historical Phonology</title>
+<link>http://anghyflawn.github.io/teaching/2015/historical-phonology/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/lel2e/</guid>
+<guid>http://anghyflawn.github.io/teaching/2015/historical-phonology/</guid>
 <description>&lt;p&gt;In this course (co-taught with my colleagues &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt; and &lt;a href=&#34;http://www.lel.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt;) we consider a variety of issues connected to phonological change. Throughout the course, we address questions such as the following:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -1476,28 +1498,6 @@ interactions.&lt;/p&gt;
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/presentation/2013/non-contrastive-epenthetic-segments-as-surface-prosodic-structure/</guid>
 <description>&lt;p&gt;I analyse two cases where segment epenthesis must be phonological but involves segments that are otherwise non-phonemic in the relevant languages: Argyll Gaelic (see also the &lt;a href=&#34;http://anghyflawn.github.io/presentation/2013/glottal-stop-insertion-in-scottish-gaelic-and-contrastive-syllabification/&#34;&gt;&lt;em&gt;Teangeolaoícht na Gaeilge&lt;/em&gt; talk&lt;/a&gt; to this effect) and Zealand Danish. Such involvement of non-contrastive information in phonological rules might be problematic for contrastivist approaches to phonology. I argue that this problem can be resolve if the epenthesis is analysed as not involving &lt;em&gt;segments&lt;/em&gt;, but instead &lt;em&gt;features&lt;/em&gt; attaching directly to suprasegmental nodes.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Glottal stop insertion in Scottish Gaelic and contrastive syllabification</title>
-<link>http://anghyflawn.github.io/presentation/2013/glottal-stop-insertion-in-scottish-gaelic-and-contrastive-syllabification/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/2013/glottal-stop-insertion-in-scottish-gaelic-and-contrastive-syllabification/</guid>
-<description>&lt;p&gt;Gaelic dialects, mostly in Argyll, show a process of glottal stop epenthesis in stressed light syllables. This has been analysed as a stress-to-weight effect, and I review the evidence to show that this analysis is likely correct, and also that glottal stop insertion is a live phonological process rather than a lexicalized artefact of history. If this is correct, Argyll Gaelic shows an example of lexical storage of syllable structure, sometimes argued to be impossible.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>The phonological endgame</title>
-<link>http://anghyflawn.github.io/presentation/2012/the-phonological-endgame-welsh-svarabhakti-revisited/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/2012/the-phonological-endgame-welsh-svarabhakti-revisited/</guid>
-<description>&lt;p&gt;I present an analysis of Welsh &amp;lsquo;svarabhakti&amp;rsquo;, whereby a copy of a preceding vowel is inserted to break up final clusters of rising sonority (&lt;em&gt;pwdr&lt;/em&gt; &amp;lsquo;rotten&amp;rsquo; is [pudur] rather than *[pudr]). This pattern is said to coexist with a pattern of deleting consonants in such clusters in polysyllables (&lt;em&gt;perygl&lt;/em&gt; &amp;lsquo;danger&amp;rsquo; is [perɪɡ] rather than *[perɪɡl]). It has been argued that the two differing outcomes can be reconciled by appeal to a single constraint on the form of feet. I show that this analysis is not tenable for South Welsh, and propose that deletion (as in &lt;em&gt;perygl&lt;/em&gt;) is not part of the phonological grammar (at least in South Welsh).&lt;/p&gt;
 </description>
 </item>
 

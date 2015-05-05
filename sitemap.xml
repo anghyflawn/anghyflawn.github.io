@@ -48,6 +48,11 @@
   </url>
   
   <url>
+    <loc>http://anghyflawn.github.io/writing/stod/</loc>
+    <lastmod>2015-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://anghyflawn.github.io/blog/2015/making-emacs-hold-your-hand-dont-edit-a-tex-file-when-you-dont-mean-to/</loc>
     <lastmod>2015-04-26T20:18:33+01:00</lastmod>
   </url>
@@ -60,6 +65,11 @@
   <url>
     <loc>http://anghyflawn.github.io/thesis/</loc>
     <lastmod>2015-04-20T21:04:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/writing/svarabhakti/</loc>
+    <lastmod>2015-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -103,7 +113,7 @@
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/teaching/2015/lel2e/</loc>
+    <loc>http://anghyflawn.github.io/teaching/2015/historical-phonology/</loc>
     <lastmod>2015-01-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,7 +123,7 @@
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/teaching/2015/historical-phonology/</loc>
+    <loc>http://anghyflawn.github.io/teaching/2015/lel2e/</loc>
     <lastmod>2015-01-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -208,12 +218,12 @@
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/teaching/2014/lel2e/</loc>
+    <loc>http://anghyflawn.github.io/teaching/2014/lel2d/</loc>
     <lastmod>2014-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/teaching/2014/lel2d/</loc>
+    <loc>http://anghyflawn.github.io/teaching/2014/lel2e/</loc>
     <lastmod>2014-01-10T00:00:00+00:00</lastmod>
   </url>
   
