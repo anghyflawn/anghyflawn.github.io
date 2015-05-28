@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Tue, 05 May 2015 11:01:35 BST</updated>
+    <updated>Thu, 28 May 2015 13:49:05 BST</updated>
 
 
 
@@ -98,8 +98,8 @@
 
 
 <item>
-<title>frlsu</title>
-<link>http://anghyflawn.github.io/news/2015/frlsu/</link>
+<title>Humidity causes complex tones?</title>
+<link>http://anghyflawn.github.io/blog/2015/humidity-causes-complex-tones/</link>
 <pubDate>Thu, 20 Aug 2015 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/news/2015/frlsu/</guid>
 <description>&lt;p&gt;I will present our &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/preaspiration-in-north-argyll-gaelic-and-its-contribution-to-prosodic-structure/&#34;&gt;joint work on Argyll Gaelic preaspiration&lt;/a&gt; with &lt;a href=&#34;http://www.ppls.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt; and &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt; at the conference of the &lt;a href=&#34;http://www.frlsu.org&#34;&gt;Forum for Research on the Languages of Scotland and Ulster&lt;/a&gt; (University of the West of Scotland, Ayr).&lt;/p&gt;
@@ -188,8 +188,8 @@ question of internal vs external origin of preaspiration.&lt;/p&gt;
 
 
 <item>
-<title>Representation and variation in substance-free phonology: A case study in Celtic</title>
-<link>http://anghyflawn.github.io/thesis/</link>
+<title>Prosodic structure and suprasegmental features</title>
+<link>http://anghyflawn.github.io/writing/stod/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/writing/stod/</guid>
 <description>&lt;p&gt;This paper sets out in detail the analysis first offered in my &lt;a href=&#34;http://anghyflawn.github.io/presentation/2013/non-contrastive-epenthetic-segments-as-surface-prosodic-structure/&#34;&gt;21mfm presentation&lt;/a&gt;. I examine the so-called &amp;lsquo;short-vowel stød&amp;rsquo; (&lt;em&gt;kortvokalstød&lt;/em&gt;) found in certain island dialects of Danish, which differs from the &amp;lsquo;common Danish&amp;rsquo; stød in that it is associated with light syllables (open syllable with short vowels or closed syllables with low-sonority codas) rather than heavy ones. I argue that it is best represented as a [constricted glottis] feature associated with a segmentally empty mora, which is projected due to top-down requirements on the internal structure of suprasegmental constituents. Thus, stød is interpreted as another example of a &amp;lsquo;tonal accent&amp;rsquo; phenomenon that submits to an analysis purely in terms of lexically stored metrical structure. I also offer an extension of the model which allows the direct association of features to suprasegmental constituents to Icelandic preaspiration.&lt;/p&gt;
@@ -852,28 +852,19 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 
 
 <item>
-<title>Historical Phonology</title>
-<link>http://anghyflawn.github.io/teaching/2015/historical-phonology/</link>
+<title>LEL2E: Structure and History of European Languages</title>
+<link>http://anghyflawn.github.io/teaching/2015/lel2e/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/historical-phonology/</guid>
-<description>&lt;p&gt;In this course (co-taught with my colleagues &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt; and &lt;a href=&#34;http://www.lel.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt;) we consider a variety of issues connected to phonological change. Throughout the course, we address questions such as the following:&lt;/p&gt;
+<guid>http://anghyflawn.github.io/teaching/2015/lel2e/</guid>
+<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;How do we reconstruct the phonology of past language states?&lt;/li&gt;
-&lt;li&gt;What types of phonological changes are attested?&lt;/li&gt;
-&lt;li&gt;How can synchronic phonological theory assist us in the study of historical phonology?&lt;/li&gt;
-&lt;li&gt;What can we learn about the human language faculty by studying historical phonology?&lt;/li&gt;
+&lt;li&gt;The Indo-European language family&lt;/li&gt;
+&lt;li&gt;Celtic languages&lt;/li&gt;
+&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I cover the following topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Phonological typology and historical phonology (with a focus on consonants)&lt;/li&gt;
-&lt;li&gt;Lenition&lt;/li&gt;
-&lt;li&gt;Historical phonology and phonological representations&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Course materials are available on &lt;a href=&#34;http://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For course materials, see the relevant page on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;&lt;/p&gt;
 </description>
 </item>
 
@@ -903,19 +894,28 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 
 
 <item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>http://anghyflawn.github.io/teaching/2015/lel2e/</link>
+<title>Historical Phonology</title>
+<link>http://anghyflawn.github.io/teaching/2015/historical-phonology/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
+<guid>http://anghyflawn.github.io/teaching/2015/historical-phonology/</guid>
+<description>&lt;p&gt;In this course (co-taught with my colleagues &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt; and &lt;a href=&#34;http://www.lel.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt;) we consider a variety of issues connected to phonological change. Throughout the course, we address questions such as the following:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;The Indo-European language family&lt;/li&gt;
-&lt;li&gt;Celtic languages&lt;/li&gt;
-&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
+&lt;li&gt;How do we reconstruct the phonology of past language states?&lt;/li&gt;
+&lt;li&gt;What types of phonological changes are attested?&lt;/li&gt;
+&lt;li&gt;How can synchronic phonological theory assist us in the study of historical phonology?&lt;/li&gt;
+&lt;li&gt;What can we learn about the human language faculty by studying historical phonology?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;For course materials, see the relevant page on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I cover the following topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Phonological typology and historical phonology (with a focus on consonants)&lt;/li&gt;
+&lt;li&gt;Lenition&lt;/li&gt;
+&lt;li&gt;Historical phonology and phonological representations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Course materials are available on &lt;a href=&#34;http://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
