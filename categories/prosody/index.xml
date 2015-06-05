@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Tue, 02 Jun 2015 21:16:06 BST</updated>
+    <updated>Fri, 05 Jun 2015 12:13:07 BST</updated>
 
 
 
@@ -73,7 +73,7 @@
 <item>
 <title>Phonological Theory</title>
 <link>http://anghyflawn.github.io/teaching/2015/phonological-theory/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<pubDate>Tue, 17 Feb 2015 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/teaching/2015/phonological-theory/</guid>
 <description>&lt;p&gt;This course introduces students to a range of important topics in (generative) phonological theory and to phonological data analysis. On the theoretical side, we will cover the following topics:&lt;/p&gt;
 
@@ -170,7 +170,7 @@ question of internal vs external origin of preaspiration.&lt;/p&gt;
 <link>http://anghyflawn.github.io/news/2015/gregynog/</link>
 <pubDate>Tue, 07 Jul 2015 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/news/2015/gregynog/</guid>
-<description>&lt;p&gt;I will present &lt;em&gt;Free and not so free: Dialect variation and quantity-quality interactions in Welsh vowels&lt;/em&gt; at the &lt;a href=&#34;http://privatewww.essex.ac.uk/~rborsley/wss/wss-22.htm&#34;&gt;22nd Welsh Linguistics Seminar&lt;/a&gt;&lt;/p&gt;
+<description>&lt;p&gt;I will present &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/free-not-so-free-dialect-variation-quantity-quality-interactions-welsh-vowels/&#34;&gt;&lt;em&gt;Free and not so free: Dialect variation and quantity-quality interactions in Welsh vowels&lt;/em&gt;&lt;/a&gt; at the &lt;a href=&#34;http://privatewww.essex.ac.uk/~rborsley/wss/wss-22.htm&#34;&gt;22nd Welsh Linguistics Seminar&lt;/a&gt;&lt;/p&gt;
 </description>
 </item>
 
@@ -188,17 +188,6 @@ question of internal vs external origin of preaspiration.&lt;/p&gt;
 
 
 <item>
-<title>Welsh vowels presentation at the mfm</title>
-<link>http://anghyflawn.github.io/news/2015/welsh-vowels/</link>
-<pubDate>Sat, 30 May 2015 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/news/2015/welsh-vowels/</guid>
-<description>&lt;p&gt;I presented &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/quantity-quality-interactions-in-welsh-vowels-phonologization-across-dialects/&#34;&gt;&lt;em&gt;Quantity-quality interactions in Welsh vowels: Phonologization across dialects&lt;/em&gt;&lt;/a&gt; at the &lt;a href=&#34;http://www.lel.ed.ac.uk/mfm/23mfm.html&#34;&gt;23rd Manchester Phonology Meeting&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
 <title>Quantity-quality interactions in Welsh vowels</title>
 <link>http://anghyflawn.github.io/presentation/2015/quantity-quality-interactions-in-welsh-vowels-phonologization-across-dialects/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -208,6 +197,17 @@ question of internal vs external origin of preaspiration.&lt;/p&gt;
 &lt;p&gt;The handout is much more detailed than the slides. However, there is a rather embarrassing misinterpretation of the durational effect for the &amp;lsquo;non-enhanced&amp;rsquo; system. I&amp;rsquo;m leaving this unchanged in the interest of historical veracity, but see my &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/free-not-so-free-dialect-variation-quantity-quality-interactions-welsh-vowels/&#34;&gt;Gregynog presentation&lt;/a&gt;, once it&amp;rsquo;s available, for the corrected version.&lt;/p&gt;
 
 &lt;p&gt;Also, I plan on releasing the data behind this presentation fairly soon &amp;mdash; check back later for a link.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Welsh vowels presentation at the mfm</title>
+<link>http://anghyflawn.github.io/news/2015/welsh-vowels/</link>
+<pubDate>Sat, 30 May 2015 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2015/welsh-vowels/</guid>
+<description>&lt;p&gt;I presented &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/quantity-quality-interactions-in-welsh-vowels-phonologization-across-dialects/&#34;&gt;&lt;em&gt;Quantity-quality interactions in Welsh vowels: Phonologization across dialects&lt;/em&gt;&lt;/a&gt; at the &lt;a href=&#34;http://www.lel.ed.ac.uk/mfm/23mfm.html&#34;&gt;23rd Manchester Phonology Meeting&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
@@ -839,7 +839,7 @@ will be automatic
 <title>‘Pitch accent’ and prosodic structure in Scottish Gaelic</title>
 <link>http://anghyflawn.github.io/writing/icngl-proceedings/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/icngl-proceedings/</guid>
+<guid>http://anghyflawn.github.io/presentation/2012/a-unified-account-of-the-behaviour-of-high-vowels-in-bothoa-breton/</guid>
 <description>&lt;p&gt;This paper considers the origin of &amp;lsquo;pitch accents&amp;rsquo; in Scottish Gaelic
 with a view to evaluating the hypothesis that this feature was
 borrowed from North Germanic varieties spoken by Norse settlers in
@@ -878,29 +878,6 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 
 
 <item>
-<title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
-<link>http://anghyflawn.github.io/teaching/2015/lel2d/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/lel2d/</guid>
-<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the entire phonology block. We cover the following topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Phonological typology and theory. Universals in phonology; descriptive and analytic universals&lt;/li&gt;
-&lt;li&gt;Universals of inventory organization; feature theory&lt;/li&gt;
-&lt;li&gt;Syllable structure. Typology of syllable structures&lt;/li&gt;
-&lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
-&lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
-&lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
-&lt;li&gt;Tone and its typology; austosegmental phonology.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Course materials are available on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
 <title>Historical Phonology</title>
 <link>http://anghyflawn.github.io/teaching/2015/historical-phonology/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -923,6 +900,29 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Course materials are available on &lt;a href=&#34;http://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
+<link>http://anghyflawn.github.io/teaching/2015/lel2d/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2015/lel2d/</guid>
+<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the entire phonology block. We cover the following topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Phonological typology and theory. Universals in phonology; descriptive and analytic universals&lt;/li&gt;
+&lt;li&gt;Universals of inventory organization; feature theory&lt;/li&gt;
+&lt;li&gt;Syllable structure. Typology of syllable structures&lt;/li&gt;
+&lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
+&lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
+&lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
+&lt;li&gt;Tone and its typology; austosegmental phonology.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Course materials are available on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
@@ -1355,6 +1355,15 @@ interactions.&lt;/p&gt;
 
 
 
+<item>
+<title>Deconstructing mutation in Breton</title>
+<link>http://anghyflawn.github.io/presentation/2014/manchester-areal-phonology-talk/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2014/manchester-areal-phonology-talk/</guid>
+<description>&lt;p&gt;This presents some work in progress on common phonological features in Northern Europe (preaspiration, pitch accents, sonorant pre-occlusion). Email me if you&amp;rsquo;re interested in the handout.&lt;/p&gt;
+</description>
+</item>
+
 
 
 <item>
@@ -1435,22 +1444,6 @@ interactions.&lt;/p&gt;
 
 
 <item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>http://anghyflawn.github.io/teaching/2014/lel2e/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2014/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for the following sections:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Celtic languages&lt;/li&gt;
-&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-
-
-
-<item>
 <title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
 <link>http://anghyflawn.github.io/teaching/2014/lel2d/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -1464,6 +1457,22 @@ interactions.&lt;/p&gt;
 &lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
 &lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
 &lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>LEL2E: Structure and History of European Languages</title>
+<link>http://anghyflawn.github.io/teaching/2014/lel2e/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2014/lel2e/</guid>
+<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for the following sections:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Celtic languages&lt;/li&gt;
+&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
