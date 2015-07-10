@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Fri, 10 Jul 2015 21:19:44 BST</updated>
+    <updated>Fri, 10 Jul 2015 21:25:06 BST</updated>
 
 
 
@@ -157,7 +157,7 @@ question of internal vs external origin of preaspiration.&lt;/p&gt;
 <item>
 <title>ICCS</title>
 <link>http://anghyflawn.github.io/news/2015/iccs/</link>
-<pubDate>Mon, 20 Jul 2015 00:00:00 UTC</pubDate>
+<pubDate>Thu, 16 Jul 2015 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/news/2015/iccs/</guid>
 <description>&lt;p&gt;I will present &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/pitch-accent-and-preaspiration-in-gaelic-reconsidering-contact-origins/&#34;&gt;&lt;em&gt;Pitch accent and preaspiration in Gaelic: Reconsidering contact origins&lt;/em&gt;&lt;/a&gt; at the &lt;a href=&#34;http://www.celticstudiescongress.org&#34;&gt;15th International Congress of Celtic Studies&lt;/a&gt; at the University of Glasgow, Scotland.&lt;/p&gt;
 </description>
@@ -878,6 +878,34 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 
 
 <item>
+<title>Historical Phonology</title>
+<link>http://anghyflawn.github.io/teaching/2015/historical-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2015/historical-phonology/</guid>
+<description>&lt;p&gt;In this course (co-taught with my colleagues &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt; and &lt;a href=&#34;http://www.lel.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt;) we consider a variety of issues connected to phonological change. Throughout the course, we address questions such as the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How do we reconstruct the phonology of past language states?&lt;/li&gt;
+&lt;li&gt;What types of phonological changes are attested?&lt;/li&gt;
+&lt;li&gt;How can synchronic phonological theory assist us in the study of historical phonology?&lt;/li&gt;
+&lt;li&gt;What can we learn about the human language faculty by studying historical phonology?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I cover the following topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Phonological typology and historical phonology (with a focus on consonants)&lt;/li&gt;
+&lt;li&gt;Lenition&lt;/li&gt;
+&lt;li&gt;Historical phonology and phonological representations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Course materials are available on &lt;a href=&#34;http://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
 <title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
 <link>http://anghyflawn.github.io/teaching/2015/lel2d/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -914,34 +942,6 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;For course materials, see the relevant page on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Historical Phonology</title>
-<link>http://anghyflawn.github.io/teaching/2015/historical-phonology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/historical-phonology/</guid>
-<description>&lt;p&gt;In this course (co-taught with my colleagues &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt; and &lt;a href=&#34;http://www.lel.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt;) we consider a variety of issues connected to phonological change. Throughout the course, we address questions such as the following:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;How do we reconstruct the phonology of past language states?&lt;/li&gt;
-&lt;li&gt;What types of phonological changes are attested?&lt;/li&gt;
-&lt;li&gt;How can synchronic phonological theory assist us in the study of historical phonology?&lt;/li&gt;
-&lt;li&gt;What can we learn about the human language faculty by studying historical phonology?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I cover the following topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Phonological typology and historical phonology (with a focus on consonants)&lt;/li&gt;
-&lt;li&gt;Lenition&lt;/li&gt;
-&lt;li&gt;Historical phonology and phonological representations&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Course materials are available on &lt;a href=&#34;http://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
@@ -1191,7 +1191,7 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 <title>Getting ESS and AUCTeX to play nicely with knitr</title>
 <link>http://anghyflawn.github.io/blog/2014/getting-ess-and-auctex-to-play-nicely-with-knitr/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/2012/20mfm/</guid>
+<guid>http://anghyflawn.github.io/blog/2014/getting-ess-and-auctex-to-play-nicely-with-knitr/</guid>
 <description>&lt;p&gt;Although my job title is &amp;lsquo;Lecturer in Theoretical Phonology&amp;rsquo; (&lt;a href=&#34;http://www.research.ed.ac.uk/portal/en/persons/pavel-iosad(976edf38-f950-4179-a032-a6cea4b31b3b.html&#34;&gt;no, really&lt;/a&gt;), I&amp;rsquo;ve been getting into more empirical work. I went on a data collection trip to South Wales in February to work with Welsh, and only early this week we had two great days collecting Gaelic data in North Argyll – not an area &lt;em&gt;readily&lt;/em&gt; associated with Gaelic these days, but in fact we found quite a few very good speakers.&lt;/p&gt;
 
 &lt;p&gt;Anyway, this post isn&amp;rsquo;t about that. Having collected the data and processed some of it, I have also been getting to grips with &lt;em&gt;actually&lt;/em&gt; doing statistical analysis (as opposed to working through textbooks), which these days inevitably means &lt;a href=&#34;http://www.r-project.org.&#34;&gt;R&lt;/a&gt;. I&amp;rsquo;m giving a couple of talks in Wales next week (&lt;a href=&#34;http://privatewww.essex.ac.uk/~wss/wss-21.htm&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;http://amrywiaeth.wordpress.com&#34;&gt;here&lt;/a&gt;) with some of the results, so the time had come for me to think about getting my data into my presentations (and eventually papers). Being a LaTeX user, after some poking about I settled on &lt;a href=&#34;http://yihui.name/knitr&#34;&gt;knitr&lt;/a&gt; as the way to get stuff out of R and into LaTeX.&lt;/p&gt;
@@ -1439,6 +1439,17 @@ interactions.&lt;/p&gt;
 <link>http://anghyflawn.github.io/teaching/2014/lel2d/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/teaching/2014/lel2d/</guid>
+<description>&lt;p&gt;In this paper I propose an analysis of stress in Munster Irish which builds on two important premises. First, I argue for a distinction between the notion &amp;lsquo;head of a constituent&amp;rsquo; and the notion of &amp;lsquo;stress&amp;rsquo;: these are separate entities, and the typologically frequent isomorphic distribution of the two is just one possible outcome of the phonological computation. Second, I propose to employ a particular family of constraints requiring head-dependent asymmetries (Dresher and van der Hulst 1998) to account for the mismatch between the placement of foot heads and stress in Munster Irish. Overall, the paper is an argument for elaborate abstract structure as an explanatory factor in phonology, as opposed to relatively shallow, substance-based representations.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
+<link>http://anghyflawn.github.io/teaching/2014/lel2d/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2014/lel2d/</guid>
 <description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for most of the phonology block. We covered the following topics:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -1448,22 +1459,6 @@ interactions.&lt;/p&gt;
 &lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
 &lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
 &lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>http://anghyflawn.github.io/teaching/2014/lel2e/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2014/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for the following sections:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Celtic languages&lt;/li&gt;
-&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
