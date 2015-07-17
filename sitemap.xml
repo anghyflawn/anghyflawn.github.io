@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/teaching/2015/phonological-theory/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://anghyflawn.github.io/news/2015/frlsu/</loc>
     <lastmod>2015-08-20T00:00:00+00:00</lastmod>
   </url>
@@ -40,6 +35,11 @@
   <url>
     <loc>http://anghyflawn.github.io/news/2015/gregynog/</loc>
     <lastmod>2015-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/presentation/2015/free-not-so-free-dialect-variation-quantity-quality-interactions-welsh-vowels/</loc>
+    <lastmod>2015-07-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -108,23 +108,8 @@
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/news/2015/icngl11-paper/</loc>
-    <lastmod>2015-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://anghyflawn.github.io/writing/icngl-proceedings/</loc>
-    <lastmod>2015-01-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://anghyflawn.github.io/teaching/2015/current-issues-in-phonology/</loc>
     <lastmod>2015-01-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://anghyflawn.github.io/teaching/2015/historical-phonology/</loc>
-    <lastmod>2015-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -143,13 +128,18 @@
   </url>
   
   <url>
+    <loc>http://anghyflawn.github.io/news/2014/rse-grant/</loc>
+    <lastmod>2014-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://anghyflawn.github.io/blog/2014/teaching-slides-with-pandoc-and-reveal-js/</loc>
     <lastmod>2014-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/teaching/2014/phonological-theory/</loc>
-    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    <loc>http://anghyflawn.github.io/blog/2014/norsemen-in-scotland-a-linguistic-view-part-2/</loc>
+    <lastmod>2014-08-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -223,8 +213,18 @@
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/blog/2014/first-post/</loc>
-    <lastmod>2014-01-12T00:00:00+00:00</lastmod>
+    <loc>http://anghyflawn.github.io/presentation/2014/hxphon2014/</loc>
+    <lastmod>2014-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/teaching/2014/lel2d/</loc>
+    <lastmod>2014-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/teaching/2014/lel2d/</loc>
+    <lastmod>2014-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -323,8 +323,8 @@
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/presentation/2011/pj-workshop/</loc>
-    <lastmod>2011-01-10T00:00:00+00:00</lastmod>
+    <loc>http://anghyflawn.github.io/presentation/2010/final-devoicing-and-vowel-lengthening-in-the-north-of-italy-a-representational-approach/</loc>
+    <lastmod>2010-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -408,28 +408,13 @@
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/presentation/2008/novemberseminaret-reduction/</loc>
-    <lastmod>2008-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://anghyflawn.github.io/presentation/2008/16mfm/</loc>
-    <lastmod>2008-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://anghyflawn.github.io/presentation/2008/glow31-mutations/</loc>
-    <lastmod>2008-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://anghyflawn.github.io/presentation/2008/glow31-liquids/</loc>
-    <lastmod>2008-04-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://anghyflawn.github.io/presentation/2008/castl-colloquium-mutations/</loc>
     <lastmod>2008-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/presentation/2008/ocp5/</loc>
+    <lastmod>2008-01-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -448,6 +433,16 @@
   </url>
   
   <url>
+    <loc>http://anghyflawn.github.io/presentation/2007/ocp4/</loc>
+    <lastmod>2007-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/presentation/2006/spb-welsh-mutation/</loc>
+    <lastmod>2006-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://anghyflawn.github.io/presentation/2006/spb-welsh-mutation/</loc>
     <lastmod>2006-10-15T00:00:00+00:00</lastmod>
   </url>
@@ -460,6 +455,11 @@
   <url>
     <loc>http://anghyflawn.github.io/presentation/2006/mscl2006/</loc>
     <lastmod>2006-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/presentation/2006/rara-rarissima/</loc>
+    <lastmod>2006-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
