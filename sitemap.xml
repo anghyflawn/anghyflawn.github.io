@@ -28,12 +28,22 @@
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/news/2015/iccs/</loc>
-    <lastmod>2015-07-16T00:00:00+00:00</lastmod>
+    <loc>http://anghyflawn.github.io/news/2015/ahrc/</loc>
+    <lastmod>2015-08-01T19:42:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/blog/2015/irish-isnt-compromised-it-just-needs-more-support/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://anghyflawn.github.io/presentation/2015/pitch-accent-and-preaspiration-in-gaelic-reconsidering-contact-origins/</loc>
+    <lastmod>2015-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/news/2015/iccs/</loc>
     <lastmod>2015-07-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -228,12 +238,12 @@
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/teaching/2014/lel2e/</loc>
+    <loc>http://anghyflawn.github.io/teaching/2014/lel2d/</loc>
     <lastmod>2014-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/teaching/2014/lel2d/</loc>
+    <loc>http://anghyflawn.github.io/teaching/2014/lel2e/</loc>
     <lastmod>2014-01-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -328,8 +338,8 @@
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/presentation/2010/final-devoicing-and-vowel-lengthening-in-the-north-of-italy-a-representational-approach/</loc>
-    <lastmod>2010-12-13T00:00:00+00:00</lastmod>
+    <loc>http://anghyflawn.github.io/presentation/2010/a-bad-case-of-excessive-computation-the-role-of-morphology-in-palatalization-related-alternations-in-russian/</loc>
+    <lastmod>2010-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -403,11 +413,6 @@
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/presentation/2009/tromso-russian-reduction/</loc>
-    <lastmod>2009-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://anghyflawn.github.io/presentation/2008/novemberseminaret-reduction/</loc>
     <lastmod>2008-11-15T00:00:00+00:00</lastmod>
   </url>
@@ -425,6 +430,11 @@
   <url>
     <loc>http://anghyflawn.github.io/presentation/2008/glow31-liquids/</loc>
     <lastmod>2008-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/presentation/2008/castl-colloquium-mutations/</loc>
+    <lastmod>2008-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
