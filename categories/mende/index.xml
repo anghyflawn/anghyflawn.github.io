@@ -25,7 +25,20 @@
     <language>en-gb</language>
     
     
-    <updated>Fri, 14 Aug 2015 11:59:39 BST</updated>
+    <updated>Fri, 14 Aug 2015 21:06:06 BST</updated>
+
+
+
+<item>
+<title>LEL2D: Cross-Linguistic Variation: Limits and Theories</title>
+<link>http://anghyflawn.github.io/teaching/2016/lel2d/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2016/lel2d/</guid>
+<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block; please check back nearer the time for an outline of the exact content.&lt;/p&gt;
+
+&lt;p&gt;Course materials will be available on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
 
 
 
@@ -129,6 +142,17 @@ Icelandic, and discuss the consequences of this analysis for the
 question of internal vs external origin of preaspiration.&lt;/p&gt;
 
 &lt;p&gt;Sound files are embedded in the handout: they can be played with Adobe Reader.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>sem1 teaching</title>
+<link>http://anghyflawn.github.io/news/2015/sem1-teaching/</link>
+<pubDate>Fri, 14 Aug 2015 20:57:36 BST</pubDate>
+<guid>http://anghyflawn.github.io/news/2015/sem1-teaching/</guid>
+<description>&lt;p&gt;In the autumn semester of &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;, I am teaching &lt;a href=&#34;{{ relref &amp;quot;teaching/2015/phonological-theory.md&amp;quot; }}&#34;&gt;LASC10088 Phonological Theory&lt;/a&gt;. For further teaching plans, see &lt;a href=&#34;{{ .Site.BaseUrl }}/teaching&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
@@ -429,7 +453,8 @@ activists.&lt;/p&gt;
 <link>http://anghyflawn.github.io/news/2015/nrn/</link>
 <pubDate>Wed, 18 Feb 2015 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/news/2015/nrn/</guid>
-<description></description>
+<description>&lt;p&gt;I presented &amp;lsquo;An echoing tone: Pitch accent parallels in Scandinavia and Scotland&amp;rsquo; at the &lt;a href=&#34;http://www.nordicresearchnetwork.co.uk&#34;&gt;Nordic Research Network&lt;/a&gt; conference at the University of Edinburgh. &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/an-echoing-tone-pitch-accent-parallels-in-scandinavia-and-scotland/&#34;&gt;Get the slides and handout&lt;/a&gt;.&lt;/p&gt;
+</description>
 </item>
 
 
@@ -945,28 +970,19 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 
 
 <item>
-<title>Historical Phonology</title>
-<link>http://anghyflawn.github.io/teaching/2015/historical-phonology/</link>
+<title>LEL2E: Structure and History of European Languages</title>
+<link>http://anghyflawn.github.io/teaching/2015/lel2e/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/historical-phonology/</guid>
-<description>&lt;p&gt;In this course (co-taught with my colleagues &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt; and &lt;a href=&#34;http://www.lel.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt;) we consider a variety of issues connected to phonological change. Throughout the course, we address questions such as the following:&lt;/p&gt;
+<guid>http://anghyflawn.github.io/teaching/2015/lel2e/</guid>
+<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;How do we reconstruct the phonology of past language states?&lt;/li&gt;
-&lt;li&gt;What types of phonological changes are attested?&lt;/li&gt;
-&lt;li&gt;How can synchronic phonological theory assist us in the study of historical phonology?&lt;/li&gt;
-&lt;li&gt;What can we learn about the human language faculty by studying historical phonology?&lt;/li&gt;
+&lt;li&gt;The Indo-European language family&lt;/li&gt;
+&lt;li&gt;Celtic languages&lt;/li&gt;
+&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I cover the following topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Phonological typology and historical phonology (with a focus on consonants)&lt;/li&gt;
-&lt;li&gt;Lenition&lt;/li&gt;
-&lt;li&gt;Historical phonology and phonological representations&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Course materials are available on &lt;a href=&#34;http://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For course materials, see the relevant page on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;&lt;/p&gt;
 </description>
 </item>
 
@@ -996,19 +1012,28 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 
 
 <item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>http://anghyflawn.github.io/teaching/2015/lel2e/</link>
+<title>Historical Phonology</title>
+<link>http://anghyflawn.github.io/teaching/2015/historical-phonology/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
+<guid>http://anghyflawn.github.io/teaching/2015/historical-phonology/</guid>
+<description>&lt;p&gt;In this course (co-taught with my colleagues &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt; and &lt;a href=&#34;http://www.lel.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt;) we consider a variety of issues connected to phonological change. Throughout the course, we address questions such as the following:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;The Indo-European language family&lt;/li&gt;
-&lt;li&gt;Celtic languages&lt;/li&gt;
-&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
+&lt;li&gt;How do we reconstruct the phonology of past language states?&lt;/li&gt;
+&lt;li&gt;What types of phonological changes are attested?&lt;/li&gt;
+&lt;li&gt;How can synchronic phonological theory assist us in the study of historical phonology?&lt;/li&gt;
+&lt;li&gt;What can we learn about the human language faculty by studying historical phonology?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;For course materials, see the relevant page on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I cover the following topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Phonological typology and historical phonology (with a focus on consonants)&lt;/li&gt;
+&lt;li&gt;Lenition&lt;/li&gt;
+&lt;li&gt;Historical phonology and phonological representations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Course materials are available on &lt;a href=&#34;http://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
@@ -1502,26 +1527,6 @@ interactions.&lt;/p&gt;
 
 
 <item>
-<title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
-<link>http://anghyflawn.github.io/teaching/2014/lel2d/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2014/lel2d/</guid>
-<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for most of the phonology block. We covered the following topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Phonological typology and theory. Universals in phonology; descriptive and analytic universals&lt;/li&gt;
-&lt;li&gt;Universals of inventory organization; feature theory&lt;/li&gt;
-&lt;li&gt;Syllable structure. Typology of syllable structures&lt;/li&gt;
-&lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
-&lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
-&lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-
-
-
-<item>
 <title>LEL2E: Structure and History of European Languages</title>
 <link>http://anghyflawn.github.io/teaching/2014/lel2e/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -1538,15 +1543,22 @@ interactions.&lt;/p&gt;
 
 
 <item>
-<title>Minority languages, microvariation, minimalism and meaning</title>
-<link>http://anghyflawn.github.io/writing/infl-book/</link>
-<pubDate>Fri, 01 Nov 2013 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/infl-book/</guid>
-<description>&lt;p&gt;This books is a collection of papers presented at the inaugural conference of the Irish Network in Formal Linguistics. To see the table of contents and the editors&amp;rsquo; introduction, go &lt;a href=&#34;http://www.cambridgescholars.com/download/sample/59622&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+<title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
+<link>http://anghyflawn.github.io/teaching/2014/lel2d/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2014/lel2d/</guid>
+<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for most of the phonology block. We covered the following topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Phonological typology and theory. Universals in phonology; descriptive and analytic universals&lt;/li&gt;
+&lt;li&gt;Universals of inventory organization; feature theory&lt;/li&gt;
+&lt;li&gt;Syllable structure. Typology of syllable structures&lt;/li&gt;
+&lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
+&lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
+&lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
+&lt;/ul&gt;
 </description>
 </item>
-
-
 
 
   </channel>

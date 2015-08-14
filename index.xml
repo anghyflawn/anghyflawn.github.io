@@ -25,7 +25,20 @@
     <language>en-gb</language>
     
     
-    <updated>Fri, 14 Aug 2015 11:59:39 BST</updated>
+    <updated>Fri, 14 Aug 2015 21:06:06 BST</updated>
+
+
+
+<item>
+<title>LEL2D: Cross-Linguistic Variation: Limits and Theories</title>
+<link>http://anghyflawn.github.io/teaching/2016/lel2d/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2016/lel2d/</guid>
+<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block; please check back nearer the time for an outline of the exact content.&lt;/p&gt;
+
+&lt;p&gt;Course materials will be available on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
 
 
 
@@ -129,6 +142,17 @@ Icelandic, and discuss the consequences of this analysis for the
 question of internal vs external origin of preaspiration.&lt;/p&gt;
 
 &lt;p&gt;Sound files are embedded in the handout: they can be played with Adobe Reader.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>sem1 teaching</title>
+<link>http://anghyflawn.github.io/news/2015/sem1-teaching/</link>
+<pubDate>Fri, 14 Aug 2015 20:57:36 BST</pubDate>
+<guid>http://anghyflawn.github.io/news/2015/sem1-teaching/</guid>
+<description>&lt;p&gt;In the autumn semester of &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;, I am teaching &lt;a href=&#34;{{ relref &amp;quot;teaching/2015/phonological-theory.md&amp;quot; }}&#34;&gt;LASC10088 Phonological Theory&lt;/a&gt;. For further teaching plans, see &lt;a href=&#34;{{ .Site.BaseUrl }}/teaching&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
@@ -1535,19 +1559,6 @@ interactions.&lt;/p&gt;
 &lt;/ul&gt;
 </description>
 </item>
-
-
-
-<item>
-<title>Minority languages, microvariation, minimalism and meaning</title>
-<link>http://anghyflawn.github.io/writing/infl-book/</link>
-<pubDate>Fri, 01 Nov 2013 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/infl-book/</guid>
-<description>&lt;p&gt;This books is a collection of papers presented at the inaugural conference of the Irish Network in Formal Linguistics. To see the table of contents and the editors&amp;rsquo; introduction, go &lt;a href=&#34;http://www.cambridgescholars.com/download/sample/59622&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
 
 
   </channel>

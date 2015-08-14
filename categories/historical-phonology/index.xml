@@ -25,7 +25,20 @@
     <language>en-gb</language>
     
     
-    <updated>Fri, 14 Aug 2015 11:59:39 BST</updated>
+    <updated>Fri, 14 Aug 2015 21:06:06 BST</updated>
+
+
+
+<item>
+<title>LEL2D: Cross-Linguistic Variation: Limits and Theories</title>
+<link>http://anghyflawn.github.io/teaching/2016/lel2d/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2016/lel2d/</guid>
+<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block; please check back nearer the time for an outline of the exact content.&lt;/p&gt;
+
+&lt;p&gt;Course materials will be available on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
 
 
 
@@ -129,6 +142,17 @@ Icelandic, and discuss the consequences of this analysis for the
 question of internal vs external origin of preaspiration.&lt;/p&gt;
 
 &lt;p&gt;Sound files are embedded in the handout: they can be played with Adobe Reader.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>sem1 teaching</title>
+<link>http://anghyflawn.github.io/news/2015/sem1-teaching/</link>
+<pubDate>Fri, 14 Aug 2015 20:57:36 BST</pubDate>
+<guid>http://anghyflawn.github.io/news/2015/sem1-teaching/</guid>
+<description>&lt;p&gt;In the autumn semester of &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;, I am teaching &lt;a href=&#34;{{ relref &amp;quot;teaching/2015/phonological-theory.md&amp;quot; }}&#34;&gt;LASC10088 Phonological Theory&lt;/a&gt;. For further teaching plans, see &lt;a href=&#34;{{ .Site.BaseUrl }}/teaching&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
@@ -411,21 +435,10 @@ activists.&lt;/p&gt;
 
 
 
-<item>
-<title>An echoing tone</title>
-<link>http://anghyflawn.github.io/presentation/2015/an-echoing-tone-pitch-accent-parallels-in-scandinavia-and-scotland/</link>
-<pubDate>Sun, 01 Mar 2015 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/2015/an-echoing-tone-pitch-accent-parallels-in-scandinavia-and-scotland/</guid>
-<description>&lt;p&gt;This talk was presented at the &lt;a href=&#34;http://www.nordicresearchnetwork.co.uk&#34;&gt;Nordic Research Network 2015 conference&lt;/a&gt; at the &lt;a href=&#34;http://www.ed.ac.uk&#34;&gt;University of Edinburgh&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;In this talk, I consider the origins of pitch accents in North Germanic and in Scottish Gaelic. I argue that in both cases the more plausible hypothesis involves the realization of an identical tonal melody over different temporal domains, particularly by the mechanism of peak delay. This is not a new idea, but I support it by a consideration of the interaction of tone and apocope in Zealand Danish and in Central Scandinavian. The application of this mechanism to Gaelic shows that tonal accents found in places like Lewis are a special case of a system that is widely spread in Ulster and Scotland, with Argyll and East Ulster as an innovating centre &amp;mdash; recourse to contact with Norse is not necessary to explain their appearance. Find the slides below, or download the &lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://anghyflawn.github.io/pdf/nrn2015.handout.pdf&#34;&gt;handout&lt;/a&gt;, which is slightly more detailed.&lt;/p&gt;
-</description>
-</item>
-
 
 
 <item>
-<title>nrn</title>
+<title>Phonetic realization is irrelevant for phonological representation</title>
 <link>http://anghyflawn.github.io/news/2015/nrn/</link>
 <pubDate>Wed, 18 Feb 2015 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/news/2015/nrn/</guid>
@@ -1241,7 +1254,7 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 
 
 <item>
-<title>Length and tenseness across Welsh dialects</title>
+<title>ICNGL paper</title>
 <link>http://anghyflawn.github.io/presentation/2014/length-and-tenseness-across-welsh-dialects/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/presentation/2014/length-and-tenseness-across-welsh-dialects/</guid>
@@ -1503,26 +1516,6 @@ interactions.&lt;/p&gt;
 
 
 <item>
-<title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
-<link>http://anghyflawn.github.io/teaching/2014/lel2d/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2014/lel2d/</guid>
-<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for most of the phonology block. We covered the following topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Phonological typology and theory. Universals in phonology; descriptive and analytic universals&lt;/li&gt;
-&lt;li&gt;Universals of inventory organization; feature theory&lt;/li&gt;
-&lt;li&gt;Syllable structure. Typology of syllable structures&lt;/li&gt;
-&lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
-&lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
-&lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-
-
-
-<item>
 <title>LEL2E: Structure and History of European Languages</title>
 <link>http://anghyflawn.github.io/teaching/2014/lel2e/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -1539,15 +1532,22 @@ interactions.&lt;/p&gt;
 
 
 <item>
-<title>Minority languages, microvariation, minimalism and meaning</title>
-<link>http://anghyflawn.github.io/writing/infl-book/</link>
-<pubDate>Fri, 01 Nov 2013 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/infl-book/</guid>
-<description>&lt;p&gt;This books is a collection of papers presented at the inaugural conference of the Irish Network in Formal Linguistics. To see the table of contents and the editors&amp;rsquo; introduction, go &lt;a href=&#34;http://www.cambridgescholars.com/download/sample/59622&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+<title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
+<link>http://anghyflawn.github.io/teaching/2014/lel2d/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2014/lel2d/</guid>
+<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for most of the phonology block. We covered the following topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Phonological typology and theory. Universals in phonology; descriptive and analytic universals&lt;/li&gt;
+&lt;li&gt;Universals of inventory organization; feature theory&lt;/li&gt;
+&lt;li&gt;Syllable structure. Typology of syllable structures&lt;/li&gt;
+&lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
+&lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
+&lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
+&lt;/ul&gt;
 </description>
 </item>
-
-
 
 
   </channel>

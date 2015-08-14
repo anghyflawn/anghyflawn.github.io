@@ -25,7 +25,20 @@
     <language>en-gb</language>
     
     
-    <updated>Fri, 14 Aug 2015 11:59:39 BST</updated>
+    <updated>Fri, 14 Aug 2015 21:06:06 BST</updated>
+
+
+
+<item>
+<title>LEL2D: Cross-Linguistic Variation: Limits and Theories</title>
+<link>http://anghyflawn.github.io/teaching/2016/lel2d/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2016/lel2d/</guid>
+<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block; please check back nearer the time for an outline of the exact content.&lt;/p&gt;
+
+&lt;p&gt;Course materials will be available on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
 
 
 
@@ -70,6 +83,31 @@
 
 
 
+<item>
+<title>Phonological Theory</title>
+<link>http://anghyflawn.github.io/teaching/2015/phonological-theory/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2015/phonological-theory/</guid>
+<description>&lt;p&gt;This course introduces students to a range of important topics in (generative) phonological theory and to phonological data analysis. On the theoretical side, we will cover the following topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Basics of phonological theory&lt;/li&gt;
+&lt;li&gt;Feature theory&lt;/li&gt;
+&lt;li&gt;Derivations, underlying representations, rules&lt;/li&gt;
+&lt;li&gt;Process interaction and rule ordering&lt;/li&gt;
+&lt;li&gt;Phonological typology&lt;/li&gt;
+&lt;li&gt;Suprasegmental phonology: syllable structure, stress, tone&lt;/li&gt;
+&lt;li&gt;Advanced feature theory: feature geometry, unary features&lt;/li&gt;
+&lt;li&gt;Constraints in phonology: well-formedness conditions, templates, conspiracies, the &amp;lsquo;duplication problem&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;Explanation in phonology&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Throughout the course, there is a strong emphasis on building data analysis and problem solving skills. Click &lt;a href=&#34;http://anghyflawn.github.io/teaching/2014/phonological-theory/&#34;&gt;here&lt;/a&gt; for last year&amp;rsquo;s course handbook.&lt;/p&gt;
+
+&lt;p&gt;Following this course, students will be able to progress to advanced study of phonological theory. In &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;, we will &lt;em&gt;not&lt;/em&gt; be offering LASC10089 Current Issues in Phonology, but it is planned that this will run in the second semester of &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;. Get in touch early with prospective supervisors if you&amp;rsquo;re thinking about an Honours dissertation in phonology in &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;, because it is likely you&amp;rsquo;ll need to do some summer reading. Conversely, LASC10046 Historical Phonology &lt;em&gt;is&lt;/em&gt; running this year, but not next year. Plan accordingly.&lt;/p&gt;
+</description>
+</item>
+
 
 
 <item>
@@ -104,6 +142,17 @@ Icelandic, and discuss the consequences of this analysis for the
 question of internal vs external origin of preaspiration.&lt;/p&gt;
 
 &lt;p&gt;Sound files are embedded in the handout: they can be played with Adobe Reader.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>sem1 teaching</title>
+<link>http://anghyflawn.github.io/news/2015/sem1-teaching/</link>
+<pubDate>Fri, 14 Aug 2015 20:57:36 BST</pubDate>
+<guid>http://anghyflawn.github.io/news/2015/sem1-teaching/</guid>
+<description>&lt;p&gt;In the autumn semester of &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;, I am teaching &lt;a href=&#34;{{ relref &amp;quot;teaching/2015/phonological-theory.md&amp;quot; }}&#34;&gt;LASC10088 Phonological Theory&lt;/a&gt;. For further teaching plans, see &lt;a href=&#34;{{ .Site.BaseUrl }}/teaching&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
@@ -1478,22 +1527,6 @@ interactions.&lt;/p&gt;
 
 
 <item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>http://anghyflawn.github.io/teaching/2014/lel2e/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2014/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for the following sections:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Celtic languages&lt;/li&gt;
-&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-
-
-
-<item>
 <title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
 <link>http://anghyflawn.github.io/teaching/2014/lel2d/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -1514,15 +1547,18 @@ interactions.&lt;/p&gt;
 
 
 <item>
-<title>In search of lost phonology</title>
-<link>http://anghyflawn.github.io/writing/munster-irish-stress/</link>
-<pubDate>Fri, 01 Nov 2013 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/infl-book/</guid>
-<description>&lt;p&gt;This books is a collection of papers presented at the inaugural conference of the Irish Network in Formal Linguistics. To see the table of contents and the editors&amp;rsquo; introduction, go &lt;a href=&#34;http://www.cambridgescholars.com/download/sample/59622&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+<title>LEL2E: Structure and History of European Languages</title>
+<link>http://anghyflawn.github.io/teaching/2014/lel2e/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2014/lel2e/</guid>
+<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for the following sections:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Celtic languages&lt;/li&gt;
+&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
+&lt;/ul&gt;
 </description>
 </item>
-
-
 
 
   </channel>
