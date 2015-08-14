@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Thu, 13 Aug 2015 11:15:05 BST</updated>
+    <updated>Fri, 14 Aug 2015 11:59:39 BST</updated>
 
 
 
@@ -297,11 +297,50 @@ activists.&lt;/p&gt;
 <link>http://anghyflawn.github.io/blog/2015/making-emacs-hold-your-hand-dont-edit-a-tex-file-when-you-dont-mean-to/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/blog/2015/making-emacs-hold-your-hand-dont-edit-a-tex-file-when-you-dont-mean-to/</guid>
-<description>&lt;p&gt;I presented &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/pitch-accent-and-preaspiration-in-gaelic-reconsidering-contact-origins/&#34;&gt;&lt;em&gt;Pitch accent and preaspiration in Gaelic: Reconsidering contact origins&lt;/em&gt;&lt;/a&gt; at the &lt;a href=&#34;http://www.celticstudiescongress.org&#34;&gt;15th International Congress of Celtic Studies&lt;/a&gt; at the University of Glasgow, Scotland.&lt;/p&gt;
+<description>&lt;p&gt;As a user of LaTeX, R and Emacs, I naturally write up my research in &lt;code&gt;.Rnw&lt;/code&gt; files, using &lt;a href=&#34;http://yihui.name/knitr&#34;&gt;knitr&lt;/a&gt; to produce &lt;code&gt;.tex&lt;/code&gt; sources. With Emacs, this means I have access to both the awesome AUCTeX for writing LaTeX and the excellent ESS environment for the statistics at the same time. However, being the absent-minded academic that I am, I sometimes end up opening the woven &lt;code&gt;.tex&lt;/code&gt; file instead of the &lt;code&gt;.Rnw&lt;/code&gt; and make edits to that, which means it gets overwritten and lost the next time I run &lt;code&gt;knitr&lt;/code&gt;. This is suboptimal, but of course Emacs allows us to fix it.&lt;/p&gt;
+
+&lt;p&gt;This can be achieved by &lt;em&gt;advising&lt;/em&gt; the relevant function &amp;mdash; in this case &lt;code&gt;switch-to-buffer&lt;/code&gt;. The following bit of Elisp code will ask you when you&amp;rsquo;re trying to switch to a buffer with a &lt;code&gt;.tex&lt;/code&gt; file when there&amp;rsquo;s a corresponding &lt;code&gt;.Rnw&lt;/code&gt; file open at the some time. It&amp;rsquo;s not particularly robust (e.g. it doesn&amp;rsquo;t take cognizance of multiple buffers visiting files of the same name), but it gets the basic job done.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-lisp&#34;&gt;        (defun tex-Rnw-check (name)
+          &amp;quot;When opening a .tex file, check to make sure there isn&#39;t a
+      corresponding .Rnw available, to make sure we don&#39;t try to edit
+      the wrong file.&amp;quot;
+          (when (and (bufferp name)
+                     (buffer-file-name name))
+            (let* ((rnw-file (format &amp;quot;%s.Rnw&amp;quot; (file-name-sans-extension (buffer-file-name name)))))
+              (when (and (equal (file-name-extension (buffer-file-name name)) &amp;quot;tex&amp;quot;)
+                         (member rnw-file (mapcar #&#39;buffer-file-name (buffer-list))))
+                (if (yes-or-no-p &amp;quot;You are trying to open a .tex file, but the corresponding .Rnw file seems to be open. Are you sure?&amp;quot;)
+                    name
+                  (find-buffer-visiting rnw-file))))))
+      
+        (defadvice switch-to-buffer (around noweb-check activate)
+          (let ((buffer-or-name (or (tex-Rnw-check (ad-get-arg 0))
+                                    (ad-get-arg 0))))
+            ad-do-it))
+        (ad-update &#39;switch-to-buffer)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This uses the old &lt;code&gt;defadvice&lt;/code&gt; mechanism rather than the new &lt;code&gt;add-function&lt;/code&gt;, but seems to work well enough. (I&amp;rsquo;m stuck on Emacs 24.3, as later versions seems to have funky bugs with the display of some Unicode characters that I badly need.)&lt;/p&gt;
 </description>
 </item>
 
 
+
+<item>
+<title>About my name</title>
+<link>http://anghyflawn.github.io/my-name/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/my-name/</guid>
+<description>&lt;p&gt;My name is obviously problematic for English speakers (or indeed for Russian speakers), so I&amp;rsquo;m just putting this up for future reference.&lt;/p&gt;
+
+&lt;p&gt;In Russian, my surname is Иосад, pronounced in Modern Standard Russian as something like [i.aˈsat] &amp;mdash; that&amp;rsquo;s two onsetless syllables in a row, plus final devoicing. English speakers rightly ignore the final devoicing, but the two first syllables can still be a problem. The suggested version for English speakers is [ˈjɔːsəd], with the vowel of &lt;em&gt;thought&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In a sense, this is nothing but reverting to the historical origins of the name. It is originally Jewish, possibly deriving from Hebrew יסד, and pronounced with an initial [j]. In pre-Revolutionary Russia, &amp;lsquo;my&amp;rsquo; version of the name would have been written Iосадъ, because of the rule that prohibited writing any version of И (including Й, the expected spelling for [j]) before a vowel (see e.g. &lt;a href=&#34;https://en.wikipedia.org/wiki/Dotted_I_(Cyrillic&#34;&gt;this Wikipedia page&lt;/a&gt;). After the spelling reform which abolished I/i in Cyrillic, the name was automatically respelled as Иосад rather than the more correct Йосад. (The same fate befell the words for &lt;em&gt;ion&lt;/em&gt; and &lt;em&gt;iodine&lt;/em&gt;, which are still spelt &lt;em&gt;ион&lt;/em&gt; and, occasionally, &lt;em&gt;иод&lt;/em&gt;, despite being pronounced with [j].) I suppose at some stage my family gave up on correcting people and adopted the spelling pronunciation. So, now you know.&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Thanks to &lt;a href=&#34;https://sites.google.com/site/erschler/&#34;&gt;David Erschler&lt;/a&gt; for help with the Hebrew.&lt;/small&gt;&lt;/p&gt;
+</description>
+</item>
 
 
 
@@ -330,7 +369,7 @@ activists.&lt;/p&gt;
 <item>
 <title>Welsh svarabhakti as stem allomorphy</title>
 <link>http://anghyflawn.github.io/writing/svarabhakti/</link>
-<pubDate>Thu, 13 Aug 2015 00:00:00 UTC</pubDate>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/writing/svarabhakti/</guid>
 <description>&lt;p&gt;This paper develops the analysis in &lt;a href=&#34;http://anghyflawn.github.io/presentation/2012/the-phonological-endgame-welsh-svarabhakti-revisited/&#34;&gt;this presentation&lt;/a&gt;. I offer an analysis of Welsh epenthesis, whereby a copy of a preceding vowel is inserted to break up final clusters of rising sonority (&lt;em&gt;pwdr&lt;/em&gt; &amp;lsquo;rotten&amp;rsquo; is [pudur] rather than *[pudr]) and deletion in such clusters in polysyllables (&lt;em&gt;perygl&lt;/em&gt; &amp;lsquo;danger&amp;rsquo; is [perɪɡ] rather than *[perɪɡl]). It has previously been argued that both processes can be analysed in a single phonological grammar. I show that this is not tenable for South Welsh dialects, and propose an analysis in terms of part-of-speech-specific allomorphy, formalized as lexical storage of POS-characterized stems rather than roots.&lt;/p&gt;
 </description>
@@ -907,6 +946,25 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 
 
 <item>
+<title>LEL2E: Structure and History of European Languages</title>
+<link>http://anghyflawn.github.io/teaching/2015/lel2e/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2015/lel2e/</guid>
+<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Indo-European language family&lt;/li&gt;
+&lt;li&gt;Celtic languages&lt;/li&gt;
+&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For course materials, see the relevant page on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
 <title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
 <link>http://anghyflawn.github.io/teaching/2015/lel2d/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -924,25 +982,6 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Course materials are available on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>http://anghyflawn.github.io/teaching/2015/lel2e/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The Indo-European language family&lt;/li&gt;
-&lt;li&gt;Celtic languages&lt;/li&gt;
-&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For course materials, see the relevant page on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;&lt;/p&gt;
 </description>
 </item>
 
@@ -1335,180 +1374,487 @@ interactions.&lt;/p&gt;
 <link>http://anghyflawn.github.io/presentation/2014/phonologization-of-redundant-contrasts-and-the-contrastivist-hypothesis/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/presentation/2014/phonologization-of-redundant-contrasts-and-the-contrastivist-hypothesis/</guid>
-<description>&lt;p&gt;I consider two cases of predictable distributions of phonological categories: &amp;lsquo;tense&amp;rsquo; and &amp;lsquo;lax&amp;rsquo; long vowels in South-West Welsh and the two varieties of the FACE vowel in Ulster English. Their predictable (&amp;lsquo;non-phonemic&amp;rsquo;) distribution is a challenge to the Contrastivist Hypothesis, but I argue that it can be accommodated if we assume that learning, including category formation, proceeds bottom-up, and that learners do not unlearn predictably distributed categories unless compelled to do so by alternations. This forces even predictably distributed symbols into underlying representations, and the Contrastivist Hypothesis is not falsified. The bottom-up learning also predicts the possibility of &amp;lsquo;leaks&amp;rsquo; (i.e. imperfect transmission of the conditions of the distribution), and the prediction appears correct in both cases considered here.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Emacs: give a DOI, get a BibTeX entry</title>
-<link>http://anghyflawn.github.io/blog/2014/emacs-give-a-doi-get-a-bibtex-entry/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/blog/2014/emacs-give-a-doi-get-a-bibtex-entry/</guid>
-<description>&lt;p&gt;One of my enduring frustrations with the various academic publishing platforms (CJO, ScienceDirect, JSTOR and their ilk) is the wildly inconsistent way in which they export BibTeX entries for articles. Sometimes they put them right on the browser page for easy copy-and-paste; sometimes it comes up after a few clicks in a new window; sometimes you end up downloading a file with an impossibly long or counterintuitive name, or called something like &lt;code&gt;science.bib&lt;/code&gt; (which Chrome tends to turn into &lt;code&gt;science (14).bib&lt;/code&gt; as they accumulate). Since I really only need the BibTeX entry once to get into my master &lt;code&gt;.bib&lt;/code&gt; file, that is a waste of time and resources. So if you&amp;rsquo;re using Emacs, here&amp;rsquo;s a simple function which might be helpful&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-elisp&#34;&gt;(defun get-bibtex-from-doi (doi)
- &amp;quot;Get a BibTeX entry from the DOI&amp;quot;
- (interactive &amp;quot;MDOI: &amp;quot;)
- (let ((url-mime-accept-string &amp;quot;text/bibliography;style=bibtex&amp;quot;))
-   (with-current-buffer 
-     (url-retrieve-synchronously 
-       (format &amp;quot;http://dx.doi.org/%s&amp;quot; 
-       	(replace-regexp-in-string &amp;quot;http://dx.doi.org/&amp;quot; &amp;quot;&amp;quot; doi)))
-     (switch-to-buffer (current-buffer))
-     (goto-char (point-max))
-     (setq bibtex-entry 
-     	  (buffer-substring 
-          	(string-match &amp;quot;@&amp;quot; (buffer-string))
-              (point)))
-     (kill-buffer (current-buffer))))
- (insert (decode-coding-string bibtex-entry &#39;utf-8))
- (bibtex-fill-entry))
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;This will ask you for the DOI (you can keep the &lt;code&gt;http://dx.doi.org/&lt;/code&gt; bit that you get if you do &amp;lsquo;Copy Link Address&amp;rsquo; from the browser), pull the BibTeX entry via the DOI API, and insert it at point. (I&amp;rsquo;m assuming the buffer is in &lt;code&gt;bibtex-mode&lt;/code&gt; already, since it doesn&amp;rsquo;t really make sense for it not to be.) Put this in your &lt;code&gt;init.el&lt;/code&gt; and you can now do &lt;code&gt;M-x get-bibtex-from-doi&lt;/code&gt;, or bind it to a keychord of your choice. The entry might still need fiddling with (e.g. to fix the citekey in line with your scheme, or to remove the Unicode characters if need be), but hopefully this might be useful.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>The [ATR]/laryngeal connection and emergent features</title>
-<link>http://anghyflawn.github.io/presentation/2014/the-atr-laryngeal-connection-and-emergent-features/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/2014/the-atr-laryngeal-connection-and-emergent-features/</guid>
-<description>&lt;p&gt;I offer a preliminary analysis of the phenomenon of &lt;em&gt;calediad&lt;/em&gt; (&amp;lsquo;provection&amp;rsquo;) in South-Eastern Welsh, whereby &amp;lsquo;voiced&amp;rsquo; (lenis) stops become &amp;lsquo;voiceless&amp;rsquo; after a stressed vowel. I argue that since vowels before lenis stops are generally long &amp;mdash; and, given the phonology of South Welsh &amp;mdash; tense, provection is an example of vowel-consonant interaction, where the same feature is used for the tense/lax contrast in vowels and laryngeal contrast in consonants. I interpret this as supporting emergent feature theory.&lt;/p&gt;
-</description>
-</item>
-
-
-
-
-
-<item>
-<title>A nynorsk for Scotland?</title>
-<link>http://anghyflawn.github.io/blog/2014/a-nynorsk-for-scotland/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/blog/2014/a-nynorsk-for-scotland/</guid>
 <description>
 
-&lt;p&gt;With the Scottish independence debate we hear a lot about the Scandinavian connections and (dis)similarities. I do have my opinions on many of those despite being completely unqualified, but here&amp;rsquo;s one thing that strikes me and that I do know something about: how many people (apart from &lt;a href=&#34;http://catalogue.lib.ed.ac.uk/vwebv/holdingsInfo?searchId=3299&amp;amp;recCount=10&amp;amp;recPointer=1&amp;amp;bibId=1691570&#34;&gt;Guy Puzey&lt;/a&gt; and &lt;a href=&#34;http://www.forskning.no/blog/vangsnes/373842&#34;&gt;Øystein Vangsnes&lt;/a&gt;) have commented on the parallels between Norway and Scotland with regard to their linguistic landscape?&lt;/p&gt;
+&lt;p&gt;These notes are from a workshop on &lt;code&gt;pandoc&lt;/code&gt; I ran for Innovative Learning Week 2015.&lt;/p&gt;
 
-&lt;h1 id=&#34;norway:31d33451f05163bc8e46696038836205&#34;&gt;Norway&lt;/h1&gt;
+&lt;h1 id=&#34;what-is-this-about:c5823fcb8a1263e1354441821c807a9f&#34;&gt;What is this about?&lt;/h1&gt;
 
-&lt;p&gt;The official position is that there are two written forms of the (single) Norwegian language, &lt;em&gt;bokmål&lt;/em&gt; and &lt;em&gt;nynorsk&lt;/em&gt;. Historically, bokmål descends from the so-called &lt;em&gt;dannet dagligtale&lt;/em&gt;, the &amp;lsquo;educated vernacular&amp;rsquo;, essentially a Norwegianized (more so in pronunciation, perhaps less in other aspects) version of Danish spoken in the bigger urban areas of Norway. Nynorsk is a written standard created by the linguist Ivar Aasen, consciously based on traditional regional dialects (mostly of Western Norway) and thus opposed to the more Danish-influenced speech of the urban middle and upper classes.&lt;/p&gt;
+&lt;p&gt;You can get the PDF file produced with &lt;code&gt;pandoc&lt;/code&gt; from the same source as this page &lt;a href=&#34;http://anghyflawn.github.io/pdf/pandoc.notes.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Landsmål (as Ivar Aasen&amp;rsquo;s language was originally called) was very much a child of its time, when being &amp;lsquo;authentically Norwegian&amp;rsquo; conferred an important legitimacy. The framing of bokmål as &amp;lsquo;Danish&amp;rsquo; and &amp;lsquo;alien&amp;rsquo; (and nynorsk as &amp;lsquo;boorish&amp;rsquo; and &amp;lsquo;hick&amp;rsquo; – &lt;em&gt;bondsk&lt;/em&gt;, or, as the Irish put it, &lt;em&gt;culchie&lt;/em&gt;) survives, to a certain extent, even to this day.&lt;/p&gt;
-
-&lt;p&gt;Today, nynorsk enjoys equal rights with bokmål in law, but it is increasingly being confined to its strongholds in rural parts of Western Norway (where it is has traditionally been the written language given its proximity to the local dialects) and to scattered pockets of people who value it as an expression of Norwegian identity (or of their local identity once they move to the bokmål-dominated city). For many others, it is a dead language, hated as a school subject, a waste of public money and a laughable relic of the past; a veritable curiosity cabinet of these attitudes is presented by Øystein Vangsnes (full disclosure: a former colleague of mine) in his recent &lt;a href=&#34;http://www.samlaget.no/nn-no/fakta%20og%20dokumentar/spraak/spraakleg-toleranse-i-noreg-norge-for-faen/hefta.aspx&#34;&gt;book&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;That is not the whole story, however. Norway is also host to several other indigenous minority languages, and nynorsk, with its hundreds of thousands of active users (and fairly robust intergenerational transmission, if we can speak of such a thing for a written norm) is in ruddy health compared to some of those. The biggest is Northern Sámi (about 20,000 speakers, not all of them in Norway), with Lule Sámi (not more than 2,000 speakers, most of them in Sweden) and South Sámi (speakers numbering in the hundreds and also split between Norway and Sweden) in addition to Kven (a few thousand speakers); all are spoken as community languages in Northern Norway, a large, sparsely populated, remote region. Although mainstream Norwegian culture is happy for the Sámi to exist and attract tourists with their colourful costume and fluffy reindeer, attempts to make the Sámi language more visible are met at best with indifference (in the south of the country, where people honestly don&amp;rsquo;t understand what the big deal is) and at worst with aggression, whether in Kåfjord / Gáivuotna (&lt;a href=&#34;http://www.dagbladet.no/kultur/2001/02/06/240324.html&#34;&gt;bilingual signs shot at&lt;/a&gt;), Bodø / Bådåddjo (&lt;a href=&#34;http://www.an.no/nyheter/article6055007.ece&#34;&gt;signs repeatedly vandalized&lt;/a&gt;) or Tromsø / Romsa (no signs actually went up after a soberingly aggressive discussion).&lt;/p&gt;
-
-&lt;h1 id=&#34;scotland:31d33451f05163bc8e46696038836205&#34;&gt;Scotland&lt;/h1&gt;
-
-&lt;p&gt;Does any of that sound familiar in Scotland? I&amp;rsquo;d say it does.&lt;/p&gt;
-
-&lt;p&gt;The relationship between Scots, however loaded and vague that term is in today&amp;rsquo;s Scotland, and Scottish Standard English, is not at all unlike the nynorsk/bokmål divide. SSE is essentially a more Scottified version (quite a bit in pronunciation, less so in other areas) of a closely related language that gained prestige by virtue of being associated with a politically dominant southern neighbour. Any legitimacy that Scots can claim comes, on the one hand, from the relative strength of traditional dialects in rural parts such as the north-east and the Northern Isles, and on the other hand from its role as a vehicle for the expression of Scottish identity and a continuous link with a &amp;lsquo;more Scottish past&amp;rsquo;. Opponents of a Scots written culture of course deride it in turn as rural and uneducated or as a futile exercise by latte-swilling idealists who wouldn&amp;rsquo;t be caught dead anywhere near a farm in Banffshire.&lt;/p&gt;
-
-&lt;p&gt;At the same time the indigenous language, Gaelic, is confined to the remote and rural Highlands and Islands. Attempts to increase its profile in the Lowlands end up being attacked as supporting a dead language, a laughable relic of the past, and parents sending their children to Gaelic-medium schools derided as insufferable élitists happy to waste public money on something so inconsequential as Scotland&amp;rsquo;s ancient language. In parts of the Highlands people are altogether more &lt;a href=&#34;http://www.scotsman.com/news/scotland/top-stories/anti-gaelic-gunmen-shoot-road-sign-in-caithness-1-3075913&#34;&gt;trigger-happy&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;not-the-same-of-course:31d33451f05163bc8e46696038836205&#34;&gt;Not the same, of course&lt;/h1&gt;
-
-&lt;p&gt;The parallels are by no means perfect. For instance, the average Scottish person in Ayr or Kirkcaldy is much happier to view the history and culture of the Highlands and Islands as authentically &amp;lsquo;Scottish&amp;rsquo; compared to the attitude of somebody from Hønefoss or Arendal to the Sámi – for one thing, the average Norwegian doesn&amp;rsquo;t really know much about the Sámi beyond the fact that they herd reindeer (actually, most of them don&amp;rsquo;t), wear funny hats and drink a lot. All right, one could question how much the average Lowlander &lt;em&gt;actually&lt;/em&gt; knows about Gaelic culture, but still, the days of the Highlanders as racially alien brutes are mostly past.&lt;/p&gt;
-
-&lt;p&gt;A big consequence of this is that the relevance of Gaelic to contemporary Scotland is a subject of debate. That debate can be acrimonious and at times stupid, but it exists. Mainstream Norwegian society does not so much oppress the Sámi and Kvens as it doesn&amp;rsquo;t really care about them. The debate only exists in Northern Norway, and is wound up with all sorts of vexed questions about Northern identity in the broader Norwegian context that might again be quite reminiscent of the debates in Scotland or Catalonia – but for the average Norwegian the Sámi languages and Kven might as well be spoken on another planet.&lt;/p&gt;
-
-&lt;p&gt;Another thing is that the Norwegian romantic nationalism that legitimized Ivar Aasen&amp;rsquo;s landsmål had no real counterpart in Scotland. Despite the importance of Ossianism, nineteenth-century Scotland was happy to see itself as a successful part of the British Empire, and did not need to legitimize itself through links to a glorious past (which is more than a bit ironic, given that Scots &lt;em&gt;has&lt;/em&gt; the potential for building on the written tradition of Older Scots, whereas landsmål/nynorsk was self-consciously a modern creation rather than the continuation of a mediæval tradition – and look which has been more successful).&lt;/p&gt;
-
-&lt;h1 id=&#34;the-politics-of-a-new-language:31d33451f05163bc8e46696038836205&#34;&gt;The politics of a new language&lt;/h1&gt;
-
-&lt;p&gt;One thing that the &lt;a href=&#34;https://en.wikipedia.org/wiki/Norwegian_language_conflict&#34;&gt;Norwegian language struggle&lt;/a&gt; (&lt;em&gt;språkstriden&lt;/em&gt;) teaches us is that the legitimacy of a language, whether spoken or written, has absolutely nothing to do with any objective linguistic distance. Bored high-schoolers in Oslo claim to not understand a word of nynorsk not because they don&amp;rsquo;t (this is a pretty laughable notion, to be honest) but because moaning about it is much more acceptable than to be seen making an effort to engage with it (unless you&amp;rsquo;re a swot). Northern Norwegians will tell you that it is so Western and far from their own dialect that they&amp;rsquo;d rather stick to bokmål, even though nynorsk did hold a &lt;a href=&#34;https://nn.wikipedia.org/wiki/Skulem%C3%A5l_i_Nord-Noreg&#34;&gt;strong position in significant parts of Northern Norway&lt;/a&gt; at some point – not to mention the fact that many northern Norwegian dialects are probably much more similar to nynorsk than to bokmål. In Norwegian politics, the code for &amp;lsquo;we hate nynorsk&amp;rsquo; is &amp;lsquo;families should have the freedom of choice&amp;rsquo;, buttressed by arguments such as &amp;lsquo;the immigrants get confused and don&amp;rsquo;t understand nynorsk&amp;rsquo; (this one always got me: these slogans are usually fronted by speakers of urban Eastern Norwegian varieties, and being used to Northern Norwegian I often struggled to understand &lt;em&gt;them&lt;/em&gt; because of the great difference in pitch accents – why don&amp;rsquo;t we abolish bokmål because, you know, there are quite a few immigrants who don&amp;rsquo;t understand &lt;em&gt;you&lt;/em&gt;, either) – ironically, it is reported there are only two pupils in all of Oslo who insist on being taught in nynorsk, and, guess what, &lt;a href=&#34;http://framtida.no/articles/einaste-nynorskelevane-i-oslo-fordel-a-skriva-nynorsk&#34;&gt;they&amp;rsquo;re both from immigrant families&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;A further corollary is that the outcome does not necessarily come from the numerical strength of people willing to identify with a particular form of a language: perceived legitimacy and a political will are much more important. Here, it is instructive to compare Scotland with Northern Ireland: despite the Scottish government&amp;rsquo;s goodwill noises, actual political action to support Ulster-Scots has been much more extensive, despite the fact that Ulster-Scots has little if any independent tradition to fall back on and a very small base of people willing to support it. The obvious reason, of course, is that Ulster-Scots is caught up in the Northern Irish political football game as a counterpoint to the support for Irish promised by the Belfast Agreement (and &lt;a href=&#34;http://sluggerotoole.com/2014/01/09/cuts-and-splits-how-the-irish-language-communitys-most-effective-advocates-are-being-silenced/&#34;&gt;that&amp;rsquo;s not going extremely well, either&lt;/a&gt;), but that&amp;rsquo;s a story for another day.&lt;/p&gt;
-
-&lt;h1 id=&#34;so-where-does-this-leave-scotland:31d33451f05163bc8e46696038836205&#34;&gt;So, where does this leave Scotland?&lt;/h1&gt;
-
-&lt;p&gt;On the face of it, the similarities between Scots and nynorsk are undeniable, if not entirely compelling. Does it mean it could gain the same sort of recognition? In theory, yes, especially in an independent Scotland (or maybe a Scotland with more devolution, or even a Scotland  gaining independence at the second attempt).&lt;/p&gt;
-
-&lt;p&gt;In reality, however, I would imagine that Gaelic is a better candidate for &amp;lsquo;Scotland&amp;rsquo;s nynorsk&amp;rsquo;. It already has widespread legitimacy as an authentic part of Scottish heritage, and, despite the loud opposition, support for measures such as Gaelic-medium education has been quietly growing. The idea that one day the culchie dialect made up by that Aasen crackpot will be taught in every school must have seemed ludicrous to a mid-19th century Oslo clerk, and yet that&amp;rsquo;s exactly what  happened. Despite the pressure nynorsk finds itself under, and despite the salutary lessons from Ireland, it does not seem impossible that, in the right circumstances, Gaelic may yet gain a foothold in mainstream Scottish society. It will always remains a niche pursuit, but the Norwegian example shows that concerted action may yet provide a strong foundation for its maintenance.&lt;/p&gt;
-
-&lt;p&gt;And what of Scots? Again, in theory the same type of action might build a base for it too. In practice, it faces an uphill battle: the framing of &lt;em&gt;riksmål&lt;/em&gt; as &amp;lsquo;too Danish&amp;rsquo; could be a successful strategy in the romantic-nationalist Norway of the 19th century, but attacks on Standard Scottish English as &amp;lsquo;too English&amp;rsquo; are unlikely to sway many people in 21st-century Scotland. In a reversal of our Norwegian parallels, I would suggest that its best hope is building a strong regional base: just as Sámi is much more important  in Northern Norway without having much of an impact down south, so written Scots – perhaps in a more regionalized Scotland – could gain legitimacy in a more local context. But I don&amp;rsquo;t know quite enough about that part of the world to make any definite pronouncements.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Connecting the dots</title>
-<link>http://anghyflawn.github.io/presentation/2014/hxphon2014/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/2014/hxphon2014/</guid>
-<description>&lt;p&gt;This poster considers the status of the &amp;lsquo;tense&amp;rsquo;/&amp;lsquo;lax&amp;rsquo; contrasts across Welsh dialects and argues that it was originally an enhancement of quantity, but becomes phonologized in different ways across different dialect. For the latest in this project, see the &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/quantity-quality-interactions-in-welsh-vowels-phonologization-across-dialects/&#34;&gt;23mfm paper&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>First post</title>
-<link>http://anghyflawn.github.io/blog/2014/first-post/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/blog/2014/first-post/</guid>
-<description>&lt;p&gt;I don&amp;rsquo;t know what, if anything, will be happening here, but I do sometimes get the urge to rant about things that tweets are too short for. So I&amp;rsquo;ve just this up for now, and hopefully its existence will motivate me to write a bit more.&lt;/p&gt;
-
-&lt;p&gt;Wait and see, in other words.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>http://anghyflawn.github.io/teaching/2014/lel2e/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2014/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for the following sections:&lt;/p&gt;
+&lt;h2 id=&#34;some-terminology:c5823fcb8a1263e1354441821c807a9f&#34;&gt;Some terminology&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Celtic languages&lt;/li&gt;
-&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
-<link>http://anghyflawn.github.io/teaching/2014/lel2d/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2014/lel2d/</guid>
-<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for most of the phonology block. We covered the following topics:&lt;/p&gt;
+&lt;li&gt;&lt;code&gt;pandoc&lt;/code&gt; is the program written by the philosopher John MacFarlane to convert texts between different formats&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;pandoc&lt;/code&gt; is able to take files in a variety of formats and produce output in an even bigger variety of formats&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;markdown&lt;/code&gt; is a lightweight &lt;em&gt;mark-up&lt;/em&gt; language
 
 &lt;ul&gt;
-&lt;li&gt;Phonological typology and theory. Universals in phonology; descriptive and analytic universals&lt;/li&gt;
-&lt;li&gt;Universals of inventory organization; feature theory&lt;/li&gt;
-&lt;li&gt;Syllable structure. Typology of syllable structures&lt;/li&gt;
-&lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
-&lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
-&lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
+&lt;li&gt;It was originally created to simplify the creation of HTML pages&lt;/li&gt;
+&lt;li&gt;With pandoc, you can use it to produce a variety of outputs&lt;/li&gt;
+&lt;li&gt;You can also use other input formats, but we focus on &lt;code&gt;markdown&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;The most relevant output formats for us are
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;docx&lt;/code&gt;, i.e. Word&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;tex&lt;/code&gt;, which &lt;code&gt;pandoc&lt;/code&gt; uses internally to produce &lt;code&gt;PDF&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Isn&amp;rsquo;t this like TeX?
+
+&lt;ul&gt;
+&lt;li&gt;It is: TeX is another type of mark-up language&lt;/li&gt;
+&lt;li&gt;The LaTeX system is &lt;em&gt;more&lt;/em&gt; powerful than &lt;code&gt;pandoc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;However, it has a much steeper learning curve&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;This code will produce a presentation slide with a nested bullet list with the LaTeX package &lt;code&gt;beamer&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;\begin{frame}{Slide title}
+\begin{itemize}
+  \item Item 1
+  \item Item 2
+  \begin{itemize}
+      \item Subitem 1
+      \item Subitem 2
+  \end{itemize}
+  \item Item 3
+\end{itemize}
+\end{frame}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The same code will be produced if you run &lt;code&gt;pandoc&lt;/code&gt; to produce &lt;code&gt;beamer&lt;/code&gt; output on the following &lt;code&gt;markdown&lt;/code&gt; fragment:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;## Slide title ##
+
+* Item 1
+* Item 2
+    * Subitem 1
+    * Subitem 2
+* Item 3
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Many LaTeX users do not really use its full capabilities, but stick to it because of the superior æsthetic qualities of its output compared to more standard software&lt;/li&gt;
+&lt;li&gt;With &lt;code&gt;pandoc&lt;/code&gt;, you can get LaTeX typography without ever touching the LaTeX code: &lt;code&gt;pandoc&lt;/code&gt; creates perfectly serviceable LaTeX code and can run LaTeX for you to produce a PDF file&lt;/li&gt;
+&lt;li&gt;This is how these notes were made&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;why-pandoc:c5823fcb8a1263e1354441821c807a9f&#34;&gt;Why &lt;code&gt;pandoc&lt;/code&gt;?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Flexibility of output (unlike LaTeX)&lt;/li&gt;
+&lt;li&gt;Simple mark-up, no point-and-click (similar to LaTeX)&lt;/li&gt;
+&lt;li&gt;Easy to achieve consistency of styling thanks to logical mark-up (similar to LaTeX)&lt;/li&gt;
+&lt;li&gt;Reliability: all your sources are in &lt;em&gt;plain text&lt;/em&gt; (like LaTeX)
+
+&lt;ul&gt;
+&lt;li&gt;No file corruptions&lt;/li&gt;
+&lt;li&gt;Guaranteed portability between systems&lt;/li&gt;
+&lt;li&gt;No need to fire up and fight Word or similar word processing programs&lt;/li&gt;
+&lt;li&gt;Cross-platform stability: write your essay on your iPad&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Automation of common tasks
+
+&lt;ul&gt;
+&lt;li&gt;Numbering and cross-referencing&lt;/li&gt;
+&lt;li&gt;Keeping track of citations vs. references&lt;/li&gt;
+&lt;li&gt;Automated typesetting of bibliographies using defined styles&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Basic support for TeX constructs (notably mathematical symbols)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;getting-started:c5823fcb8a1263e1354441821c807a9f&#34;&gt;Getting started&lt;/h1&gt;
+
+&lt;h2 id=&#34;the-pandoc-workflow:c5823fcb8a1263e1354441821c807a9f&#34;&gt;The &lt;code&gt;pandoc&lt;/code&gt; workflow&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;For an example of a Markdown source file, grab the source of these notes &lt;a href=&#34;http://anghyflawn.github.io/md/pandoc.notes.md&#34;&gt;here&lt;/a&gt; (and the picture &lt;a href=&#34;http://anghyflawn.github.io/img/kiparsky.png&#34;&gt;here&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;You edit your files in a &lt;em&gt;text editor&lt;/em&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This can be Notepad on Windows or TextEdit on OS X, but there are editors with good &lt;code&gt;markdown&lt;/code&gt; support built-in&lt;/li&gt;
+&lt;li&gt;OS X: &lt;a href=&#34;http://www.macromates.com&#34;&gt;TextMate&lt;/a&gt; is a good choice; there are also plenty of bespoke Markdown-writing apps around, but they are often not free&lt;/li&gt;
+&lt;li&gt;Windows: something that is frequently recommended is &lt;a href=&#34;http://notepad-plus-plus.org&#34;&gt;Notepad++&lt;/a&gt;, and &lt;a href=&#34;http://www.guidingtech.com/31357/notepad-plus-plugins/&#34;&gt;here&lt;/a&gt; are some notes about enabling &lt;code&gt;markdown&lt;/code&gt; support&lt;/li&gt;
+&lt;li&gt;Generally, Google is your friend for these things&lt;/li&gt;
+&lt;li&gt;There are also the two cross-platform editors &lt;code&gt;Emacs&lt;/code&gt; and &lt;code&gt;Vim&lt;/code&gt;. They are very powerful and have excellent support for both &lt;code&gt;markdown&lt;/code&gt; and &lt;code&gt;pandoc&lt;/code&gt;. I would not recommend learning &lt;code&gt;markdown&lt;/code&gt; and one of these editors &lt;em&gt;at the same time&lt;/em&gt; (or at least with any sort of deadline looming!), but that is my recommendation. Gentler introductions to Emacs are available in the shape of &lt;a href=&#34;http:/www.aquamacs.org&#34;&gt;Aquamacs&lt;/a&gt; (this is essentially Emacs with a slightly more traditional interface; OS X only) and &lt;a href=&#34;http://kieranhealy.org/resources/emacs-starter-kit/&#34;&gt;Kieran Healy&amp;rsquo;s Emacs Starter Kit&lt;/a&gt;, specifically geared towards social scientists (close enough to linguistics!)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Once you have written your file, you &lt;em&gt;run&lt;/em&gt; &lt;code&gt;pandoc&lt;/code&gt;. There is no graphical user interface (unless you use Emacs or Vim&amp;hellip;), so the program must be run in the command line
+
+&lt;ul&gt;
+&lt;li&gt;OS X: Applications &amp;gt; Utilities &amp;gt; Terminal&lt;/li&gt;
+&lt;li&gt;Windows: run &lt;code&gt;cmd&lt;/code&gt; or &lt;code&gt;powershell&lt;/code&gt; to open the Terminal&lt;/li&gt;
+&lt;li&gt;To navigate to where your files are, use the command &lt;code&gt;cd&lt;/code&gt;, e.g. &lt;code&gt;cd ~/Documents/Essays&lt;/code&gt; (&lt;code&gt;~&lt;/code&gt; is an abbreviation for &lt;code&gt;/Users/&amp;lt;your username&amp;gt;&lt;/code&gt;, i.e. your home folder) or &lt;code&gt;cd C:\Users\&amp;lt;your name&amp;gt;\Documents&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;To avoid typing out long folder names, type the first characters of the name of the folder you&amp;rsquo;re looking for and press &lt;code&gt;&amp;lt;TAB&amp;gt;&lt;/code&gt; to auto-complete the path&lt;/li&gt;
+&lt;li&gt;Once you are in the same folder as your files, you are ready to run &lt;code&gt;pandoc&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;A typical run of &lt;code&gt;pandoc&lt;/code&gt; looks like the following:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;pandoc notes.md -o notes.docx&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;This will run &lt;code&gt;pandoc&lt;/code&gt; on the file &lt;code&gt;notes.md&lt;/code&gt;. The file&amp;rsquo;s &lt;em&gt;extension&lt;/em&gt; (&lt;code&gt;.md&lt;/code&gt; is conventionally used for &lt;code&gt;markdown&lt;/code&gt; files) tells &lt;code&gt;pandoc&lt;/code&gt; that it is written in &lt;code&gt;markdown&lt;/code&gt; and that you want Word output.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:c5823fcb8a1263e1354441821c807a9f:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:c5823fcb8a1263e1354441821c807a9f:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Now try this (this requires a LaTeX system to be installed):&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;pandoc notes.md -o notes.pdf&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Under the hood, this creates a &lt;code&gt;.tex&lt;/code&gt; file and runs LaTeX on it to produce a PDF file with the LaTeX defaults &amp;mdash; probably already better than Word!&lt;/li&gt;
+&lt;li&gt;Rather than retype the commands every time, try pressing the up arrow! It will bring back your previous commands, which you can also edit as required&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;markdown-cheat-sheet:c5823fcb8a1263e1354441821c807a9f&#34;&gt;Markdown cheat sheet&lt;/h2&gt;
+
+&lt;p&gt;This gives the main syntax constructs for Markdown as extended by &lt;code&gt;pandoc&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;# Top-level title #
+
+## Second-level title ##
+
+### Third-level title ###
+
+(you get the picture)
+
+_italics like this_ or *this is also italics*
+
+__bold like this__ or **this is also bold**
+
+A link that leads to [pandoc&#39;s homepage](http://johnmacfarlane.net/pandoc)
+
+* A top-level bullet list
+* Another item
+    * A sub-item
+    * Another sub-item
+        * And even deeper nesting
+
+1. A numbered list
+2. Another item on the list
+1. The actual numbers do not matter
+5. So you don&#39;t have to renumber things if you rearrange them
+
+~~This is strikethrough~~ (not really useful perhaps except for some
+syntax?)
+
+&amp;gt; If you have long quotations, you can typeset them in blocks like
+&amp;gt; this
+
+This will be ~subscript~ and this will be ^superscript^
+
+You can also have footnotes.[^1]
+
+(@ex) This will be a numbered example
+
+You can refer to it in the text by writing (@ex) again --- as long as
+the label is unique within the document, the numbering and referencing
+will be automatic
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h1 id=&#34;command-line-options:c5823fcb8a1263e1354441821c807a9f&#34;&gt;Command-line options&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;There are other options that you can pass to &lt;code&gt;pandoc&lt;/code&gt; that influence what it does&lt;/li&gt;
+&lt;li&gt;Most options have long and short forms&lt;/li&gt;
+&lt;li&gt;A &lt;em&gt;short&lt;/em&gt; option usually consist of a single hyphen, a single letter and a space followed by an argument&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;pandoc myfile.md -o myfile.pdf&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;In the &lt;em&gt;long&lt;/em&gt; form, there are two hyphens and the argument comes after an equals sign with no spaces&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;pandoc myfile.md --output=myfile.pdf&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;These are equivalent&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;some-useful-options:c5823fcb8a1263e1354441821c807a9f&#34;&gt;Some useful options&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-o FILE / --output=FILE&lt;/code&gt;: the name of the file you want to produce. &lt;code&gt;pandoc&lt;/code&gt; tries to guess the output format using the extension. If you do not pass this option, &lt;code&gt;pandoc&lt;/code&gt; will just spit out the result of the conversion back into the terminal&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-t FORMAT / --to=FORMAT&lt;/code&gt;: the output format, such as &lt;code&gt;docx&lt;/code&gt;, &lt;code&gt;latex&lt;/code&gt;, &lt;code&gt;html&lt;/code&gt; or even &lt;code&gt;plain&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-S / --smart&lt;/code&gt; (capitalization matters! This is also a &lt;em&gt;logical&lt;/em&gt; option, meaning there is no argument): typographically correct output
+
+&lt;ul&gt;
+&lt;li&gt;This means that &lt;code&gt;-&lt;/code&gt; is a hyphen (used in contexts such as &amp;lsquo;a difficult-to-parse document&amp;rsquo;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--&lt;/code&gt; is an en dash (used to denote ranges of numbers, such as 2&amp;ndash;4)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;---&lt;/code&gt; is an em dash (the parenthetical dash &amp;mdash; like this)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&amp;quot;&lt;/code&gt; and &lt;code&gt;&#39;&lt;/code&gt; are corrected to curly quotes depending on context&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;...&lt;/code&gt; is corrected to &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-s / --standalone&lt;/code&gt;: if you are converting to a format such as LaTeX or HTML, use this option: it will produce a complete file with all the necessary headers and footers&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-V KEY[=VAL] / --variable=KEY:VAL&lt;/code&gt;: this is used for setting variables such as author or font; see examples below
+
+&lt;ul&gt;
+&lt;li&gt;NB! If you have spaces in the value you&amp;rsquo;re trying to pass, put the whole value in quotes: &lt;code&gt;--V mainfont=&amp;quot;Times New Roman&amp;quot;&lt;/code&gt; or &lt;code&gt;--variable=mainfont:&amp;quot;Times New Roman&amp;quot;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-M KEY[=VAL] / --metadata=KEY:VAL&lt;/code&gt;: this is used for setting metadata&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--toc / --table-of-contents&lt;/code&gt;: include a table of contents&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-N / --number-sections&lt;/code&gt;: what it says. By default, sections in LaTeX (and therefore PDF) output are unnumbered, so it makes sense to turn this on. This has no effect in &lt;code&gt;.docx&lt;/code&gt; files, however; you need to fix the &lt;code&gt;.docx&lt;/code&gt; template to achieve that.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--reference-docx=FILE&lt;/code&gt;: you can create a &lt;code&gt;.docx&lt;/code&gt; file with the correct styling (e.g. fonts, sizes, colours) and reuse it by passing in this option. The content of the reference file will be ignored. It is recommended to create a &lt;code&gt;.docx&lt;/code&gt; file using &lt;code&gt;pandoc&lt;/code&gt;, edit its styles to achieve the desired result, and reuse it.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--latex-engine=pdflatex|lualatex|xelatex&lt;/code&gt;: see below&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;nice-fonts-and-ipa-in-pdf-output:c5823fcb8a1263e1354441821c807a9f&#34;&gt;Nice fonts (and IPA) in PDF output&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;By default, &lt;code&gt;pandoc&lt;/code&gt; creates PDF output using &lt;code&gt;pdflatex&lt;/code&gt; &amp;mdash; a very stable version of LaTeX that is, however, quite archaic in its handling of fonts&lt;/li&gt;
+&lt;li&gt;In particular, you might have trouble with the IPA&lt;/li&gt;
+&lt;li&gt;To overcome this problem, I suggest using &lt;code&gt;--latex-engine=xelatex&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Crucially, this also allows you to use any font you have installed on your system rather than Computer Modern (the default font in LaTeX)&lt;/li&gt;
+&lt;li&gt;To achieve this, you need to pass in a variable in addition to setting the engine: &lt;code&gt;--variable=mainfont:&amp;lt;name of font&amp;gt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Most &amp;lsquo;usual&amp;rsquo; fonts on modern systems (such as Times New Roman or Cambria) support the IPA fine&lt;/li&gt;
+&lt;li&gt;Nice alternatives with IPA support include &lt;a href=&#34;http://junicode.sourceforge.net&#34;&gt;Junicode&lt;/a&gt;, &lt;a href=&#34;http://scholarsfonts.net/cardofnt.html&#34;&gt;Cardo&lt;/a&gt;, &lt;a href=&#34;http://scripts.sil.org/gentium&#34;&gt;Gentium&lt;/a&gt;, and &lt;a href=&#34;http://www.brill.com/about/brill-fonts&#34;&gt;Brill&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;more-uses-for-variables:c5823fcb8a1263e1354441821c807a9f&#34;&gt;More uses for variables&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;One frequent complaint about non-customized LaTeX output is the large amount of white space on the page compared to the Word defaults&lt;/li&gt;
+&lt;li&gt;There is actually a good reason for that (shorter lines make the text more readable), but this is easy to fix&lt;/li&gt;
+&lt;li&gt;Just pass in &lt;code&gt;--variable=geometry:a4paper&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;The &lt;code&gt;--metadata&lt;/code&gt; option is very similar to &lt;code&gt;--variable&lt;/code&gt;, and it&amp;rsquo;s used in a similar way&lt;/li&gt;
+&lt;li&gt;You can use it to set things such author, title, and date&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;--metadata=author:&amp;quot;Pavel Iosad&amp;quot; --metadata=title:&amp;quot;Pandoc notes&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;There is a better way of providing these three essential bits of information&lt;/li&gt;
+&lt;li&gt;Start your &lt;code&gt;markdown&lt;/code&gt; source file with three lines that all start with %&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;% This is the title
+% This is the author
+% This is the date
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If you want to leave one of these out, just leave the line blank after the % sign&lt;/li&gt;
+&lt;li&gt;You can also put in more complicated metadata in the header: consult the &lt;code&gt;pandoc&lt;/code&gt; manual for that.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;bibliography:c5823fcb8a1263e1354441821c807a9f&#34;&gt;Bibliography&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;pandoc&lt;/code&gt; can also do automated tracking of references and citations&lt;/li&gt;
+&lt;li&gt;This means that you only need to mention the work you intend to refer to in the text using a unique &lt;em&gt;citation key&lt;/em&gt; and &lt;code&gt;pandoc&lt;/code&gt; will take care of putting into your reference list and typesetting the entry in line with the style you require. This process is automatic, so if you end up deleting the in-text citation the entry will also not appear in the reference list.&lt;/li&gt;
+&lt;li&gt;To make this work, you require two components:
+
+&lt;ul&gt;
+&lt;li&gt;A bibliographic database&lt;/li&gt;
+&lt;li&gt;A style file&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;The bibliographic database (which you should have anyway, to save retyping references you end up reusing) can be in BibTeX format
+
+&lt;ul&gt;
+&lt;li&gt;Such databases can be maintained using bespoke software such as &lt;a href=&#34;http://bibdesk.sourceforge.net&#34;&gt;BibDesk&lt;/a&gt; (installed with MacTeX) or &lt;a href=&#34;http://jabref.sourceforge.net&#34;&gt;JabRef&lt;/a&gt;. Since &lt;code&gt;.bib&lt;/code&gt; files are also plain text files, it is possible to do it using your text editor too.&lt;/li&gt;
+&lt;li&gt;You can also keep your database in a program such as &lt;a href=&#34;http://www.zotero.org&#34;&gt;Zotero&lt;/a&gt; and export it to &lt;code&gt;.bib&lt;/code&gt; when you update it.&lt;/li&gt;
+&lt;li&gt;You can use other formats with &lt;code&gt;pandoc&lt;/code&gt;, but BibTeX is the most portable&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-database:c5823fcb8a1263e1354441821c807a9f&#34;&gt;The database&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;An entry in a BibTeX database looks something like this:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;@Book{kiparsky82:_explan,
+  author = 	 {Kiparsky, Paul},
+  title = 	 {Explanation in phonology},
+  publisher = 	 {Foris},
+  year = 	 1982,
+  location = 	 {Dordrecht}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Or, in a graphical program (here: Bibdesk)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://anghyflawn.github.io/images/kiparsky.png&#34; alt=&#34;Example BibTeX entry&#34; /&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The fields are largely self-explanatory&lt;/li&gt;
+&lt;li&gt;The most important one is the &lt;em&gt;citation key&lt;/em&gt;: the mnemonic name you use to refer to the entry&lt;/li&gt;
+&lt;li&gt;This is the bit after the opening &lt;code&gt;{&lt;/code&gt; in the source and &amp;lsquo;cite key&amp;rsquo; in the window&lt;/li&gt;
+&lt;li&gt;(It doesn&amp;rsquo;t have to be this descriptive, e.g. you can use &lt;code&gt;SPE&lt;/code&gt; for Chomsky &amp;amp; Halle 1967&lt;/li&gt;
+&lt;li&gt;You use the cite key to refer to the work
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[@kiparsky82:_explan]&lt;/code&gt; $\Rightarrow$ (Kiparsky 1982)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[@kiparsky82:_explan, p. 1]&lt;/code&gt; $\Rightarrow$ (Kiparsky 1982, p. 1)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;@kiparsky82:_explan shows&lt;/code&gt; $\Rightarrow$ Kiparsky (1982) shows&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;@kiparsky82:_explan [p. 1] shows&lt;/code&gt; $\Rightarrow$ Kiparsky (1982, p. 1) shows&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Phonology has some explaining to do [as shown by @kiparsky82:_explan]&lt;/code&gt; $\Rightarrow$ Phonology has some explaining to do (as shown by Kiparsky 1982)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;One of Kiparsky&#39;s important works [-@kiparsky82:_explan]&lt;/code&gt; $\Rightarrow$ One of Kiparsky&amp;rsquo;s important works (1982)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;You can also have multiple citations, separated by a semicolon
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[@spe; @kiparsky82:_explan]&lt;/code&gt; $\Rightarrow$ (Chomsky &amp;amp; Halle 1967; Kiparsky 1982)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-style:c5823fcb8a1263e1354441821c807a9f&#34;&gt;The style&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In output formats other than LaTeX, &lt;code&gt;pandoc&lt;/code&gt; uses the &lt;code&gt;.csl&lt;/code&gt; format to describe citation styles&lt;/li&gt;
+&lt;li&gt;CSL files are available in the &lt;a href=&#34;http://www.zotero.org/styles&#34;&gt;Zotero style repository&lt;/a&gt; for the Unified Style Sheet for Linguistics Journals (one of the recommended styles for LEL), APA, and many others&lt;/li&gt;
+&lt;li&gt;Setting up automated bibliographies with LaTeX output requires a bit of fiddling about with LaTeX\ itself: shoot me an email if you need help with that&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;putting-it-all-together:c5823fcb8a1263e1354441821c807a9f&#34;&gt;Putting it all together&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This will create a &lt;code&gt;.docx&lt;/code&gt; file with a bibliography styled using the Unified Style Sheet:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;pandoc myfile.md -o myfile.docx --bibliography=path/to/your/bib/file
+--csl=path/to/your/csl/file&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;When creating a bibliography in a Word file, remember to end the file with a header at the appropriate level saying something like &lt;code&gt;# References #&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;going-further:c5823fcb8a1263e1354441821c807a9f&#34;&gt;Going further&lt;/h1&gt;
+
+&lt;h2 id=&#34;getting-help:c5823fcb8a1263e1354441821c807a9f&#34;&gt;Getting help&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://johnmacfarlane.net/pandoc/README.html&#34;&gt;pandoc manual&lt;/a&gt; is excellent&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;more-things-to-do:c5823fcb8a1263e1354441821c807a9f&#34;&gt;More things to do?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If you&amp;rsquo;re willing to get your hands (a bit) dirty with TeX, you can fiddle around with templates and set up bibliographies in LaTeX output&lt;/li&gt;
+&lt;li&gt;If you do any work with R, you&amp;rsquo;ll know about &lt;code&gt;knitr&lt;/code&gt;, the R library for reproducible research. By default (as set up in RStudio), &lt;code&gt;knitr&lt;/code&gt; outputs HTML files, but it can also be set up to generate other formats via &lt;code&gt;pandoc&lt;/code&gt; (see &lt;a href=&#34;http://yihui.name/knitr/demo/pandoc/&#34;&gt;here&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;To avoid repetitive typing / command history scouring, consider scripting or Emacs / Vim with their &lt;code&gt;pandoc&lt;/code&gt; utilities (both are also excellent LaTeX editors if you go down that particular rabbit hole)&lt;/li&gt;
+&lt;li&gt;Consider using version control systems such as Git; see &lt;a href=&#34;http://datapub.cdlib.org/2014/05/05/github-a-primer-for-researchers/&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:c5823fcb8a1263e1354441821c807a9f:1&#34;&gt;Again, the precise number does not matter, as long as it&amp;rsquo;s the same in the references and the note itself. You can intersperse the footnotes with the text or put them all the end, they will come out as footnotes anyway.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:c5823fcb8a1263e1354441821c807a9f:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
 </description>
 </item>
 
 
 
 <item>
-<title>Minority languages, microvariation, minimalism and meaning</title>
-<link>http://anghyflawn.github.io/writing/infl-book/</link>
-<pubDate>Fri, 01 Nov 2013 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/infl-book/</guid>
-<description>&lt;p&gt;This books is a collection of papers presented at the inaugural conference of the Irish Network in Formal Linguistics. To see the table of contents and the editors&amp;rsquo; introduction, go &lt;a href=&#34;http://www.cambridgescholars.com/download/sample/59622&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+<title>Final devoicing and vowel lengthening in Friulian</title>
+<link>http://anghyflawn.github.io/writing/lingua-friulian/</link>
+<pubDate>Wed, 03 Apr 2013 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/lingua-friulian/</guid>
+<description>&lt;p&gt;Here, I propose an analysis of the interacting between final devoicing and vowel lengthening in Friulian (and other related varieties of northern Italy). Historically, stressed vowels lengthen before voiced obstruents, but this is opacified by final devoicing. I capitalize on phonetic studies showing final devoicing in the language to be incomplete and argue that the process is not in fact opaque: devoicing does not involve neutralization but instead the creation of a third, laryngealy unspecified class of obstruents. I also observe that the distribution of moraicity in Friulian presents a challenge to accepted theories of weight assignment, and propose an analysis that relies on language-specific featural representations.&lt;/p&gt;
 </description>
 </item>
 
 
+
+<item>
+<title>In defence of Richness of the Base</title>
+<link>http://anghyflawn.github.io/presentation/2012/in-defence-of-richness-of-the-base-context-free-weight-in-welsh/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2012/in-defence-of-richness-of-the-base-context-free-weight-in-welsh/</guid>
+<description>&lt;p&gt;I briefly present the analysis of mora assignment to consonants in South Welsh. The pattern can be analysed by appeal to the form of the inputs (i.e. with a massive number of accidental gaps, which is undesirable), or by positing a constraint schema with undesirable consequences for factorial typology. I suggest that the latter solution is preferable theoretically, although it may be premature to choose it for that reason alone.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Vowel reduction in Russian</title>
+<link>http://anghyflawn.github.io/writing/jl-russian-vowel-reduction/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/jl-russian-vowel-reduction/</guid>
+<description>&lt;p&gt;In this paper I propose a substance-free analysis of vowel reduction in Standard Russian. I argue that the traditional distinction between &amp;lsquo;moderate&amp;rsquo; reduction (in pretonic syllables, producing less central vowels) and &amp;lsquo;radical&amp;rsquo; reduction (producing central vowels) is not phonologically relevant. The phonological grammar is only responsible for the neutralization patterns and not for the exact phonetic properties of their outcome. In addition, I show that the necessary input-output mappings cannot be effected in a conventional featural system without some weakly supported assumptions: I argue that this demonstrates the viability of a substance-free, emergent-features approach to phonology.&lt;/p&gt;
+</description>
+</item>
+
+
+
+
+
+<item>
+<title>The phonological endgame</title>
+<link>http://anghyflawn.github.io/presentation/2012/the-phonological-endgame-welsh-svarabhakti-revisited/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2012/the-phonological-endgame-welsh-svarabhakti-revisited/</guid>
+<description>&lt;p&gt;I present an analysis of Welsh &amp;lsquo;svarabhakti&amp;rsquo;, whereby a copy of a preceding vowel is inserted to break up final clusters of rising sonority (&lt;em&gt;pwdr&lt;/em&gt; &amp;lsquo;rotten&amp;rsquo; is [pudur] rather than *[pudr]). This pattern is said to coexist with a pattern of deleting consonants in such clusters in polysyllables (&lt;em&gt;perygl&lt;/em&gt; &amp;lsquo;danger&amp;rsquo; is [perɪɡ] rather than *[perɪɡl]). It has been argued that the two differing outcomes can be reconciled by appeal to a single constraint on the form of feet. I show that this analysis is not tenable for South Welsh, and propose that deletion (as in &lt;em&gt;perygl&lt;/em&gt;) is not part of the phonological grammar (at least in South Welsh).&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Glottal stop insertion in Scottish Gaelic and contrastive syllabification</title>
+<link>http://anghyflawn.github.io/presentation/2013/glottal-stop-insertion-in-scottish-gaelic-and-contrastive-syllabification/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2013/glottal-stop-insertion-in-scottish-gaelic-and-contrastive-syllabification/</guid>
+<description>&lt;p&gt;Gaelic dialects, mostly in Argyll, show a process of glottal stop epenthesis in stressed light syllables. This has been analysed as a stress-to-weight effect, and I review the evidence to show that this analysis is likely correct, and also that glottal stop insertion is a live phonological process rather than a lexicalized artefact of history. If this is correct, Argyll Gaelic shows an example of lexical storage of syllable structure, sometimes argued to be impossible.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Non-contrastive epenthetic segments as surface prosodic structure</title>
+<link>http://anghyflawn.github.io/presentation/2013/non-contrastive-epenthetic-segments-as-surface-prosodic-structure/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2013/non-contrastive-epenthetic-segments-as-surface-prosodic-structure/</guid>
+<description>&lt;p&gt;I analyse two cases where segment epenthesis must be phonological but involves segments that are otherwise non-phonemic in the relevant languages: Argyll Gaelic (see also the &lt;a href=&#34;http://anghyflawn.github.io/presentation/2013/glottal-stop-insertion-in-scottish-gaelic-and-contrastive-syllabification/&#34;&gt;&lt;em&gt;Teangeolaoícht na Gaeilge&lt;/em&gt; talk&lt;/a&gt; to this effect) and Zealand Danish. Such involvement of non-contrastive information in phonological rules might be problematic for contrastivist approaches to phonology. I argue that this problem can be resolve if the epenthesis is analysed as not involving &lt;em&gt;segments&lt;/em&gt;, but instead &lt;em&gt;features&lt;/em&gt; attaching directly to suprasegmental nodes.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Phonemicization vs. phonologization</title>
+<link>http://anghyflawn.github.io/presentation/2013/phonemicization-vs-phonologization-voiced-fricatives-in-old-english-and-brythonic/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2013/phonemicization-vs-phonologization-voiced-fricatives-in-old-english-and-brythonic/</guid>
+<description>&lt;p&gt;We consider the status of &amp;lsquo;voiced&amp;rsquo; (really lenis) fricatives in Old English and in Brythonic Celtic. In the received view, they are not &amp;lsquo;phonemic&amp;rsquo; in Old English, yet their distribution is clearly sensitive to phonological structure. We propose that they &lt;em&gt;are&lt;/em&gt; distinct phonological symbols, coerced into predictable distributions by the phonological computation. We also offer a similar analysis for Brythonic Celtic. The situation is argued to result as a predictable consequence of the life cycle of phonological processes rather than from language contact, &lt;em&gt;contra&lt;/em&gt; previous suggestions.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Head-dependent asymmetries in Munster Irish prosody</title>
+<link>http://anghyflawn.github.io/writing/munster-irish-stress/</link>
+<pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/munster-irish-stress/</guid>
+<description>&lt;p&gt;In this paper I propose an analysis of stress in Munster Irish which builds on two important premises. First, I argue for a distinction between the notion &amp;lsquo;head of a constituent&amp;rsquo; and the notion of &amp;lsquo;stress&amp;rsquo;: these are separate entities, and the typologically frequent isomorphic distribution of the two is just one possible outcome of the phonological computation. Second, I propose to employ a particular family of constraints requiring head-dependent asymmetries (Dresher and van der Hulst 1998) to account for the mismatch between the placement of foot heads and stress in Munster Irish. Overall, the paper is an argument for elaborate abstract structure as an explanatory factor in phonology, as opposed to relatively shallow, substance-based representations.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Honours Foundation: Phonology and Phonetics</title>
+<link>http://anghyflawn.github.io/teaching/2013/hfpp/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2013/hfpp/</guid>
+<description>&lt;p&gt;This course was an introduction to phonological theory and to laboratory phonology &amp;mdash; the use of phonetic evidence to answer theoretical phonological questions. I was responsible for the morphophonology portion of the course.&lt;/p&gt;
+
+&lt;p&gt;This course has now been discontinued. LEL Honours students interested in these topics may look at LASC10088 &lt;em&gt;Phonological Theory&lt;/em&gt; and/or LASC10090 &lt;em&gt;Phonetics and Laboratory Phonology&lt;/em&gt;.&lt;/p&gt;
+</description>
+</item>
 
 
   </channel>
