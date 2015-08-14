@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Fri, 14 Aug 2015 21:06:06 BST</updated>
+    <updated>Fri, 14 Aug 2015 21:08:53 BST</updated>
 
 
 
@@ -152,7 +152,7 @@ question of internal vs external origin of preaspiration.&lt;/p&gt;
 <link>http://anghyflawn.github.io/news/2015/sem1-teaching/</link>
 <pubDate>Fri, 14 Aug 2015 20:57:36 BST</pubDate>
 <guid>http://anghyflawn.github.io/news/2015/sem1-teaching/</guid>
-<description>&lt;p&gt;In the autumn semester of &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;, I am teaching &lt;a href=&#34;{{ relref &amp;quot;teaching/2015/phonological-theory.md&amp;quot; }}&#34;&gt;LASC10088 Phonological Theory&lt;/a&gt;. For further teaching plans, see &lt;a href=&#34;{{ .Site.BaseUrl }}/teaching&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+<description>&lt;p&gt;In the autumn semester of &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;, I am teaching &lt;a href=&#34;http://anghyflawn.github.io/teaching/2015/phonological-theory/&#34;&gt;LASC10088 Phonological Theory&lt;/a&gt;. For further teaching plans, see &lt;a href=&#34;{{ .Site.BaseUrl }}/teaching&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
@@ -352,8 +352,8 @@ activists.&lt;/p&gt;
 
 
 <item>
-<title>About my name</title>
-<link>http://anghyflawn.github.io/my-name/</link>
+<title>Preaspiration in North Argyll Gaelic and its contribution to prosodic structure</title>
+<link>http://anghyflawn.github.io/presentation/2009/sandhi-mutation-and-contrast-laryngeal-phonology-in-plougrescant-breton/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/my-name/</guid>
 <description>&lt;p&gt;My name is obviously problematic for English speakers (or indeed for Russian speakers), so I&amp;rsquo;m just putting this up for future reference.&lt;/p&gt;
@@ -970,28 +970,19 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 
 
 <item>
-<title>Historical Phonology</title>
-<link>http://anghyflawn.github.io/teaching/2015/historical-phonology/</link>
+<title>LEL2E: Structure and History of European Languages</title>
+<link>http://anghyflawn.github.io/teaching/2015/lel2e/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/historical-phonology/</guid>
-<description>&lt;p&gt;In this course (co-taught with my colleagues &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt; and &lt;a href=&#34;http://www.lel.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt;) we consider a variety of issues connected to phonological change. Throughout the course, we address questions such as the following:&lt;/p&gt;
+<guid>http://anghyflawn.github.io/teaching/2015/lel2e/</guid>
+<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;How do we reconstruct the phonology of past language states?&lt;/li&gt;
-&lt;li&gt;What types of phonological changes are attested?&lt;/li&gt;
-&lt;li&gt;How can synchronic phonological theory assist us in the study of historical phonology?&lt;/li&gt;
-&lt;li&gt;What can we learn about the human language faculty by studying historical phonology?&lt;/li&gt;
+&lt;li&gt;The Indo-European language family&lt;/li&gt;
+&lt;li&gt;Celtic languages&lt;/li&gt;
+&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I cover the following topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Phonological typology and historical phonology (with a focus on consonants)&lt;/li&gt;
-&lt;li&gt;Lenition&lt;/li&gt;
-&lt;li&gt;Historical phonology and phonological representations&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Course materials are available on &lt;a href=&#34;http://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For course materials, see the relevant page on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;&lt;/p&gt;
 </description>
 </item>
 
@@ -1021,19 +1012,28 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 
 
 <item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>http://anghyflawn.github.io/teaching/2015/lel2e/</link>
+<title>Historical Phonology</title>
+<link>http://anghyflawn.github.io/teaching/2015/historical-phonology/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
+<guid>http://anghyflawn.github.io/teaching/2015/historical-phonology/</guid>
+<description>&lt;p&gt;In this course (co-taught with my colleagues &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt; and &lt;a href=&#34;http://www.lel.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt;) we consider a variety of issues connected to phonological change. Throughout the course, we address questions such as the following:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;The Indo-European language family&lt;/li&gt;
-&lt;li&gt;Celtic languages&lt;/li&gt;
-&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
+&lt;li&gt;How do we reconstruct the phonology of past language states?&lt;/li&gt;
+&lt;li&gt;What types of phonological changes are attested?&lt;/li&gt;
+&lt;li&gt;How can synchronic phonological theory assist us in the study of historical phonology?&lt;/li&gt;
+&lt;li&gt;What can we learn about the human language faculty by studying historical phonology?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;For course materials, see the relevant page on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I cover the following topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Phonological typology and historical phonology (with a focus on consonants)&lt;/li&gt;
+&lt;li&gt;Lenition&lt;/li&gt;
+&lt;li&gt;Historical phonology and phonological representations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Course materials are available on &lt;a href=&#34;http://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
@@ -1329,7 +1329,7 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 <item>
 <title>The phonology and morphosyntax of Breton mutation</title>
 <link>http://anghyflawn.github.io/writing/breton-mutation/</link>
-<pubDate>Wed, 18 Feb 2015 00:00:00 UTC</pubDate>
+<pubDate>Sun, 01 Jun 2014 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/writing/breton-mutation/</guid>
 <description>&lt;p&gt;I analyse of initial consonant mutation in a Breton dialect, with a
 focus on establishing the division of labour between phonology and
@@ -1353,7 +1353,42 @@ interactions.&lt;/p&gt;
 <link>http://anghyflawn.github.io/teaching/2014/phonological-theory-hse/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/teaching/2014/phonological-theory-hse/</guid>
-<description></description>
+<description>
+
+&lt;p&gt;Приглашенный мини-курс «Фонологическая теория», Москва, ГУ-ВШЭ.&lt;/p&gt;
+
+&lt;p&gt;В настоящем курсе рассматриваются важнейшие вопросы фонологической теории в ее генеративном варианте. Курс состоит из пяти лекций:&lt;/p&gt;
+
+&lt;h3 id=&#34;лекция-1-архитектура-фонологической-теории:c045439eba0f66e41cba4f58ececd1bb&#34;&gt;Лекция 1: Архитектура фонологической теории&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://anghyflawn.github.io/phon-theory-hse/hse-handout-01.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;материалы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Тема первой лекции — устройство фонологической теории, место фонологии в теории грамматики и мотивация динамического (генеративного) подхода. В рамках современной теории фонологический модуль представляется как механизм, соотносящий фонологические объекты (множества сегментов, признаков, граничных символов и т.п.), предоставленные словарем, с другими фонологическими объектами, которые описываются в терминах того же алфавита, что и «входные данные», и интерпретируются фонетическим компонентом. В этой лекции рассматриваются мотивация такого подхода, которая связана в первую очередь с его успехом в описании (мор)фонологических чередований, и его преимущества перед одноуровневым описанием, характерным для традиционных фонематических теорий.&lt;/p&gt;
+
+&lt;h3 id=&#34;лекция-2-морфонологические-чередования-и-порядок-правил:c045439eba0f66e41cba4f58ececd1bb&#34;&gt;Лекция 2: Морфонологические чередования и порядок правил&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://anghyflawn.github.io/phon-theory-hse/hse-handout-02.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;материалы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Во второй лекции мы рассмотрим некоторые типы чередований, которые могут быть изящно описаны в рамках многоуровневой теории. Особое внимание будет уделено «неавтоматическим» чередованиям, условия для которых плохо описываются без привлечения данных о промежуточных представлениях (т.е. о формах соответствующих слов, неидентичных их поверхностным представлениям). Будет рассмотрена типология порядка правил (питающий, блокирующий, контрпитающий и контрблокирующий порядки) и проблема непрозрачности.&lt;/p&gt;
+
+&lt;h3 id=&#34;лекция-3-проблема-абстрактности-вопрос-о-естественности-взаимодействие-фонологии-и-морфологии:c045439eba0f66e41cba4f58ececd1bb&#34;&gt;Лекция 3: Проблема абстрактности, вопрос о «естественности», взаимодействие фонологии и морфологии&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://anghyflawn.github.io/phon-theory-hse/hse-handout-03.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;материалы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Многоуровневый подход в фонологии предполагает возможность существования достаточно абстрактных представлений на глубинных уровнях, которые сводятся к более «реалистичным» с помощью сложных систем фонологических правил. Тема третьей лекции — различные подходы к разрешению противоречия между (достаточно мощными) формальными возможностями теории и типологически наблюдаемым преобладанием систем, традиционно называемых «естественными» или «немаркированными». Мы рассмотрим несколько возможных ограничений на глубину дериваций, типы правил и порядок их применения (естественная фонология, условие обязательности чередования, строгая цикличность); особое внимание будет уделено лексической фонологии — наиболее разработанной морфонологической концепции.&lt;/p&gt;
+
+&lt;h3 id=&#34;лекция-4-теория-представлений:c045439eba0f66e41cba4f58ececd1bb&#34;&gt;Лекция 4: Теория представлений&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://anghyflawn.github.io/phon-theory-hse/hse-handout-04.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;материалы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Тема четвертой лекции — различные подходы к уточнению признаковой теории, в первую очередь вопрос о привативности фонологических признаков, признаковой геометрии и неполной спецификации. Как известно, еще Трубецкой в «Основах фонологии» предлагал различать эквиполентные (и градуальные) оппозиции, предполагающие возможность двух (или более) значений признака, и привативные, для которых существенно лишь наличие либо отсутствие признака. Мы рассмотрим типологические данные, говорящие в пользу привативности по крайней мере некоторых признаков, и обсудим вопрос о том, может ли фонологическая теория вовсе обойтись без бинарных признаков. Существование привативных признаков также предполагает возможность отсутствия фонологической спецификации по некоторым параметрам: мы рассмотрим несколько теоретических подходов к такой неполной спецификации. Наконец, теория признаковой геометрии постулирует существование древовидной структуры составляющих «внутри» сегмента: в этой лекции мы обсудим некоторые преимущества такого подхода.&lt;/p&gt;
+
+&lt;h3 id=&#34;лекция-5-ограничения-в-фонологии-теория-оптимальности:c045439eba0f66e41cba4f58ececd1bb&#34;&gt;Лекция 5: Ограничения в фонологии, теория оптимальности&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://anghyflawn.github.io/phon-theory-hse/hse-handout-05.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;материалы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Традиционную фонологическую теорию можно назвать «ориентированной на входные данные»: действие правил определяется состоянием системы до их запуска. Одно из следствий такого подхода: невозможность адекватного описания так называемых «заговоров», когда некая поверхностная структура избегается за счет применения формально не связанных друг с другом правил. В этой лекции мы обсудим вопрос о необходимости дополнить правила ограничениями, регулирующими применение правил, и недостатки такого гибридного подхода. В рамках лекции также будет дано введение в теорию оптимальности — подход, полностью отказывающийся от правил и оперирующий одними лишь ограничениями.&lt;/p&gt;
+</description>
 </item>
 
 
@@ -1492,6 +1527,22 @@ interactions.&lt;/p&gt;
 
 
 <item>
+<title>LEL2E: Structure and History of European Languages</title>
+<link>http://anghyflawn.github.io/teaching/2014/lel2e/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2014/lel2e/</guid>
+<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for the following sections:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Celtic languages&lt;/li&gt;
+&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+</item>
+
+
+
+<item>
 <title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
 <link>http://anghyflawn.github.io/teaching/2014/lel2d/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -1505,22 +1556,6 @@ interactions.&lt;/p&gt;
 &lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
 &lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
 &lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>http://anghyflawn.github.io/teaching/2014/lel2e/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2014/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for the following sections:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Celtic languages&lt;/li&gt;
-&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>

@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Fri, 14 Aug 2015 21:06:06 BST</updated>
+    <updated>Fri, 14 Aug 2015 21:08:53 BST</updated>
 
 
 
@@ -152,7 +152,7 @@ question of internal vs external origin of preaspiration.&lt;/p&gt;
 <link>http://anghyflawn.github.io/news/2015/sem1-teaching/</link>
 <pubDate>Fri, 14 Aug 2015 20:57:36 BST</pubDate>
 <guid>http://anghyflawn.github.io/news/2015/sem1-teaching/</guid>
-<description>&lt;p&gt;In the autumn semester of &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;, I am teaching &lt;a href=&#34;{{ relref &amp;quot;teaching/2015/phonological-theory.md&amp;quot; }}&#34;&gt;LASC10088 Phonological Theory&lt;/a&gt;. For further teaching plans, see &lt;a href=&#34;{{ .Site.BaseUrl }}/teaching&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+<description>&lt;p&gt;In the autumn semester of &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;, I am teaching &lt;a href=&#34;http://anghyflawn.github.io/teaching/2015/phonological-theory/&#34;&gt;LASC10088 Phonological Theory&lt;/a&gt;. For further teaching plans, see &lt;a href=&#34;{{ .Site.BaseUrl }}/teaching&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
@@ -280,23 +280,19 @@ activists.&lt;/p&gt;
 
 
 <item>
-<title>Quantity-quality interactions in Welsh vowels</title>
-<link>http://anghyflawn.github.io/presentation/2015/quantity-quality-interactions-in-welsh-vowels-phonologization-across-dialects/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/2015/quantity-quality-interactions-in-welsh-vowels-phonologization-across-dialects/</guid>
-<description>&lt;p&gt;I present the results of a phonetic study of the relationship between vowel quality and vowel quantity. The results confirm that the descriptions are correct in setting up a categorical distinction between two varieties of long mid vowels (tense [eː oː] and lax [ɛː ɔː]) in South-West Welsh. This system plausibly arose as the enhancement of a pattern where there is no quality distinctions between short and long vowels, with continuous variation in height in both prosodic contexts. The rise of the south-western pattern is connected to the phonologization of a trading relation in duration between the stressed penultimate and the final syllable, which is still attested in the relevant varieties. This presents an interesting example of &amp;lsquo;rule scattering&amp;rsquo; (Bermúdez-Otero 2014).&lt;/p&gt;
-
-&lt;p&gt;The handout is much more detailed than the slides. However, there is a rather embarrassing misinterpretation of the durational effect for the &amp;lsquo;non-enhanced&amp;rsquo; system. I&amp;rsquo;m leaving this unchanged in the interest of historical veracity, but see my &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/free-not-so-free-dialect-variation-quantity-quality-interactions-welsh-vowels/&#34;&gt;Gregynog presentation&lt;/a&gt;, once it&amp;rsquo;s available, for the corrected version.&lt;/p&gt;
-
-&lt;p&gt;Also, I plan on releasing the data behind this presentation fairly soon &amp;mdash; check back later for a link.&lt;/p&gt;
+<title>Welsh vowels presentation at the mfm</title>
+<link>http://anghyflawn.github.io/news/2015/welsh-vowels/</link>
+<pubDate>Sat, 30 May 2015 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2015/welsh-vowels/</guid>
+<description>&lt;p&gt;I presented &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/quantity-quality-interactions-in-welsh-vowels-phonologization-across-dialects/&#34;&gt;&lt;em&gt;Quantity-quality interactions in Welsh vowels: Phonologization across dialects&lt;/em&gt;&lt;/a&gt; at the &lt;a href=&#34;http://www.lel.ed.ac.uk/mfm/23mfm.html&#34;&gt;23rd Manchester Phonology Meeting&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
 
 
 <item>
-<title>Welsh vowels presentation at the mfm</title>
-<link>http://anghyflawn.github.io/news/2015/welsh-vowels/</link>
+<title>Quantity-quality interactions in Welsh vowels</title>
+<link>http://anghyflawn.github.io/presentation/2015/quantity-quality-interactions-in-welsh-vowels-phonologization-across-dialects/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/presentation/2015/quantity-quality-interactions-in-welsh-vowels-phonologization-across-dialects/</guid>
 <description>&lt;p&gt;I present the results of a phonetic study of the relationship between vowel quality and vowel quantity. The results confirm that the descriptions are correct in setting up a categorical distinction between two varieties of long mid vowels (tense [eː oː] and lax [ɛː ɔː]) in South-West Welsh. This system plausibly arose as the enhancement of a pattern where there is no quality distinctions between short and long vowels, with continuous variation in height in both prosodic contexts. The rise of the south-western pattern is connected to the phonologization of a trading relation in duration between the stressed penultimate and the final syllable, which is still attested in the relevant varieties. This presents an interesting example of &amp;lsquo;rule scattering&amp;rsquo; (Bermúdez-Otero 2014).&lt;/p&gt;

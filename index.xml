@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Fri, 14 Aug 2015 21:06:06 BST</updated>
+    <updated>Fri, 14 Aug 2015 21:08:53 BST</updated>
 
 
 
@@ -152,7 +152,7 @@ question of internal vs external origin of preaspiration.&lt;/p&gt;
 <link>http://anghyflawn.github.io/news/2015/sem1-teaching/</link>
 <pubDate>Fri, 14 Aug 2015 20:57:36 BST</pubDate>
 <guid>http://anghyflawn.github.io/news/2015/sem1-teaching/</guid>
-<description>&lt;p&gt;In the autumn semester of &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;, I am teaching &lt;a href=&#34;{{ relref &amp;quot;teaching/2015/phonological-theory.md&amp;quot; }}&#34;&gt;LASC10088 Phonological Theory&lt;/a&gt;. For further teaching plans, see &lt;a href=&#34;{{ .Site.BaseUrl }}/teaching&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+<description>&lt;p&gt;In the autumn semester of &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;, I am teaching &lt;a href=&#34;http://anghyflawn.github.io/teaching/2015/phonological-theory/&#34;&gt;LASC10088 Phonological Theory&lt;/a&gt;. For further teaching plans, see &lt;a href=&#34;{{ .Site.BaseUrl }}/teaching&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
