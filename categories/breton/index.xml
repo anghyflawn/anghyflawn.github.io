@@ -25,33 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Wed, 19 Aug 2015 13:14:02 BST</updated>
-
-
-
-<item>
-<title>LEL2D: Cross-Linguistic Variation: Limits and Theories</title>
-<link>http://anghyflawn.github.io/teaching/2016/lel2d/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2016/lel2d/</guid>
-<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block; please check back nearer the time for an outline of the exact content.&lt;/p&gt;
-
-&lt;p&gt;Course materials will be available on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Deconstructing mutation in Breton</title>
-<link>http://anghyflawn.github.io/presentation/2012/deconstructing-mutation-in-breton/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2016/lel2d/</guid>
-<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block; please check back nearer the time for an outline of the exact content.&lt;/p&gt;
-
-&lt;p&gt;Course materials will be available on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
+    <updated>Wed, 19 Aug 2015 13:20:58 BST</updated>
 
 
 
@@ -110,82 +84,71 @@
 
 
 <item>
-<title>Celtic, Norse, and English in contact</title>
-<link>http://anghyflawn.github.io/teaching/2016/celtic-norse-english/</link>
+<title>Phonological Theory</title>
+<link>http://anghyflawn.github.io/teaching/2015/phonological-theory/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2016/celtic-norse-english/</guid>
-<description>&lt;p&gt;This course runs for the first time in &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt; (but will probably run every other year). It has three main objectives:&lt;/p&gt;
+<guid>http://anghyflawn.github.io/teaching/2015/phonological-theory/</guid>
+<description>&lt;p&gt;This course introduces students to a range of important topics in (generative) phonological theory and to phonological data analysis. On the theoretical side, we will cover the following topics:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;An introduction to Celtic linguistics, via familiarizing students with the structural properties of Celtic languages&lt;/li&gt;
-&lt;li&gt;An brief introduction to the study of language contact, with particular attention to criteria used to diagnose contact features&lt;/li&gt;
-&lt;li&gt;A discussion of various ways in which Celtic and North Germanic languages interacted with each other and with English in the British Isles&lt;/li&gt;
+&lt;li&gt;Basics of phonological theory&lt;/li&gt;
+&lt;li&gt;Feature theory&lt;/li&gt;
+&lt;li&gt;Derivations, underlying representations, rules&lt;/li&gt;
+&lt;li&gt;Process interaction and rule ordering&lt;/li&gt;
+&lt;li&gt;Phonological typology&lt;/li&gt;
+&lt;li&gt;Suprasegmental phonology: syllable structure, stress, tone&lt;/li&gt;
+&lt;li&gt;Advanced feature theory: feature geometry, unary features&lt;/li&gt;
+&lt;li&gt;Constraints in phonology: well-formedness conditions, templates, conspiracies, the &amp;lsquo;duplication problem&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;Explanation in phonology&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;This course presupposes &lt;em&gt;no&lt;/em&gt; knowledge of any modern or ancient Celtic language. However, it is also open to students pursuing Honours degrees in Celtic, as long as they have passed one of the second-year Gaelic courses &amp;mdash; while some of the linguistic concepts may require a bit of effort (especially if you haven&amp;rsquo;t taken at least LEL1 in pre-Honours), much of the language material will be familiar or sufficiently similar to Gaelic.&lt;/p&gt;
+&lt;p&gt;Throughout the course, there is a strong emphasis on building data analysis and problem solving skills. Click &lt;a href=&#34;http://anghyflawn.github.io/teaching/2014/phonological-theory/&#34;&gt;here&lt;/a&gt; for last year&amp;rsquo;s course handbook.&lt;/p&gt;
 
-&lt;p&gt;Check this page later for a course handbook. In the meantime, here is a preliminary weekly plan (subject to change with extreme prejudice):&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Introduction and the historical setting
-
-&lt;ol&gt;
-&lt;li&gt;Celtic and the Anglo-Saxon conquest&lt;/li&gt;
-&lt;li&gt;Celtic and English in the Middle Ages. The Norse presence in England, Scotlad, and Ireland&lt;/li&gt;
-&lt;li&gt;Language shift. &amp;lsquo;Celtic Englishes&amp;rsquo;&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Celtic language structures: Old Irish. Modern Irish phonology and morphosyntax&lt;/li&gt;
-&lt;li&gt;Celtic language structures: Scottish Gaelic. Middle Welsh. Modern Welsh phonology&lt;/li&gt;
-&lt;li&gt;Celtic language structures: Modern Welsh morphosyntax. Cornish and Breton. An introduction to language contact&lt;/li&gt;
-&lt;li&gt;Sociolinguistic complexity and types of language contact. Diagnosing historical contact. Class test (worth 30% of the mark)&lt;/li&gt;
-&lt;li&gt;The Celtic hypothesis: was Early English influenced by Celtic?&lt;/li&gt;
-&lt;li&gt;Contact with Norse: North Germanic and English. The Norse influence and Gaelic.&lt;/li&gt;
-&lt;li&gt;Celtic Englishes: Irish English. Scotland.&lt;/li&gt;
-&lt;li&gt;Celtic Englishes: Welsh English. Cornwall and Brittany. Summary&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The remaining 70% of the mark will be assessed by a final essay of 3,000 words, to be written between the end of teaching and the start of the exam period.&lt;/p&gt;
+&lt;p&gt;Following this course, students will be able to progress to advanced study of phonological theory. In &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;, we will &lt;em&gt;not&lt;/em&gt; be offering LASC10089 Current Issues in Phonology, but it is planned that this will run in the second semester of &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;. Get in touch early with prospective supervisors if you&amp;rsquo;re thinking about an Honours dissertation in phonology in &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;, because it is likely you&amp;rsquo;ll need to do some summer reading. Conversely, LASC10046 Historical Phonology &lt;em&gt;is&lt;/em&gt; running this year, but not next year. Plan accordingly.&lt;/p&gt;
 </description>
 </item>
 
 
 
 <item>
-<title>Celtic, Norse, and English in contact</title>
-<link>http://anghyflawn.github.io/teaching/2016/celtic-norse-english/</link>
+<title>Teaching language in schools: beyond foreign languages</title>
+<link>http://anghyflawn.github.io/blog/2015/language-in-schools/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2016/celtic-norse-english/</guid>
-<description>&lt;p&gt;This course runs for the first time in &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt; (but will probably run every other year). It has three main objectives:&lt;/p&gt;
+<guid>http://anghyflawn.github.io/blog/2015/language-in-schools/</guid>
+<description>&lt;p&gt;&lt;a href=&#34;http://www.scotsman.com/news/insight-why-scots-face-a-language-barrier-1-3853275&#34;&gt;An excellent piece&lt;/a&gt; by Dani Garavelli in Scotland on Sunday on the state of modern foreign languages in Scottish schools includes a familiar litany of failings: a relatively early end of compulsory language study, staffing issues, teaching methods, differences between schools with more opportunities for pupils from more privileged backgrounds, and so on, and on, and on. One of the points strikes a bit closer to home for me:&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;An introduction to Celtic linguistics, via familiarizing students with the structural properties of Celtic languages&lt;/li&gt;
-&lt;li&gt;An brief introduction to the study of language contact, with particular attention to criteria used to diagnose contact features&lt;/li&gt;
-&lt;li&gt;A discussion of various ways in which Celtic and North Germanic languages interacted with each other and with English in the British Isles&lt;/li&gt;
-&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;One [factor] is that our children are taught very little English
+grammar. This means that when it comes to studying another language
+they have to learn concepts such as tenses and verb conjugation from
+scratch. “When they come into our class, they have never heard terms
+like past participle,” says one ML teacher.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;This course presupposes &lt;em&gt;no&lt;/em&gt; knowledge of any modern or ancient Celtic language. However, it is also open to students pursuing Honours degrees in Celtic, as long as they have passed one of the second-year Gaelic courses &amp;mdash; while some of the linguistic concepts may require a bit of effort (especially if you haven&amp;rsquo;t taken at least LEL1 in pre-Honours), much of the language material will be familiar or sufficiently similar to Gaelic.&lt;/p&gt;
+&lt;p&gt;This is, I submit, a big problem, not just as far as modern languages go. The science of language should be taught in schools, as part of the English curriculum, for foreign languages, and just more generally.&lt;/p&gt;
 
-&lt;p&gt;Check this page later for a course handbook. In the meantime, here is a preliminary weekly plan (subject to change with extreme prejudice):&lt;/p&gt;
+&lt;p&gt;I can quite vividly recall the shock I experienced when, as a PhD student, I tutored an Introduction to Linguistics course. Well, it wasn&amp;rsquo;t even that: at that time, the &lt;a href=&#34;http://www.uit.no&#34;&gt;University of Tromsø&lt;/a&gt;&amp;rsquo;s courses were set up in a way where all students in the &amp;lsquo;Faculty of Humanities&amp;rsquo; (this basically meant Norwegian language &amp;amp; literature, foreign languages &amp;amp; literatures, and a few other allied subjects) had to do something called &lt;em&gt;examen facultatum&lt;/em&gt;, which was a brief introduction to all the subjects taught at the faculty, including linguistics. So the students were a mix of language-y and non-language-y types. In my first two or three tutorials I had the distinct feeling I was running full speed into a brick wall. It wasn&amp;rsquo;t that they were lazy, or weren&amp;rsquo;t trying hard, or anything like that &amp;mdash; clearly not &amp;mdash; but I was getting nowhere. And then it hit me: the very idea that the structure of language is an object of analysis was just foreign to them. This was very new to me. I went to school in Russia, where (at least way back when) some versions of phonetic, morphological and syntactic analysis are taught (and assessed) from a very early stage and throughout the school years. The way it&amp;rsquo;s done can be, and often is, dry and unenlightening, but the very concept of analysing language is not something that&amp;rsquo;s alien and new when you start university.&lt;/p&gt;
+
+&lt;p&gt;Things seem to be quite different in Norway &amp;mdash; and, it would seem, in much of the English-speaking world as well. And that is a problem. Teaching the science of language can help with a lot, and it should not be too difficult to find interesting angles. People are fascinated by language and want to know more. Not giving them the tools and knowledge to master what can be mastered in this area is selling them short. And it can, in fact, be harmful.&lt;/p&gt;
+
+&lt;p&gt;For one thing, people&amp;rsquo;s &lt;a href=&#34;http://languagelog.ldc.upenn.edu/nll/?p=1357&#34;&gt;nervous cluelessness&lt;/a&gt; about language provides fertile ground to all sorts of prejudice. Consider &lt;a href=&#34;http://www.english.ox.ac.uk/about-faculty/faculty-members/language-and-linguistics/cameron-professor-deborah&#34;&gt;Deborah Cameron&lt;/a&gt;&amp;rsquo;s admirable &lt;a href=&#34;https://debuk.wordpress.com/2015/07/05/just-dont-do-it/&#34;&gt;recent&lt;/a&gt; &lt;a href=&#34;https://debuk.wordpress.com/2015/07/26/a-response-to-naomi-wolf/&#34;&gt;crusade&lt;/a&gt; &lt;a href=&#34;https://debuk.wordpress.com/2015/08/03/how-to-write-a-bullshit-article-about-womens-language/&#34;&gt;against&lt;/a&gt; bullshit attitudes to women&amp;rsquo;s language &amp;mdash; really just using a vaguely-plausibly-sounding factoid to clamp down on women. Of course it&amp;rsquo;s not plausible to teach schoolchildren about the intricacies of creaky voice &amp;mdash; but it &lt;em&gt;is&lt;/em&gt; (or should be) plausible to equip them with the knowledge that language is not something policed from above but a real phenomenon that can be analysed and talked about in scientific terms.&lt;/p&gt;
+
+&lt;p&gt;A similar story can be told with non-standard forms of speech. People tend to dismiss them as &amp;lsquo;slang&amp;rsquo; or &amp;lsquo;incorrect&amp;rsquo; versions of General English, but there is a lot of teaching that could be done on the basis of comparing pupils&amp;rsquo; native varieties with General English. It should not be too difficult to show the difference between &amp;lsquo;accent&amp;rsquo; and &amp;lsquo;dialect&amp;rsquo; using a localized version of the anecdote recounted by Joseph Wright in his &lt;a href=&#34;https://archive.org/stream/englishdialectgr00wriguoft#page/n9/mode/2up&#34;&gt;&lt;em&gt;English dialect grammar&lt;/em&gt;&lt;/a&gt; (which I lifted, of course, from John Wells&amp;rsquo; &lt;em&gt;Accents of English&lt;/em&gt;): a local pronunciation of phrase in General English (in Wright, &lt;em&gt;the roads are dirty&lt;/em&gt; with a characteristic Northern English [oː] vowel) is &lt;em&gt;not&lt;/em&gt; standard &amp;mdash; it is General English with an &amp;lsquo;accent&amp;rsquo; &amp;mdash; but it is of course appreciably different from the &amp;lsquo;dialect&amp;rsquo; version, which Wells tentatively respells as &lt;em&gt;&amp;rsquo;t reeads is mucky&lt;/em&gt;, with phonetic (&lt;em&gt;reeads&lt;/em&gt;), lexical (&lt;em&gt;&amp;rsquo;t&lt;/em&gt;, &lt;em&gt;mucky&lt;/em&gt;) and syntactic (with &lt;em&gt;is&lt;/em&gt; following the &lt;a href=&#34;https://en.wikipedia.org/wiki/Northern_subject_rule&#34;&gt;Northern Subject Rule&lt;/a&gt;) differences from General English. This is all eminently teachable, and in-depth attention to people&amp;rsquo;s native varieties can show that these varieties are just as &amp;lsquo;logical&amp;rsquo; and &amp;lsquo;rule-bound&amp;rsquo; as General English (just look at the work of linguists like &lt;a href=&#34;http://www.ulster.ac.uk/staff/am.henry.html&#34;&gt;Alison Henry&lt;/a&gt; or &lt;a href=&#34;http://www.gla.ac.uk/schools/critical/staff/jennifersmith/&#34;&gt;Jennifer Smith&lt;/a&gt; to see how interesting and important these non-standard varieties can be). Instead, what we all too often get is disparagement of non-standard varieties, often with more or less overt class prejudice thrown into the mix &amp;mdash; in Scotland, it&amp;rsquo;s the slang spoken by the neds of the schemes. Or do a quick search for &amp;lsquo;fleg&amp;rsquo; or &amp;lsquo;say nahim&amp;rsquo; &amp;mdash; representations of typical lower-status pronunciations in Ulster English &amp;mdash; to see how they&amp;rsquo;re used as markers of working-class speech to satirize (overwhelmingly working-class) protesters. It might be less acceptable to say they&amp;rsquo;re trash from the estate, but to point fingers at their language counts as funny. (This often comes packaged with the oh-so-funny observation that Ulster Scots is English with a Ballymena accent &amp;mdash; although a test along the lines of Wright&amp;rsquo;s anecdote can quickly disavow this.)&lt;/p&gt;
+
+&lt;p&gt;And on the other side of this barricade you will often find well-meaning but rather ill-informed defences along the lines of &amp;lsquo;Scots is a separate language because it&amp;rsquo;s a mixture of English and Scandinavian&amp;rsquo;. This reflects people&amp;rsquo;s interest &amp;mdash; but also the limitations of trying to find stuff out for oneself without access to the necessary background knowledge about how languages develop and change, and why &amp;lsquo;language mixture&amp;rsquo; is such an imprecise description of what&amp;rsquo;s going on here (or indeed why this kind of appeal shouldn&amp;rsquo;t be necessary to justify people&amp;rsquo;s ways of speaking). And this is the kind of stuff that should not be all that difficult to teach in schools. In Norway, schoolchildren learn about the precise differences between Norwegian dialects and about the history of the language, with a taste of Old Norse thrown into the mix, and there&amp;rsquo;s no logical reason something similar couldn&amp;rsquo;t be done here.&lt;/p&gt;
+
+&lt;p&gt;So learning about language can help us with learning about all sorts of ways in which it functions in society, about its different forms and shapes, and about the connection between language and history. This is perhaps unsurprising: people are just interested in these sorts of things. But the thing is that it is really not helpful to talk about these uses of language &lt;em&gt;without actually understanding how the structure of language works&lt;/em&gt;. This is where I pivot back to where I started &amp;mdash; the teaching of (English) grammar. Yes, teaching grammar can help with the teaching of foreign languages (I can still remember the epiphany I had when one of my linguistics lecturers used syntactic theory to explain in one sentence when to use the strong and weak forms of German adjectives &amp;mdash; something that I otherwise tried and pretty miserably failed to memorize). But you need to understand how language works before you move on to what it does &amp;mdash; it&amp;rsquo;s the door to all of these other things. If you&amp;rsquo;re going to explain the deal with the Northern Subject Rule, you rely on knowing what number or agreement are. If you&amp;rsquo;re going to talk about creaky voice (all right, &amp;lsquo;vocal fry&amp;rsquo;), you have to have some idea of what vocal folds are. And this means this kind of stuff is useful. It doesn&amp;rsquo;t have to be a throwback to the supposedly good old days of drumming what an adverb is into impressionable young minds &amp;mdash; indeed it &lt;em&gt;must&lt;/em&gt; be something different, something that allows the learner to play around and see &lt;em&gt;how&lt;/em&gt; things work, show that learning about language can be fun. There are ways of doing this &amp;mdash; language is one big puzzle, and putting the pieces together doesn&amp;rsquo;t have to be a matter of arduous rote learning. Have a look at the &lt;a href=&#34;http://www.uklo.org&#34;&gt;UK Lingustics Olympiad&lt;/a&gt; for examples of fun language puzzles &amp;mdash; this kind of thing can be done on the basis of English material as well.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2b5cc0bc4cb7c2b416c14a66310cf9b4:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2b5cc0bc4cb7c2b416c14a66310cf9b4:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;The bottom line? Knowledge about language is important. It&amp;rsquo;s important to help children learn foreign languages better, it&amp;rsquo;s important for them to understand why things in Standard English are the way they are, and it&amp;rsquo;s also important as a base for understanding the kinds of stuff that laypeople care about most, all the accents and dialects, &amp;lsquo;men&amp;rsquo;s&amp;rsquo; and &amp;lsquo;women&amp;rsquo;s&amp;rsquo; language, language history sort of thing. It requires a concerted effort. Knowledge about language isn&amp;rsquo;t widespread, because people assume that knowing how to speak (especially how to speak &amp;lsquo;properly&amp;rsquo;) is sufficient. It&amp;rsquo;s not part of the curriculum and it&amp;rsquo;s not part of teacher training. It&amp;rsquo;s a shame. Here in Scotland we have (false modesty aside) some cracking linguistics and English language departments, and we have students doing some absolutely brilliant work (including work on accents, dialects and social varieties of English, in Scotland and elsewhere), because they think it&amp;rsquo;s interesting, because they care about it, but (hopefully) most of all because it&amp;rsquo;s fun. So it can be done, and there&amp;rsquo;s no reason why it couldn&amp;rsquo;t be done more. We do really owe it to the children.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Introduction and the historical setting
-
-&lt;ol&gt;
-&lt;li&gt;Celtic and the Anglo-Saxon conquest&lt;/li&gt;
-&lt;li&gt;Celtic and English in the Middle Ages. The Norse presence in England, Scotlad, and Ireland&lt;/li&gt;
-&lt;li&gt;Language shift. &amp;lsquo;Celtic Englishes&amp;rsquo;&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Celtic language structures: Old Irish. Modern Irish phonology and morphosyntax&lt;/li&gt;
-&lt;li&gt;Celtic language structures: Scottish Gaelic. Middle Welsh. Modern Welsh phonology&lt;/li&gt;
-&lt;li&gt;Celtic language structures: Modern Welsh morphosyntax. Cornish and Breton. An introduction to language contact&lt;/li&gt;
-&lt;li&gt;Sociolinguistic complexity and types of language contact. Diagnosing historical contact. Class test (worth 30% of the mark)&lt;/li&gt;
-&lt;li&gt;The Celtic hypothesis: was Early English influenced by Celtic?&lt;/li&gt;
-&lt;li&gt;Contact with Norse: North Germanic and English. The Norse influence and Gaelic.&lt;/li&gt;
-&lt;li&gt;Celtic Englishes: Irish English. Scotland.&lt;/li&gt;
-&lt;li&gt;Celtic Englishes: Welsh English. Cornwall and Brittany. Summary&lt;/li&gt;
+&lt;li id=&#34;fn:2b5cc0bc4cb7c2b416c14a66310cf9b4:1&#34;&gt;Incidentally, &lt;a href=&#34;http://www.uklo.org/about/educational-rationale&#34;&gt;this page&lt;/a&gt; on the UKLO website makes much the same points I do here, so it&amp;rsquo;s not just me.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2b5cc0bc4cb7c2b416c14a66310cf9b4:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;p&gt;The remaining 70% of the mark will be assessed by a final essay of 3,000 words, to be written between the end of teaching and the start of the exam period.&lt;/p&gt;
+&lt;/div&gt;
 </description>
 </item>
 
@@ -197,17 +160,6 @@
 <pubDate>Fri, 14 Aug 2015 20:57:36 BST</pubDate>
 <guid>http://anghyflawn.github.io/news/2015/sem1-teaching/</guid>
 <description>&lt;p&gt;In the autumn semester of &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;, I am teaching &lt;a href=&#34;http://anghyflawn.github.io/teaching/2015/phonological-theory/&#34;&gt;LASC10088 Phonological Theory&lt;/a&gt;. For further teaching plans, see &lt;a href=&#34;http://anghyflawn.github.io/teaching&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>frlsu</title>
-<link>http://anghyflawn.github.io/news/2015/frlsu/</link>
-<pubDate>Thu, 13 Aug 2015 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/news/2015/frlsu/</guid>
-<description>&lt;p&gt;I presented our &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/preaspiration-in-north-argyll-gaelic-and-its-contribution-to-prosodic-structure/&#34;&gt;joint work on Argyll Gaelic preaspiration&lt;/a&gt; with &lt;a href=&#34;http://www.ppls.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt; and &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt; at the conference of the &lt;a href=&#34;http://www.frlsu.org&#34;&gt;Forum for Research on the Languages of Scotland and Ulster&lt;/a&gt; (University of the West of Scotland, Ayr).&lt;/p&gt;
 </description>
 </item>
 
@@ -245,6 +197,17 @@ Icelandic, and discuss the consequences of this analysis for the
 question of internal vs external origin of preaspiration.&lt;/p&gt;
 
 &lt;p&gt;Sound files are embedded in the handout: they can be played with Adobe Reader.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>frlsu</title>
+<link>http://anghyflawn.github.io/news/2015/frlsu/</link>
+<pubDate>Thu, 13 Aug 2015 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2015/frlsu/</guid>
+<description>&lt;p&gt;I presented our &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/preaspiration-in-north-argyll-gaelic-and-its-contribution-to-prosodic-structure/&#34;&gt;joint work on Argyll Gaelic preaspiration&lt;/a&gt; with &lt;a href=&#34;http://www.ppls.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt; and &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt; at the conference of the &lt;a href=&#34;http://www.frlsu.org&#34;&gt;Forum for Research on the Languages of Scotland and Ulster&lt;/a&gt; (University of the West of Scotland, Ayr).&lt;/p&gt;
 </description>
 </item>
 
@@ -315,159 +278,13 @@ activists.&lt;/p&gt;
 
 
 <item>
-<title>Irish isn’t ‘compromised’ — it just needs more support</title>
-<link>http://anghyflawn.github.io/blog/2015/irish-isnt-compromised-it-just-needs-more-support/</link>
+<title>Preaspiration and tonal accents as Northern Gaelic features</title>
+<link>http://anghyflawn.github.io/presentation/2015/pitch-accent-and-preaspiration-in-gaelic-reconsidering-contact-origins/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/blog/2015/irish-isnt-compromised-it-just-needs-more-support/</guid>
-<description>&lt;p&gt;There is a very interesting article now up on &lt;a href=&#34;http://www.sluggerotoole.com&#34;&gt;Slugger O&amp;rsquo;Toole&lt;/a&gt;, based around an interview with Dr &lt;a href=&#34;http://www.diarmuidjohnson.net&#34;&gt;Diarmuid Johnson&lt;/a&gt;: &lt;a href=&#34;http://sluggerotoole.com/2015/07/26/do-urban-gaeltachts-produce-a-compromised-irish&#34;&gt;&lt;em&gt;Do urban Gaeltachts produce a compromised Irish?&lt;/em&gt;&lt;/a&gt;. Go read it now &amp;mdash; it&amp;rsquo;s well written and very well informed, especially if you compare it to the general level of debate around in the Irish language in Northern Ireland (as some &amp;mdash; though by no means all &amp;mdash; comments demonstrate).&lt;/p&gt;
+<guid>http://anghyflawn.github.io/presentation/2015/pitch-accent-and-preaspiration-in-gaelic-reconsidering-contact-origins/</guid>
+<description>&lt;p&gt;I argue that the origin of both pitch accents and preaspiration in Gaelic is best understood in the context of a &amp;lsquo;Northern Gaelic&amp;rsquo; area covering Ulster and Scotland, as opposed to Connacht and Munster. Within this area, both preaspiration and pitch accents show the classic pattern of peripheral archaisms, with Lewis and West Ulster as remnant areas and Argyll as the most innovative zone. This suggests that the stronger Norse presence in the Hebrides does not correlate with a denser distribution of potential contact features, and thus the developments in both cases need not have been triggered by contact &amp;mdash; even though a reinforcing role for contact is very difficult (and probably undesirable) to exclude.&lt;/p&gt;
 
-&lt;p&gt;Full disclosure &amp;mdash; I&amp;rsquo;m an admirer of Diarmuid Johnson, and I owe him a debt of gratitude for the kind assistance I received from him in the course of my own research in  West Wales. Nevertheless, I do think that Barton Creeth is on to something in the final paragraph, saying&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;There will be many who argue Johnson’s purism about the language is
-misplaced. [&amp;hellip;] What we have in Belfast, in terms of language
-revival, is probably as good as it gets, and other minority language
-activists can learn a lot from the Belfast experience. The hybrid,
-urban, pidginised and creolised Irish of Belfast, Dublin, Derry and
-other cities across Ireland is probably the future of the language,
-and it likely means a new chapter in the history of the language.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;What&amp;rsquo;s really jagging for me is the use of &amp;lsquo;compromised&amp;rsquo; to describe the non-traditional (&amp;lsquo;urban&amp;rsquo;) varieties of Irish. I suspect it starts out as an aesthetic judgement of someone very familiar with traditional Irish, but equally I suspect being perceived by many &amp;mdash; including those outside the &amp;lsquo;movement&amp;rsquo; &amp;mdash; as a value judgement. Indeed, in that same paragraph we find the burden of justification being laid squarely on the minority language users:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;In the meantime, parents and educators need to seriously think about
-the source of Irish in Irish-medium education, and whether
-Irish-medium education, in its current form, offers children the
-best possible resources to fully develop intellectually and
-emotionally. I’ll look forward to hearing the responses from people
-who work in Irish Medium Education as well as from urban language
-activists.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Let&amp;rsquo;s be honest for a moment: would we be hearing these challenges to prove that bilingualism offers the &amp;lsquo;best possible resources&amp;rsquo; for the &amp;lsquo;full development&amp;rsquo; of children if the language in question were a &amp;lsquo;major world language&amp;rsquo; rather than a minority one with a history of political string attachment?&lt;/p&gt;
-
-&lt;p&gt;There is no doubt that traditional varieties of Irish as spoken in the Gaeltacht are under severe pressure as it finds its position weakened as a community language. An increasing proportion of those who use Irish are &lt;a href=&#34;http://www.nspk.org.uk/&#34;&gt;&amp;lsquo;new speakers&amp;rsquo;&lt;/a&gt;, with relatively little access to traditional Irish as their input in language learning (as Johnson rightly points out). Indeed, some scholars, such as Dr &lt;a href=&#34;https://www.dias.ie/index.php?option=com_content&amp;amp;view=article&amp;amp;id=576%3Adr-brian-o-curnain&amp;amp;catid=19%3Acelticstaff&amp;amp;Itemid=17&amp;amp;lang=en&#34;&gt;Brian Ó Curnáin&lt;/a&gt; at DIAS, have argued that the point of no return for traditional varieties of Irish is very close or already past, and &amp;lsquo;new-speaker&amp;rsquo; Irish is what we&amp;rsquo;re stuck with.&lt;/p&gt;
-
-&lt;p&gt;New-speaker Irish is undoubtedly different from traditional Irish in many respects. It&amp;rsquo;s interesting, however, to look at how exactly it is different. For most people, I suspect, the most appalling sign of decline is the use of English borrowings (after all, for the average layperson, language equals vocabulary) and calques, as people complain about Gaelscoil kids saying things like &lt;em&gt;tá sin ag déanamh mo cheann isteach&lt;/em&gt;. But acquiring a language is, of course, much more than acquiring the words: it&amp;rsquo;s also about the grammatical structures and the different ways language is used in society. Some of the available research, such as that from Prof. &lt;a href=&#34;http://www.ulster.ac.uk/staff/am.henry.html&#34;&gt;Alison Henry&lt;/a&gt; at Ulster University (disclosure: a former colleague) has shown that to the extent learners in Irish-medium education do not attain the target state, this shows patterns associated not with some sort of terribly monstrous unnatural language but with the lack of sufficient input in an otherwise &amp;lsquo;normal&amp;rsquo; acquisition context. Dr &lt;a href=&#34;http://www.clairenance.co.uk&#34;&gt;Claire Nance&lt;/a&gt; has in her &lt;a href=&#34;http://theses.gla.ac.uk/4603/&#34;&gt;thesis&lt;/a&gt; shown how we can use our knowledge of the processes of language variation and change to look at the Gaelic spoken in Glasgow&amp;rsquo;s Gaelic-language school. The conclusion here, again, is that while these varieties are influenced by English, they still behave like real, living languages do.&lt;/p&gt;
-
-&lt;p&gt;I should like to emphasize that this is &lt;em&gt;not&lt;/em&gt; some sort of professional &amp;lsquo;language-changes-deal-with-it&amp;rsquo; attitude that one sometimes has to adopt in the face of clueless pedantic hand-wringing about language. Of course, this is language change that happens in the social context of a majority-minority dynamic, so the adoption of new, English-influence norms might not necessarily be value-neutral. Nevertheless, I do find &amp;lsquo;new-speaker&amp;rsquo; Irish to be less objectionable than the idea that it might be somehow so inferior as not to merit any support at all. Of course it would be absolutely great if we could have a situation where urban Irish speakers have the opportunity to get enough input to acquire beautiful traditional Irish, but let&amp;rsquo;s face it &amp;mdash; neither polity on the island of Ireland has the political will to channel the kind of resources this would require. There is a lot that can &amp;mdash; and should &amp;mdash; be done to support the continued existence and future viability of traditional Irish-speaking communities, but to say that non-traditional varieties are little better than urban pidgins is, I think, counterproductive.&lt;/p&gt;
-
-&lt;p&gt;The thing is: abandoning these speakers massively narrows the base from which the future of the language can be built. As the western Gaeltachtaí shrink, seeing Irish as a Gaeltacht matter is putting it on a path to oblivion. The state can only dedicate resources to the language as long as it has some sort of duty of care towards its speakers. Once Irish goes the way of Latin in society, it goes the same way in terms of funding for arts, university teaching, research, and all the rest &amp;mdash; it becomes a niche pursuit. In this context it is mad to say that just because Dubliners use English words and much prefer &lt;em&gt;tá sé ina dhochtúir&lt;/em&gt; (if they&amp;rsquo;re lucky) to wrangling with the copula they aren&amp;rsquo;t really Irish speakers. It&amp;rsquo;s not just a tactical mistake if you&amp;rsquo;re  a language campaigner &amp;mdash; it&amp;rsquo;s just not the right thing to do.&lt;/p&gt;
-
-&lt;p&gt;All that said, it &lt;em&gt;is&lt;/em&gt; of course imperative that the teaching of Irish (as with any other language, and &lt;em&gt;especially&lt;/em&gt; a minority language) equip the learners with as much knowledge of the &amp;lsquo;target&amp;rsquo; variety as possible. This, of course, requires resources, which aren&amp;rsquo;t really forthcoming just now, but &amp;mdash; in an ideal world &amp;mdash; there would be a rethinking of how the language is taught. Diarmuid Jonhson is right to point out that the Gaeltacht simply can&amp;rsquo;t produce the numbers of native-speaker teachers &amp;mdash; teacher training in the future will inevitably have to deal with L2 speakers, so a focus on the quality of the language pedagogy there is absolutely vital. And &amp;mdash; here&amp;rsquo;s a bit of &lt;em&gt;pro domo sua&lt;/em&gt; &amp;mdash; what is also sorely needed is a big programme of language documentation. To some extent, the teaching of Irish as a language has relied on the continuing availability of at least some L1 speakers in the profession. This has meant that the gap between language teaching and the linguistic study of the language &amp;mdash; as wide in Ireland as anywhere in the English-speaking world &amp;mdash; has not been at the top of people&amp;rsquo;s concerns. But we should be worried.&lt;/p&gt;
-
-&lt;p&gt;There &lt;em&gt;are&lt;/em&gt; academic descriptions of Irish &amp;mdash; mostly done in the mid to late 20th century, in line with the linguistic theories prevalent then &amp;mdash; and there is a wealth of archival material, but there is so, so much more than can and should be done. Linguistic science has come on massively since then, and without taking anything at all away from the achievements of these scholars, to whom we owe an eternal debt for documenting the language, we are now in a position to ask questions that would just not occur back then. And these are the sort of questions that a teacher should be able to answer if they come up &amp;mdash; and when the teacher is not a &amp;lsquo;traditional&amp;rsquo; speaker, how are they going to do it? As a very small example, I&amp;rsquo;m now engaged in research (with Dr &lt;a href=&#34;http://www.ucd.ie/research/people/irishcelstirishflling/drmairenichiosain/&#34;&gt;Máire Ní Chiosáin&lt;/a&gt; of University College Dublin, with thanks to the &lt;a href=&#34;http://www.royalsoced.org.uk&#34;&gt;Royal Society of Edinburgh&lt;/a&gt; for funding) that, at bottom, addresses what you&amp;rsquo;d think was a fairly basic question &amp;mdash; how many vowels are there in Irish and Scottish Gaelic? The existing descriptions &amp;ndash; and some of them are truly excellent &amp;mdash; just don&amp;rsquo;t contain the sort of data that would allow us to answer this apparently innocuous question reliably. And don&amp;rsquo;t get me started on syntax, which for now an advanced learner can really only acquire by way of osmosis.&lt;/p&gt;
-
-&lt;p&gt;This is just one example of the disconnect between school- and even university-level pedagogy and linguistic research, but I think it&amp;rsquo;s really, really worrying in this minority-language context. My colleagues in &lt;a href=&#34;http://www.ed.ac.uk/schools-departments/literatures-languages-cultures/celtic-scottish-studies&#34;&gt;Celtic &amp;amp; Scottish Studies&lt;/a&gt;  here at Edinburgh hope to begin addressing this by including a linguistics component in their new degree in &lt;a href=&#34;http://www.ed.ac.uk/schools-departments/literatures-languages-cultures/celtic-scottish-studies/undergraduate/gaelic-and-primary-education/overview&#34;&gt;Gaelic and Primary Education&lt;/a&gt;, but this is only a start, and anyway there is just so much more of the actual research that needs done on these languages.&lt;/p&gt;
-
-&lt;p&gt;But in any case, even this little self-serving rant aside, the phenomenon (I&amp;rsquo;m carefully avoiding saying &amp;lsquo;problem&amp;rsquo;) Diarmuid Johnson has identified is real enough: the education systems patently do not give the learners the amount of exposure to traditional varieties for them to be acquired reliably. This should, of course, be remedied &amp;mdash; it probably won&amp;rsquo;t any time soon, realistically, but one can always hope. But even if it isn&amp;rsquo;t, new-speaker Irish (or Gaelic, or Welsh, or your minority language of choice) is here to stay, and its speakers are friends to the language, not a blight on the landscape. Even if their Irish is imperfect by the high standards of the past, they deserve help and support.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Irish isn’t ‘compromised’ — it just needs more support</title>
-<link>http://anghyflawn.github.io/blog/2015/irish-isnt-compromised-it-just-needs-more-support/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/blog/2015/irish-isnt-compromised-it-just-needs-more-support/</guid>
-<description>&lt;p&gt;There is a very interesting article now up on &lt;a href=&#34;http://www.sluggerotoole.com&#34;&gt;Slugger O&amp;rsquo;Toole&lt;/a&gt;, based around an interview with Dr &lt;a href=&#34;http://www.diarmuidjohnson.net&#34;&gt;Diarmuid Johnson&lt;/a&gt;: &lt;a href=&#34;http://sluggerotoole.com/2015/07/26/do-urban-gaeltachts-produce-a-compromised-irish&#34;&gt;&lt;em&gt;Do urban Gaeltachts produce a compromised Irish?&lt;/em&gt;&lt;/a&gt;. Go read it now &amp;mdash; it&amp;rsquo;s well written and very well informed, especially if you compare it to the general level of debate around in the Irish language in Northern Ireland (as some &amp;mdash; though by no means all &amp;mdash; comments demonstrate).&lt;/p&gt;
-
-&lt;p&gt;Full disclosure &amp;mdash; I&amp;rsquo;m an admirer of Diarmuid Johnson, and I owe him a debt of gratitude for the kind assistance I received from him in the course of my own research in  West Wales. Nevertheless, I do think that Barton Creeth is on to something in the final paragraph, saying&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;There will be many who argue Johnson’s purism about the language is
-misplaced. [&amp;hellip;] What we have in Belfast, in terms of language
-revival, is probably as good as it gets, and other minority language
-activists can learn a lot from the Belfast experience. The hybrid,
-urban, pidginised and creolised Irish of Belfast, Dublin, Derry and
-other cities across Ireland is probably the future of the language,
-and it likely means a new chapter in the history of the language.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;What&amp;rsquo;s really jagging for me is the use of &amp;lsquo;compromised&amp;rsquo; to describe the non-traditional (&amp;lsquo;urban&amp;rsquo;) varieties of Irish. I suspect it starts out as an aesthetic judgement of someone very familiar with traditional Irish, but equally I suspect being perceived by many &amp;mdash; including those outside the &amp;lsquo;movement&amp;rsquo; &amp;mdash; as a value judgement. Indeed, in that same paragraph we find the burden of justification being laid squarely on the minority language users:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;In the meantime, parents and educators need to seriously think about
-the source of Irish in Irish-medium education, and whether
-Irish-medium education, in its current form, offers children the
-best possible resources to fully develop intellectually and
-emotionally. I’ll look forward to hearing the responses from people
-who work in Irish Medium Education as well as from urban language
-activists.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Let&amp;rsquo;s be honest for a moment: would we be hearing these challenges to prove that bilingualism offers the &amp;lsquo;best possible resources&amp;rsquo; for the &amp;lsquo;full development&amp;rsquo; of children if the language in question were a &amp;lsquo;major world language&amp;rsquo; rather than a minority one with a history of political string attachment?&lt;/p&gt;
-
-&lt;p&gt;There is no doubt that traditional varieties of Irish as spoken in the Gaeltacht are under severe pressure as it finds its position weakened as a community language. An increasing proportion of those who use Irish are &lt;a href=&#34;http://www.nspk.org.uk/&#34;&gt;&amp;lsquo;new speakers&amp;rsquo;&lt;/a&gt;, with relatively little access to traditional Irish as their input in language learning (as Johnson rightly points out). Indeed, some scholars, such as Dr &lt;a href=&#34;https://www.dias.ie/index.php?option=com_content&amp;amp;view=article&amp;amp;id=576%3Adr-brian-o-curnain&amp;amp;catid=19%3Acelticstaff&amp;amp;Itemid=17&amp;amp;lang=en&#34;&gt;Brian Ó Curnáin&lt;/a&gt; at DIAS, have argued that the point of no return for traditional varieties of Irish is very close or already past, and &amp;lsquo;new-speaker&amp;rsquo; Irish is what we&amp;rsquo;re stuck with.&lt;/p&gt;
-
-&lt;p&gt;New-speaker Irish is undoubtedly different from traditional Irish in many respects. It&amp;rsquo;s interesting, however, to look at how exactly it is different. For most people, I suspect, the most appalling sign of decline is the use of English borrowings (after all, for the average layperson, language equals vocabulary) and calques, as people complain about Gaelscoil kids saying things like &lt;em&gt;tá sin ag déanamh mo cheann isteach&lt;/em&gt;. But acquiring a language is, of course, much more than acquiring the words: it&amp;rsquo;s also about the grammatical structures and the different ways language is used in society. Some of the available research, such as that from Prof. &lt;a href=&#34;http://www.ulster.ac.uk/staff/am.henry.html&#34;&gt;Alison Henry&lt;/a&gt; at Ulster University (disclosure: a former colleague) has shown that to the extent learners in Irish-medium education do not attain the target state, this shows patterns associated not with some sort of terribly monstrous unnatural language but with the lack of sufficient input in an otherwise &amp;lsquo;normal&amp;rsquo; acquisition context. Dr &lt;a href=&#34;http://www.clairenance.co.uk&#34;&gt;Claire Nance&lt;/a&gt; has in her &lt;a href=&#34;http://theses.gla.ac.uk/4603/&#34;&gt;thesis&lt;/a&gt; shown how we can use our knowledge of the processes of language variation and change to look at the Gaelic spoken in Glasgow&amp;rsquo;s Gaelic-language school. The conclusion here, again, is that while these varieties are influenced by English, they still behave like real, living languages do.&lt;/p&gt;
-
-&lt;p&gt;I should like to emphasize that this is &lt;em&gt;not&lt;/em&gt; some sort of professional &amp;lsquo;language-changes-deal-with-it&amp;rsquo; attitude that one sometimes has to adopt in the face of clueless pedantic hand-wringing about language. Of course, this is language change that happens in the social context of a majority-minority dynamic, so the adoption of new, English-influence norms might not necessarily be value-neutral. Nevertheless, I do find &amp;lsquo;new-speaker&amp;rsquo; Irish to be less objectionable than the idea that it might be somehow so inferior as not to merit any support at all. Of course it would be absolutely great if we could have a situation where urban Irish speakers have the opportunity to get enough input to acquire beautiful traditional Irish, but let&amp;rsquo;s face it &amp;mdash; neither polity on the island of Ireland has the political will to channel the kind of resources this would require. There is a lot that can &amp;mdash; and should &amp;mdash; be done to support the continued existence and future viability of traditional Irish-speaking communities, but to say that non-traditional varieties are little better than urban pidgins is, I think, counterproductive.&lt;/p&gt;
-
-&lt;p&gt;The thing is: abandoning these speakers massively narrows the base from which the future of the language can be built. As the western Gaeltachtaí shrink, seeing Irish as a Gaeltacht matter is putting it on a path to oblivion. The state can only dedicate resources to the language as long as it has some sort of duty of care towards its speakers. Once Irish goes the way of Latin in society, it goes the same way in terms of funding for arts, university teaching, research, and all the rest &amp;mdash; it becomes a niche pursuit. In this context it is mad to say that just because Dubliners use English words and much prefer &lt;em&gt;tá sé ina dhochtúir&lt;/em&gt; (if they&amp;rsquo;re lucky) to wrangling with the copula they aren&amp;rsquo;t really Irish speakers. It&amp;rsquo;s not just a tactical mistake if you&amp;rsquo;re  a language campaigner &amp;mdash; it&amp;rsquo;s just not the right thing to do.&lt;/p&gt;
-
-&lt;p&gt;All that said, it &lt;em&gt;is&lt;/em&gt; of course imperative that the teaching of Irish (as with any other language, and &lt;em&gt;especially&lt;/em&gt; a minority language) equip the learners with as much knowledge of the &amp;lsquo;target&amp;rsquo; variety as possible. This, of course, requires resources, which aren&amp;rsquo;t really forthcoming just now, but &amp;mdash; in an ideal world &amp;mdash; there would be a rethinking of how the language is taught. Diarmuid Jonhson is right to point out that the Gaeltacht simply can&amp;rsquo;t produce the numbers of native-speaker teachers &amp;mdash; teacher training in the future will inevitably have to deal with L2 speakers, so a focus on the quality of the language pedagogy there is absolutely vital. And &amp;mdash; here&amp;rsquo;s a bit of &lt;em&gt;pro domo sua&lt;/em&gt; &amp;mdash; what is also sorely needed is a big programme of language documentation. To some extent, the teaching of Irish as a language has relied on the continuing availability of at least some L1 speakers in the profession. This has meant that the gap between language teaching and the linguistic study of the language &amp;mdash; as wide in Ireland as anywhere in the English-speaking world &amp;mdash; has not been at the top of people&amp;rsquo;s concerns. But we should be worried.&lt;/p&gt;
-
-&lt;p&gt;There &lt;em&gt;are&lt;/em&gt; academic descriptions of Irish &amp;mdash; mostly done in the mid to late 20th century, in line with the linguistic theories prevalent then &amp;mdash; and there is a wealth of archival material, but there is so, so much more than can and should be done. Linguistic science has come on massively since then, and without taking anything at all away from the achievements of these scholars, to whom we owe an eternal debt for documenting the language, we are now in a position to ask questions that would just not occur back then. And these are the sort of questions that a teacher should be able to answer if they come up &amp;mdash; and when the teacher is not a &amp;lsquo;traditional&amp;rsquo; speaker, how are they going to do it? As a very small example, I&amp;rsquo;m now engaged in research (with Dr &lt;a href=&#34;http://www.ucd.ie/research/people/irishcelstirishflling/drmairenichiosain/&#34;&gt;Máire Ní Chiosáin&lt;/a&gt; of University College Dublin, with thanks to the &lt;a href=&#34;http://www.royalsoced.org.uk&#34;&gt;Royal Society of Edinburgh&lt;/a&gt; for funding) that, at bottom, addresses what you&amp;rsquo;d think was a fairly basic question &amp;mdash; how many vowels are there in Irish and Scottish Gaelic? The existing descriptions &amp;ndash; and some of them are truly excellent &amp;mdash; just don&amp;rsquo;t contain the sort of data that would allow us to answer this apparently innocuous question reliably. And don&amp;rsquo;t get me started on syntax, which for now an advanced learner can really only acquire by way of osmosis.&lt;/p&gt;
-
-&lt;p&gt;This is just one example of the disconnect between school- and even university-level pedagogy and linguistic research, but I think it&amp;rsquo;s really, really worrying in this minority-language context. My colleagues in &lt;a href=&#34;http://www.ed.ac.uk/schools-departments/literatures-languages-cultures/celtic-scottish-studies&#34;&gt;Celtic &amp;amp; Scottish Studies&lt;/a&gt;  here at Edinburgh hope to begin addressing this by including a linguistics component in their new degree in &lt;a href=&#34;http://www.ed.ac.uk/schools-departments/literatures-languages-cultures/celtic-scottish-studies/undergraduate/gaelic-and-primary-education/overview&#34;&gt;Gaelic and Primary Education&lt;/a&gt;, but this is only a start, and anyway there is just so much more of the actual research that needs done on these languages.&lt;/p&gt;
-
-&lt;p&gt;But in any case, even this little self-serving rant aside, the phenomenon (I&amp;rsquo;m carefully avoiding saying &amp;lsquo;problem&amp;rsquo;) Diarmuid Johnson has identified is real enough: the education systems patently do not give the learners the amount of exposure to traditional varieties for them to be acquired reliably. This should, of course, be remedied &amp;mdash; it probably won&amp;rsquo;t any time soon, realistically, but one can always hope. But even if it isn&amp;rsquo;t, new-speaker Irish (or Gaelic, or Welsh, or your minority language of choice) is here to stay, and its speakers are friends to the language, not a blight on the landscape. Even if their Irish is imperfect by the high standards of the past, they deserve help and support.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Irish isn’t ‘compromised’ — it just needs more support</title>
-<link>http://anghyflawn.github.io/blog/2015/irish-isnt-compromised-it-just-needs-more-support/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/blog/2015/irish-isnt-compromised-it-just-needs-more-support/</guid>
-<description>&lt;p&gt;There is a very interesting article now up on &lt;a href=&#34;http://www.sluggerotoole.com&#34;&gt;Slugger O&amp;rsquo;Toole&lt;/a&gt;, based around an interview with Dr &lt;a href=&#34;http://www.diarmuidjohnson.net&#34;&gt;Diarmuid Johnson&lt;/a&gt;: &lt;a href=&#34;http://sluggerotoole.com/2015/07/26/do-urban-gaeltachts-produce-a-compromised-irish&#34;&gt;&lt;em&gt;Do urban Gaeltachts produce a compromised Irish?&lt;/em&gt;&lt;/a&gt;. Go read it now &amp;mdash; it&amp;rsquo;s well written and very well informed, especially if you compare it to the general level of debate around in the Irish language in Northern Ireland (as some &amp;mdash; though by no means all &amp;mdash; comments demonstrate).&lt;/p&gt;
-
-&lt;p&gt;Full disclosure &amp;mdash; I&amp;rsquo;m an admirer of Diarmuid Johnson, and I owe him a debt of gratitude for the kind assistance I received from him in the course of my own research in  West Wales. Nevertheless, I do think that Barton Creeth is on to something in the final paragraph, saying&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;There will be many who argue Johnson’s purism about the language is
-misplaced. [&amp;hellip;] What we have in Belfast, in terms of language
-revival, is probably as good as it gets, and other minority language
-activists can learn a lot from the Belfast experience. The hybrid,
-urban, pidginised and creolised Irish of Belfast, Dublin, Derry and
-other cities across Ireland is probably the future of the language,
-and it likely means a new chapter in the history of the language.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;What&amp;rsquo;s really jagging for me is the use of &amp;lsquo;compromised&amp;rsquo; to describe the non-traditional (&amp;lsquo;urban&amp;rsquo;) varieties of Irish. I suspect it starts out as an aesthetic judgement of someone very familiar with traditional Irish, but equally I suspect being perceived by many &amp;mdash; including those outside the &amp;lsquo;movement&amp;rsquo; &amp;mdash; as a value judgement. Indeed, in that same paragraph we find the burden of justification being laid squarely on the minority language users:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;In the meantime, parents and educators need to seriously think about
-the source of Irish in Irish-medium education, and whether
-Irish-medium education, in its current form, offers children the
-best possible resources to fully develop intellectually and
-emotionally. I’ll look forward to hearing the responses from people
-who work in Irish Medium Education as well as from urban language
-activists.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Let&amp;rsquo;s be honest for a moment: would we be hearing these challenges to prove that bilingualism offers the &amp;lsquo;best possible resources&amp;rsquo; for the &amp;lsquo;full development&amp;rsquo; of children if the language in question were a &amp;lsquo;major world language&amp;rsquo; rather than a minority one with a history of political string attachment?&lt;/p&gt;
-
-&lt;p&gt;There is no doubt that traditional varieties of Irish as spoken in the Gaeltacht are under severe pressure as it finds its position weakened as a community language. An increasing proportion of those who use Irish are &lt;a href=&#34;http://www.nspk.org.uk/&#34;&gt;&amp;lsquo;new speakers&amp;rsquo;&lt;/a&gt;, with relatively little access to traditional Irish as their input in language learning (as Johnson rightly points out). Indeed, some scholars, such as Dr &lt;a href=&#34;https://www.dias.ie/index.php?option=com_content&amp;amp;view=article&amp;amp;id=576%3Adr-brian-o-curnain&amp;amp;catid=19%3Acelticstaff&amp;amp;Itemid=17&amp;amp;lang=en&#34;&gt;Brian Ó Curnáin&lt;/a&gt; at DIAS, have argued that the point of no return for traditional varieties of Irish is very close or already past, and &amp;lsquo;new-speaker&amp;rsquo; Irish is what we&amp;rsquo;re stuck with.&lt;/p&gt;
-
-&lt;p&gt;New-speaker Irish is undoubtedly different from traditional Irish in many respects. It&amp;rsquo;s interesting, however, to look at how exactly it is different. For most people, I suspect, the most appalling sign of decline is the use of English borrowings (after all, for the average layperson, language equals vocabulary) and calques, as people complain about Gaelscoil kids saying things like &lt;em&gt;tá sin ag déanamh mo cheann isteach&lt;/em&gt;. But acquiring a language is, of course, much more than acquiring the words: it&amp;rsquo;s also about the grammatical structures and the different ways language is used in society. Some of the available research, such as that from Prof. &lt;a href=&#34;http://www.ulster.ac.uk/staff/am.henry.html&#34;&gt;Alison Henry&lt;/a&gt; at Ulster University (disclosure: a former colleague) has shown that to the extent learners in Irish-medium education do not attain the target state, this shows patterns associated not with some sort of terribly monstrous unnatural language but with the lack of sufficient input in an otherwise &amp;lsquo;normal&amp;rsquo; acquisition context. Dr &lt;a href=&#34;http://www.clairenance.co.uk&#34;&gt;Claire Nance&lt;/a&gt; has in her &lt;a href=&#34;http://theses.gla.ac.uk/4603/&#34;&gt;thesis&lt;/a&gt; shown how we can use our knowledge of the processes of language variation and change to look at the Gaelic spoken in Glasgow&amp;rsquo;s Gaelic-language school. The conclusion here, again, is that while these varieties are influenced by English, they still behave like real, living languages do.&lt;/p&gt;
-
-&lt;p&gt;I should like to emphasize that this is &lt;em&gt;not&lt;/em&gt; some sort of professional &amp;lsquo;language-changes-deal-with-it&amp;rsquo; attitude that one sometimes has to adopt in the face of clueless pedantic hand-wringing about language. Of course, this is language change that happens in the social context of a majority-minority dynamic, so the adoption of new, English-influence norms might not necessarily be value-neutral. Nevertheless, I do find &amp;lsquo;new-speaker&amp;rsquo; Irish to be less objectionable than the idea that it might be somehow so inferior as not to merit any support at all. Of course it would be absolutely great if we could have a situation where urban Irish speakers have the opportunity to get enough input to acquire beautiful traditional Irish, but let&amp;rsquo;s face it &amp;mdash; neither polity on the island of Ireland has the political will to channel the kind of resources this would require. There is a lot that can &amp;mdash; and should &amp;mdash; be done to support the continued existence and future viability of traditional Irish-speaking communities, but to say that non-traditional varieties are little better than urban pidgins is, I think, counterproductive.&lt;/p&gt;
-
-&lt;p&gt;The thing is: abandoning these speakers massively narrows the base from which the future of the language can be built. As the western Gaeltachtaí shrink, seeing Irish as a Gaeltacht matter is putting it on a path to oblivion. The state can only dedicate resources to the language as long as it has some sort of duty of care towards its speakers. Once Irish goes the way of Latin in society, it goes the same way in terms of funding for arts, university teaching, research, and all the rest &amp;mdash; it becomes a niche pursuit. In this context it is mad to say that just because Dubliners use English words and much prefer &lt;em&gt;tá sé ina dhochtúir&lt;/em&gt; (if they&amp;rsquo;re lucky) to wrangling with the copula they aren&amp;rsquo;t really Irish speakers. It&amp;rsquo;s not just a tactical mistake if you&amp;rsquo;re  a language campaigner &amp;mdash; it&amp;rsquo;s just not the right thing to do.&lt;/p&gt;
-
-&lt;p&gt;All that said, it &lt;em&gt;is&lt;/em&gt; of course imperative that the teaching of Irish (as with any other language, and &lt;em&gt;especially&lt;/em&gt; a minority language) equip the learners with as much knowledge of the &amp;lsquo;target&amp;rsquo; variety as possible. This, of course, requires resources, which aren&amp;rsquo;t really forthcoming just now, but &amp;mdash; in an ideal world &amp;mdash; there would be a rethinking of how the language is taught. Diarmuid Jonhson is right to point out that the Gaeltacht simply can&amp;rsquo;t produce the numbers of native-speaker teachers &amp;mdash; teacher training in the future will inevitably have to deal with L2 speakers, so a focus on the quality of the language pedagogy there is absolutely vital. And &amp;mdash; here&amp;rsquo;s a bit of &lt;em&gt;pro domo sua&lt;/em&gt; &amp;mdash; what is also sorely needed is a big programme of language documentation. To some extent, the teaching of Irish as a language has relied on the continuing availability of at least some L1 speakers in the profession. This has meant that the gap between language teaching and the linguistic study of the language &amp;mdash; as wide in Ireland as anywhere in the English-speaking world &amp;mdash; has not been at the top of people&amp;rsquo;s concerns. But we should be worried.&lt;/p&gt;
-
-&lt;p&gt;There &lt;em&gt;are&lt;/em&gt; academic descriptions of Irish &amp;mdash; mostly done in the mid to late 20th century, in line with the linguistic theories prevalent then &amp;mdash; and there is a wealth of archival material, but there is so, so much more than can and should be done. Linguistic science has come on massively since then, and without taking anything at all away from the achievements of these scholars, to whom we owe an eternal debt for documenting the language, we are now in a position to ask questions that would just not occur back then. And these are the sort of questions that a teacher should be able to answer if they come up &amp;mdash; and when the teacher is not a &amp;lsquo;traditional&amp;rsquo; speaker, how are they going to do it? As a very small example, I&amp;rsquo;m now engaged in research (with Dr &lt;a href=&#34;http://www.ucd.ie/research/people/irishcelstirishflling/drmairenichiosain/&#34;&gt;Máire Ní Chiosáin&lt;/a&gt; of University College Dublin, with thanks to the &lt;a href=&#34;http://www.royalsoced.org.uk&#34;&gt;Royal Society of Edinburgh&lt;/a&gt; for funding) that, at bottom, addresses what you&amp;rsquo;d think was a fairly basic question &amp;mdash; how many vowels are there in Irish and Scottish Gaelic? The existing descriptions &amp;ndash; and some of them are truly excellent &amp;mdash; just don&amp;rsquo;t contain the sort of data that would allow us to answer this apparently innocuous question reliably. And don&amp;rsquo;t get me started on syntax, which for now an advanced learner can really only acquire by way of osmosis.&lt;/p&gt;
-
-&lt;p&gt;This is just one example of the disconnect between school- and even university-level pedagogy and linguistic research, but I think it&amp;rsquo;s really, really worrying in this minority-language context. My colleagues in &lt;a href=&#34;http://www.ed.ac.uk/schools-departments/literatures-languages-cultures/celtic-scottish-studies&#34;&gt;Celtic &amp;amp; Scottish Studies&lt;/a&gt;  here at Edinburgh hope to begin addressing this by including a linguistics component in their new degree in &lt;a href=&#34;http://www.ed.ac.uk/schools-departments/literatures-languages-cultures/celtic-scottish-studies/undergraduate/gaelic-and-primary-education/overview&#34;&gt;Gaelic and Primary Education&lt;/a&gt;, but this is only a start, and anyway there is just so much more of the actual research that needs done on these languages.&lt;/p&gt;
-
-&lt;p&gt;But in any case, even this little self-serving rant aside, the phenomenon (I&amp;rsquo;m carefully avoiding saying &amp;lsquo;problem&amp;rsquo;) Diarmuid Johnson has identified is real enough: the education systems patently do not give the learners the amount of exposure to traditional varieties for them to be acquired reliably. This should, of course, be remedied &amp;mdash; it probably won&amp;rsquo;t any time soon, realistically, but one can always hope. But even if it isn&amp;rsquo;t, new-speaker Irish (or Gaelic, or Welsh, or your minority language of choice) is here to stay, and its speakers are friends to the language, not a blight on the landscape. Even if their Irish is imperfect by the high standards of the past, they deserve help and support.&lt;/p&gt;
+&lt;p&gt;The handout is slightly more detailed than the slides. Note that the file is quite large because of the maps.&lt;/p&gt;
 </description>
 </item>
 
@@ -479,32 +296,6 @@ activists.&lt;/p&gt;
 <pubDate>Thu, 16 Jul 2015 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/news/2015/iccs/</guid>
 <description>&lt;p&gt;I presented &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/pitch-accent-and-preaspiration-in-gaelic-reconsidering-contact-origins/&#34;&gt;&lt;em&gt;Pitch accent and preaspiration in Gaelic: Reconsidering contact origins&lt;/em&gt;&lt;/a&gt; at the &lt;a href=&#34;http://www.celticstudiescongress.org&#34;&gt;15th International Congress of Celtic Studies&lt;/a&gt; at the University of Glasgow, Scotland.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Preaspiration and tonal accents as Northern Gaelic features</title>
-<link>http://anghyflawn.github.io/presentation/2015/pitch-accent-and-preaspiration-in-gaelic-reconsidering-contact-origins/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/2015/pitch-accent-and-preaspiration-in-gaelic-reconsidering-contact-origins/</guid>
-<description>&lt;p&gt;I argue that the origin of both pitch accents and preaspiration in Gaelic is best understood in the context of a &amp;lsquo;Northern Gaelic&amp;rsquo; area covering Ulster and Scotland, as opposed to Connacht and Munster. Within this area, both preaspiration and pitch accents show the classic pattern of peripheral archaisms, with Lewis and West Ulster as remnant areas and Argyll as the most innovative zone. This suggests that the stronger Norse presence in the Hebrides does not correlate with a denser distribution of potential contact features, and thus the developments in both cases need not have been triggered by contact &amp;mdash; even though a reinforcing role for contact is very difficult (and probably undesirable) to exclude.&lt;/p&gt;
-
-&lt;p&gt;The handout is slightly more detailed than the slides. Note that the file is quite large because of the maps.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Preaspiration and tonal accents as Northern Gaelic features</title>
-<link>http://anghyflawn.github.io/presentation/2015/pitch-accent-and-preaspiration-in-gaelic-reconsidering-contact-origins/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/2015/pitch-accent-and-preaspiration-in-gaelic-reconsidering-contact-origins/</guid>
-<description>&lt;p&gt;I argue that the origin of both pitch accents and preaspiration in Gaelic is best understood in the context of a &amp;lsquo;Northern Gaelic&amp;rsquo; area covering Ulster and Scotland, as opposed to Connacht and Munster. Within this area, both preaspiration and pitch accents show the classic pattern of peripheral archaisms, with Lewis and West Ulster as remnant areas and Argyll as the most innovative zone. This suggests that the stronger Norse presence in the Hebrides does not correlate with a denser distribution of potential contact features, and thus the developments in both cases need not have been triggered by contact &amp;mdash; even though a reinforcing role for contact is very difficult (and probably undesirable) to exclude.&lt;/p&gt;
-
-&lt;p&gt;The handout is slightly more detailed than the slides. Note that the file is quite large because of the maps.&lt;/p&gt;
 </description>
 </item>
 
@@ -533,19 +324,8 @@ activists.&lt;/p&gt;
 
 
 <item>
-<title>Welsh vowels presentation at the mfm</title>
-<link>http://anghyflawn.github.io/news/2015/welsh-vowels/</link>
-<pubDate>Sat, 30 May 2015 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/news/2015/welsh-vowels/</guid>
-<description>&lt;p&gt;I presented &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/quantity-quality-interactions-in-welsh-vowels-phonologization-across-dialects/&#34;&gt;&lt;em&gt;Quantity-quality interactions in Welsh vowels: Phonologization across dialects&lt;/em&gt;&lt;/a&gt; at the &lt;a href=&#34;http://www.lel.ed.ac.uk/mfm/23mfm.html&#34;&gt;23rd Manchester Phonology Meeting&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Welsh vowels presentation at the mfm</title>
-<link>http://anghyflawn.github.io/news/2015/welsh-vowels/</link>
+<title>Preaspiration in North Argyll Gaelic and its contribution to prosodic structure</title>
+<link>http://anghyflawn.github.io/presentation/2008/novemberseminaret-reduction/</link>
 <pubDate>Sat, 30 May 2015 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/news/2015/welsh-vowels/</guid>
 <description>&lt;p&gt;I presented &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/quantity-quality-interactions-in-welsh-vowels-phonologization-across-dialects/&#34;&gt;&lt;em&gt;Quantity-quality interactions in Welsh vowels: Phonologization across dialects&lt;/em&gt;&lt;/a&gt; at the &lt;a href=&#34;http://www.lel.ed.ac.uk/mfm/23mfm.html&#34;&gt;23rd Manchester Phonology Meeting&lt;/a&gt;.&lt;/p&gt;
@@ -564,17 +344,6 @@ activists.&lt;/p&gt;
 &lt;p&gt;The handout is much more detailed than the slides. However, there is a rather embarrassing misinterpretation of the durational effect for the &amp;lsquo;non-enhanced&amp;rsquo; system. I&amp;rsquo;m leaving this unchanged in the interest of historical veracity, but see my &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/free-not-so-free-dialect-variation-quantity-quality-interactions-welsh-vowels/&#34;&gt;Gregynog presentation&lt;/a&gt;, once it&amp;rsquo;s available, for the corrected version.&lt;/p&gt;
 
 &lt;p&gt;Also, I plan on releasing the data behind this presentation fairly soon &amp;mdash; check back later for a link.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Prosodic structure and suprasegmental features</title>
-<link>http://anghyflawn.github.io/writing/stod/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/stod/</guid>
-<description>&lt;p&gt;This paper sets out in detail the analysis first offered in my &lt;a href=&#34;http://anghyflawn.github.io/presentation/2013/non-contrastive-epenthetic-segments-as-surface-prosodic-structure/&#34;&gt;21mfm presentation&lt;/a&gt;. I examine the so-called &amp;lsquo;short-vowel stød&amp;rsquo; (&lt;em&gt;kortvokalstød&lt;/em&gt;) found in certain island dialects of Danish, which differs from the &amp;lsquo;common Danish&amp;rsquo; stød in that it is associated with light syllables (open syllable with short vowels or closed syllables with low-sonority codas) rather than heavy ones. I argue that it is best represented as a [constricted glottis] feature associated with a segmentally empty mora, which is projected due to top-down requirements on the internal structure of suprasegmental constituents. Thus, stød is interpreted as another example of a &amp;lsquo;tonal accent&amp;rsquo; phenomenon that submits to an analysis purely in terms of lexically stored metrical structure. I also offer an extension of the model which allows the direct association of features to suprasegmental constituents to Icelandic preaspiration.&lt;/p&gt;
 </description>
 </item>
 
@@ -677,6 +446,40 @@ activists.&lt;/p&gt;
 
 
 <item>
+<title>Why teach the kids Gaelic if you can teach them Mandarin?</title>
+<link>http://anghyflawn.github.io/blog/2015/why-teach-the-kids-gaelic-if-you-can-teach-them-mandarin/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/blog/2015/why-teach-the-kids-gaelic-if-you-can-teach-them-mandarin/</guid>
+<description>&lt;p&gt;This question, asked by the STV journalist Stephen Daisley, caused a bit of a stooshie on Twitter a couple of days back:&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;en&#34;&gt;&lt;p&gt;Is there a strong, non-heritage case for spending taxpayers&amp;#39; money promoting Gaelic instead of thriving, globally-spoken languages?&lt;/p&gt;&amp;mdash; Stephen Daisley (@JournoStephen) &lt;a href=&#34;https://twitter.com/JournoStephen/status/580333375355011072&#34;&gt;March 24, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;This is an important debate, and no points for guessing where I stand on this. I&amp;rsquo;m not going to rehearse why I think minority languages are important – check some of the replies for good ideas.&lt;/p&gt;
+
+&lt;p&gt;Instead, I&amp;rsquo;d like to use more than 140 characters to address an aspect of this question that tends to go unmentioned by those who assume teaching Gaelic (or Welsh, or Mordvin, or Sámi…) is a waste of resources given that we should be teaching the kids &amp;lsquo;useful&amp;rsquo; languages like Chinese or Spanish or Brasilian Portuguese, giving them an advantage in this globalized, competitive world.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s the deal: &lt;em&gt;we can&amp;rsquo;t&lt;/em&gt;. And you know what? I say this as someone who actually did Chinese at school. I was very lucky. I went to a very good (state) school (in Russia) that, for historical reasons, offered Japanese and Chinese as second foreign languages to go with English. It was three years of good, intensive teaching. There&amp;rsquo;s an A for Chinese in my school leaving certificate. I could write a moderately long text, use a dictionary to read more complex texts, and say many things.&lt;/p&gt;
+
+&lt;p&gt;And I&amp;rsquo;m grateful for that. Without this experience, I would probably have missed out on reading some wonderful literature, learning about many interesting things, and probably not have the mind-bending realization that I am very curious about how different languages can be that led me to my career. It&amp;rsquo;s a great thing I did it. But you know what? I have forgotten basically all of the actual Chinese. I have not acquired any direct advantage in the job market by virtue of having taken Chinese at school. I don&amp;rsquo;t put it on my CV, because I don&amp;rsquo;t speak any Chinese any more.&lt;/p&gt;
+
+&lt;p&gt;Why is that? The answer is obvious: you can&amp;rsquo;t learn, or keep up, a foreign language – &lt;em&gt;especially&lt;/em&gt; a language like Chinese that presents obvious issues to the learner like the writing system – without repeated exposure. If I had gone on to do a degree in Chinese, it would have been a different matter – more practice, the year abroad, whatever – but I didn&amp;rsquo;t. And guess what – most people who do degrees in Chinese do not come there having done it at school.&lt;/p&gt;
+
+&lt;p&gt;Exposure is the key to language learning. People tend to assume that differences in language ability have their roots in the school experience – but the real reasons are elsewhere. My six-year-old daughter picked up Norwegian at the nursery, and then repeated the trick with English, changing from a Northern Irish to a Scottish accent in the process. With &lt;em&gt;no&lt;/em&gt; formal instruction except a genial person from the council who comes in for an hour most weeks and checks that there&amp;rsquo;s no issue with the EAL pupils not keeping up (there isn&amp;rsquo;t).&lt;/p&gt;
+
+&lt;p&gt;Or consider the case of our European neighbours. Anyone who has been around Europe will tell you that in the Nordic countries or the Netherlands pretty much anyone you run into speaks passable to very good English, whereas in places like France or Germany the chances of having to resort to gestures and grunts are significantly higher. Is this because of the amazingly better teaching at school? Possible – though hard to believe: Norwegians, for instance, are as fond as the next person of complaining about the teaching methods. A more striking difference presents itself on the telly: there is a lot of imported English-language programming everywhere, but where the Nordic countries subtitle it Germany or France tend to resort to dubbing. And with the best will in the world, a smaller country like Denmark will struggle to produce quite enough Danish-language culture to compete effectively with all the English-language delights out there – whereas for German the volume will be much higher. And the more exposure you get, the better the language. (Someone I know in Norway told me how their child struggled with English at school until the child got into Minecraft and started watching all the YouTube videos in English. That&amp;rsquo;s the sort of thing I&amp;rsquo;m talking about.)&lt;/p&gt;
+
+&lt;p&gt;What does this all have to go with Gaelic? At least two things. First, because immersion is better than L2 instruction, then if you care about the children &lt;em&gt;actually learning&lt;/em&gt; the language you should be thinking about Gaelic-medium (resp. Chinese-medium) education. Can we get parents and children sufficiently energized to demand setting up Chinese-medium schools? I doubt it. People send their children to Gaelic-medium education for all sorts of reasons, but part of the reason why it&amp;rsquo;s a plausible proposition is that it&amp;rsquo;s actually possible (if maybe difficult) to get sufficient exposure to the language, both in the school and to a certain extent outside it (for all the flaws, you do have Gaelic books, songs, BBC Alba and all that). Only a very tiny proportion of schoolchildren and their parents will be motivated enough to seek out an equal amount of exposure to Chinese – or, I would guess, even Spanish.&lt;/p&gt;
+
+&lt;p&gt;Second. I hear you say – &amp;lsquo;all right, immersion education is not a goer, but why teach Gaelic as a second language in schools if we could do Chinese instead?&amp;rsquo; Aside from the obvious proposition that we can do both (given the staffing situation, I&amp;rsquo;m going to take a wild guess and say that it&amp;rsquo;ll be a long time before most schools are able to have permanent staff teaching either Gaelic &lt;em&gt;or&lt;/em&gt; Chinese), I&amp;rsquo;d like to return to the point that L2 instruction at school only very rarely produces speakers who are competent enough to use the language in their jobs. The function of language education in school is less about producing good speakers and more about exposing children to foreign cultures and normalizing the idea of multilingualism. The more childern do languages at school the more of them will consider doing a language degree – and many of them &lt;em&gt;will&lt;/em&gt; go on from a Higher in Spanish or Latin to a degree in Japanese – or at least a language course alongside whatever it is they end up doing. In this respect, Chinese does not have a particular advantage over Gaelic (but it might be argued that both have at least some advantage over your average European language like Spanish in that they&amp;rsquo;re more different from English).&lt;/p&gt;
+
+&lt;p&gt;So yes – by all means teach Chinese to the kids. It&amp;rsquo;s a great experience and one that will come them in good stead. Just don&amp;rsquo;t kid yourself: it is very, very difficult to make Chinese at school go much further than any other language – including Gaelic – when it comes to purely practical utility. There are excellent arguments for teaching Chinese – but they apply equally to Gaelic, Mordvin, and Sámi. (Or indeed Scots – but that&amp;rsquo;s another story.)&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
 <title>An echoing tone</title>
 <link>http://anghyflawn.github.io/presentation/2015/an-echoing-tone-pitch-accent-parallels-in-scandinavia-and-scotland/</link>
 <pubDate>Sun, 01 Mar 2015 00:00:00 UTC</pubDate>
@@ -684,6 +487,17 @@ activists.&lt;/p&gt;
 <description>&lt;p&gt;This talk was presented at the &lt;a href=&#34;http://www.nordicresearchnetwork.co.uk&#34;&gt;Nordic Research Network 2015 conference&lt;/a&gt; at the &lt;a href=&#34;http://www.ed.ac.uk&#34;&gt;University of Edinburgh&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;In this talk, I consider the origins of pitch accents in North Germanic and in Scottish Gaelic. I argue that in both cases the more plausible hypothesis involves the realization of an identical tonal melody over different temporal domains, particularly by the mechanism of peak delay. This is not a new idea, but I support it by a consideration of the interaction of tone and apocope in Zealand Danish and in Central Scandinavian. The application of this mechanism to Gaelic shows that tonal accents found in places like Lewis are a special case of a system that is widely spread in Ulster and Scotland, with Argyll and East Ulster as an innovating centre &amp;mdash; recourse to contact with Norse is not necessary to explain their appearance. Find the slides below, or download the &lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://anghyflawn.github.io/pdf/nrn2015.handout.pdf&#34;&gt;handout&lt;/a&gt;, which is slightly more detailed.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>nrn</title>
+<link>http://anghyflawn.github.io/news/2015/nrn/</link>
+<pubDate>Wed, 18 Feb 2015 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2015/nrn/</guid>
+<description>&lt;p&gt;I presented &amp;lsquo;An echoing tone: Pitch accent parallels in Scandinavia and Scotland&amp;rsquo; at the &lt;a href=&#34;http://www.nordicresearchnetwork.co.uk&#34;&gt;Nordic Research Network&lt;/a&gt; conference at the University of Edinburgh. &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/an-echoing-tone-pitch-accent-parallels-in-scandinavia-and-scotland/&#34;&gt;Get the slides and handout&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
@@ -1147,6 +961,17 @@ will be automatic
 
 
 <item>
+<title>ICNGL paper</title>
+<link>http://anghyflawn.github.io/news/2015/icngl11-paper/</link>
+<pubDate>Tue, 20 Jan 2015 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2015/icngl11-paper/</guid>
+<description>&lt;p&gt;My paper &lt;em&gt;‘Pitch accent’ and prosodic structure in Scottish Gaelic: Reassessing the role of contact&lt;/em&gt; has appeared in &lt;em&gt;New trends in Nordic and general linguistics&lt;/em&gt;, edited by Martin Hilpert, Janet Duke, Christine Mertzlufft, Jan-Ola Östman, and Michael Rießler (Mouton de Gruyter). Read more and download a copy &lt;a href=&#34;http://anghyflawn.github.io/writing/icngl-proceedings/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
 <title>‘Pitch accent’ and prosodic structure in Scottish Gaelic</title>
 <link>http://anghyflawn.github.io/writing/icngl-proceedings/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -1164,6 +989,25 @@ Germanic. This conclusion may appear to undermine the contact
 hypothesis, especially in the absence of reliable written sources;
 nevertheless, a certain role for Norse-Gaelic contact in the
 appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Current Issues in Phonology</title>
+<link>http://anghyflawn.github.io/teaching/2015/current-issues-in-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2015/current-issues-in-phonology/</guid>
+<description>&lt;p&gt;This advanced course introduces students to a variety of live research issues in phonological theory. I teach this course with my colleagues &lt;a href=&#34;http://www.lel.ed.ac.uk/people/heinz-giegerich&#34;&gt;Heinz Giegerich&lt;/a&gt;, &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt;, and &lt;a href=&#34;http://www.lel.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt;. In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I cover the following topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Contrast in phonology and underspecification. Modified Contrastive Specification and the use of contrastive hierarchies&lt;/li&gt;
+&lt;li&gt;Feature theory: markedness, feature geometry, contrast. Diagnostics of markedness and their cross-linguistic validity&lt;/li&gt;
+&lt;li&gt;Suprasegmental phonology: moraic theory; morae and sonority; onset moraicity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Materials are available on &lt;a href=&#34;http://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;. There is also a &lt;a href=&#34;http://resourcelists.ed.ac.uk/lists/8344213B-35A4-FF8E-C89A-65043B5055F7.html&#34;&gt;Resource List&lt;/a&gt; available.&lt;/p&gt;
 </description>
 </item>
 
@@ -1221,11 +1065,19 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 
 
 <item>
-<title>RSE grant</title>
-<link>http://anghyflawn.github.io/news/2014/rse-grant/</link>
-<pubDate>Fri, 05 Dec 2014 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/news/2014/rse-grant/</guid>
-<description>&lt;p&gt;I received a Small Research Grant in the Arts and Humanities from the &lt;a href=&#34;http://www.royalsoced.org.uk&#34;&gt;Royal Society of Edinburgh&lt;/a&gt; for the project &lt;em&gt;The phonetics and phonology of short vowels in Irish and Scottish Gaelic&lt;/em&gt;, with &lt;a href=&#34;http://www.ucd.ie/research/people/irishcelstirishflling/drmairenichiosain/&#34;&gt;Máire Ní Chiosáin&lt;/a&gt; (University College Dublin).&lt;/p&gt;
+<title>LEL2E: Structure and History of European Languages</title>
+<link>http://anghyflawn.github.io/teaching/2015/lel2e/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2015/lel2e/</guid>
+<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Indo-European language family&lt;/li&gt;
+&lt;li&gt;Celtic languages&lt;/li&gt;
+&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For course materials, see the relevant page on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;&lt;/p&gt;
 </description>
 </item>
 
@@ -1328,85 +1180,142 @@ appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
 
 
 <item>
-<title>Teaching slides with pandoc and reveal.js</title>
-<link>http://anghyflawn.github.io/blog/2014/teaching-slides-with-pandoc-and-reveal-js/</link>
+<title>Phonological Theory</title>
+<link>http://anghyflawn.github.io/teaching/2014/phonological-theory/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/blog/2014/teaching-slides-with-pandoc-and-reveal-js/</guid>
+<guid>http://anghyflawn.github.io/teaching/2014/phonological-theory/</guid>
+<description>&lt;p&gt;This course introduces students to the important topics in (generative) phonological theory and to phonological data analysis. On the theoretical side, we cover the following topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Basics of phonological theory&lt;/li&gt;
+&lt;li&gt;Feature theory&lt;/li&gt;
+&lt;li&gt;Derivations, underlying representations, rules&lt;/li&gt;
+&lt;li&gt;Process interaction and rule ordering&lt;/li&gt;
+&lt;li&gt;Phonological typology&lt;/li&gt;
+&lt;li&gt;Suprasegmental phonology: syllable structure, stress, tone&lt;/li&gt;
+&lt;li&gt;Advanced feature theory: feature geometry, unary features&lt;/li&gt;
+&lt;li&gt;Constraints in phonology: well-formedness conditions, templates, conspiracies, the &amp;lsquo;duplication problem&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;Explanation in phonology&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Throughout the course, there is a strong emphasis on building data analysis and problem solving skills.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Norsemen in Scotland: A linguistic view, part 2</title>
+<link>http://anghyflawn.github.io/blog/2014/norsemen-in-scotland-a-linguistic-view-part-2/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/blog/2014/norsemen-in-scotland-a-linguistic-view-part-2/</guid>
 <description>
 
-&lt;p&gt;This past semester I taught a new course entitled &lt;em&gt;&lt;a href=&#34;http://www.drps.ed.ac.uk/14-15/dpt/cxlasc10088.htm&#34;&gt;Phonological Theory&lt;/a&gt;&lt;/em&gt;. Apart from the content, I decided to experiment a bit with the technical details, specifically using &lt;a href=&#34;http://johnmacfarlane.net/pandoc&#34;&gt;pandoc&lt;/a&gt; and &lt;a href=&#34;reveal.js&#34;&gt;reveal.js&lt;/a&gt; to do the slides and lecture notes.&lt;/p&gt;
+&lt;p&gt;(Part 1 is &lt;a href=&#34;http://anghyflawn.github.io/blog/2014/norsemen-in-scotland-a-linguistic-view-part-1/&#34;&gt;here&lt;/a&gt;)&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;m a pretty consistent LaTeX user, so to the extent I do slides I do them in &lt;code&gt;beamer&lt;/code&gt;. There is nothing inherently problematic with this, and &lt;a href=&#34;https://www.gnu.org/software/auctex/&#34;&gt;AUCTeX&lt;/a&gt; saves typing a lot of the boilerplate, but writing two–three presentations per week is still time-consuming. I also tend to do the non-recommended thing and put a lot of text on my slides; my justification (apart from the fact that it lets me pace the lectures at least the first time around) is that I use &lt;code&gt;beamerarticle&lt;/code&gt; to produce a more text-like notes document that is then quite detailed.&lt;/p&gt;
+&lt;p&gt;We will now zoom in on the linguistic features that have been identified as showing evidence of Norse-Gaelic contacts: the lexicon, preaspiration, and pitch accents. As a phonologist, I won&amp;rsquo;t have &lt;em&gt;very&lt;/em&gt; much to say about the lexicon, but the other two concern me quite a bit. So I&amp;rsquo;ll start with them.&lt;/p&gt;
 
-&lt;p&gt;So why pandoc? Well, partly just for the fun of it. My slides + notes workflow also fits quite well with its philosophy of producing multiple output formats from a single input. Perhaps most importantly, markdown is obviously less &amp;lsquo;noisy&amp;rsquo; than LaTeX. Compare this:&lt;/p&gt;
+&lt;h1 id=&#34;preaspiration:61c9afe02285b3ec379916ab6668039a&#34;&gt;Preaspiration&lt;/h1&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;## Slide title ##
+&lt;p&gt;We start some way off our destination: in English. (If you&amp;rsquo;ve ever taken an introductory linguistics course, feel free to skip the rest of this paragraph.) In most varieties of English, the sounds written as &amp;lt;p t k&amp;gt; before a vowel are &lt;em&gt;aspirated&lt;/em&gt;: if you listen very closely to a word like &lt;em&gt;pit&lt;/em&gt;, you might hear a small &amp;lsquo;puff of air&amp;rsquo; just after the [p]. This is called &lt;em&gt;aspiration&lt;/em&gt;, and in this respect English is different from a language like French or Russian, where this is not usual (and so the lack of aspiration is a good sign of a French or Russian accent in English).&lt;/p&gt;
 
-* Item 1
-* Item 2
-    * Subitem 1
-    * Subitem 2
-* Item 3
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now when a [p t k] type of sound &lt;em&gt;follows&lt;/em&gt; a vowel in English, a number of things may happen, depending on the type of English you speak. One thing that does &lt;em&gt;not&lt;/em&gt; tend to happen in English, in this position is that there is a similar &amp;lsquo;puff&amp;rsquo; &lt;em&gt;before&lt;/em&gt; the [p], [t], or [k]. This phenomenon is called &lt;em&gt;preaspiration&lt;/em&gt;, because it&amp;rsquo;s just like aspiration but comes before the consonant itself.&lt;/p&gt;
 
-&lt;p&gt;and this:&lt;/p&gt;
+&lt;p&gt;If you believe the literature, preaspiration is quite rare in the world&amp;rsquo;s languages (see in particular &lt;a href=&#34;http://seedyroad.com/academics/JournalOfLinguistics-39-575-598.pdf&#34;&gt;this paper&lt;/a&gt; by Daniel Silverman), but, interestingly, it seems to cluster strongly in Northern Europe. One language that is quite well-known for having it is Icelandic: go &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Drekka.ogg&#34;&gt;here&lt;/a&gt; to hear someone saying the word &lt;em&gt;drekka&lt;/em&gt; &amp;lsquo;to drink&amp;rsquo; – it sounds like [drehka], the [k] is pre-aspirated. And it&amp;rsquo;s not just Iceland that has it – preaspiration is also found in the closely related Faroese, and by Marstrander&amp;rsquo;s time it was well established as a feature of the dialects of Western (read: south-western) Norway. Its true extent in the North Germanic languages is actually pan-Scandinavian, as shown in  &lt;a href=&#34;http://www.diva-portal.org/smash/get/diva2:193411/FULLTEXT01.pdf&#34;&gt;Pétur Helgason&amp;rsquo;s dissertation&lt;/a&gt;.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;\begin{frame}{Slide title}
-\begin{itemize}
-  \item Item 1
-  \item Item 2
-  \begin{itemize}
-      \item Subitem 1
-      \item Subitem 2
-  \end{itemize}
-  \item Item 3
-\end{itemize}
-\end{frame}
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now Gaelic most definitely has quite strong preaspiration of the stops [p t k]: we have known this since the earliest descriptions (which, remember, were done by the ear), and a &lt;a href=&#34;http://clairenance.co.uk/Research_files/Nance%20and%20Stuart-Smith.pdf&#34;&gt;recent paper&lt;/a&gt; by Claire Nance and Jane Stuart-Smith has the gory details for those of a phonetic inclination. What&amp;rsquo;s more, Gaelic shows an amazing variety of ways in which preaspiration is realized, as we shall have the opportunity to discuss later; but see &lt;a href=&#34;http://www.jstor.org/stable/40732061&#34;&gt;this paper&lt;/a&gt; by Anna Bosch for a good overview if you&amp;rsquo;re impatient, or even just &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Gaelic_preaspiration.jpg&#34;&gt;this map&lt;/a&gt;. If you want to have a listen, &lt;a href=&#34;http://akerbeltz.org/index.php?title=Pre-aspiration&#34;&gt;here&lt;/a&gt; are some samples.&lt;/p&gt;
 
-&lt;p&gt;Even if you&amp;rsquo;re pretty proficient in LaTeX and filter out the visual noise, I think it&amp;rsquo;s pretty obvious that the former is a bit less horrible.&lt;/p&gt;
+&lt;h1 id=&#34;old-irish-as-spoken-by-western-norwegians:61c9afe02285b3ec379916ab6668039a&#34;&gt;&amp;lsquo;Old Irish as spoken by Western Norwegians&amp;rsquo;&lt;/h1&gt;
 
-&lt;p&gt;Anyway, I&amp;rsquo;ve now taught the entire course using this workflow, and overall I think I was quite happy with it. The workflow carries over nicely and although there were things that took a bit more work than they would have done if I were using LaTeX I think I felt at least as productive when using pandoc.&lt;/p&gt;
+&lt;p&gt;Apart from Nordic and Gaelic, preaspiration is also a feature of the Sámi languages of central and northern Scandinavia. This clustering is not only noteworthy because the languages are spoken in geographical proximity to each other. The more specatcular fact is that Icelandic, Gaelic, and Sámi languages cannot have inherited it from a common ancestor: Gaelic and Icelandic are of course related, but not very closely; and the Sámi languages are related to both very distantly indeed, &lt;a href=&#34;https://en.wikipedia.org/wiki/Nostratic_languages&#34;&gt;if at all&lt;/a&gt;. Given all this, it is not at all surprising that scholars have turned to contact in order to account for these similarities.&lt;/p&gt;
 
-&lt;h2 id=&#34;the-good:b7cb6333f64fce53cd91cff316b43a20&#34;&gt;The good&lt;/h2&gt;
+&lt;p&gt;Why would a very rare feature pop up in three unrelated languages spoken in geographical proximity to each other, and indeed by peoples who have been in close contact? The borrowing explanation seems fairly obvious, especially if you&amp;rsquo;re coming from a Scandinavian background and have worked on the history (and linguistic consequences) of the Norse settlement in the the British Isles. So it shouldn&amp;rsquo;t be surprising that preaspiration would be seen as a loan from Norse into Gaelic. Indeed Marstrander goes so far as to say that Scottish Gaelic is, in effect, Old Irish overlaid on the phonetic habits of settlers from Western Norway.&lt;/p&gt;
 
-&lt;p&gt;Writing markdown is of course a piece of cake. I&amp;rsquo;m using Emacs with &lt;a href=&#34;http://jblevins.org/projects/markdown-mode/&#34;&gt;markdown-mode&lt;/a&gt; and &lt;a href=&#34;https://joostkremers.github.io/pandoc-mode/&#34;&gt;pandoc-mode&lt;/a&gt;, which makes it even easier. Consider the task of indenting a sublist, e.g. making a list item (and all its subitems) into a subitem of something else. In markdown-mode, it&amp;rsquo;s a matter of a single keystroke, while in LaTeX it&amp;rsquo;d involve a whole new environment and possibly other adjustments.&lt;/p&gt;
+&lt;p&gt;This conclusion is, at face value, eminently reasonable, and has indeed been adopted by scholars working in the area – especially those with a Scandinavian background. Similarly, Lauri Posti argued, as early as in 1954,&lt;a href=&#34;#ftn1&#34; id= &#34;ftn1_source&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; that a similar explanation was available for the Sámi preaspiration, based on the fact that Sámi&amp;rsquo;s closest relatives lack the feature, and also on the fact that it is less widespread in the eastern Sámi languages – those furthest from the supposed source, the North Germanic language area. So – it&amp;rsquo;s the Vikings whodunit.&lt;/p&gt;
 
-&lt;p&gt;The text would usually carry over from slides to notes quite painlessly, so that&amp;rsquo;s good. Pandoc-mode also has a handy feature called a &lt;em&gt;project settings file&lt;/em&gt; which allows you to reuse pandoc settings (e.g. includes, bibliography files, CSL files etc.) across multiple input files – having chosen a single set of options it&amp;rsquo;s easy to use them for all the &lt;code&gt;.md&lt;/code&gt; files in that directory. If, for whatever reason, you need to use a different set of options for an individual document, that&amp;rsquo;s also possible with per-file settings.&lt;/p&gt;
+&lt;h1 id=&#34;a-certain-sing-song-quality:61c9afe02285b3ec379916ab6668039a&#34;&gt;A certain sing-song quality&lt;/h1&gt;
 
-&lt;p&gt;Pandoc also gives you a lot of latitude to tweak how the output looks like, since you have full access to the templates it uses to build the output. This means that my lecture notes look pretty much like any other documents I write and don&amp;rsquo;t use the default TeX settings.&lt;/p&gt;
+&lt;p&gt;Another feature of Gaelic that has often been claimed to be connected to the Viking settlement is the so-called &amp;lsquo;pitch accent&amp;rsquo;. Without going into too much detail, the basic idea of a &amp;lsquo;pitch accent&amp;rsquo; system is one where you can have words that consist of exactly the same individual sounds but differ both in meaning and in the movement of &lt;em&gt;pitch&lt;/em&gt;. You may have heard of &amp;lsquo;tone languages&amp;rsquo; such as Chinese, where (simplifying horribly for now) basically every syllable has to have a particular pitch pattern. Languages with &amp;lsquo;pitch accent&amp;rsquo; are not quite as drastic: pitch differences do exist, but are generally restricted to a single syllable – generally the stressed syllable.&lt;/p&gt;
 
-&lt;p&gt;I really liked Reveal.js. It looks pretty nice (though see below) and it has some nifty features. Some are perhaps more pretty than really useful, but I though the overview mode and the speaker notes were especially handy (the speaker notes in particular are nice when you don&amp;rsquo;t want to put something on the slide but still have it in the notes).&lt;/p&gt;
+&lt;p&gt;For many linguists, languages like Swedish and Norwegian are the typical, best-known examples of &amp;lsquo;pitch accent&amp;rsquo; systems. There is great diversity of potential realizations within Scandinavia – &lt;a href=&#34;http://www.ling.hf.ntnu.no/ipa/no/tema_008_fbmp3.html&#34;&gt;here&lt;/a&gt; are some examples (click on the transcriptions to hear the words), and these are only from Norway – but the feature is pervasive throughout the region.&lt;/p&gt;
 
-&lt;h2 id=&#34;the-less-good-and-some-tips:b7cb6333f64fce53cd91cff316b43a20&#34;&gt;The less good, and some tips&lt;/h2&gt;
+&lt;p&gt;The pitch accents are quite a &amp;lsquo;prominent&amp;rsquo; feature of Norwegian and Swedish: people tend to know about them and they&amp;rsquo;re actually discussed at least to some extent when teaching them to foreigners (sometimes under the highly misleading rubric of &amp;lsquo;word tones&amp;rsquo;). One reason for this would seem to be the rather accidental fact that, for reasons we don&amp;rsquo;t really care about here, there is a large number of cases where the tones actually are the &lt;em&gt;only&lt;/em&gt; thing that distinguishes two words, as in Norwegian &lt;em&gt;bønder&lt;/em&gt; &amp;lsquo;farmers&amp;rsquo; and &lt;em&gt;bønner&lt;/em&gt; &amp;lsquo;beans&amp;rsquo; (the &lt;em&gt;nd&lt;/em&gt; is pronounced &lt;em&gt;nn&lt;/em&gt; in the former), or Swedish &lt;em&gt;anden&lt;/em&gt; &amp;lsquo;the duck&amp;rsquo; and &lt;em&gt;anden&lt;/em&gt; &amp;lsquo;the spirit&amp;rsquo;. Many of the cases where the pitch accents are crucial in this way involve plurals and definite articles, so it &lt;em&gt;is&lt;/em&gt; a good thing to know when you&amp;rsquo;re learning the language.&lt;a href=&#34;#ftn2&#34; id=&#34;ftn2_source&#34;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;I did run into some issues that needed resolving, although partly they involve just shaking off the LaTeX mentality. An obvious issue is the lack of access to LaTeX macros. Pandoc has support for a subset of TeX maths in non-TeX output, so it is possible to use things like &lt;code&gt;$\rightarrow$&lt;/code&gt; or &lt;code&gt;$\emptyset$&lt;/code&gt; (which you need a lot in a course like that), but getting a feature matrix (for which you&amp;rsquo;d use some version of &lt;code&gt;array&lt;/code&gt;) is more difficult. Still, it&amp;rsquo;s not as crippling as Word, so that&amp;rsquo;s an advantage already. I didn&amp;rsquo;t really run into a case where there was no way to write what I wanted to write, but I did end up typing out &lt;code&gt;$\rightarrow$&lt;/code&gt; a bit more often than I would have wished. (I should probably just have assigned some keystrokes to the right symbols, but I never got round to it.)&lt;/p&gt;
+&lt;p&gt;(The existence of these accents seems to have contributed to the folk-linguistic idea of North Germanic languages as &amp;lsquo;sing-song&amp;rsquo; – Google &amp;lsquo;scandinavian languages sing-song&amp;rsquo; if you don&amp;rsquo;t believe me. I should like to put this to rest: the description &amp;lsquo;sing-song&amp;rsquo; is pretty meaningless linguistically. In fact, I&amp;rsquo;m told that Swedish speakers from Sweden refer to Finland Swedish as &amp;lsquo;sing-song&amp;rsquo; too, even though Finland Swedish &lt;em&gt;lacks&lt;/em&gt; the pitch accent system.)&lt;/p&gt;
 
-&lt;p&gt;(Pandoc-mode does come with something called &lt;code&gt;@@&lt;/code&gt;-directives, which can be kicked into a shape resembling TeX macros, but they&amp;rsquo;re still pretty limited and also require more Elisp skills than I could dust off while writing a new course from scratch.)&lt;/p&gt;
+&lt;p&gt;Now Gaelic happens to have a somewhat similar feature, as certain words have to be associated to a certain pitch pattern. There are even a few pairs like the ones in Swedish or Norwegian that only differ in pitch, as in &lt;em&gt;balg&lt;/em&gt; &amp;lsquo;belly&amp;rsquo; (pronounced roughly as [balag] with a rising tone throughout) and  &lt;em&gt;ballag&lt;/em&gt; &amp;lsquo;skull&amp;rsquo; ([balag] with a high or rising tone on the first syllable and a fall on the second). That certainly looks a lot like the North Germanic system, and has indeed been analysed as such (notably by Elmar Ternes, &lt;a href=&#34;http://books.dias.ie/index.php?main_page=product_info&amp;amp;products_id=88&#34;&gt;here&lt;/a&gt;). Now it&amp;rsquo;s important to note that the system is nowhere near as pervasive, or prominent for the learner, as the one in Swedish or Norwegian, largely because it&amp;rsquo;s not as involved in productive morphology (although you do get changes of the pitch pattern in forms of the same word: for instance, the first syllable in &lt;em&gt;leabhar&lt;/em&gt; &amp;lsquo;book&amp;rsquo; has a different pattern from the first syllable in &lt;em&gt;leabhraichean&lt;/em&gt; &amp;lsquo;books&amp;rsquo;), but it still exists.&lt;/p&gt;
 
-&lt;p&gt;Diagrams and drawings are another potentially problematic issue. Thankfully, pandoc comes with the filter facility, and the &lt;a href=&#34;https://github.com/jgm/pandocfilters/&#34;&gt;example repository&lt;/a&gt; contains a filter that takes TikZ code and feeds it straight into the output when the output is TeX but creates an image file and embeds it if the output is something else. With a little bit of hacking I was able to make it understand environments like &lt;code&gt;forest&lt;/code&gt; (which I recommend for drawing trees) and generally have the pictures assume the desired look and feel. So that&amp;rsquo;s doable.&lt;/p&gt;
+&lt;h1 id=&#34;settlers-and-geography:61c9afe02285b3ec379916ab6668039a&#34;&gt;Settlers and geography&lt;/h1&gt;
 
-&lt;p&gt;One potential issue that it took me some time to figure out was getting speaker notes to play nicely. Reveal.js presentations can be shown as static files, but then you don&amp;rsquo;t have access to speaker notes. To get the notes, you need to run a local server using some Node.js magic or other. For one thing, this obviously means that you need to lug your laptop around to the lecture and hope it works. More importantly, reveal.js seems to assume your presentation resides in the same folder as the reveal.js files. If you have multiple source and output files in the directory for your course, you probably don&amp;rsquo;t want to clutter it with its js, css and so on, but rather keep it in a separate folder. But this means that when you run &lt;code&gt;grunt serve&lt;/code&gt; from the reveal.js folder, you don&amp;rsquo;t get access to your files. To fix that, you need to go open &lt;code&gt;Gruntfile.js&lt;/code&gt; and find the lines&lt;/p&gt;
+&lt;p&gt;One striking fact about both of these features is that they are so clustered in the north-west of the Gaelic-speaking area. The pitch accents are certainly best described for places like Lewis and Applecross (Wester Ross). The type of preaspiration that&amp;rsquo;s most like the Icelandic one is also characteristic of Lewis and Wester Ross. Lewis in particular, of course, is known as a stronghold of Norse settlement. So it all fits together: Norse settlers occupy the place, but then shift to Gaelic and import their phonetic habits to produce both preaspiration and pitch accents.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;		connect: {
-			server: {
-				options: {
-					port: port,
-					base: &#39;.&#39;
-				}
-			}
-		},
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This rather makes sense, on the face of it. It is also supported by Thomas Stewart&amp;rsquo;s &lt;a href=&#34;http://dx.doi.org/10.1075/dia.21.2.06ste&#34;&gt;study&lt;/a&gt; of lexical borrowings: they are not only numerous but also, Stewart argues, show evidence of &lt;em&gt;imposition&lt;/em&gt;, i.e. speakers of the &amp;lsquo;source&amp;rsquo; language shifting to the &amp;lsquo;new&amp;rsquo; language and bringing their habits with them (exactly as Marstrander argued), rather than &lt;em&gt;borrowing&lt;/em&gt; by already-extant Gaelic speakers from their Norse neighbours. A similar scenario is endorsed by &lt;a href=&#34;http://faculty.arts.ubc.ca/gohansson/&#34;&gt;Gunnar Ólafur Hansson&lt;/a&gt; in his paper on preaspiration.&lt;a href=&#34;#ftn3&#34; id=&#34;ftn3_source&#34;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Change the &lt;code&gt;base&lt;/code&gt; option to &lt;code&gt;&#39;../&#39;&lt;/code&gt;, and it will serve files from the directory above reveal.js, which is what you probably want.&lt;/p&gt;
+&lt;p&gt;It all makes sense, right? Rare features jsut pop up in unrelated languages. And we know that the languages definitely were in contact (even though we don&amp;rsquo;t actually know much about some pretty crucial aspects of this contact). So it&amp;rsquo;s a reasonable explanation.&lt;/p&gt;
 
-&lt;p&gt;One feature that I miss in reveal.js is a counterpart to &lt;code&gt;beamer&lt;/code&gt;&amp;rsquo;s &lt;code&gt;allowframebreaks&lt;/code&gt; option. It does support manual slide breaking, but that is obviously fragile (not least because the screen in the lecture room doesn&amp;rsquo;t necessarily have the same proportions as yours, so you don&amp;rsquo;t have a 100% reliable guide to when the slide is overfull). Of course you don&amp;rsquo;t have this problem if you don&amp;rsquo;t put too much text on your slide.&lt;/p&gt;
+&lt;p&gt;In the next part we&amp;rsquo;ll see that it is (of course) more complicated than that.&lt;/p&gt;
 
-&lt;p&gt;A final thing that is not so much a problem as a consequence of lack of time for my part is that changing the look and feel of reveal.js beyond the stock themes requires passable CSS skills, and I definitely did &lt;em&gt;not&lt;/em&gt; have time for that.&lt;/p&gt;
+&lt;h3 id=&#34;notes:61c9afe02285b3ec379916ab6668039a&#34;&gt;Notes&lt;/h3&gt;
 
-&lt;h2 id=&#34;conclusion:b7cb6333f64fce53cd91cff316b43a20&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#ftn1_source&#34; id=&#34;ftn1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; Posti, Lauri. 1954. On the origin of the voiceless vowel in Lapp. &lt;em&gt;Svenska landsmål och svenskt folkliv&lt;/em&gt; &lt;sup&gt;76&lt;/sup&gt;&amp;frasl;&lt;sub&gt;77&lt;/sub&gt;, 199–209.&lt;/p&gt;
 
-&lt;p&gt;I found the pandoc + reveal.js route to be a good alternative to beamer for teaching. I think I&amp;rsquo;ll stick to LaTeX/&lt;code&gt;beamer&lt;/code&gt; rather than pandoc for serious paper-writing, since the loss of the LaTeX power is only partially compensated by the relative ease of markdown, but for teaching I would recommend this alternative.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#ftn2_source&#34; id=&#34;ftn2&#34;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; The whole thing might be a bit overblown. OK, one is never going to sound completely like a native speaker until one gets a grip on the pitch accent, but how many contexts are there when one can mix up ducks and spirits (not the drinks)?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;#ftn3_source&#34; id=&#34;ftn3&#34;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; Gunnar Ólafur Hansson. 2001. Remains of a submerged continent: preaspiration in the languages of Northwest Europe. In Laurel J. Brinton (ed.) &lt;em&gt;Historical Linguistics 1999&lt;/em&gt;. Amsterdam: John Benjamins, 157-173.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Norsemen in Scotland: A linguistic view, part 1</title>
+<link>http://anghyflawn.github.io/blog/2014/norsemen-in-scotland-a-linguistic-view-part-1/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/blog/2014/norsemen-in-scotland-a-linguistic-view-part-1/</guid>
+<description>
+
+&lt;p&gt;It is quite common knowledge that the history of English has been significantly influenced by the settlement of North Germanic speakers in the north-eastern part of what is now England. From relatively trivial words like &lt;em&gt;skirt&lt;/em&gt; and &lt;em&gt;window&lt;/em&gt; to the less commonly borrowed items like &lt;em&gt;they&lt;/em&gt; and all the way to the general simplification of the Old English system of inflections (e.g. case in nouns) in the Middle English period: you name it, the Vikings have been blamed for it.&lt;/p&gt;
+
+&lt;p&gt;Here, I&amp;rsquo;d like to explore another part of the Norse influence on the language landscape of the British Isles: their impact on Scotland. Again, it is commonly acknowledged that the Norsemen are part of the cultural and linguistic mix that produced the Scottish nation as we know it. This is probably most obvious in the Northern Isles, where the &lt;a href=&#34;http://nornlanguage.x10.mx/&#34;&gt;Norn language&lt;/a&gt;, whose closest relatives are found in the west of Norway, on the Faroe Islands, and in Iceland, perisisted for about the same length of time as Cornish did in the south-west of Britain; but the Nordic linguistic heritage in Gaelic Scotland is also considerable.&lt;/p&gt;
+
+&lt;p&gt;History, archaeology, and literary sources all bear out a significant Norse presence in the Hebrides and around most of the Irish Sea. For some parts of this region the historical record is (relatively) abundant – this is, of course, not surprising in view of the strength of the chronicle tradition in Ireland; for one recent overview of the region, see &lt;a href=&#34;http://www.oxbowbooks.com/oxbow/vikings-of-the-irish-sea.html&#34;&gt;David Griffiths&amp;rsquo; &lt;em&gt;Vikings of the Irish Sea&lt;/em&gt;&lt;/a&gt;. For others, this historical record is much sparser – and the Hebrides, today&amp;rsquo;s Gaelic heartland, are a case in point.&lt;/p&gt;
+
+&lt;h1 id=&#34;linguistic-connections:e3fd371520faab08220affae68c8a354&#34;&gt;Linguistic connections&lt;/h1&gt;
+
+&lt;p&gt;The use of linguistic evidence to tease out unrecorded contacts between populations has a long and venerable history. Very often this takes the form of the search for a &lt;em&gt;substrate&lt;/em&gt; – a language whose users shift to a different one but which ends up influencing their version of the &amp;lsquo;new&amp;rsquo; variety. Notable examples of substrate theories include the suggestion, going back at least to &lt;a href=&#34;http://wbo.llgc.org.uk/en/s-MORR-JOH-1864.html&#34;&gt;John Morris-Jones&lt;/a&gt;, that the Celtic languages have a &amp;lsquo;Hamito-Semitic&amp;rsquo; substrate, Sigmund Feist&amp;rsquo;s &lt;a href=&#34;https://en.wikipedia.org/wiki/Germanic_substrate_hypothesis&#34;&gt;proposed pre-Germanic language&lt;/a&gt;, or Theo Vennemann&amp;rsquo;s &lt;a href=&#34;https://en.wikipedia.org/wiki/Vasconic_substratum_theory&#34;&gt;Vasconic effort&lt;/a&gt;. In all of these cases, certain features of the modern languages are surmised to be borrowings, but the problem is that while the linguistic conclusions may or may not be sound, depending on one&amp;rsquo;s standard of evidence, the very existence of population contact that would lead to the &amp;lsquo;correct&amp;rsquo; sort of language contact remains largely speculative.&lt;/p&gt;
+
+&lt;p&gt;A slightly different facet of the same problem is presented by phenomena such as putative Celtic influence on English. Here, the fact of contact is not usually in doubt: there is widespread agreement that incoming Germanic speakers would have encountered a Celtic-speaking population.&lt;a href=&#34;#ftn1&#34; id=&#34;ftn1_source&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; Whether this population contact would have led to significant linguistic influence has been the source of much debate, a lot of it helpfully summarized in a &lt;a href=&#34;http://www.routledge.com/books/details/9780415266024/&#34;&gt;relatively recent book&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are two main issues around the &amp;lsquo;Celtic hypothesis&amp;rsquo;. One is more of a chronological nature: the putative contact features do not really show up until the Middle English period, although people have proposed various ways of dealing with the issue. A second problem is our lack of knowledge about the precise circumstances of the contact, which, as &lt;a href=&#34;https://en.wikipedia.org/wiki/Peter_Trudgill&#34;&gt;Peter Trudgill&lt;/a&gt; in particular has shown in detail, are crucial to determining the existence and nature of any linguistic contact effects. (For what it&amp;rsquo;s worth, though, Trudgill endorses the Celtic hypothesis in &lt;a href=&#34;http://www.cambridge.org/gb/academic/subjects/languages-linguistics/sociolinguistics/investigations-sociohistorical-linguistics-stories-colonisation-and-contact&#34;&gt;&lt;em&gt;Investigations in sociohistorical linguistics&lt;/em&gt;&lt;/a&gt; – a short and really accessible book that I cannot recommend highly enough.)&lt;/p&gt;
+
+&lt;h1 id=&#34;e-norvegia-lux:e3fd371520faab08220affae68c8a354&#34;&gt;E Norvegia lux?&lt;/h1&gt;
+
+&lt;p&gt;What about the Norse linguistic influence in Scotland, and more specifically in Gaelic Scotland? In many ways the questions are similar to those posed of the Celtic hypothesis for English: we &lt;em&gt;know&lt;/em&gt; there was population contact, but we don&amp;rsquo;t really know what sort of contact it was, and the chronology doesn&amp;rsquo;t square up very nicely. Yet there are also interesting, if maybe subtle, differences.&lt;/p&gt;
+
+&lt;p&gt;A lot of early descriptive work on the living Celtic varieties happened to be carried out by Nordic, and particularly Norwegian scholars. The &amp;lsquo;grand old man&amp;rsquo; of Celtic studies in Norway was &lt;a href=&#34;https://no.wikipedia.org/wiki/Carl_Marstrander&#34;&gt;Carl Marstrander&lt;/a&gt;. He trained as an Indo-Europeanist under Sophus Bugge and Alf Torp. Although some of his early work concerned the historical and linguistic aspects of Norse settlement in the British Isles seen from the Nordic perspective (as in &lt;em&gt;Bidrag til det norske Sprogs Historie i Irland&lt;/em&gt; [Contributions to the History of the Norwegian Language in Ireland], published 1915), he was also a pioneer in the documentation of the living Celtic languages, having worked on the Blasket Islands with Tomás Ó Criomhthain of &lt;a href=&#34;https://wikisource.org/wiki/An_t-Oile%C3%A1nach&#34;&gt;&lt;em&gt;An t-Oileánach&lt;/em&gt;&lt;/a&gt; fame and on the Isle of Man. Among his disciples were Carl Borgstrøm (author of several descriptions of Scottish Gaelic dialects), Alf Sommerfelt, who worked not only on several varieties of (mostly Ulster) Irish but also on Welsh and Breton, and Magne Oftedal (author of what is probably the most comprehensive published description of a Scottish Gaelic dialect, &lt;em&gt;The Gaelic of Leurbost, Isle of Lewis&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;All of these scholars had a background not just in Celtic studies but also in the Nordic philological and dialectological traditions (for instance, Oftedal&amp;rsquo;s &lt;a href=&#34;http://ask.bibsys.no/ask/action/show?pid=031890482&amp;amp;kid=biblio&#34;&gt;dissertation&lt;/a&gt;, &lt;em&gt;Ordstrukturen i Gjestalmålet&lt;/em&gt; was a phonological description of the dialect of Gjesdal in south-west Norway). With this sort of history, it is not really surprising that they would get onto the case of some striking linguistic similarities between Nordic and Gaelic.&lt;/p&gt;
+
+&lt;p&gt;Marstrander was probably the first to draw attention to these, in &lt;em&gt;Okklusiver og substrater&lt;/em&gt; [Stops and substrates], published in the 1932 issue of &lt;em&gt;Norsk tidsskrift for sprogvidenskap&lt;/em&gt; (&lt;em&gt;Norwegian Journal of Linguistics&lt;/em&gt;); his theories received support from Oftedal (&lt;em&gt;Jærske okklusivar&lt;/em&gt; [Jæren stops], also in NTS, 1946) and were elaborated and extended by Borgstrøm (&lt;em&gt;The influence of Norse on Scottish Gaelic&lt;/em&gt;, 1974).&lt;/p&gt;
+
+&lt;p&gt;There are three key areas where Norse influence on Gaelic has been claimed to be most evident: the lexicon (i.e. loanwords), the pronunciation of voiceless stops (&lt;em&gt;p t k&lt;/em&gt;), especially in the middle of words, and the use of pitch to distinguish between otherwise identical words. The similarities between Norse and Gaelic in all these domains are indeed quite striking. We will consider especially the latter two in the next posts of this series.&lt;/p&gt;
+
+&lt;h3 id=&#34;notes:e3fd371520faab08220affae68c8a354&#34;&gt;Notes&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;#ftn1_source&#34; id=&#34;ftn1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; Dissenting opinions do exist: the Celticist Peter Schrijver has &lt;a href=&#34;http://dx.doi.org/10.1017/S1360674309002986&#34;&gt;proposed&lt;/a&gt; that the locals in question would be Latin rather than Celtic speakers. It also seems to me that if Guy Halsall&amp;rsquo;s proposals in the excellently thought-provoking (to this non-medievalist, non-historian) &lt;a href=&#34;http://ukcatalogue.oup.com/product/9780199658176.do&#34;&gt;&lt;em&gt;Worlds of Arthur&lt;/em&gt;&lt;/a&gt; are on the right track, then this picture may need to be revised as well.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Length and tenseness across Welsh dialects</title>
+<link>http://anghyflawn.github.io/presentation/2014/length-and-tenseness-across-welsh-dialects/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2014/length-and-tenseness-across-welsh-dialects/</guid>
+<description>&lt;p&gt;This talk was presented at the &lt;a href=&#34;https://amrywiaeth.wordpress.com/&#34;&gt;First Conference on Linguistic Diversity in Wales&lt;/a&gt; at the &lt;a href=&#34;http://www.llgc.org.uk&#34;&gt;National Library of Wales&lt;/a&gt; in Aberystwyth.&lt;/p&gt;
+
+&lt;p&gt;This talk is about the interaction of vowel quantity and quality in different dialects of Welsh. According to existing descriptions, Welsh is a bit like English in that its short vowels are consistently &amp;lsquo;lax&amp;rsquo; in quality ([ɪ ʊ ɛ ɔ ə]) and its long vowels are consistently &amp;lsquo;tense&amp;rsquo; ([iː uː eː oː]). Here, i discuss the difficulties this raises for phonological analysis and briefly discuss two types of dialects where vowel quantity and quality are less tightly coupled. This provides evidence for the &lt;em&gt;phonologization&lt;/em&gt; of quality. There is also a &lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://anghyflawn.github.io/pdf/amrywiaeth.handout.pdf&#34;&gt;handout&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
@@ -1484,32 +1393,56 @@ interactions.&lt;/p&gt;
 
 
 <item>
-<title>Emacs: give a DOI, get a BibTeX entry</title>
-<link>http://anghyflawn.github.io/blog/2014/emacs-give-a-doi-get-a-bibtex-entry/</link>
+<title>Phonological Theory (in Russian)</title>
+<link>http://anghyflawn.github.io/teaching/2014/phonological-theory-hse/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/blog/2014/emacs-give-a-doi-get-a-bibtex-entry/</guid>
-<description>&lt;p&gt;One of my enduring frustrations with the various academic publishing platforms (CJO, ScienceDirect, JSTOR and their ilk) is the wildly inconsistent way in which they export BibTeX entries for articles. Sometimes they put them right on the browser page for easy copy-and-paste; sometimes it comes up after a few clicks in a new window; sometimes you end up downloading a file with an impossibly long or counterintuitive name, or called something like &lt;code&gt;science.bib&lt;/code&gt; (which Chrome tends to turn into &lt;code&gt;science (14).bib&lt;/code&gt; as they accumulate). Since I really only need the BibTeX entry once to get into my master &lt;code&gt;.bib&lt;/code&gt; file, that is a waste of time and resources. So if you&amp;rsquo;re using Emacs, here&amp;rsquo;s a simple function which might be helpful&lt;/p&gt;
+<guid>http://anghyflawn.github.io/teaching/2014/phonological-theory-hse/</guid>
+<description>
 
-&lt;pre&gt;&lt;code class=&#34;language-elisp&#34;&gt;(defun get-bibtex-from-doi (doi)
- &amp;quot;Get a BibTeX entry from the DOI&amp;quot;
- (interactive &amp;quot;MDOI: &amp;quot;)
- (let ((url-mime-accept-string &amp;quot;text/bibliography;style=bibtex&amp;quot;))
-   (with-current-buffer 
-     (url-retrieve-synchronously 
-       (format &amp;quot;http://dx.doi.org/%s&amp;quot; 
-       	(replace-regexp-in-string &amp;quot;http://dx.doi.org/&amp;quot; &amp;quot;&amp;quot; doi)))
-     (switch-to-buffer (current-buffer))
-     (goto-char (point-max))
-     (setq bibtex-entry 
-     	  (buffer-substring 
-          	(string-match &amp;quot;@&amp;quot; (buffer-string))
-              (point)))
-     (kill-buffer (current-buffer))))
- (insert (decode-coding-string bibtex-entry &#39;utf-8))
- (bibtex-fill-entry))
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Приглашенный мини-курс «Фонологическая теория», Москва, ГУ-ВШЭ.&lt;/p&gt;
 
-&lt;p&gt;This will ask you for the DOI (you can keep the &lt;code&gt;http://dx.doi.org/&lt;/code&gt; bit that you get if you do &amp;lsquo;Copy Link Address&amp;rsquo; from the browser), pull the BibTeX entry via the DOI API, and insert it at point. (I&amp;rsquo;m assuming the buffer is in &lt;code&gt;bibtex-mode&lt;/code&gt; already, since it doesn&amp;rsquo;t really make sense for it not to be.) Put this in your &lt;code&gt;init.el&lt;/code&gt; and you can now do &lt;code&gt;M-x get-bibtex-from-doi&lt;/code&gt;, or bind it to a keychord of your choice. The entry might still need fiddling with (e.g. to fix the citekey in line with your scheme, or to remove the Unicode characters if need be), but hopefully this might be useful.&lt;/p&gt;
+&lt;p&gt;В настоящем курсе рассматриваются важнейшие вопросы фонологической теории в ее генеративном варианте. Курс состоит из пяти лекций:&lt;/p&gt;
+
+&lt;h3 id=&#34;лекция-1-архитектура-фонологической-теории:c045439eba0f66e41cba4f58ececd1bb&#34;&gt;Лекция 1: Архитектура фонологической теории&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://anghyflawn.github.io/phon-theory-hse/hse-handout-01.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;материалы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Тема первой лекции — устройство фонологической теории, место фонологии в теории грамматики и мотивация динамического (генеративного) подхода. В рамках современной теории фонологический модуль представляется как механизм, соотносящий фонологические объекты (множества сегментов, признаков, граничных символов и т.п.), предоставленные словарем, с другими фонологическими объектами, которые описываются в терминах того же алфавита, что и «входные данные», и интерпретируются фонетическим компонентом. В этой лекции рассматриваются мотивация такого подхода, которая связана в первую очередь с его успехом в описании (мор)фонологических чередований, и его преимущества перед одноуровневым описанием, характерным для традиционных фонематических теорий.&lt;/p&gt;
+
+&lt;h3 id=&#34;лекция-2-морфонологические-чередования-и-порядок-правил:c045439eba0f66e41cba4f58ececd1bb&#34;&gt;Лекция 2: Морфонологические чередования и порядок правил&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://anghyflawn.github.io/phon-theory-hse/hse-handout-02.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;материалы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Во второй лекции мы рассмотрим некоторые типы чередований, которые могут быть изящно описаны в рамках многоуровневой теории. Особое внимание будет уделено «неавтоматическим» чередованиям, условия для которых плохо описываются без привлечения данных о промежуточных представлениях (т.е. о формах соответствующих слов, неидентичных их поверхностным представлениям). Будет рассмотрена типология порядка правил (питающий, блокирующий, контрпитающий и контрблокирующий порядки) и проблема непрозрачности.&lt;/p&gt;
+
+&lt;h3 id=&#34;лекция-3-проблема-абстрактности-вопрос-о-естественности-взаимодействие-фонологии-и-морфологии:c045439eba0f66e41cba4f58ececd1bb&#34;&gt;Лекция 3: Проблема абстрактности, вопрос о «естественности», взаимодействие фонологии и морфологии&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://anghyflawn.github.io/phon-theory-hse/hse-handout-03.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;материалы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Многоуровневый подход в фонологии предполагает возможность существования достаточно абстрактных представлений на глубинных уровнях, которые сводятся к более «реалистичным» с помощью сложных систем фонологических правил. Тема третьей лекции — различные подходы к разрешению противоречия между (достаточно мощными) формальными возможностями теории и типологически наблюдаемым преобладанием систем, традиционно называемых «естественными» или «немаркированными». Мы рассмотрим несколько возможных ограничений на глубину дериваций, типы правил и порядок их применения (естественная фонология, условие обязательности чередования, строгая цикличность); особое внимание будет уделено лексической фонологии — наиболее разработанной морфонологической концепции.&lt;/p&gt;
+
+&lt;h3 id=&#34;лекция-4-теория-представлений:c045439eba0f66e41cba4f58ececd1bb&#34;&gt;Лекция 4: Теория представлений&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://anghyflawn.github.io/phon-theory-hse/hse-handout-04.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;материалы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Тема четвертой лекции — различные подходы к уточнению признаковой теории, в первую очередь вопрос о привативности фонологических признаков, признаковой геометрии и неполной спецификации. Как известно, еще Трубецкой в «Основах фонологии» предлагал различать эквиполентные (и градуальные) оппозиции, предполагающие возможность двух (или более) значений признака, и привативные, для которых существенно лишь наличие либо отсутствие признака. Мы рассмотрим типологические данные, говорящие в пользу привативности по крайней мере некоторых признаков, и обсудим вопрос о том, может ли фонологическая теория вовсе обойтись без бинарных признаков. Существование привативных признаков также предполагает возможность отсутствия фонологической спецификации по некоторым параметрам: мы рассмотрим несколько теоретических подходов к такой неполной спецификации. Наконец, теория признаковой геометрии постулирует существование древовидной структуры составляющих «внутри» сегмента: в этой лекции мы обсудим некоторые преимущества такого подхода.&lt;/p&gt;
+
+&lt;h3 id=&#34;лекция-5-ограничения-в-фонологии-теория-оптимальности:c045439eba0f66e41cba4f58ececd1bb&#34;&gt;Лекция 5: Ограничения в фонологии, теория оптимальности&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://anghyflawn.github.io/phon-theory-hse/hse-handout-05.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;материалы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Традиционную фонологическую теорию можно назвать «ориентированной на входные данные»: действие правил определяется состоянием системы до их запуска. Одно из следствий такого подхода: невозможность адекватного описания так называемых «заговоров», когда некая поверхностная структура избегается за счет применения формально не связанных друг с другом правил. В этой лекции мы обсудим вопрос о необходимости дополнить правила ограничениями, регулирующими применение правил, и недостатки такого гибридного подхода. В рамках лекции также будет дано введение в теорию оптимальности — подход, полностью отказывающийся от правил и оперирующий одними лишь ограничениями.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Phonologization of redundant contrasts and the Contrastivist Hypothesis</title>
+<link>http://anghyflawn.github.io/presentation/2014/phonologization-of-redundant-contrasts-and-the-contrastivist-hypothesis/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2014/phonologization-of-redundant-contrasts-and-the-contrastivist-hypothesis/</guid>
+<description>&lt;p&gt;I consider two cases of predictable distributions of phonological categories: &amp;lsquo;tense&amp;rsquo; and &amp;lsquo;lax&amp;rsquo; long vowels in South-West Welsh and the two varieties of the FACE vowel in Ulster English. Their predictable (&amp;lsquo;non-phonemic&amp;rsquo;) distribution is a challenge to the Contrastivist Hypothesis, but I argue that it can be accommodated if we assume that learning, including category formation, proceeds bottom-up, and that learners do not unlearn predictably distributed categories unless compelled to do so by alternations. This forces even predictably distributed symbols into underlying representations, and the Contrastivist Hypothesis is not falsified. The bottom-up learning also predicts the possibility of &amp;lsquo;leaks&amp;rsquo; (i.e. imperfect transmission of the conditions of the distribution), and the prediction appears correct in both cases considered here.&lt;/p&gt;
 </description>
 </item>
 
@@ -1544,6 +1477,19 @@ interactions.&lt;/p&gt;
 &lt;p&gt;This will ask you for the DOI (you can keep the &lt;code&gt;http://dx.doi.org/&lt;/code&gt; bit that you get if you do &amp;lsquo;Copy Link Address&amp;rsquo; from the browser), pull the BibTeX entry via the DOI API, and insert it at point. (I&amp;rsquo;m assuming the buffer is in &lt;code&gt;bibtex-mode&lt;/code&gt; already, since it doesn&amp;rsquo;t really make sense for it not to be.) Put this in your &lt;code&gt;init.el&lt;/code&gt; and you can now do &lt;code&gt;M-x get-bibtex-from-doi&lt;/code&gt;, or bind it to a keychord of your choice. The entry might still need fiddling with (e.g. to fix the citekey in line with your scheme, or to remove the Unicode characters if need be), but hopefully this might be useful.&lt;/p&gt;
 </description>
 </item>
+
+
+
+<item>
+<title>The [ATR]/laryngeal connection and emergent features</title>
+<link>http://anghyflawn.github.io/presentation/2014/the-atr-laryngeal-connection-and-emergent-features/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2014/the-atr-laryngeal-connection-and-emergent-features/</guid>
+<description>&lt;p&gt;I offer a preliminary analysis of the phenomenon of &lt;em&gt;calediad&lt;/em&gt; (&amp;lsquo;provection&amp;rsquo;) in South-Eastern Welsh, whereby &amp;lsquo;voiced&amp;rsquo; (lenis) stops become &amp;lsquo;voiceless&amp;rsquo; after a stressed vowel. I argue that since vowels before lenis stops are generally long &amp;mdash; and, given the phonology of South Welsh &amp;mdash; tense, provection is an example of vowel-consonant interaction, where the same feature is used for the tense/lax contrast in vowels and laryngeal contrast in consonants. I interpret this as supporting emergent feature theory.&lt;/p&gt;
+</description>
+</item>
+
+
 
 
 
@@ -1612,17 +1558,6 @@ interactions.&lt;/p&gt;
 
 
 <item>
-<title>Connecting the dots</title>
-<link>http://anghyflawn.github.io/presentation/2014/hxphon2014/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/2014/hxphon2014/</guid>
-<description>&lt;p&gt;This poster considers the status of the &amp;lsquo;tense&amp;rsquo;/&amp;lsquo;lax&amp;rsquo; contrasts across Welsh dialects and argues that it was originally an enhancement of quantity, but becomes phonologized in different ways across different dialect. For the latest in this project, see the &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/quantity-quality-interactions-in-welsh-vowels-phonologization-across-dialects/&#34;&gt;23mfm paper&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
 <title>First post</title>
 <link>http://anghyflawn.github.io/blog/2014/first-post/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -1636,17 +1571,22 @@ interactions.&lt;/p&gt;
 
 
 <item>
-<title>First post</title>
-<link>http://anghyflawn.github.io/blog/2014/first-post/</link>
+<title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
+<link>http://anghyflawn.github.io/teaching/2014/lel2d/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/blog/2014/first-post/</guid>
-<description>&lt;p&gt;I don&amp;rsquo;t know what, if anything, will be happening here, but I do sometimes get the urge to rant about things that tweets are too short for. So I&amp;rsquo;ve just this up for now, and hopefully its existence will motivate me to write a bit more.&lt;/p&gt;
+<guid>http://anghyflawn.github.io/teaching/2014/lel2d/</guid>
+<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for most of the phonology block. We covered the following topics:&lt;/p&gt;
 
-&lt;p&gt;Wait and see, in other words.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Phonological typology and theory. Universals in phonology; descriptive and analytic universals&lt;/li&gt;
+&lt;li&gt;Universals of inventory organization; feature theory&lt;/li&gt;
+&lt;li&gt;Syllable structure. Typology of syllable structures&lt;/li&gt;
+&lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
+&lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
+&lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
+&lt;/ul&gt;
 </description>
 </item>
-
-
 
 
   </channel>
