@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Wed, 19 Aug 2015 13:20:58 BST</updated>
+    <updated>Thu, 03 Sep 2015 14:21:11 BST</updated>
 
 
 
@@ -78,6 +78,69 @@
 &lt;/ol&gt;
 
 &lt;p&gt;The remaining 70% of the mark will be assessed by a final essay of 3,000 words, to be written between the end of teaching and the start of the exam period.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Making Emacs hold your hand: don&#39;t edit a TeX file when you don&#39;t mean to</title>
+<link>http://anghyflawn.github.io/presentation/2010/russian-palatalization-the-true-r-story/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/blog/2015/pam-na-fu-cymru/</guid>
+<description>&lt;p&gt;What follows is a short(ish) review of an excellently provocative new(ish) book by &lt;a href=&#34;https://twitter.com/SeimonBrooks&#34;&gt;Simon Brooks&lt;/a&gt;, &lt;em&gt;Pam na fu Cymru: Methiant cenedlaetholdeb Cymraeg&lt;/em&gt; (&amp;lsquo;Why Wales wasn&amp;rsquo;t: The failure of Welsh nationalism&amp;rsquo;).&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:a308841650967ab9e00c045625a34756:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:a308841650967ab9e00c045625a34756:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; It is, as the author notes, the second part of what may be deemed a trilogy, following from the no less interesting collection &lt;em&gt;Pa beth yr aethoch chi allan i&amp;rsquo;w achub?&lt;/em&gt; (&amp;lsquo;What did you go out to save?&amp;rsquo;), which also posed some rather less comfortable questions for the Welsh language (re)vitalization movement.&lt;/p&gt;
+
+&lt;p&gt;Anyway, Brooks&amp;rsquo; starting point is a denial of the &amp;lsquo;heroic narrative&amp;rsquo; of language survival, best expressed in Dafydd Iwan&amp;rsquo;s iconic &lt;em&gt;Yma o Hyd&lt;/em&gt; (&amp;lsquo;We&amp;rsquo;re still here&amp;rsquo;)&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/12DsDOHzmjE&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;In this story, which is pretty much the orthodox picture, plucky little Welsh survives despite the might of the British Empire, the &lt;a href=&#34;https://www.llgc.org.uk/index.php?id=thebluebooks&#34;&gt;Treachery of the Blue Books&lt;/a&gt;, industrialization, and all the rest of it, and its survival is due to the fantastic resilience of the Welsh speakers in the face of rather long odds. Brooks (not unconvincingly) utterly demolishes this story, pointing out (in chapter 1, &amp;lsquo;The unexpected failure of Welsh nationalism&amp;rsquo;) that pretty much all the minority communities of Europe (except maybe the Czechs) faced rather longer odds in terms of their economy, access to education and the printing press, and other factors usually seen to foster the growth of nationalism. Brooks is really failing to hold back his anger there. In the early 19th century Wales was far advanced along the modernization path, but the language was still very much alive, and in fact newcomers in the growing industrial areas of the south were being assimilated &lt;em&gt;into&lt;/em&gt; Welsh-speaking society &amp;mdash; and yet in terms of language preservation it has ended up behind not just the Czechs, Hungarians or Catalans, but much smaller and later developing nations like the Slovaks, Slovenians or Estonians. Brooks argues that although the situation in Central and Eastern Europe was different given the preponderance of multinational empires, it cannot be said that the Western European context would necessarily inhibit the growth of &amp;lsquo;new&amp;rsquo; nations &amp;mdash; Basques and Catalans being his two &lt;em&gt;Paradestücke&lt;/em&gt;. Wales, in fact, is somewhat of a paradoxical failure, given its favourable starting position.&lt;/p&gt;
+
+&lt;p&gt;Chapter 2, &amp;lsquo;The people of the language&amp;rsquo;, discusses the potential precursors to a stronger Welsh nationalism in early 19th century Wales, such as the &amp;lsquo;Llanover Circle&amp;rsquo;, who were strongly influenced by Herderian ideas. (Or indeed outside Wales, as in the society of Welsh clergymen of Yorkshire.) Crucially, Brooks points out, many exponents of an early form of &lt;em&gt;Landespatriotismus&lt;/em&gt; were generally conservative in their politics and Anglican in religion, rather than Liberal and Nonconformist.&lt;/p&gt;
+
+&lt;p&gt;In chapter 3, Brooks considers the relationship between the Welsh &amp;lsquo;radical&amp;rsquo;, &amp;lsquo;liberal&amp;rsquo; tradition and the Welsh language. For Brooks, Liberal ideas of progress, &amp;lsquo;common sense&amp;rsquo; and individual rights all end up being harmful to the cause of the  language. The Liberal ideal where the general triumphs over the particular inevitably leads to a normalization of monolingualism. Welsh speakers must learn English, because that is the way to join the community of reason and progress, and refusing to do so is harmful to their own individual good. This, of course, is the ideology of the Blue Books:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The Welsh language is a vast drawback to Wales and a manifold
+barrier to the moral progress and commercial prosperity of the
+people&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;or of John Stuart Mill&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Experience proves that it is possible for one nationality to merge
+and be absorbed in another; and when it was originally an inferior
+and more backward portion of the human race, the absorption is
+greatly to its advantage. Nobody can suppose that it is not more
+beneficial to a Breton, or a Basque of French Navarre, to be brought
+into the current of the ideas and feelings of a highly civilized and
+cultivated people—to be a member of the French nationality, admitted
+on equal terms to all the privileges of French citizenship, sharing
+the advantages of French protection, and the dignity and prestige of
+French power—than to sulk on his own rocks, the half-savage relic of
+past times, revolving in his own little mental orbit, without
+participation or interest in the general movement of the world. The
+same remark applies to the Welshman or the Scottish Highlander as
+members of the British nation.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Again, Wales was not at all unique in this: Brooks adduces examples of &amp;lsquo;assimilationist Liberalism&amp;rsquo; from the Continent in chapter 4. He also considers some responses to this tradition, both in Europe and in Wales. Here, he comes back to the idea that since liberal politics is inimical to minorities, they had to join forces with conservatism (albeit tactically and pragmatically rather than necessarily ideologically); hence František Palacký&amp;rsquo;s refusal to support the German parliament in Frankfurt: better keep the empire that can be talked to than being guaranteed to be outvoted by a parliament. In Wales, Brooks pays particular attention to Michael D. Jones &amp;ndash; best known for his role in the Welsh colonization enterprise in Patagonia &amp;ndash; and Emrys ap Iwan, who both rejected the Liberal anti-particularist stance.&lt;/p&gt;
+
+&lt;p&gt;In chapter 5, &amp;lsquo;How Wales can be&amp;rsquo;, Brooks sets out what he sees as the quandary of Welsh nationalism. The Welsh political tradition has a strong &amp;lsquo;radical&amp;rsquo; and &amp;lsquo;progressive&amp;rsquo; identity, first Liberal, then Labourite. Both of these traditions strongly emphasize universal values and downplay the kind of minority-community rights that underpin language revitalization. In this situation, Welsh nationalism has had relatively little space to offer a critique of this dominant narrative from the left, and hence has tended to the right, notably with Saunders Lewis. Brooks is strongly critical of &amp;lsquo;civic nationalism&amp;rsquo; (continuing a theme from &lt;em&gt;Pa beth yr aethoch&lt;/em&gt;), which inherits the emphasis on universality and individual rights, and hence perpetuates the asymmetrical power relationship between English (the &amp;lsquo;default&amp;rsquo; language of the &amp;lsquo;general&amp;rsquo; values) and Welsh. His preferred solution appears to be a discarding of assimilationist, English-inclined liberalism in favour of one where Welsh is made into the same kind of &amp;lsquo;general&amp;rsquo;, &amp;lsquo;common&amp;rsquo; language (at least in some parts of the country) that English is now across Wales. He recognizes that this requires policy solutions that are not, strictly speaking, consistent with the mainstream liberal views of &amp;lsquo;liberty&amp;rsquo; &amp;mdash; such as requiring immigrants to Welsh-speaking communities to learn Welsh (after all, Brooks points out, immigrants to the English-speaking British communities are expected, indeed often required by law, to learn English) or introducing positive discrimination measures in areas such as housing. The trade-off, however, is worth it, since the alternative is the progressive weakening of the language, which is presumably undesirable even for &amp;lsquo;civic&amp;rsquo; nationalists, given the relative weakness of a purely political Welsh identity.&lt;/p&gt;
+
+&lt;p&gt;Brooks certainly does not pull his punches. It&amp;rsquo;s a highly interesting book even for someone like me who only has a fairly passing acquaintance with either the history of nationalism or relevant issues in language policy. Brooks&amp;rsquo; warning to Welsh nationalism that an uncritical embrace of the British Left means siding with what is often an unthinkingly assimilationist narrative is a challenging idea that deserves to be taken seriously (it is certainly much more nuanced than the simplistic &amp;lsquo;BritNats don&amp;rsquo;t notice they&amp;rsquo;re nationalist&amp;rsquo; smugness we&amp;rsquo;ve been recently seeing so much of). At the same time Brooks offers some tantalizing pointers showing how a left-wing perspective is not entirely incompatible with the sort of recipes he has in mind for protecting the Welsh language. One point that struck me as quite pertinent is the idea that under a liberal regime minority communities have a right to security (i.e. to not being persecuted) but not a right to survival or even growth &amp;mdash; a useful perspective for someone like me who hasn&amp;rsquo;t encountered it before.&lt;/p&gt;
+
+&lt;p&gt;So, in sum, a challenging but interesting read. I teach some lectures on Celtic in our second-year &lt;em&gt;Structure and history of European languages&lt;/em&gt; course, and the few minutes I spend on Welsh sociolinguistics have so far been rather colonized by the &amp;lsquo;heroic narrative&amp;rsquo; of Welsh language survival. It strikes me that I probably have to fix this now!&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:a308841650967ab9e00c045625a34756:1&#34;&gt;Or more precisely Welsh-language nationalism.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:a308841650967ab9e00c045625a34756:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
 </description>
 </item>
 
@@ -1565,26 +1628,6 @@ interactions.&lt;/p&gt;
 <description>&lt;p&gt;I don&amp;rsquo;t know what, if anything, will be happening here, but I do sometimes get the urge to rant about things that tweets are too short for. So I&amp;rsquo;ve just this up for now, and hopefully its existence will motivate me to write a bit more.&lt;/p&gt;
 
 &lt;p&gt;Wait and see, in other words.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
-<link>http://anghyflawn.github.io/teaching/2014/lel2d/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2014/lel2d/</guid>
-<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, I was responsible for most of the phonology block. We covered the following topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Phonological typology and theory. Universals in phonology; descriptive and analytic universals&lt;/li&gt;
-&lt;li&gt;Universals of inventory organization; feature theory&lt;/li&gt;
-&lt;li&gt;Syllable structure. Typology of syllable structures&lt;/li&gt;
-&lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
-&lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
-&lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
-&lt;/ul&gt;
 </description>
 </item>
 
