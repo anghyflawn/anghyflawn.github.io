@@ -8,7 +8,7 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <channel>
-      <title>Initial Consonant Mutations in Pavel Iosad </title>
+      <title>Scots in Pavel Iosad </title>
 	  <itunes:author>Pavel Iosad</itunes:author>
 	  <itunes:owner>
 	  <itunes:name>Pavel Iosad</itunes:name>
@@ -21,7 +21,7 @@
 	  <itunes:explicit>no</itunes:explicit>
 	  <itunes:image href="http://anghyflawn.github.io/img/avatar2.jpg" />
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://anghyflawn.github.io/categories/initial-consonant-mutations/</link>
+    <link>http://anghyflawn.github.io/categories/scots/</link>
     <language>en-gb</language>
     
     
