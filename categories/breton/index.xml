@@ -25,7 +25,29 @@
     <language>en-gb</language>
     
     
-    <updated>Mon, 21 Mar 2016 14:41:56 GMT</updated>
+    <updated>Sat, 14 May 2016 17:17:13 BST</updated>
+
+
+
+<item>
+<title>Morphology and dialectology: A quantitative approach</title>
+<link>http://anghyflawn.github.io/presentation/2016/rnag2016/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2016/rnag2016/</guid>
+<description>&lt;p&gt;We present a study of Gaelic dialectal variation based on the unpublished, morphological section of the Linguistic Survey of Scotland (Gaelic). Our findings indicate that a quantitative (dialectometric) approach can yield important insights into the range of internal variation in Gaelic and elucidate certain issues of language structure. Here, we focus on two questions:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;What patterns of spatial variation are observed in the morphological data?&lt;/li&gt;
+&lt;li&gt;How are different morphological features in the dialects correlated?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To answer the first question, we fit a logistic generalized additive model against a longitude-latitude spline and observe a number of patterns. Some features show a pronounced northwest-southeast cline, usually with more morphologically &amp;lsquo;innovative&amp;rsquo; dialects in the east and south. Demographic variables, such as mean age and concentrations of speakers, may be a factor. Others show a clear focus on the Outer Hebrides, particularly from North Uist southwards. This suggests that the Gaelic dialects of the southern Outer Hebrides are the most morphologically ‘conservative’ of the surviving varieties. Our approach allows us to precisely quantify these patterns, providing a firm underpinning for earlier descriptions. In some cases, the data also pose challenges for received pedagogical practice and prescriptive standards.&lt;/p&gt;
+
+&lt;p&gt;For the second question, we use Ward clustering on a correlation matrix to identify which features frequently co-occur in the dialects. The results shed light both on the dialectal divisions of Gaelic and, arguably, on its grammatical structure. For instance, we identify a strong correlation between the absence of lenition in returns such as an cas (nominative), cas beag (nominative) and am fear (genitive). These patterns are not strongly correlated with other cases of lenition absence. We interpret this as suggesting that lenition in these contexts may be driven by a single grammatical mechanism (whose loss underlies this consistent absence of lenition), which is not in action in other lenition contexts.&lt;/p&gt;
+
+&lt;p&gt;Overall, our results show the potential of a quantitative approach to Gaelic dialectology and its promise for a larger study.&lt;/p&gt;
+</description>
+</item>
 
 
 
@@ -47,6 +69,63 @@
 &lt;p&gt;All these systems were in the process of change in our time period, with System 1 giving way to System 2 across Scandinavia, and the SVLR also developing at about the same time. In both System 2 and the SVLR, we also observe the rise of an interaction between vowel quantity and ‘tense/lax’ quality. Thus, the system in Shetland Norn presents a set of interesting questions for the study of historical dialectology, language contact and historical phonology.&lt;/p&gt;
 
 &lt;p&gt;We give a detailed account of the distribution of vowel length in a 2,500-token sample of Jakob Jakobsen&amp;rsquo;s dictionary of Shetland Norn, and compare it to the contact systems. We show that clear traces of all three systems, as well as local innovations, are found in the data. We also place the Shetland Norn data in the context of both Scots and Scandinavian historical phonology.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>nrn proceedings</title>
+<link>http://anghyflawn.github.io/news/2016/nrn-proceedings/</link>
+<pubDate>Sat, 14 May 2016 17:02:38 BST</pubDate>
+<guid>http://anghyflawn.github.io/news/2016/nrn-proceedings/</guid>
+<description>&lt;p&gt;&lt;a href=&#34;http://anghyflawn.github.io/writing/nrn-proceedings/&#34;&gt;My paper on tonogenesis in North Germanic&lt;/a&gt; will appear in the proceedings of the &lt;a href=&#34;http://www.nordicresearchnetwork.co.uk/conference-2015.html&#34;&gt;Nordic Research Network 2015 conference&lt;/a&gt;&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>leave</title>
+<link>http://anghyflawn.github.io/news/2016/leave/</link>
+<pubDate>Sat, 14 May 2016 16:58:52 BST</pubDate>
+<guid>http://anghyflawn.github.io/news/2016/leave/</guid>
+<description>&lt;p&gt;In the autumn semester of &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;, I will be on research leave and will not be teaching any courses.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>rnag2016</title>
+<link>http://anghyflawn.github.io/news/2016/rnag2016/</link>
+<pubDate>Sat, 14 May 2016 16:55:45 BST</pubDate>
+<guid>http://anghyflawn.github.io/news/2016/rnag2016/</guid>
+<description>&lt;p&gt;&lt;a href=&#34;http://www.ed.ac.uk/literatures-languages-cultures/celtic-scottish-studies/staff/dr-william-lamb&#34;&gt;Will Lamb&lt;/a&gt; will present the results of &lt;a href=&#34;http://anghyflawn.github.io/presentation/2016/rnag2016/&#34;&gt;our joint work&lt;/a&gt; on quantitative approaches to dialect variation in Scottish Gaelic morphology at &lt;a href=&#34;http://www.smo.uhi.ac.uk/en/rannsachadh/rnag2016/&#34;&gt;Rannsachadh na Gàidhlig 2016&lt;/a&gt; at Sabhal Mòr Ostaig.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Tonal stability and tonogenesis in North Germanic</title>
+<link>http://anghyflawn.github.io/writing/nrn-proceedings/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/nrn-proceedings/</guid>
+<description>&lt;p&gt;The origin of North Germanic tonal accents is a question with a long history and a range of available answers. Although the basic facts are not in dispute, the accents&amp;rsquo; historical development remains controversial. In this paper, I aim to contribute an argument in favour of the view that tonal accent arose in post-Viking Age North Germanic in connection with changes in syllable count (Oftedal 1952; Elstad 1980; Bye 2004, 2011; Hognestad 2012). I will argue that the genesis of &amp;lsquo;accent 1&amp;rsquo; and &amp;lsquo;accent 2&amp;rsquo; as a grammaticalization of syllable count need not be seen as an isolated, unique phenomenon in the history of the North Germanic languages: instead, it is a recurring event, as demonstrated by the genesis of new &amp;lsquo;tonal accent&amp;rsquo; oppositions triggered by apocope in at least three further separate instances in Central Scandinavia, Zealand, and East Slesvig. I also adduce further typological parallels from West Germanic and from Goidelic Celtic.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>The northwest European linguistic area</title>
+<link>http://anghyflawn.github.io/presentation/2016/uit/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2016/uit/</guid>
+<description>&lt;p&gt;In this talk I discuss the recurrence of several cross-linguistically rare phonological phenomena in unrelated languages spoken in northwestern Europe. Identified already by Jakobson in the 1930s as forming part of a &amp;lsquo;Baltic&amp;rsquo; Sprachbund defined by the use of &amp;lsquo;tonality&amp;rsquo;, the northwest European &amp;lsquo;phonological province&amp;rsquo; is characterized by the presence of features such as preaspiration (North Germanic, Sámi, Scottish Gaelic &amp;mdash; but also Welsh and English), tonal accents and laryngealization (North Germanic, Scottish Gaelic, West Germanic, Baltic &amp;mdash; and some Finnic languages), sonorant pre-occlusion (in North Germanic, Sámi, Cornish, Manx), and excrescent vowels (Sámi, Irish and Scottish Gaelic, some West Germanic varieties). These similarities have been long recognized (see Eliasson 2000, Rießler 2008 for relatively recent overviews), but frequently ascribed to bilateral contact (e.g. North Germanic &amp;lt;-&amp;gt; Sámi or North Germanic -&amp;gt; Goidelic Celtic).&lt;/p&gt;
+
+&lt;p&gt;I reconsider the nature of these similarities taking into account the availability of new data and new analytical tools. It is apparent that the occurrence of the relevant &amp;lsquo;rare&amp;rsquo; phenomena has been underestimated, since they often function in a variable way, and only in some cases do they become categorical phenomena. I also draw attention to the fact that in many cases the origin and functioning of the relevant phenomena is closely connected with metrical (in particular foot and moraic) structure. This, I suggest, indicates that the role of contact may have been overstated, and that the appearance of rare phenomena such as phonological preaspiration and tonal accents may be due to the (re)use of laryngeal phonetic cues to metrical structure.&lt;/p&gt;
 </description>
 </item>
 
@@ -1270,191 +1349,6 @@ Germanic. This conclusion may appear to undermine the contact
 hypothesis, especially in the absence of reliable written sources;
 nevertheless, a certain role for Norse-Gaelic contact in the
 appearance of the pitch accent system cannot be completely excluded&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Current Issues in Phonology</title>
-<link>http://anghyflawn.github.io/teaching/2015/current-issues-in-phonology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/current-issues-in-phonology/</guid>
-<description>&lt;p&gt;This advanced course introduces students to a variety of live research issues in phonological theory. I teach this course with my colleagues &lt;a href=&#34;http://www.lel.ed.ac.uk/people/heinz-giegerich&#34;&gt;Heinz Giegerich&lt;/a&gt;, &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt;, and &lt;a href=&#34;http://www.lel.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt;. In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I cover the following topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Contrast in phonology and underspecification. Modified Contrastive Specification and the use of contrastive hierarchies&lt;/li&gt;
-&lt;li&gt;Feature theory: markedness, feature geometry, contrast. Diagnostics of markedness and their cross-linguistic validity&lt;/li&gt;
-&lt;li&gt;Suprasegmental phonology: moraic theory; morae and sonority; onset moraicity&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Materials are available on &lt;a href=&#34;http://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;. There is also a &lt;a href=&#34;http://resourcelists.ed.ac.uk/lists/8344213B-35A4-FF8E-C89A-65043B5055F7.html&#34;&gt;Resource List&lt;/a&gt; available.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>http://anghyflawn.github.io/teaching/2015/lel2e/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The Indo-European language family&lt;/li&gt;
-&lt;li&gt;Celtic languages&lt;/li&gt;
-&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For course materials, see the relevant page on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>LEL2D: Cross-linguistic variation: Limits and Theories</title>
-<link>http://anghyflawn.github.io/teaching/2015/lel2d/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/lel2d/</guid>
-<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I am responsible for the entire phonology block. We cover the following topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Phonological typology and theory. Universals in phonology; descriptive and analytic universals&lt;/li&gt;
-&lt;li&gt;Universals of inventory organization; feature theory&lt;/li&gt;
-&lt;li&gt;Syllable structure. Typology of syllable structures&lt;/li&gt;
-&lt;li&gt;Optimality Theory and its application to syllable structure typology&lt;/li&gt;
-&lt;li&gt;Government Phonology; restrictiveness in theory-building&lt;/li&gt;
-&lt;li&gt;Stress; metrical typology; metrical typology in OT&lt;/li&gt;
-&lt;li&gt;Tone and its typology; austosegmental phonology.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Course materials are available on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Historical Phonology</title>
-<link>http://anghyflawn.github.io/teaching/2015/historical-phonology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/historical-phonology/</guid>
-<description>&lt;p&gt;In this course (co-taught with my colleagues &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt; and &lt;a href=&#34;http://www.lel.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt;) we consider a variety of issues connected to phonological change. Throughout the course, we address questions such as the following:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;How do we reconstruct the phonology of past language states?&lt;/li&gt;
-&lt;li&gt;What types of phonological changes are attested?&lt;/li&gt;
-&lt;li&gt;How can synchronic phonological theory assist us in the study of historical phonology?&lt;/li&gt;
-&lt;li&gt;What can we learn about the human language faculty by studying historical phonology?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, I cover the following topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Phonological typology and historical phonology (with a focus on consonants)&lt;/li&gt;
-&lt;li&gt;Lenition&lt;/li&gt;
-&lt;li&gt;Historical phonology and phonological representations&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Course materials are available on &lt;a href=&#34;http://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>RSE grant</title>
-<link>http://anghyflawn.github.io/news/2014/rse-grant/</link>
-<pubDate>Fri, 05 Dec 2014 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/news/2014/rse-grant/</guid>
-<description>&lt;p&gt;I received a Small Research Grant in the Arts and Humanities from the &lt;a href=&#34;http://www.royalsoced.org.uk&#34;&gt;Royal Society of Edinburgh&lt;/a&gt; for the project &lt;em&gt;The phonetics and phonology of short vowels in Irish and Scottish Gaelic&lt;/em&gt;, with &lt;a href=&#34;http://www.ucd.ie/research/people/irishcelstirishflling/drmairenichiosain/&#34;&gt;Máire Ní Chiosáin&lt;/a&gt; (University College Dublin).&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Teaching slides with pandoc and reveal.js</title>
-<link>http://anghyflawn.github.io/blog/2014/teaching-slides-with-pandoc-and-reveal-js/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/blog/2014/teaching-slides-with-pandoc-and-reveal-js/</guid>
-<description>
-
-&lt;p&gt;This past semester I taught a new course entitled &lt;em&gt;&lt;a href=&#34;http://www.drps.ed.ac.uk/14-15/dpt/cxlasc10088.htm&#34;&gt;Phonological Theory&lt;/a&gt;&lt;/em&gt;. Apart from the content, I decided to experiment a bit with the technical details, specifically using &lt;a href=&#34;http://johnmacfarlane.net/pandoc&#34;&gt;pandoc&lt;/a&gt; and &lt;a href=&#34;reveal.js&#34;&gt;reveal.js&lt;/a&gt; to do the slides and lecture notes.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m a pretty consistent LaTeX user, so to the extent I do slides I do them in &lt;code&gt;beamer&lt;/code&gt;. There is nothing inherently problematic with this, and &lt;a href=&#34;https://www.gnu.org/software/auctex/&#34;&gt;AUCTeX&lt;/a&gt; saves typing a lot of the boilerplate, but writing two–three presentations per week is still time-consuming. I also tend to do the non-recommended thing and put a lot of text on my slides; my justification (apart from the fact that it lets me pace the lectures at least the first time around) is that I use &lt;code&gt;beamerarticle&lt;/code&gt; to produce a more text-like notes document that is then quite detailed.&lt;/p&gt;
-
-&lt;p&gt;So why pandoc? Well, partly just for the fun of it. My slides + notes workflow also fits quite well with its philosophy of producing multiple output formats from a single input. Perhaps most importantly, markdown is obviously less &amp;lsquo;noisy&amp;rsquo; than LaTeX. Compare this:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;## Slide title ##
-
-* Item 1
-* Item 2
-    * Subitem 1
-    * Subitem 2
-* Item 3
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;and this:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;\begin{frame}{Slide title}
-\begin{itemize}
-  \item Item 1
-  \item Item 2
-  \begin{itemize}
-      \item Subitem 1
-      \item Subitem 2
-  \end{itemize}
-  \item Item 3
-\end{itemize}
-\end{frame}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Even if you&amp;rsquo;re pretty proficient in LaTeX and filter out the visual noise, I think it&amp;rsquo;s pretty obvious that the former is a bit less horrible.&lt;/p&gt;
-
-&lt;p&gt;Anyway, I&amp;rsquo;ve now taught the entire course using this workflow, and overall I think I was quite happy with it. The workflow carries over nicely and although there were things that took a bit more work than they would have done if I were using LaTeX I think I felt at least as productive when using pandoc.&lt;/p&gt;
-
-&lt;h2 id=&#34;the-good:b7cb6333f64fce53cd91cff316b43a20&#34;&gt;The good&lt;/h2&gt;
-
-&lt;p&gt;Writing markdown is of course a piece of cake. I&amp;rsquo;m using Emacs with &lt;a href=&#34;http://jblevins.org/projects/markdown-mode/&#34;&gt;markdown-mode&lt;/a&gt; and &lt;a href=&#34;https://joostkremers.github.io/pandoc-mode/&#34;&gt;pandoc-mode&lt;/a&gt;, which makes it even easier. Consider the task of indenting a sublist, e.g. making a list item (and all its subitems) into a subitem of something else. In markdown-mode, it&amp;rsquo;s a matter of a single keystroke, while in LaTeX it&amp;rsquo;d involve a whole new environment and possibly other adjustments.&lt;/p&gt;
-
-&lt;p&gt;The text would usually carry over from slides to notes quite painlessly, so that&amp;rsquo;s good. Pandoc-mode also has a handy feature called a &lt;em&gt;project settings file&lt;/em&gt; which allows you to reuse pandoc settings (e.g. includes, bibliography files, CSL files etc.) across multiple input files – having chosen a single set of options it&amp;rsquo;s easy to use them for all the &lt;code&gt;.md&lt;/code&gt; files in that directory. If, for whatever reason, you need to use a different set of options for an individual document, that&amp;rsquo;s also possible with per-file settings.&lt;/p&gt;
-
-&lt;p&gt;Pandoc also gives you a lot of latitude to tweak how the output looks like, since you have full access to the templates it uses to build the output. This means that my lecture notes look pretty much like any other documents I write and don&amp;rsquo;t use the default TeX settings.&lt;/p&gt;
-
-&lt;p&gt;I really liked Reveal.js. It looks pretty nice (though see below) and it has some nifty features. Some are perhaps more pretty than really useful, but I though the overview mode and the speaker notes were especially handy (the speaker notes in particular are nice when you don&amp;rsquo;t want to put something on the slide but still have it in the notes).&lt;/p&gt;
-
-&lt;h2 id=&#34;the-less-good-and-some-tips:b7cb6333f64fce53cd91cff316b43a20&#34;&gt;The less good, and some tips&lt;/h2&gt;
-
-&lt;p&gt;I did run into some issues that needed resolving, although partly they involve just shaking off the LaTeX mentality. An obvious issue is the lack of access to LaTeX macros. Pandoc has support for a subset of TeX maths in non-TeX output, so it is possible to use things like &lt;code&gt;$\rightarrow$&lt;/code&gt; or &lt;code&gt;$\emptyset$&lt;/code&gt; (which you need a lot in a course like that), but getting a feature matrix (for which you&amp;rsquo;d use some version of &lt;code&gt;array&lt;/code&gt;) is more difficult. Still, it&amp;rsquo;s not as crippling as Word, so that&amp;rsquo;s an advantage already. I didn&amp;rsquo;t really run into a case where there was no way to write what I wanted to write, but I did end up typing out &lt;code&gt;$\rightarrow$&lt;/code&gt; a bit more often than I would have wished. (I should probably just have assigned some keystrokes to the right symbols, but I never got round to it.)&lt;/p&gt;
-
-&lt;p&gt;(Pandoc-mode does come with something called &lt;code&gt;@@&lt;/code&gt;-directives, which can be kicked into a shape resembling TeX macros, but they&amp;rsquo;re still pretty limited and also require more Elisp skills than I could dust off while writing a new course from scratch.)&lt;/p&gt;
-
-&lt;p&gt;Diagrams and drawings are another potentially problematic issue. Thankfully, pandoc comes with the filter facility, and the &lt;a href=&#34;https://github.com/jgm/pandocfilters/&#34;&gt;example repository&lt;/a&gt; contains a filter that takes TikZ code and feeds it straight into the output when the output is TeX but creates an image file and embeds it if the output is something else. With a little bit of hacking I was able to make it understand environments like &lt;code&gt;forest&lt;/code&gt; (which I recommend for drawing trees) and generally have the pictures assume the desired look and feel. So that&amp;rsquo;s doable.&lt;/p&gt;
-
-&lt;p&gt;One potential issue that it took me some time to figure out was getting speaker notes to play nicely. Reveal.js presentations can be shown as static files, but then you don&amp;rsquo;t have access to speaker notes. To get the notes, you need to run a local server using some Node.js magic or other. For one thing, this obviously means that you need to lug your laptop around to the lecture and hope it works. More importantly, reveal.js seems to assume your presentation resides in the same folder as the reveal.js files. If you have multiple source and output files in the directory for your course, you probably don&amp;rsquo;t want to clutter it with its js, css and so on, but rather keep it in a separate folder. But this means that when you run &lt;code&gt;grunt serve&lt;/code&gt; from the reveal.js folder, you don&amp;rsquo;t get access to your files. To fix that, you need to go open &lt;code&gt;Gruntfile.js&lt;/code&gt; and find the lines&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;		connect: {
-			server: {
-				options: {
-					port: port,
-					base: &#39;.&#39;
-				}
-			}
-		},
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Change the &lt;code&gt;base&lt;/code&gt; option to &lt;code&gt;&#39;../&#39;&lt;/code&gt;, and it will serve files from the directory above reveal.js, which is what you probably want.&lt;/p&gt;
-
-&lt;p&gt;One feature that I miss in reveal.js is a counterpart to &lt;code&gt;beamer&lt;/code&gt;&amp;rsquo;s &lt;code&gt;allowframebreaks&lt;/code&gt; option. It does support manual slide breaking, but that is obviously fragile (not least because the screen in the lecture room doesn&amp;rsquo;t necessarily have the same proportions as yours, so you don&amp;rsquo;t have a 100% reliable guide to when the slide is overfull). Of course you don&amp;rsquo;t have this problem if you don&amp;rsquo;t put too much text on your slide.&lt;/p&gt;
-
-&lt;p&gt;A final thing that is not so much a problem as a consequence of lack of time for my part is that changing the look and feel of reveal.js beyond the stock themes requires passable CSS skills, and I definitely did &lt;em&gt;not&lt;/em&gt; have time for that.&lt;/p&gt;
-
-&lt;h2 id=&#34;conclusion:b7cb6333f64fce53cd91cff316b43a20&#34;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;I found the pandoc + reveal.js route to be a good alternative to beamer for teaching. I think I&amp;rsquo;ll stick to LaTeX/&lt;code&gt;beamer&lt;/code&gt; rather than pandoc for serious paper-writing, since the loss of the LaTeX power is only partially compensated by the relative ease of markdown, but for teaching I would recommend this alternative.&lt;/p&gt;
 </description>
 </item>
 
