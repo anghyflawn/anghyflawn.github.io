@@ -25,7 +25,26 @@
     <language>en-gb</language>
     
     
-    <updated>Mon, 30 May 2016 20:45:03 BST</updated>
+    <updated>Mon, 30 May 2016 20:55:31 BST</updated>
+
+
+
+<item>
+<title>LEL2E: Structure and History of European Languages</title>
+<link>http://anghyflawn.github.io/teaching/2017/lel2e/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2017/lel2e/</guid>
+<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Indo-European language family&lt;/li&gt;
+&lt;li&gt;Celtic languages&lt;/li&gt;
+&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For course materials, see the relevant page on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;&lt;/p&gt;
+</description>
+</item>
 
 
 
@@ -174,7 +193,7 @@
 <link>http://anghyflawn.github.io/news/2016/leave/</link>
 <pubDate>Sat, 14 May 2016 16:58:52 BST</pubDate>
 <guid>http://anghyflawn.github.io/news/2016/leave/</guid>
-<description>&lt;p&gt;In the autumn semester of &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;, I will be on research leave and will not be teaching any courses. See the &lt;a href=&#34;{{ .Site.BaseUrl }}/teaching&#34;&gt;teaching page&lt;/a&gt; for the spring semester plans.&lt;/p&gt;
+<description>&lt;p&gt;In the autumn semester of &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;, I will be on research leave and will not be teaching any courses. See the &lt;a href=&#34;http://anghyflawn.github.io/teaching&#34;&gt;teaching page&lt;/a&gt; for the spring semester plans.&lt;/p&gt;
 </description>
 </item>
 
@@ -302,25 +321,6 @@
 <description>&lt;p&gt;This course is an obligatory part of the pre-Honours sequence for students on the MA (Hons) degree in Gaelic and Primary Education. It will introduce students to the linguistic analysis of the Scottish Gaelic language, giving an overview of phonetics and phonology, morphology and syntax, together with consideration of key sociolinguistic principles and issues, including phenomena relating to language contact, language shift and status and corpus planning.&lt;/p&gt;
 
 &lt;p&gt;In &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;, I taught the sections on phonetics and phonology and on language change.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>http://anghyflawn.github.io/teaching/2017/lel2e/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2017/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The Indo-European language family&lt;/li&gt;
-&lt;li&gt;Celtic languages&lt;/li&gt;
-&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For course materials, see the relevant page on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;&lt;/p&gt;
 </description>
 </item>
 
