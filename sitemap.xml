@@ -3,8 +3,23 @@
   
   <url>
     <loc>http://anghyflawn.github.io/</loc>
-    <lastmod>2016-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/teaching/2017/celtic-norse-english/</loc>
+    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/teaching/2017/historical-phonology/</loc>
+    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/teaching/2017/lel2d/</loc>
+    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -89,6 +104,11 @@
   
   <url>
     <loc>http://anghyflawn.github.io/teaching/2016/lel2e/</loc>
+    <lastmod>2016-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/teaching/2017/lel2e/</loc>
     <lastmod>2016-01-10T00:00:00+00:00</lastmod>
   </url>
   
