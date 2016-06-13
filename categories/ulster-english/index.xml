@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Fri, 10 Jun 2016 09:51:59 BST</updated>
+    <updated>Mon, 13 Jun 2016 21:18:07 BST</updated>
 
 
 
@@ -133,6 +133,40 @@
 
 
 <item>
+<title>Making sense of consonant palatalization vowel backness in Irish</title>
+<link>http://anghyflawn.github.io/presentation/2016/ldlt5/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2016/ldlt5/</guid>
+<description>&lt;p&gt;Despite its status as a minority language, Modern Irish has a rich body of phonetic and phonological descriptions, based on (near-)native fieldworker knowledge and traditional auditory methods. In this paper, we draw on a range of up-to-date instrumental and quantitative methods in order to verify and expand the traditional findings regarding the nature and status of the interaction between consonant palatalization and vowel backness in Irish.&lt;/p&gt;
+
+&lt;p&gt;According to the descriptive literature, there are several types of consonant-to-vowel coarticulation in Modern Irish. In the case of long vowels, the distribution of front and back vowels is free with respect to surrounding consonant palatalization: &lt;em&gt;ciúin&lt;/em&gt; /k&amp;rsquo;uːn&amp;rsquo;/ &amp;lsquo;quiet&amp;rsquo;, &amp;lsquo;buíon&amp;rsquo; /biːn/ &amp;lsquo;company&amp;rsquo;. However, descriptions recognize the phonetic reality of &amp;lsquo;on-&amp;rsquo; and &amp;lsquo;off-glides&amp;rsquo; when the backness of the long vowel does not match that of the neighbouring consonant: [kʲuːʲn], [bʷiːˠn]. In the case of short vowels, it is commonly argued that (some) front and back vowels show complementary distribution driven by consonant palatalization, such that, for instance, &lt;em&gt;giobal&lt;/em&gt; &amp;lsquo;rag&amp;rsquo; (surface [ɡʲʊbəl]) and &lt;em&gt;duine&lt;/em&gt; &amp;lsquo;man&amp;rsquo; (surface [dɪnʲə]) both contain the underlying segment (phoneme) /ɯ/, and are derived from /ɡ&amp;rsquo;ɯbəl/ and /dɯn&amp;rsquo;ə/ by &amp;lsquo;vowel separation&amp;rsquo; rules. At the same time, some of the more careful phonetic descriptions also recognize the existence of finely grained (though apparently categorical) vowel allophony driven by consonant palatalization.&lt;/p&gt;
+
+&lt;p&gt;We report the results of a project aiming to disentangle the categorical and gradient aspects of this coarticulation using instrumental methods. Previous studies  show that for low vowels the effect of consonant palatalization on the quality of adjacent vowels cannot be described as simply a &amp;lsquo;glide&amp;rsquo; &amp;mdash; the consonant exerts an influence throughout the duration of the vowel &amp;mdash; and that consonant-vowel coarticulation in Irish is gradient. In this paper, we focus on a controlled acoustic study of &lt;em&gt;short&lt;/em&gt; vowels, claimed in the literature to undergo both categorical (complementary distribution) and gradient (fine-grained allophony) coarticulation.&lt;/p&gt;
+
+&lt;p&gt;We present the results of fitting a variety of generalized additive mixed models  to the acoustic data, and show that both kinds of effects co-exist in Modern Irish: a categorical rule enforcing (near-)allophony and gradient consonant-vowel coarticulation. We argue that this is a theoretically interesting example of the phenomenon of &amp;lsquo;rule scattering&amp;rsquo;, which would have been difficult to establish with confidence solely on the basis of traditional descriptions. We also discuss some of the challenges associated with gathering balanced data (necessary for quantitative analysis) using reading tasks from a minority language, even one with a well-established tradition of literacy.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Problems of phonemicization</title>
+<link>http://anghyflawn.github.io/presentation/2016/clc9/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2016/clc9/</guid>
+<description>&lt;p&gt;We address a long-standing issue in the phonology of Modern Irish: the phonological status of the distinction between front and back short vowels. We argue that the approach inherent in most theoretical work on the topic, which privileges traditional &amp;lsquo;phonemic&amp;rsquo; criteria such as predictability of distribution, misses important generalizations and cannot be sustained. Instead, we suggest that front and back (non-low) vowels in Irish are best thought of as phonologically &amp;lsquo;distinctive&amp;rsquo;, but not (significantly) &amp;lsquo;contrastive&amp;rsquo; units.&lt;/p&gt;
+
+&lt;p&gt;We reconsider the arguments for the noncontrastive status of the front/back distinction in short vowels in Modern Irish, on the basis of a cross-dialectal acoustic study. Our results show that the distributional generalizations offered in Roibeard Ó Maolalaigh&amp;rsquo;s (1997) summary of the traditional description literature, which suggests the distinction is largely allophonic, are by and large correct.  Our quantitative analysis, which relies on model comparison methods applied to generalized additive mixed models, also shows that front and back vowels form distinct categories in the output of the phonology: models that assume more than one backness category per height achieve better fit than ones assuming a surface &amp;lsquo;vertical&amp;rsquo; system.&lt;/p&gt;
+
+&lt;p&gt;We conclude that front and back vowels form distinct categories that are accessible to the phonological grammar, and offer an interpretation of the facts centred around the notion of &amp;lsquo;quasi-phonemes&amp;rsquo;: phonologically distinct elements that do not stand in contrastive distribution. We argue that this framework allows us to unify the description of the low functional load of the distribution and the analysis of vowel backness alternations in the synchronic grammar. We show that our analysis, which does not predict fully complementary distribution, is superior to previous approaches that relied on &amp;lsquo;vowel separation&amp;rsquo; rules to achieve the same outcome, since it correctly predicts the possibility of exceptions. We argue that the existence and nature of these exceptions fall out of the patterns of lexicalization and rule loss predicted by the life cycle of phonological processes.&lt;/p&gt;
+
+&lt;p&gt;This work builds on that presented at &lt;a href=&#34;http://anghyflawn.github.io/presentation/2016/vowel-backness-and-palatalization-in-irish-scottish-gaelic-study-in-rule-scattering/&#34;&gt;OCP13&lt;/a&gt; and &lt;a href=&#34;http://anghyflawn.github.io/presentation/2016/backness-in-irish-and-scottish-gaelic-short-vowels-phonology-and-or-coarticulation/&#34;&gt;FiSK 2016&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
 <title>Morphology and dialectology: A quantitative approach</title>
 <link>http://anghyflawn.github.io/presentation/2016/rnag2016/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -149,6 +183,17 @@
 &lt;p&gt;For the second question, we use Ward clustering on a correlation matrix to identify which features frequently co-occur in the dialects. The results shed light both on the dialectal divisions of Gaelic and, arguably, on its grammatical structure. For instance, we identify a strong correlation between the absence of lenition in returns such as an cas (nominative), cas beag (nominative) and am fear (genitive). These patterns are not strongly correlated with other cases of lenition absence. We interpret this as suggesting that lenition in these contexts may be driven by a single grammatical mechanism (whose loss underlies this consistent absence of lenition), which is not in action in other lenition contexts.&lt;/p&gt;
 
 &lt;p&gt;Overall, our results show the potential of a quantitative approach to Gaelic dialectology and its promise for a larger study.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>clc ldlt</title>
+<link>http://anghyflawn.github.io/news/2016/clc-ldlt/</link>
+<pubDate>Mon, 13 Jun 2016 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2016/clc-ldlt/</guid>
+<description>&lt;p&gt;We will present our joint work with Máire Ní Chiosáin on vowel backness and consonant palatalization in Irish at two further conferences: the &lt;a href=&#34;https://sites.cardiff.ac.uk/events/view/9th-celtic-linguistics-conference/&#34;&gt;9th Celtic Linguistics Conference&lt;/a&gt; in Cardiff and &lt;a href=&#34;https://www.soas.ac.uk/language-documentation-and-linguistic-theory-2016/&#34;&gt;Language Documentation and Linguistic Theory 5&lt;/a&gt; in London.&lt;/p&gt;
 </description>
 </item>
 
@@ -906,64 +951,6 @@ activists.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;http://anghyflawn.github.io/pdf/viva.presentation.pdf&#34;&gt;Here&lt;/a&gt; is the handout for the short presentation of the thesis&amp;rsquo; main results that I had to do for the viva.&lt;/li&gt;
 &lt;li&gt;A Norwegian doctoral defence is accompanied by a &amp;lsquo;trial lecture&amp;rsquo; (&lt;em&gt;prøveforelesning&lt;/em&gt;) on a topic of the committee&amp;rsquo;s choosing. &lt;a href=&#34;http://anghyflawn.github.io/pdf/viva.lecture.pdf&#34;&gt;Here&lt;/a&gt; is the handout for mine, entitled &lt;em&gt;Progress and problems in language revitalization: The Celtic languages&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Why teach the kids Gaelic if you can teach them Mandarin?</title>
-<link>http://anghyflawn.github.io/blog/2015/why-teach-the-kids-gaelic-if-you-can-teach-them-mandarin/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/blog/2015/why-teach-the-kids-gaelic-if-you-can-teach-them-mandarin/</guid>
-<description>&lt;p&gt;This question, asked by the STV journalist Stephen Daisley, caused a bit of a stooshie on Twitter a couple of days back:&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;en&#34;&gt;&lt;p&gt;Is there a strong, non-heritage case for spending taxpayers&amp;#39; money promoting Gaelic instead of thriving, globally-spoken languages?&lt;/p&gt;&amp;mdash; Stephen Daisley (@JournoStephen) &lt;a href=&#34;https://twitter.com/JournoStephen/status/580333375355011072&#34;&gt;March 24, 2015&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;This is an important debate, and no points for guessing where I stand on this. I&amp;rsquo;m not going to rehearse why I think minority languages are important – check some of the replies for good ideas.&lt;/p&gt;
-
-&lt;p&gt;Instead, I&amp;rsquo;d like to use more than 140 characters to address an aspect of this question that tends to go unmentioned by those who assume teaching Gaelic (or Welsh, or Mordvin, or Sámi…) is a waste of resources given that we should be teaching the kids &amp;lsquo;useful&amp;rsquo; languages like Chinese or Spanish or Brasilian Portuguese, giving them an advantage in this globalized, competitive world.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;rsquo;s the deal: &lt;em&gt;we can&amp;rsquo;t&lt;/em&gt;. And you know what? I say this as someone who actually did Chinese at school. I was very lucky. I went to a very good (state) school (in Russia) that, for historical reasons, offered Japanese and Chinese as second foreign languages to go with English. It was three years of good, intensive teaching. There&amp;rsquo;s an A for Chinese in my school leaving certificate. I could write a moderately long text, use a dictionary to read more complex texts, and say many things.&lt;/p&gt;
-
-&lt;p&gt;And I&amp;rsquo;m grateful for that. Without this experience, I would probably have missed out on reading some wonderful literature, learning about many interesting things, and probably not have the mind-bending realization that I am very curious about how different languages can be that led me to my career. It&amp;rsquo;s a great thing I did it. But you know what? I have forgotten basically all of the actual Chinese. I have not acquired any direct advantage in the job market by virtue of having taken Chinese at school. I don&amp;rsquo;t put it on my CV, because I don&amp;rsquo;t speak any Chinese any more.&lt;/p&gt;
-
-&lt;p&gt;Why is that? The answer is obvious: you can&amp;rsquo;t learn, or keep up, a foreign language – &lt;em&gt;especially&lt;/em&gt; a language like Chinese that presents obvious issues to the learner like the writing system – without repeated exposure. If I had gone on to do a degree in Chinese, it would have been a different matter – more practice, the year abroad, whatever – but I didn&amp;rsquo;t. And guess what – most people who do degrees in Chinese do not come there having done it at school.&lt;/p&gt;
-
-&lt;p&gt;Exposure is the key to language learning. People tend to assume that differences in language ability have their roots in the school experience – but the real reasons are elsewhere. My six-year-old daughter picked up Norwegian at the nursery, and then repeated the trick with English, changing from a Northern Irish to a Scottish accent in the process. With &lt;em&gt;no&lt;/em&gt; formal instruction except a genial person from the council who comes in for an hour most weeks and checks that there&amp;rsquo;s no issue with the EAL pupils not keeping up (there isn&amp;rsquo;t).&lt;/p&gt;
-
-&lt;p&gt;Or consider the case of our European neighbours. Anyone who has been around Europe will tell you that in the Nordic countries or the Netherlands pretty much anyone you run into speaks passable to very good English, whereas in places like France or Germany the chances of having to resort to gestures and grunts are significantly higher. Is this because of the amazingly better teaching at school? Possible – though hard to believe: Norwegians, for instance, are as fond as the next person of complaining about the teaching methods. A more striking difference presents itself on the telly: there is a lot of imported English-language programming everywhere, but where the Nordic countries subtitle it Germany or France tend to resort to dubbing. And with the best will in the world, a smaller country like Denmark will struggle to produce quite enough Danish-language culture to compete effectively with all the English-language delights out there – whereas for German the volume will be much higher. And the more exposure you get, the better the language. (Someone I know in Norway told me how their child struggled with English at school until the child got into Minecraft and started watching all the YouTube videos in English. That&amp;rsquo;s the sort of thing I&amp;rsquo;m talking about.)&lt;/p&gt;
-
-&lt;p&gt;What does this all have to go with Gaelic? At least two things. First, because immersion is better than L2 instruction, then if you care about the children &lt;em&gt;actually learning&lt;/em&gt; the language you should be thinking about Gaelic-medium (resp. Chinese-medium) education. Can we get parents and children sufficiently energized to demand setting up Chinese-medium schools? I doubt it. People send their children to Gaelic-medium education for all sorts of reasons, but part of the reason why it&amp;rsquo;s a plausible proposition is that it&amp;rsquo;s actually possible (if maybe difficult) to get sufficient exposure to the language, both in the school and to a certain extent outside it (for all the flaws, you do have Gaelic books, songs, BBC Alba and all that). Only a very tiny proportion of schoolchildren and their parents will be motivated enough to seek out an equal amount of exposure to Chinese – or, I would guess, even Spanish.&lt;/p&gt;
-
-&lt;p&gt;Second. I hear you say – &amp;lsquo;all right, immersion education is not a goer, but why teach Gaelic as a second language in schools if we could do Chinese instead?&amp;rsquo; Aside from the obvious proposition that we can do both (given the staffing situation, I&amp;rsquo;m going to take a wild guess and say that it&amp;rsquo;ll be a long time before most schools are able to have permanent staff teaching either Gaelic &lt;em&gt;or&lt;/em&gt; Chinese), I&amp;rsquo;d like to return to the point that L2 instruction at school only very rarely produces speakers who are competent enough to use the language in their jobs. The function of language education in school is less about producing good speakers and more about exposing children to foreign cultures and normalizing the idea of multilingualism. The more childern do languages at school the more of them will consider doing a language degree – and many of them &lt;em&gt;will&lt;/em&gt; go on from a Higher in Spanish or Latin to a degree in Japanese – or at least a language course alongside whatever it is they end up doing. In this respect, Chinese does not have a particular advantage over Gaelic (but it might be argued that both have at least some advantage over your average European language like Spanish in that they&amp;rsquo;re more different from English).&lt;/p&gt;
-
-&lt;p&gt;So yes – by all means teach Chinese to the kids. It&amp;rsquo;s a great experience and one that will come them in good stead. Just don&amp;rsquo;t kid yourself: it is very, very difficult to make Chinese at school go much further than any other language – including Gaelic – when it comes to purely practical utility. There are excellent arguments for teaching Chinese – but they apply equally to Gaelic, Mordvin, and Sámi. (Or indeed Scots – but that&amp;rsquo;s another story.)&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>An echoing tone</title>
-<link>http://anghyflawn.github.io/presentation/2015/an-echoing-tone:-pitch-accent-parallels-in-scandinavia-and-scotland/</link>
-<pubDate>Sun, 01 Mar 2015 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/2015/an-echoing-tone:-pitch-accent-parallels-in-scandinavia-and-scotland/</guid>
-<description>&lt;p&gt;This talk was presented at the &lt;a href=&#34;http://www.nordicresearchnetwork.co.uk&#34;&gt;Nordic Research Network 2015 conference&lt;/a&gt; at the &lt;a href=&#34;http://www.ed.ac.uk&#34;&gt;University of Edinburgh&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;In this talk, I consider the origins of pitch accents in North Germanic and in Scottish Gaelic. I argue that in both cases the more plausible hypothesis involves the realization of an identical tonal melody over different temporal domains, particularly by the mechanism of peak delay. This is not a new idea, but I support it by a consideration of the interaction of tone and apocope in Zealand Danish and in Central Scandinavian. The application of this mechanism to Gaelic shows that tonal accents found in places like Lewis are a special case of a system that is widely spread in Ulster and Scotland, with Argyll and East Ulster as an innovating centre &amp;mdash; recourse to contact with Norse is not necessary to explain their appearance. Find the slides below, or download the &lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://anghyflawn.github.io/pdf/nrn2015.handout.pdf&#34;&gt;handout&lt;/a&gt;, which is slightly more detailed.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>nrn</title>
-<link>http://anghyflawn.github.io/news/2015/nrn/</link>
-<pubDate>Wed, 18 Feb 2015 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/news/2015/nrn/</guid>
-<description>&lt;p&gt;I presented &amp;lsquo;An echoing tone: Pitch accent parallels in Scandinavia and Scotland&amp;rsquo; at the &lt;a href=&#34;http://www.nordicresearchnetwork.co.uk&#34;&gt;Nordic Research Network&lt;/a&gt; conference at the University of Edinburgh. &lt;a href=&#34;http://anghyflawn.github.io/presentation/2015/an-echoing-tone:-pitch-accent-parallels-in-scandinavia-and-scotland/&#34;&gt;Get the slides and handout&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
