@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Mon, 13 Jun 2016 21:18:07 BST</updated>
+    <updated>Tue, 14 Jun 2016 19:54:57 BST</updated>
 
 
 
@@ -183,6 +183,17 @@
 &lt;p&gt;For the second question, we use Ward clustering on a correlation matrix to identify which features frequently co-occur in the dialects. The results shed light both on the dialectal divisions of Gaelic and, arguably, on its grammatical structure. For instance, we identify a strong correlation between the absence of lenition in returns such as an cas (nominative), cas beag (nominative) and am fear (genitive). These patterns are not strongly correlated with other cases of lenition absence. We interpret this as suggesting that lenition in these contexts may be driven by a single grammatical mechanism (whose loss underlies this consistent absence of lenition), which is not in action in other lenition contexts.&lt;/p&gt;
 
 &lt;p&gt;Overall, our results show the potential of a quantitative approach to Gaelic dialectology and its promise for a larger study.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>tphs paper</title>
+<link>http://anghyflawn.github.io/news/2016/tphs-paper/</link>
+<pubDate>Tue, 14 Jun 2016 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2016/tphs-paper/</guid>
+<description>&lt;p&gt;My paper &lt;em&gt;Welsh svarabhakti as stem allomorphy&lt;/em&gt; will appear in &lt;em&gt;&lt;a href=&#34;http://www.philsoc.org.uk/transactions.asp&#34;&gt;Transactions of the Philological Society&lt;/a&gt;&lt;/em&gt;. Download the draft version &lt;a href=&#34;http://anghyflawn.github.io/writing/svarabhakti/&#34;&gt;here&lt;/a&gt; or the early view version &lt;a href=&#34;https://dx.doi.org/10.1111/1467-968X.12085&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
@@ -462,20 +473,9 @@
 
 
 <item>
-<title>tphs paper</title>
-<link>http://anghyflawn.github.io/news/2016/tphs-paper/</link>
-<pubDate>Sat, 02 Jan 2016 18:36:19 UTC</pubDate>
-<guid>http://anghyflawn.github.io/news/2016/tphs-paper/</guid>
-<description>&lt;p&gt;My paper &lt;em&gt;Welsh svarabhakti as stem allomorphy&lt;/em&gt; will appear in &lt;em&gt;&lt;a href=&#34;http://www.philsoc.org.uk/transactions.asp&#34;&gt;Transactions of the Philological Society&lt;/a&gt;&lt;/em&gt;. Download the draft version &lt;a href=&#34;http://anghyflawn.github.io/writing/svarabhakti/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
 <title>Welsh svarabhakti as stem allomorphy</title>
 <link>http://anghyflawn.github.io/writing/svarabhakti/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<pubDate>Tue, 14 Jun 2016 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/writing/svarabhakti/</guid>
 <description>&lt;p&gt;This paper develops the analysis in &lt;a href=&#34;http://anghyflawn.github.io/presentation/2012/the-phonological-endgame:-welsh-svarabhakti-revisited/&#34;&gt;this presentation&lt;/a&gt;. I offer an analysis of Welsh epenthesis, whereby a copy of a preceding vowel is inserted to break up final clusters of rising sonority (&lt;em&gt;pwdr&lt;/em&gt; &amp;lsquo;rotten&amp;rsquo; is [pudur] rather than *[pudr]) and deletion in such clusters in polysyllables (&lt;em&gt;perygl&lt;/em&gt; &amp;lsquo;danger&amp;rsquo; is [perɪɡ] rather than *[perɪɡl]). It has previously been argued that both processes can be analysed in a single phonological grammar. I show that this is not tenable for South Welsh dialects, and propose an analysis in terms of part-of-speech-specific allomorphy, formalized as lexical storage of POS-characterized stems rather than roots.&lt;/p&gt;
 </description>
