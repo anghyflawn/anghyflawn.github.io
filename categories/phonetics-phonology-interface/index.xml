@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Tue, 14 Jun 2016 19:54:57 BST</updated>
+    <updated>Mon, 27 Jun 2016 21:11:13 BST</updated>
 
 
 
@@ -167,6 +167,17 @@
 
 
 <item>
+<title>rnag2016</title>
+<link>http://anghyflawn.github.io/news/2016/rnag2016/</link>
+<pubDate>Sat, 25 Jun 2016 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2016/rnag2016/</guid>
+<description>&lt;p&gt;&lt;a href=&#34;http://www.ed.ac.uk/literatures-languages-cultures/celtic-scottish-studies/staff/dr-william-lamb&#34;&gt;Will Lamb&lt;/a&gt; presented the results of our joint work on quantitative approaches to dialect variation in Scottish Gaelic morphology at &lt;a href=&#34;http://www.smo.uhi.ac.uk/en/rannsachadh/rnag2016/&#34;&gt;Rannsachadh na Gàidhlig 2016&lt;/a&gt; at Sabhal Mòr Ostaig. Get the slides and handout &lt;a href=&#34;http://anghyflawn.github.io/presentation/2016/rnag2016/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
 <title>Morphology and dialectology: A quantitative approach</title>
 <link>http://anghyflawn.github.io/presentation/2016/rnag2016/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -183,6 +194,8 @@
 &lt;p&gt;For the second question, we use Ward clustering on a correlation matrix to identify which features frequently co-occur in the dialects. The results shed light both on the dialectal divisions of Gaelic and, arguably, on its grammatical structure. For instance, we identify a strong correlation between the absence of lenition in returns such as an cas (nominative), cas beag (nominative) and am fear (genitive). These patterns are not strongly correlated with other cases of lenition absence. We interpret this as suggesting that lenition in these contexts may be driven by a single grammatical mechanism (whose loss underlies this consistent absence of lenition), which is not in action in other lenition contexts.&lt;/p&gt;
 
 &lt;p&gt;Overall, our results show the potential of a quantitative approach to Gaelic dialectology and its promise for a larger study.&lt;/p&gt;
+
+&lt;p&gt;The handout is slightly more detailed than these slides.&lt;/p&gt;
 </description>
 </item>
 
@@ -263,17 +276,6 @@
 <pubDate>Sat, 14 May 2016 16:58:52 BST</pubDate>
 <guid>http://anghyflawn.github.io/news/2016/leave/</guid>
 <description>&lt;p&gt;In the autumn semester of &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;, I will be on research leave and will not be teaching any courses. See the &lt;a href=&#34;http://anghyflawn.github.io/teaching&#34;&gt;teaching page&lt;/a&gt; for the spring semester plans.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>rnag2016</title>
-<link>http://anghyflawn.github.io/news/2016/rnag2016/</link>
-<pubDate>Sat, 14 May 2016 16:55:45 BST</pubDate>
-<guid>http://anghyflawn.github.io/news/2016/rnag2016/</guid>
-<description>&lt;p&gt;&lt;a href=&#34;http://www.ed.ac.uk/literatures-languages-cultures/celtic-scottish-studies/staff/dr-william-lamb&#34;&gt;Will Lamb&lt;/a&gt; will present the results of &lt;a href=&#34;http://anghyflawn.github.io/presentation/2016/rnag2016/&#34;&gt;our joint work&lt;/a&gt; on quantitative approaches to dialect variation in Scottish Gaelic morphology at &lt;a href=&#34;http://www.smo.uhi.ac.uk/en/rannsachadh/rnag2016/&#34;&gt;Rannsachadh na Gàidhlig 2016&lt;/a&gt; at Sabhal Mòr Ostaig.&lt;/p&gt;
 </description>
 </item>
 
