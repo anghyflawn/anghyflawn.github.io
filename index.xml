@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Wed, 31 Aug 2016 11:19:48 BST</updated>
+    <updated>Fri, 02 Sep 2016 12:02:48 BST</updated>
 
 
 
@@ -195,6 +195,17 @@
 
 
 <item>
+<title>clc ldlt</title>
+<link>http://anghyflawn.github.io/news/2016/clc-ldlt/</link>
+<pubDate>Fri, 02 Sep 2016 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2016/clc-ldlt/</guid>
+<description>&lt;p&gt;Máire Ní Chiosáin presented our work on vowel backness and consonant palatalization in Irish at the &lt;a href=&#34;https://sites.cardiff.ac.uk/events/view/9th-celtic-linguistics-conference/&#34;&gt;9th Celtic Linguistics Conference&lt;/a&gt; in Cardiff (&lt;a href=&#34;http://anghyflawn.github.io/presentation/2016/clc9/&#34;&gt;handout and slides&lt;/a&gt;). We will also present related work at &lt;a href=&#34;https://www.soas.ac.uk/language-documentation-and-linguistic-theory-2016/&#34;&gt;Language Documentation and Linguistic Theory 5&lt;/a&gt; in London.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
 <title>Problems of phonemicization</title>
 <link>http://anghyflawn.github.io/presentation/2016/clc9/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -203,7 +214,7 @@
 
 &lt;p&gt;We reconsider the arguments for the noncontrastive status of the front/back distinction in short vowels in Modern Irish, on the basis of a cross-dialectal acoustic study. Our results show that the distributional generalizations offered in Roibeard Ó Maolalaigh&amp;rsquo;s (1997) summary of the traditional description literature, which suggests the distinction is largely allophonic, are by and large correct.  Our quantitative analysis, which relies on model comparison methods applied to generalized additive mixed models, also shows that front and back vowels form distinct categories in the output of the phonology: models that assume more than one backness category per height achieve better fit than ones assuming a surface &amp;lsquo;vertical&amp;rsquo; system.&lt;/p&gt;
 
-&lt;p&gt;We conclude that front and back vowels form distinct categories that are accessible to the phonological grammar, and offer an interpretation of the facts centred around the notion of &amp;lsquo;quasi-phonemes&amp;rsquo;: phonologically distinct elements that do not stand in contrastive distribution. We argue that this framework allows us to unify the description of the low functional load of the distribution and the analysis of vowel backness alternations in the synchronic grammar. We show that our analysis, which does not predict fully complementary distribution, is superior to previous approaches that relied on &amp;lsquo;vowel separation&amp;rsquo; rules to achieve the same outcome, since it correctly predicts the possibility of exceptions. We argue that the existence and nature of these exceptions fall out of the patterns of lexicalization and rule loss predicted by the life cycle of phonological processes.&lt;/p&gt;
+&lt;p&gt;We conclude that front and back vowels form distinct categories that are accessible to the phonological grammar, and offer an interpretation of the facts centred around the notion of &amp;lsquo;quasi-phonemes&amp;rsquo;: phonologically distinct elements that do not stand in contrastive distribution. We argue that this framework allows us to unify the description of the low functional load of the distribution and the analysis of vowel backness alternations in the synchronic grammar. We show that our analysis, which does not predict fully complementary distribution, is superior to previous approaches that relied on &amp;lsquo;vowel separation&amp;rsquo; rules to achieve the same outcome, since it correctly predicts the possibility of exceptions.&lt;/p&gt;
 
 &lt;p&gt;This work builds on that presented at &lt;a href=&#34;http://anghyflawn.github.io/presentation/2016/vowel-backness-and-palatalization-in-irish-scottish-gaelic-study-in-rule-scattering/&#34;&gt;OCP13&lt;/a&gt; and &lt;a href=&#34;http://anghyflawn.github.io/presentation/2016/backness-in-irish-and-scottish-gaelic-short-vowels-phonology-and-or-coarticulation/&#34;&gt;FiSK 2016&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -293,17 +304,6 @@
 <pubDate>Tue, 14 Jun 2016 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/news/2016/tphs-paper/</guid>
 <description>&lt;p&gt;My paper &lt;em&gt;Welsh svarabhakti as stem allomorphy&lt;/em&gt; will appear in &lt;em&gt;&lt;a href=&#34;http://www.philsoc.org.uk/transactions.asp&#34;&gt;Transactions of the Philological Society&lt;/a&gt;&lt;/em&gt;. Download the draft version &lt;a href=&#34;http://anghyflawn.github.io/writing/svarabhakti/&#34;&gt;here&lt;/a&gt; or the early view version &lt;a href=&#34;https://dx.doi.org/10.1111/1467-968X.12085&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>clc ldlt</title>
-<link>http://anghyflawn.github.io/news/2016/clc-ldlt/</link>
-<pubDate>Mon, 13 Jun 2016 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/news/2016/clc-ldlt/</guid>
-<description>&lt;p&gt;We will present our joint work with Máire Ní Chiosáin on vowel backness and consonant palatalization in Irish at two further conferences: the &lt;a href=&#34;https://sites.cardiff.ac.uk/events/view/9th-celtic-linguistics-conference/&#34;&gt;9th Celtic Linguistics Conference&lt;/a&gt; in Cardiff and &lt;a href=&#34;https://www.soas.ac.uk/language-documentation-and-linguistic-theory-2016/&#34;&gt;Language Documentation and Linguistic Theory 5&lt;/a&gt; in London.&lt;/p&gt;
 </description>
 </item>
 
