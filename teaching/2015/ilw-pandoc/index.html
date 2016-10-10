@@ -19,7 +19,9 @@
     <meta name="twitter:site" content="@anghyflawn" />
     <meta name="twitter:title" content="Getting off the Word standard: Your academic life in plain text" />
     
-    <meta name="twitter:description" content="These notes are from a workshop on pandoc I ran for Innovative Learning Week 2015. What is this about? You can get the PDF file produced with pandoc from the same source as this page here. Some terminology pandoc is the program written by the philosopher John MacFarlane to convert texts between different formats pandoc is able to take files in a variety of formats and produce output in an even bigger variety of formats markdown is a lightweight mark-up language It was originally created to simplify the creation of HTML pages With pandoc, you can use it to produce a variety of outputs You can also use other input formats, but we focus on markdown The most relevant output formats for us are docx, i.e." />
+    <meta name="twitter:description" content="These notes are from a workshop on pandoc I ran for Innovative Learning Week 2015.
+What is this about? You can get the PDF file produced with pandoc from the same source as this page here.
+Some terminology  pandoc is the program written by the philosopher John MacFarlane to convert texts between different formats pandoc is able to take files in a variety of formats and produce output in an even bigger variety of formats markdown is a lightweight mark-up language  It was originally created to simplify the creation of HTML pages With pandoc, you can use it to produce a variety of outputs You can also use other input formats, but we focus on markdown  The most relevant output formats for us are  docx, i." />
     
     <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
     <script src="https://youcanbook.me/resources/scripts/ycbm.modal.js"></script>
@@ -58,11 +60,11 @@
 
 <p>These notes are from a workshop on <code>pandoc</code> I ran for Innovative Learning Week 2015.</p>
 
-<h1 id="what-is-this-about:c5823fcb8a1263e1354441821c807a9f">What is this about?</h1>
+<h1 id="what-is-this-about">What is this about?</h1>
 
 <p>You can get the PDF file produced with <code>pandoc</code> from the same source as this page <a href="/pdf/pandoc.notes.pdf">here</a>.</p>
 
-<h2 id="some-terminology:c5823fcb8a1263e1354441821c807a9f">Some terminology</h2>
+<h2 id="some-terminology">Some terminology</h2>
 
 <ul>
 <li><code>pandoc</code> is the program written by the philosopher John MacFarlane to convert texts between different formats</li>
@@ -122,7 +124,7 @@
 <li>This is how these notes were made</li>
 </ul>
 
-<h2 id="why-pandoc:c5823fcb8a1263e1354441821c807a9f">Why <code>pandoc</code>?</h2>
+<h2 id="why-pandoc">Why <code>pandoc</code>?</h2>
 
 <ul>
 <li>Flexibility of output (unlike LaTeX)</li>
@@ -146,9 +148,9 @@
 <li>Basic support for TeX constructs (notably mathematical symbols)</li>
 </ul>
 
-<h1 id="getting-started:c5823fcb8a1263e1354441821c807a9f">Getting started</h1>
+<h1 id="getting-started">Getting started</h1>
 
-<h2 id="the-pandoc-workflow:c5823fcb8a1263e1354441821c807a9f">The <code>pandoc</code> workflow</h2>
+<h2 id="the-pandoc-workflow">The <code>pandoc</code> workflow</h2>
 
 <ul>
 <li>For an example of a Markdown source file, grab the source of these notes <a href="/md/pandoc.notes.md">here</a> (and the picture <a href="http://anghyflawn.github.io/img/kiparsky.png">here</a>)</li>
@@ -178,7 +180,7 @@
 </blockquote>
 
 <ul>
-<li><p>This will run <code>pandoc</code> on the file <code>notes.md</code>. The file&rsquo;s <em>extension</em> (<code>.md</code> is conventionally used for <code>markdown</code> files) tells <code>pandoc</code> that it is written in <code>markdown</code> and that you want Word output.<sup class="footnote-ref" id="fnref:c5823fcb8a1263e1354441821c807a9f:1"><a rel="footnote" href="#fn:c5823fcb8a1263e1354441821c807a9f:1">1</a></sup></p></li>
+<li><p>This will run <code>pandoc</code> on the file <code>notes.md</code>. The file&rsquo;s <em>extension</em> (<code>.md</code> is conventionally used for <code>markdown</code> files) tells <code>pandoc</code> that it is written in <code>markdown</code> and that you want Word output.<sup class="footnote-ref" id="fnref:1"><a rel="footnote" href="#fn:1">1</a></sup></p></li>
 
 <li><p>Now try this (this requires a LaTeX system to be installed):</p></li>
 </ul>
@@ -192,7 +194,7 @@
 <li>Rather than retype the commands every time, try pressing the up arrow! It will bring back your previous commands, which you can also edit as required</li>
 </ul>
 
-<h2 id="markdown-cheat-sheet:c5823fcb8a1263e1354441821c807a9f">Markdown cheat sheet</h2>
+<h2 id="markdown-cheat-sheet">Markdown cheat sheet</h2>
 
 <p>This gives the main syntax constructs for Markdown as extended by <code>pandoc</code></p>
 
@@ -231,6 +233,8 @@ This will be ~subscript~ and this will be ^superscript^
 
 You can also have footnotes.[^1]
 
+[^1]: Again, the precise number does not matter, as long as it's the same in the references and the note itself. You can intersperse the footnotes with the text or put them all the end, they will come out as footnotes anyway.
+
 (@ex) This will be a numbered example
 
 You can refer to it in the text by writing (@ex) again --- as long as
@@ -239,7 +243,7 @@ will be automatic
 
 </code></pre>
 
-<h1 id="command-line-options:c5823fcb8a1263e1354441821c807a9f">Command-line options</h1>
+<h1 id="command-line-options">Command-line options</h1>
 
 <ul>
 <li>There are other options that you can pass to <code>pandoc</code> that influence what it does</li>
@@ -251,7 +255,7 @@ will be automatic
 <li>These are equivalent</li>
 </ul>
 
-<h2 id="some-useful-options:c5823fcb8a1263e1354441821c807a9f">Some useful options</h2>
+<h2 id="some-useful-options">Some useful options</h2>
 
 <ul>
 <li><code>-o FILE / --output=FILE</code>: the name of the file you want to produce. <code>pandoc</code> tries to guess the output format using the extension. If you do not pass this option, <code>pandoc</code> will just spit out the result of the conversion back into the terminal</li>
@@ -278,7 +282,7 @@ will be automatic
 <li><code>--latex-engine=pdflatex|lualatex|xelatex</code>: see below</li>
 </ul>
 
-<h2 id="nice-fonts-and-ipa-in-pdf-output:c5823fcb8a1263e1354441821c807a9f">Nice fonts (and IPA) in PDF output</h2>
+<h2 id="nice-fonts-and-ipa-in-pdf-output">Nice fonts (and IPA) in PDF output</h2>
 
 <ul>
 <li>By default, <code>pandoc</code> creates PDF output using <code>pdflatex</code> &mdash; a very stable version of LaTeX that is, however, quite archaic in its handling of fonts</li>
@@ -290,7 +294,7 @@ will be automatic
 <li>Nice alternatives with IPA support include <a href="http://junicode.sourceforge.net">Junicode</a>, <a href="http://scholarsfonts.net/cardofnt.html">Cardo</a>, <a href="http://scripts.sil.org/gentium">Gentium</a>, and <a href="http://www.brill.com/about/brill-fonts">Brill</a></li>
 </ul>
 
-<h2 id="more-uses-for-variables:c5823fcb8a1263e1354441821c807a9f">More uses for variables</h2>
+<h2 id="more-uses-for-variables">More uses for variables</h2>
 
 <ul>
 <li>One frequent complaint about non-customized LaTeX output is the large amount of white space on the page compared to the Word defaults</li>
@@ -319,7 +323,7 @@ will be automatic
 <li>You can also put in more complicated metadata in the header: consult the <code>pandoc</code> manual for that.</li>
 </ul>
 
-<h1 id="bibliography:c5823fcb8a1263e1354441821c807a9f">Bibliography</h1>
+<h1 id="bibliography">Bibliography</h1>
 
 <ul>
 <li><code>pandoc</code> can also do automated tracking of references and citations</li>
@@ -339,7 +343,7 @@ will be automatic
 </ul></li>
 </ul>
 
-<h2 id="the-database:c5823fcb8a1263e1354441821c807a9f">The database</h2>
+<h2 id="the-database">The database</h2>
 
 <ul>
 <li>An entry in a BibTeX database looks something like this:</li>
@@ -381,7 +385,7 @@ will be automatic
 </ul></li>
 </ul>
 
-<h2 id="the-style:c5823fcb8a1263e1354441821c807a9f">The style</h2>
+<h2 id="the-style">The style</h2>
 
 <ul>
 <li>In output formats other than LaTeX, <code>pandoc</code> uses the <code>.csl</code> format to describe citation styles</li>
@@ -389,7 +393,7 @@ will be automatic
 <li>Setting up automated bibliographies with LaTeX output requires a bit of fiddling about with LaTeX\ itself: shoot me an email if you need help with that</li>
 </ul>
 
-<h2 id="putting-it-all-together:c5823fcb8a1263e1354441821c807a9f">Putting it all together</h2>
+<h2 id="putting-it-all-together">Putting it all together</h2>
 
 <ul>
 <li>This will create a <code>.docx</code> file with a bibliography styled using the Unified Style Sheet:</li>
@@ -404,15 +408,15 @@ will be automatic
 <li>When creating a bibliography in a Word file, remember to end the file with a header at the appropriate level saying something like <code># References #</code></li>
 </ul>
 
-<h1 id="going-further:c5823fcb8a1263e1354441821c807a9f">Going further</h1>
+<h1 id="going-further">Going further</h1>
 
-<h2 id="getting-help:c5823fcb8a1263e1354441821c807a9f">Getting help</h2>
+<h2 id="getting-help">Getting help</h2>
 
 <ul>
 <li>The <a href="http://johnmacfarlane.net/pandoc/README.html">pandoc manual</a> is excellent</li>
 </ul>
 
-<h2 id="more-things-to-do:c5823fcb8a1263e1354441821c807a9f">More things to do?</h2>
+<h2 id="more-things-to-do">More things to do?</h2>
 
 <ul>
 <li>If you&rsquo;re willing to get your hands (a bit) dirty with TeX, you can fiddle around with templates and set up bibliographies in LaTeX output</li>
@@ -425,8 +429,8 @@ will be automatic
 <hr />
 
 <ol>
-<li id="fn:c5823fcb8a1263e1354441821c807a9f:1">Again, the precise number does not matter, as long as it&rsquo;s the same in the references and the note itself. You can intersperse the footnotes with the text or put them all the end, they will come out as footnotes anyway.
- <a class="footnote-return" href="#fnref:c5823fcb8a1263e1354441821c807a9f:1"><sup>[return]</sup></a></li>
+<li id="fn:1">The input and output formats can also be forced by passing relevant options explicitly. A fuller version of the same run would be <code>pandoc notes.md -f markdown -t docx -o notes.docx</code>
+ <a class="footnote-return" href="#fnref:1"><sup>[return]</sup></a></li>
 </ol>
 </div>
 

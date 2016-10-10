@@ -19,7 +19,8 @@
     <meta name="twitter:site" content="@anghyflawn" />
     <meta name="twitter:title" content="Teaching slides with pandoc and reveal.js" />
     
-    <meta name="twitter:description" content="This past semester I taught a new course entitled Phonological Theory. Apart from the content, I decided to experiment a bit with the technical details, specifically using pandoc and reveal.js to do the slides and lecture notes. I&rsquo;m a pretty consistent LaTeX user, so to the extent I do slides I do them in beamer. There is nothing inherently problematic with this, and AUCTeX saves typing a lot of the boilerplate, but writing two–three presentations per week is still time-consuming." />
+    <meta name="twitter:description" content="This past semester I taught a new course entitled Phonological Theory. Apart from the content, I decided to experiment a bit with the technical details, specifically using pandoc and reveal.js to do the slides and lecture notes.
+I&rsquo;m a pretty consistent LaTeX user, so to the extent I do slides I do them in beamer. There is nothing inherently problematic with this, and AUCTeX saves typing a lot of the boilerplate, but writing two–three presentations per week is still time-consuming." />
     
     <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
     <script src="https://youcanbook.me/resources/scripts/ycbm.modal.js"></script>
@@ -90,7 +91,7 @@
 
 <p>Anyway, I&rsquo;ve now taught the entire course using this workflow, and overall I think I was quite happy with it. The workflow carries over nicely and although there were things that took a bit more work than they would have done if I were using LaTeX I think I felt at least as productive when using pandoc.</p>
 
-<h2 id="the-good:b7cb6333f64fce53cd91cff316b43a20">The good</h2>
+<h2 id="the-good">The good</h2>
 
 <p>Writing markdown is of course a piece of cake. I&rsquo;m using Emacs with <a href="http://jblevins.org/projects/markdown-mode/">markdown-mode</a> and <a href="https://joostkremers.github.io/pandoc-mode/">pandoc-mode</a>, which makes it even easier. Consider the task of indenting a sublist, e.g. making a list item (and all its subitems) into a subitem of something else. In markdown-mode, it&rsquo;s a matter of a single keystroke, while in LaTeX it&rsquo;d involve a whole new environment and possibly other adjustments.</p>
 
@@ -100,7 +101,7 @@
 
 <p>I really liked Reveal.js. It looks pretty nice (though see below) and it has some nifty features. Some are perhaps more pretty than really useful, but I though the overview mode and the speaker notes were especially handy (the speaker notes in particular are nice when you don&rsquo;t want to put something on the slide but still have it in the notes).</p>
 
-<h2 id="the-less-good-and-some-tips:b7cb6333f64fce53cd91cff316b43a20">The less good, and some tips</h2>
+<h2 id="the-less-good-and-some-tips">The less good, and some tips</h2>
 
 <p>I did run into some issues that needed resolving, although partly they involve just shaking off the LaTeX mentality. An obvious issue is the lack of access to LaTeX macros. Pandoc has support for a subset of TeX maths in non-TeX output, so it is possible to use things like <code>$\rightarrow$</code> or <code>$\emptyset$</code> (which you need a lot in a course like that), but getting a feature matrix (for which you&rsquo;d use some version of <code>array</code>) is more difficult. Still, it&rsquo;s not as crippling as Word, so that&rsquo;s an advantage already. I didn&rsquo;t really run into a case where there was no way to write what I wanted to write, but I did end up typing out <code>$\rightarrow$</code> a bit more often than I would have wished. (I should probably just have assigned some keystrokes to the right symbols, but I never got round to it.)</p>
 
@@ -126,7 +127,7 @@
 
 <p>A final thing that is not so much a problem as a consequence of lack of time for my part is that changing the look and feel of reveal.js beyond the stock themes requires passable CSS skills, and I definitely did <em>not</em> have time for that.</p>
 
-<h2 id="conclusion:b7cb6333f64fce53cd91cff316b43a20">Conclusion</h2>
+<h2 id="conclusion">Conclusion</h2>
 
 <p>I found the pandoc + reveal.js route to be a good alternative to beamer for teaching. I think I&rsquo;ll stick to LaTeX/<code>beamer</code> rather than pandoc for serious paper-writing, since the loss of the LaTeX power is only partially compensated by the relative ease of markdown, but for teaching I would recommend this alternative.</p>
 
