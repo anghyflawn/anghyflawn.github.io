@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Sat, 05 Nov 2016 21:08:21 GMT</updated>
+    <updated>Thu, 17 Nov 2016 14:53:30 GMT</updated>
 
 
 
@@ -208,11 +208,24 @@
 
 
 <item>
+<title>The phonologization of redundancy</title>
+<link>http://anghyflawn.github.io/writing/welsh-vowels-phonologization/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/welsh-vowels-phonologization/</guid>
+<description>&lt;p&gt;‘Phonologization’ is a process whereby a phonetic phenomenon enters the phonological grammar and becomes conceptualized as the result of categorical manipulation of phonological symbols. I analyse the phonologization of a predictable phonological pattern in Welsh, with particular attention to identifying criteria for whether phonologization has occurred. I argue for a model where phonologization experiences bottom-up and top-down biases. From the bottom up, there is pressure to phonologize phenomena with a categorical distribution; from the top down, there exist formal constraints on featural specification. I focus on the requirement for featural specifications to obey the Contrastivist Hypothesis, which denies that redundant features can be involved in phonological computation, in the context of a framework with emergent features. I suggest that the Contrastivist Hypothesis acts as a useful check for emergent-feature theories, whilst independent phonologization criteria provide contrastivist approaches with a more solid conceptual underpinning.&lt;/p&gt;
+
+&lt;p&gt;You can also download the &lt;a href=&#34;http://anghyflawn.github.io/misc/welsh-phonologization-paper.nb.html&#34;&gt;R notebook with the graphics and scripts from the paper&lt;/a&gt;&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
 <title>welsh paper</title>
 <link>http://anghyflawn.github.io/news/2016/welsh-paper/</link>
 <pubDate>Sun, 06 Nov 2016 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/news/2016/welsh-paper/</guid>
-<description>&lt;p&gt;Two recent manuscripts on Welsh are now listed: one on &lt;a href=&#34;http://anghyflawn.github.io/writing/welsh-vowels-phonologization/&#34;&gt;quantity-quality interactions in Welsh vowels in substance-free phonology&lt;/a&gt; (submitted to &lt;em&gt;Phonology&lt;/em&gt;) and one on &lt;a href=&#34;http://anghyflawn.github.io/writing/calediad/&#34;&gt;the so-called &amp;lsquo;provection&amp;rsquo; of south-eastern Welsh and its relevance for feature theory&lt;/a&gt; (to appear in a volume with OUP)&lt;/p&gt;
+<description>&lt;p&gt;Two recent manuscripts on Welsh are now listed: one on &lt;a href=&#34;http://anghyflawn.github.io/writing/welsh-vowels-phonologization/&#34;&gt;quantity-quality interactions in Welsh vowels in substance-free phonology&lt;/a&gt; (to appear in &lt;em&gt;Phonology&lt;/em&gt;) and one on &lt;a href=&#34;http://anghyflawn.github.io/writing/calediad/&#34;&gt;the so-called &amp;lsquo;provection&amp;rsquo; of south-eastern Welsh and its relevance for feature theory&lt;/a&gt; (to appear in a volume with OUP)&lt;/p&gt;
 </description>
 </item>
 
@@ -235,21 +248,6 @@
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/writing/nrn-proceedings/</guid>
 <description>&lt;p&gt;The origin of North Germanic tonal accents is a question with a long history and a range of available answers. Although the basic facts are not in dispute, the accents&amp;rsquo; historical development remains controversial. In this paper, I aim to contribute an argument in favour of the view that tonal accent arose in post-Viking Age North Germanic in connection with changes in syllable count (Oftedal 1952; Elstad 1980; Bye 2004, 2011; Hognestad 2012). I will argue that the genesis of &amp;lsquo;accent 1&amp;rsquo; and &amp;lsquo;accent 2&amp;rsquo; as a grammaticalization of syllable count need not be seen as an isolated, unique phenomenon in the history of the North Germanic languages: instead, it is a recurring event, as demonstrated by the genesis of new &amp;lsquo;tonal accent&amp;rsquo; oppositions triggered by apocope in at least three further separate instances in Central Scandinavia, Zealand, and East Slesvig. I also adduce further typological parallels from West Germanic and from Goidelic Celtic.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>The phonologization of redundancy</title>
-<link>http://anghyflawn.github.io/writing/welsh-vowels-phonologization/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/welsh-vowels-phonologization/</guid>
-<description>&lt;p&gt;‘Phonologization’ is a process whereby a phonetic phenomenon enters the phonological grammar and becomes conceptualized as the result of categorical manipulation of phonological symbols. I analyse the phonologization of a predictable phonological pattern in Welsh, with particular attention to identifying criteria for whether phonologization has occurred. I argue for a model where phonologization experiences bottom-up and top-down biases. From the bottom up, there is pressure to phonologize phenomena with a categorical distribution; from the top down, there exist formal constraints on featural specification. I focus on the requirement for featural specifications to obey the Contrastivist Hypothesis, which denies that redundant features can be involved in phonological computation, in the context of a framework with emergent features. I suggest that the Contrastivist Hypothesis acts as a useful check for emergent-feature theories, whilst independent phonologization criteria provide contrastivist approaches with a more solid conceptual underpinning.&lt;/p&gt;
-
-&lt;p&gt;This paper has been resubmitted to &lt;em&gt;Phonology&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;You can also download the &lt;a href=&#34;http://anghyflawn.github.io/misc/welsh-phonologization-paper.nb.html&#34;&gt;R notebook with the graphics and scripts from the paper&lt;/a&gt;&lt;/p&gt;
 </description>
 </item>
 
