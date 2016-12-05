@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Sat, 03 Dec 2016 09:12:04 GMT</updated>
+    <updated>Mon, 05 Dec 2016 14:56:52 GMT</updated>
 
 
 
@@ -178,6 +178,17 @@
 
 
 <item>
+<title>pihph</title>
+<link>http://anghyflawn.github.io/news/2016/pihph/</link>
+<pubDate>Mon, 05 Dec 2016 14:43:38 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2016/pihph/</guid>
+<description>&lt;p&gt;We have launched a new journal called &lt;em&gt;Papers in Historical Phonology&lt;/em&gt;. Read more about it, and the first articles, &lt;a href=&#34;http://journals.ed.ac.uk/pihph&#34;&gt;here&lt;/a&gt;. I have contributed a &lt;a href=&#34;http://anghyflawn.github.io/writing/rule-scattering-vowel-length-northern-romance/&#34;&gt;paper&lt;/a&gt; on rule scattering and vowel length in Northern Romance &amp;mdash; comments welcome!&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
 <title>tionol presentation</title>
 <link>http://anghyflawn.github.io/news/2016/tionol-presentation/</link>
 <pubDate>Sat, 03 Dec 2016 00:00:00 UTC</pubDate>
@@ -200,6 +211,19 @@
 &lt;p&gt;We report the results of a project aiming to disentangle the categorical and gradient aspects of this coarticulation using instrumental methods. Previous studies  show that for low vowels the effect of consonant palatalization on the quality of adjacent vowels cannot be described as simply a &amp;lsquo;glide&amp;rsquo; &amp;mdash; the consonant exerts an influence throughout the duration of the vowel &amp;mdash; and that consonant-vowel coarticulation in Irish is gradient. In this paper, we focus on a controlled acoustic study of &lt;em&gt;short&lt;/em&gt; vowels, claimed in the literature to undergo both categorical (complementary distribution) and gradient (fine-grained allophony) coarticulation.&lt;/p&gt;
 
 &lt;p&gt;We present the results of fitting a variety of generalized additive mixed models  to the acoustic data, and show that both kinds of effects co-exist in Modern Irish: a categorical rule enforcing (near-)allophony and gradient consonant-vowel coarticulation. We argue that this is a theoretically interesting example of the phenomenon of &amp;lsquo;rule scattering&amp;rsquo;, which would have been difficult to establish with confidence solely on the basis of traditional descriptions. We also discuss some of the challenges associated with gathering balanced data (necessary for quantitative analysis) using reading tasks from a minority language, even one with a well-established tradition of literacy.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Rule scattering and vowel length in Northern Romance</title>
+<link>http://anghyflawn.github.io/writing/rule-scattering-vowel-length-northern-romance/</link>
+<pubDate>Wed, 30 Nov 2016 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/rule-scattering-vowel-length-northern-romance/</guid>
+<description>&lt;p&gt;In this paper I reconsider the synchronic status of distinctive vowel length and vowel lengthening and shortening rules in Northern Romance varieties, in light of Loporcaro’s (2015) wide-ranging study of vowel quantity in numerous Romance dialects. Loporcaro (2015) argues that these varieties possess distinctive, phonemic vowel length, and mostly do not have synchronic rules that produce surface long vowels, contrary to many previous analyses of the relevant patterns. In this paper, I argue instead that that lexical vowel length distinctions coexist, in some Northern Romance varieties, with productive phonological rules manipulating vowel quantity. This coexistence is best understood with recourse to the life cycle of phonological processes, and in particular the notion of rule scattering (Bermúdez-Otero 2015). This approach not only allows us to reach an adequate interpretation of the basic facts but also makes further predictions regarding the status of quantity-manipulating rules, which also turn out to be correct, providing further support for the theory of the life cycle.&lt;/p&gt;
+
+&lt;p&gt;Comments are welcome! Please use the &lt;a href=&#34;http://dx.doi.org/10.2218/pihph.1.2016.1700&#34;&gt;PiHPh comments facility&lt;/a&gt; for this purpose.&lt;/p&gt;
 </description>
 </item>
 
@@ -950,77 +974,6 @@ members of the British nation.&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;Or more precisely Welsh-language nationalism.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Phonological Theory</title>
-<link>http://anghyflawn.github.io/teaching/2015/phonological-theory/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2015/phonological-theory/</guid>
-<description>&lt;p&gt;This course introduces students to a range of important topics in (generative) phonological theory and to phonological data analysis. On the theoretical side, we will cover the following topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Basics of phonological theory&lt;/li&gt;
-&lt;li&gt;Feature theory&lt;/li&gt;
-&lt;li&gt;Derivations, underlying representations, rules&lt;/li&gt;
-&lt;li&gt;Process interaction and rule ordering&lt;/li&gt;
-&lt;li&gt;Phonological typology&lt;/li&gt;
-&lt;li&gt;Suprasegmental phonology: syllable structure, stress, tone&lt;/li&gt;
-&lt;li&gt;Advanced feature theory: feature geometry, unary features&lt;/li&gt;
-&lt;li&gt;Constraints in phonology: well-formedness conditions, templates, conspiracies, the &amp;lsquo;duplication problem&amp;rsquo;&lt;/li&gt;
-&lt;li&gt;Explanation in phonology&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Throughout the course, there is a strong emphasis on building data analysis and problem solving skills. Click &lt;a href=&#34;http://anghyflawn.github.io/teaching/2014/phonological-theory/&#34;&gt;here&lt;/a&gt; for last year&amp;rsquo;s course handbook.&lt;/p&gt;
-
-&lt;p&gt;Following this course, students will be able to progress to advanced study of phonological theory. In &lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;, we will &lt;em&gt;not&lt;/em&gt; be offering LASC10089 Current Issues in Phonology, but it is planned that this will run in the second semester of &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;. Get in touch early with prospective supervisors if you&amp;rsquo;re thinking about an Honours dissertation in phonology in &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;, because it is likely you&amp;rsquo;ll need to do some summer reading. Conversely, LASC10046 Historical Phonology &lt;em&gt;is&lt;/em&gt; running this year, but not next year. Plan accordingly.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Teaching language in schools: beyond foreign languages</title>
-<link>http://anghyflawn.github.io/blog/2015/language-in-schools/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/blog/2015/language-in-schools/</guid>
-<description>&lt;p&gt;&lt;a href=&#34;http://www.scotsman.com/news/insight-why-scots-face-a-language-barrier-1-3853275&#34;&gt;An excellent piece&lt;/a&gt; by Dani Garavelli in Scotland on Sunday on the state of modern foreign languages in Scottish schools includes a familiar litany of failings: a relatively early end of compulsory language study, staffing issues, teaching methods, differences between schools with more opportunities for pupils from more privileged backgrounds, and so on, and on, and on. One of the points strikes a bit closer to home for me:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;One [factor] is that our children are taught very little English
-grammar. This means that when it comes to studying another language
-they have to learn concepts such as tenses and verb conjugation from
-scratch. “When they come into our class, they have never heard terms
-like past participle,” says one ML teacher.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;This is, I submit, a big problem, not just as far as modern languages go. The science of language should be taught in schools, as part of the English curriculum, for foreign languages, and just more generally.&lt;/p&gt;
-
-&lt;p&gt;I can quite vividly recall the shock I experienced when, as a PhD student, I tutored an Introduction to Linguistics course. Well, it wasn&amp;rsquo;t even that: at that time, the &lt;a href=&#34;http://www.uit.no&#34;&gt;University of Tromsø&lt;/a&gt;&amp;rsquo;s courses were set up in a way where all students in the &amp;lsquo;Faculty of Humanities&amp;rsquo; (this basically meant Norwegian language &amp;amp; literature, foreign languages &amp;amp; literatures, and a few other allied subjects) had to do something called &lt;em&gt;examen facultatum&lt;/em&gt;, which was a brief introduction to all the subjects taught at the faculty, including linguistics. So the students were a mix of language-y and non-language-y types. In my first two or three tutorials I had the distinct feeling I was running full speed into a brick wall. It wasn&amp;rsquo;t that they were lazy, or weren&amp;rsquo;t trying hard, or anything like that &amp;mdash; clearly not &amp;mdash; but I was getting nowhere. And then it hit me: the very idea that the structure of language is an object of analysis was just foreign to them. This was very new to me. I went to school in Russia, where (at least way back when) some versions of phonetic, morphological and syntactic analysis are taught (and assessed) from a very early stage and throughout the school years. The way it&amp;rsquo;s done can be, and often is, dry and unenlightening, but the very concept of analysing language is not something that&amp;rsquo;s alien and new when you start university.&lt;/p&gt;
-
-&lt;p&gt;Things seem to be quite different in Norway &amp;mdash; and, it would seem, in much of the English-speaking world as well. And that is a problem. Teaching the science of language can help with a lot, and it should not be too difficult to find interesting angles. People are fascinated by language and want to know more. Not giving them the tools and knowledge to master what can be mastered in this area is selling them short. And it can, in fact, be harmful.&lt;/p&gt;
-
-&lt;p&gt;For one thing, people&amp;rsquo;s &lt;a href=&#34;http://languagelog.ldc.upenn.edu/nll/?p=1357&#34;&gt;nervous cluelessness&lt;/a&gt; about language provides fertile ground to all sorts of prejudice. Consider &lt;a href=&#34;http://www.english.ox.ac.uk/about-faculty/faculty-members/language-and-linguistics/cameron-professor-deborah&#34;&gt;Deborah Cameron&lt;/a&gt;&amp;rsquo;s admirable &lt;a href=&#34;https://debuk.wordpress.com/2015/07/05/just-dont-do-it/&#34;&gt;recent&lt;/a&gt; &lt;a href=&#34;https://debuk.wordpress.com/2015/07/26/a-response-to-naomi-wolf/&#34;&gt;crusade&lt;/a&gt; &lt;a href=&#34;https://debuk.wordpress.com/2015/08/03/how-to-write-a-bullshit-article-about-womens-language/&#34;&gt;against&lt;/a&gt; bullshit attitudes to women&amp;rsquo;s language &amp;mdash; really just using a vaguely-plausibly-sounding factoid to clamp down on women. Of course it&amp;rsquo;s not plausible to teach schoolchildren about the intricacies of creaky voice &amp;mdash; but it &lt;em&gt;is&lt;/em&gt; (or should be) plausible to equip them with the knowledge that language is not something policed from above but a real phenomenon that can be analysed and talked about in scientific terms.&lt;/p&gt;
-
-&lt;p&gt;A similar story can be told with non-standard forms of speech. People tend to dismiss them as &amp;lsquo;slang&amp;rsquo; or &amp;lsquo;incorrect&amp;rsquo; versions of General English, but there is a lot of teaching that could be done on the basis of comparing pupils&amp;rsquo; native varieties with General English. It should not be too difficult to show the difference between &amp;lsquo;accent&amp;rsquo; and &amp;lsquo;dialect&amp;rsquo; using a localized version of the anecdote recounted by Joseph Wright in his &lt;a href=&#34;https://archive.org/stream/englishdialectgr00wriguoft#page/n9/mode/2up&#34;&gt;&lt;em&gt;English dialect grammar&lt;/em&gt;&lt;/a&gt; (which I lifted, of course, from John Wells&amp;rsquo; &lt;em&gt;Accents of English&lt;/em&gt;): a local pronunciation of phrase in General English (in Wright, &lt;em&gt;the roads are dirty&lt;/em&gt; with a characteristic Northern English [oː] vowel) is &lt;em&gt;not&lt;/em&gt; standard &amp;mdash; it is General English with an &amp;lsquo;accent&amp;rsquo; &amp;mdash; but it is of course appreciably different from the &amp;lsquo;dialect&amp;rsquo; version, which Wells tentatively respells as &lt;em&gt;&amp;rsquo;t reeads is mucky&lt;/em&gt;, with phonetic (&lt;em&gt;reeads&lt;/em&gt;), lexical (&lt;em&gt;&amp;rsquo;t&lt;/em&gt;, &lt;em&gt;mucky&lt;/em&gt;) and syntactic (with &lt;em&gt;is&lt;/em&gt; following the &lt;a href=&#34;https://en.wikipedia.org/wiki/Northern_subject_rule&#34;&gt;Northern Subject Rule&lt;/a&gt;) differences from General English. This is all eminently teachable, and in-depth attention to people&amp;rsquo;s native varieties can show that these varieties are just as &amp;lsquo;logical&amp;rsquo; and &amp;lsquo;rule-bound&amp;rsquo; as General English (just look at the work of linguists like &lt;a href=&#34;http://www.ulster.ac.uk/staff/am.henry.html&#34;&gt;Alison Henry&lt;/a&gt; or &lt;a href=&#34;http://www.gla.ac.uk/schools/critical/staff/jennifersmith/&#34;&gt;Jennifer Smith&lt;/a&gt; to see how interesting and important these non-standard varieties can be). Instead, what we all too often get is disparagement of non-standard varieties, often with more or less overt class prejudice thrown into the mix &amp;mdash; in Scotland, it&amp;rsquo;s the slang spoken by the neds of the schemes. Or do a quick search for &amp;lsquo;fleg&amp;rsquo; or &amp;lsquo;say nahim&amp;rsquo; &amp;mdash; representations of typical lower-status pronunciations in Ulster English &amp;mdash; to see how they&amp;rsquo;re used as markers of working-class speech to satirize (overwhelmingly working-class) protesters. It might be less acceptable to say they&amp;rsquo;re trash from the estate, but to point fingers at their language counts as funny. (This often comes packaged with the oh-so-funny observation that Ulster Scots is English with a Ballymena accent &amp;mdash; although a test along the lines of Wright&amp;rsquo;s anecdote can quickly disavow this.)&lt;/p&gt;
-
-&lt;p&gt;And on the other side of this barricade you will often find well-meaning but rather ill-informed defences along the lines of &amp;lsquo;Scots is a separate language because it&amp;rsquo;s a mixture of English and Scandinavian&amp;rsquo;. This reflects people&amp;rsquo;s interest &amp;mdash; but also the limitations of trying to find stuff out for oneself without access to the necessary background knowledge about how languages develop and change, and why &amp;lsquo;language mixture&amp;rsquo; is such an imprecise description of what&amp;rsquo;s going on here (or indeed why this kind of appeal shouldn&amp;rsquo;t be necessary to justify people&amp;rsquo;s ways of speaking). And this is the kind of stuff that should not be all that difficult to teach in schools. In Norway, schoolchildren learn about the precise differences between Norwegian dialects and about the history of the language, with a taste of Old Norse thrown into the mix, and there&amp;rsquo;s no logical reason something similar couldn&amp;rsquo;t be done here.&lt;/p&gt;
-
-&lt;p&gt;So learning about language can help us with learning about all sorts of ways in which it functions in society, about its different forms and shapes, and about the connection between language and history. This is perhaps unsurprising: people are just interested in these sorts of things. But the thing is that it is really not helpful to talk about these uses of language &lt;em&gt;without actually understanding how the structure of language works&lt;/em&gt;. This is where I pivot back to where I started &amp;mdash; the teaching of (English) grammar. Yes, teaching grammar can help with the teaching of foreign languages (I can still remember the epiphany I had when one of my linguistics lecturers used syntactic theory to explain in one sentence when to use the strong and weak forms of German adjectives &amp;mdash; something that I otherwise tried and pretty miserably failed to memorize). But you need to understand how language works before you move on to what it does &amp;mdash; it&amp;rsquo;s the door to all of these other things. If you&amp;rsquo;re going to explain the deal with the Northern Subject Rule, you rely on knowing what number or agreement are. If you&amp;rsquo;re going to talk about creaky voice (all right, &amp;lsquo;vocal fry&amp;rsquo;), you have to have some idea of what vocal folds are. And this means this kind of stuff is useful. It doesn&amp;rsquo;t have to be a throwback to the supposedly good old days of drumming what an adverb is into impressionable young minds &amp;mdash; indeed it &lt;em&gt;must&lt;/em&gt; be something different, something that allows the learner to play around and see &lt;em&gt;how&lt;/em&gt; things work, show that learning about language can be fun. There are ways of doing this &amp;mdash; language is one big puzzle, and putting the pieces together doesn&amp;rsquo;t have to be a matter of arduous rote learning. Have a look at the &lt;a href=&#34;http://www.uklo.org&#34;&gt;UK Lingustics Olympiad&lt;/a&gt; for examples of fun language puzzles &amp;mdash; this kind of thing can be done on the basis of English material as well.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;The bottom line? Knowledge about language is important. It&amp;rsquo;s important to help children learn foreign languages better, it&amp;rsquo;s important for them to understand why things in Standard English are the way they are, and it&amp;rsquo;s also important as a base for understanding the kinds of stuff that laypeople care about most, all the accents and dialects, &amp;lsquo;men&amp;rsquo;s&amp;rsquo; and &amp;lsquo;women&amp;rsquo;s&amp;rsquo; language, language history sort of thing. It requires a concerted effort. Knowledge about language isn&amp;rsquo;t widespread, because people assume that knowing how to speak (especially how to speak &amp;lsquo;properly&amp;rsquo;) is sufficient. It&amp;rsquo;s not part of the curriculum and it&amp;rsquo;s not part of teacher training. It&amp;rsquo;s a shame. Here in Scotland we have (false modesty aside) some cracking linguistics and English language departments, and we have students doing some absolutely brilliant work (including work on accents, dialects and social varieties of English, in Scotland and elsewhere), because they think it&amp;rsquo;s interesting, because they care about it, but (hopefully) most of all because it&amp;rsquo;s fun. So it can be done, and there&amp;rsquo;s no reason why it couldn&amp;rsquo;t be done more. We do really owe it to the children.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;Incidentally, &lt;a href=&#34;http://www.uklo.org/about/educational-rationale&#34;&gt;this page&lt;/a&gt; on the UKLO website makes much the same points I do here, so it&amp;rsquo;s not just me.
  &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
