@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://anghyflawn.github.io/</loc>
-    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://anghyflawn.github.io/presentation/2017/variation-north-germanic-preaspiration/</loc>
     <lastmod>2017-02-25T00:00:00+00:00</lastmod>
   </url>
@@ -754,6 +749,251 @@
   <url>
     <loc>http://anghyflawn.github.io/presentation/2005/nenets/</loc>
     <lastmod>2005-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/blog/</loc>
+    <lastmod>2016-09-28T10:24:48+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/breton/</loc>
+    <lastmod>2015-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/celtic/</loc>
+    <lastmod>2016-10-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/contrast-in-phonology/</loc>
+    <lastmod>2016-11-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/dialectology/</loc>
+    <lastmod>2016-06-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/english/</loc>
+    <lastmod>2013-08-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/feature-theory/</loc>
+    <lastmod>2016-11-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/fula/</loc>
+    <lastmod>2008-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/historical-phonology/</loc>
+    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/initial-consonant-mutations/</loc>
+    <lastmod>2016-10-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/irish/</loc>
+    <lastmod>2016-12-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/language-contact/</loc>
+    <lastmod>2016-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/language-documentation/</loc>
+    <lastmod>2016-12-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/laryngeal-phonology/</loc>
+    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/mende/</loc>
+    <lastmod>2008-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/morphology/</loc>
+    <lastmod>2016-06-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/news/</loc>
+    <lastmod>2017-01-03T20:43:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/nivkh/</loc>
+    <lastmod>2015-12-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/north-germanic/</loc>
+    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/optimality-theory/</loc>
+    <lastmod>2016-10-02T21:01:45+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/page/</loc>
+    <lastmod>2015-04-20T23:06:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/papers/</loc>
+    <lastmod>2016-11-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/</loc>
+    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/phonetics-phonology-interface/</loc>
+    <lastmod>2016-12-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/phonological-theory/</loc>
+    <lastmod>2016-10-02T21:01:45+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/phonology-morphology-interface/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/presentation/</loc>
+    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/prosodic-structure/</loc>
+    <lastmod>2016-11-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/prosody/</loc>
+    <lastmod>2015-07-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/romance/</loc>
+    <lastmod>2016-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/russian/</loc>
+    <lastmod>2012-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/scots/</loc>
+    <lastmod>2016-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/scottish-gaelic/</loc>
+    <lastmod>2016-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/substance-free-phonology/</loc>
+    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/syntax/</loc>
+    <lastmod>2007-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/s%C3%A1mi/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/teaching/</loc>
+    <lastmod>2017-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/ulster-english/</loc>
+    <lastmod>2014-05-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/welsh/</loc>
+    <lastmod>2016-11-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/writing/</loc>
+    <lastmod>2016-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
