@@ -8,7 +8,7 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <channel>
-      <title>Morphology in Pavel Iosad </title>
+      <title>Books in Pavel Iosad </title>
 	  <itunes:author>Pavel Iosad</itunes:author>
 	  <itunes:owner>
 	  <itunes:name>Pavel Iosad</itunes:name>
@@ -21,11 +21,11 @@
 	  <itunes:explicit>no</itunes:explicit>
 	  <itunes:image href="http://anghyflawn.github.io/img/avatar2.jpg" />
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://anghyflawn.github.io/categories/morphology/index.xml</link>
+    <link>http://anghyflawn.github.io/categories/books/index.xml</link>
     <language>en-gb</language>
     
     
-    <updated>Sat, 04 Mar 2017 22:20:56 GMT</updated>
+    <updated>Sat, 04 Mar 2017 22:20:55 GMT</updated>
 
 
 
