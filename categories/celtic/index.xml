@@ -25,7 +25,27 @@
     <language>en-gb</language>
     
     
-    <updated>Sat, 04 Mar 2017 22:46:33 GMT</updated>
+    <updated>Thu, 13 Apr 2017 14:34:40 BST</updated>
+
+
+
+<item>
+<title>Substance Free Phonology</title>
+<link>http://anghyflawn.github.io/categories/substance-free-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/substance-free-phonology/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Presentations</title>
+<link>http://anghyflawn.github.io/presentation/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/</guid>
+<description></description>
+</item>
 
 
 
@@ -40,11 +60,61 @@
 
 
 <item>
+<title>North Germanic</title>
+<link>http://anghyflawn.github.io/categories/north-germanic/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/north-germanic/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Laryngeal Phonology</title>
+<link>http://anghyflawn.github.io/categories/laryngeal-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/laryngeal-phonology/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Microvariation in laryngeal realism</title>
+<link>http://anghyflawn.github.io/presentation/2017/25mfm/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2017/25mfm/</guid>
+<description>&lt;p&gt;In this paper I consider the range of microvariation in the expression of laryngeal contrast, focusing on (voiceless) preaspiration in North Germanic. On the basis of an acoustic study, I suggest that both the presence of preaspiration and the diversity of its realization have been under-reported in existing descriptions. This, in turn, has important consequences for our understanding of the phonology of laryngeal contrast. Specifically, I argue that the observed variation in laryngeal phenomena is incompatible with a version of &amp;lsquo;laryngeal realism&amp;rsquo; that produces inferences about phonological specifications on the basis of phonetic implementation; instead, I advocate a more abstract approach that gives primacy to phonological behaviour.&lt;/p&gt;
+
+&lt;p&gt;As discussed by Pétur Helgason (2002), whilst preaspiration and sonorant devoicing before stops in Insular North Germanic have long been recognized by the scholarship, their distribution and behaviour in mainland varieties have been less well understood. In the case of Norwegian, for example, traditional descriptions designate preaspiration as characteristic of Jæren and Gudbrandsdalen, with only passing references for other dialects. However, Pétur Helgason has shown preaspiration to be pervasive in other North Germanic varieties. More recently preaspiration has also been described for the Norwegian of Trøndelag. Moreover, it appears possible that this picture may be partially due to under-reporting in traditional auditory descriptions: thus, Tengesdal (2015), in an instrumental study, shows that Oftedal&amp;rsquo;s (1947) claim that preaspiration of fortis stops is absent in Dalane Norwegian is likely incorrect.&lt;/p&gt;
+
+&lt;p&gt;I report a comparative acoustic study of preaspiration in two regions of Norway: the south-west, parts of which (Jæren, parts of Dalane) are traditionally considered preaspirating areas, and the north, where preaspiration has not been consistently described before. I show that preaspiration is  attested in (at least some) northern dialects, at rates not dissimilar to those in the west. More importantly, the data show a more granular diversity than is implied by broad dialectal labels.&lt;/p&gt;
+
+&lt;p&gt;This microvariation in the expression of laryngeal contrast is important for our understanding of the relationship between phonological specification and phonetic substance. In particular, I suggest that the precise phonetic interpretation of a distinction between (say) fortis and lenis stops can be much more diverse than can be provided for by a theory deriving these differences from phonological specification, such as some versions of laryngeal realism.&lt;/p&gt;
+
+&lt;p&gt;A further argument in favour of the primacy of phonological behaviour is provided by [ʁ]-devoicing in south-western dialects. I argue that is both phonetically categorical (in contrast to lateral and nasal devoicing) and phonological, being triggered only by |fortis| stops. Crucially, lenis stops do not trigger any sonorant devoicing, even gradiently, despite being categorically voiceless (rather than &amp;lsquo;passively voiced&amp;rsquo;) themselves. This coarse-grained phonological behaviour is consistent with a substance-free privative analysis where obstruents are specified as |fortis| vs. ∅, but not with one that attempts to capture the phonetic behaviour of lenis stops in phonological representations.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
 <title>News</title>
 <link>http://anghyflawn.github.io/news/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<pubDate>Thu, 13 Apr 2017 14:15:53 BST</pubDate>
 <guid>http://anghyflawn.github.io/news/</guid>
 <description></description>
+</item>
+
+
+
+<item>
+<title>25mfm</title>
+<link>http://anghyflawn.github.io/news/2017/25mfm/</link>
+<pubDate>Thu, 13 Apr 2017 14:15:53 BST</pubDate>
+<guid>http://anghyflawn.github.io/news/2017/25mfm/</guid>
+<description>&lt;p&gt;I will present &lt;a href=&#34;http://anghyflawn.github.io/presentation/2017/25mfm/&#34;&gt;&lt;em&gt;Microvariation in laryngeal realism: Preaspiration in North Germanic&lt;/em&gt;&lt;/a&gt; at the &lt;a href=&#34;http://www.lel.ed.ac.uk/mfm/25mfm.html&#34;&gt;25th Manchester Phonology Meeting&lt;/a&gt;&lt;/p&gt;
+</description>
 </item>
 
 
@@ -160,46 +230,6 @@
 
 &lt;p&gt;Since the published version does not have an acknowledgements facility, I would like to thank here two anonymous reviewers, Peadar Ó Muircheartaigh, Máire Ní Chiosáin, and Christopher Lewin for valuable criticisms and suggestions.&lt;/p&gt;
 </description>
-</item>
-
-
-
-<item>
-<title>Substance Free Phonology</title>
-<link>http://anghyflawn.github.io/categories/substance-free-phonology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/categories/substance-free-phonology/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Presentations</title>
-<link>http://anghyflawn.github.io/presentation/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>North Germanic</title>
-<link>http://anghyflawn.github.io/categories/north-germanic/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/categories/north-germanic/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Laryngeal Phonology</title>
-<link>http://anghyflawn.github.io/categories/laryngeal-phonology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/categories/laryngeal-phonology/</guid>
-<description></description>
 </item>
 
 
@@ -732,29 +762,6 @@ phonology.&lt;/p&gt;
 <pubDate>Mon, 03 Oct 2016 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/news/2016/lautgeographie-talk/</guid>
 <description>&lt;p&gt;I presented &lt;a href=&#34;http://anghyflawn.github.io/presentation/2016/linguistic-circle/&#34;&gt;&lt;em&gt;The northwest European phonological area: New approaches to an old problem&lt;/em&gt;&lt;/a&gt; at Edinburgh&amp;rsquo;s local Linguistic Circle. I very much welcome any feedback on this work.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Optimality Theory</title>
-<link>http://anghyflawn.github.io/categories/optimality-theory/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/categories/optimality-theory/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Optimality Theory: Motivations and perspectives</title>
-<link>http://anghyflawn.github.io/writing/ot-handbook/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/ot-handbook/</guid>
-<description>&lt;p&gt;This chapter provides an introduction to the basic mechanisms of Optimality Theory in phonology and to the most important motivations cited for its widespread adoption. I also review some of the empirical and conceptual challenges it has faced. Ultimately, I suggest, many of these challenges can be traced back to the fact that while OT grew out of a general dissatisfaction with some aspects of late-1980s rule-based phonology, it was adopted as a general theory of phonological computation without an explicit statement of the division of labour vis-à-vis other components of linguistic knowledge with which it interacts. I conclude the chapter by a discussion of ways in which OT still remains relevant even within a changed phonological landscape.&lt;/p&gt;
-
-&lt;p&gt;The chapter is ©Routledge&lt;/p&gt;
 </description>
 </item>
 

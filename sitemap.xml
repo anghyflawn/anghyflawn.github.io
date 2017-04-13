@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://anghyflawn.github.io/presentation/2017/25mfm/</loc>
+    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/news/2017/25mfm/</loc>
+    <lastmod>2017-04-13T14:15:53+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://anghyflawn.github.io/news/2017/book/</loc>
     <lastmod>2017-03-04T21:30:16+00:00</lastmod>
   </url>
@@ -852,7 +862,7 @@
   
   <url>
     <loc>http://anghyflawn.github.io/categories/laryngeal-phonology/</loc>
-    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -870,7 +880,7 @@
   
   <url>
     <loc>http://anghyflawn.github.io/news/</loc>
-    <lastmod>2017-03-04T21:30:16+00:00</lastmod>
+    <lastmod>2017-04-13T14:15:53+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -882,7 +892,7 @@
   
   <url>
     <loc>http://anghyflawn.github.io/categories/north-germanic/</loc>
-    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -906,7 +916,7 @@
   
   <url>
     <loc>http://anghyflawn.github.io/</loc>
-    <lastmod>2017-03-04T21:30:16+00:00</lastmod>
+    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -930,7 +940,7 @@
   
   <url>
     <loc>http://anghyflawn.github.io/presentation/</loc>
-    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -972,7 +982,7 @@
   
   <url>
     <loc>http://anghyflawn.github.io/categories/substance-free-phonology/</loc>
-    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
