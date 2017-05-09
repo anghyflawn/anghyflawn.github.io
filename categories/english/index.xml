@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Thu, 13 Apr 2017 14:38:43 BST</updated>
+    <updated>Tue, 09 May 2017 10:17:16 BST</updated>
 
 
 
@@ -101,9 +101,93 @@
 <item>
 <title>News</title>
 <link>http://anghyflawn.github.io/news/</link>
-<pubDate>Thu, 13 Apr 2017 14:15:53 BST</pubDate>
+<pubDate>Tue, 09 May 2017 10:15:15 BST</pubDate>
 <guid>http://anghyflawn.github.io/news/</guid>
 <description></description>
+</item>
+
+
+
+<item>
+<title>phonology paper</title>
+<link>http://anghyflawn.github.io/news/2017/phonology-paper/</link>
+<pubDate>Tue, 09 May 2017 10:15:15 BST</pubDate>
+<guid>http://anghyflawn.github.io/news/2017/phonology-paper/</guid>
+<description>&lt;p&gt;My paper &lt;em&gt;The phonologization of redundancy: Length and quality in Welsh vowels&lt;/em&gt; has appeared in the latest issue of &lt;em&gt;Phonology&lt;/em&gt;. See the published version &lt;a href=&#34;https://doi.org/10.1017/S0952675717000057&#34;&gt;here&lt;/a&gt; or the author manuscript &lt;a href=&#34;http://anghyflawn.github.io/writing/welsh-vowels-phonologization/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Writings</title>
+<link>http://anghyflawn.github.io/writing/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Welsh</title>
+<link>http://anghyflawn.github.io/categories/welsh/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/welsh/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Phonetics Phonology Interface</title>
+<link>http://anghyflawn.github.io/categories/phonetics-phonology-interface/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/phonetics-phonology-interface/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Papers</title>
+<link>http://anghyflawn.github.io/categories/papers/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/papers/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Feature Theory</title>
+<link>http://anghyflawn.github.io/categories/feature-theory/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/feature-theory/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Contrast In Phonology</title>
+<link>http://anghyflawn.github.io/categories/contrast-in-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/contrast-in-phonology/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>The phonologization of redundancy</title>
+<link>http://anghyflawn.github.io/writing/welsh-vowels-phonologization/</link>
+<pubDate>Fri, 05 May 2017 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/welsh-vowels-phonologization/</guid>
+<description>&lt;p&gt;‘Phonologization’ is a process whereby a phonetic phenomenon enters the phonological grammar and becomes conceptualized as the result of categorical manipulation of phonological symbols. I analyse the phonologization of a predictable phonological pattern in Welsh, with particular attention to identifying criteria for whether phonologization has occurred. I argue for a model where phonologization experiences bottom-up and top-down biases. From the bottom up, there is pressure to phonologize phenomena with a categorical distribution; from the top down, there exist formal constraints on featural specification. I focus on the requirement for featural specifications to obey the Contrastivist Hypothesis, which denies that redundant features can be involved in phonological computation, in the context of a framework with emergent features. I suggest that the Contrastivist Hypothesis acts as a useful check for emergent-feature theories, whilst independent phonologization criteria provide contrastivist approaches with a more solid conceptual underpinning.&lt;/p&gt;
+
+&lt;p&gt;You can also download the R notebook with the graphics and scripts from the paper and the data itself &lt;a href=&#34;https://doi.org//10.17605/OSF.IO/HD3BZ&#34;&gt;here at Open Science Framework&lt;/a&gt;&lt;/p&gt;
+</description>
 </item>
 
 
@@ -126,16 +210,6 @@
 <guid>http://anghyflawn.github.io/news/2017/book/</guid>
 <description>&lt;p&gt;My book &lt;em&gt;A substance-free framework for phonology: An analysis of the Breton dialect of Bothoa&lt;/em&gt; is now out with Edinburgh University Press. Read more &lt;a href=&#34;http://anghyflawn.github.io/writing/breton-book/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-</item>
-
-
-
-<item>
-<title>Writings</title>
-<link>http://anghyflawn.github.io/writing/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/</guid>
-<description></description>
 </item>
 
 
@@ -268,16 +342,6 @@
 <link>http://anghyflawn.github.io/categories/phonological-theory/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/categories/phonological-theory/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Phonetics Phonology Interface</title>
-<link>http://anghyflawn.github.io/categories/phonetics-phonology-interface/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/categories/phonetics-phonology-interface/</guid>
 <description></description>
 </item>
 
@@ -635,59 +699,6 @@ phonology.&lt;/p&gt;
 
 
 <item>
-<title>Welsh</title>
-<link>http://anghyflawn.github.io/categories/welsh/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/categories/welsh/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Papers</title>
-<link>http://anghyflawn.github.io/categories/papers/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/categories/papers/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Feature Theory</title>
-<link>http://anghyflawn.github.io/categories/feature-theory/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/categories/feature-theory/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Contrast In Phonology</title>
-<link>http://anghyflawn.github.io/categories/contrast-in-phonology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/categories/contrast-in-phonology/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>The phonologization of redundancy</title>
-<link>http://anghyflawn.github.io/writing/welsh-vowels-phonologization/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/welsh-vowels-phonologization/</guid>
-<description>&lt;p&gt;‘Phonologization’ is a process whereby a phonetic phenomenon enters the phonological grammar and becomes conceptualized as the result of categorical manipulation of phonological symbols. I analyse the phonologization of a predictable phonological pattern in Welsh, with particular attention to identifying criteria for whether phonologization has occurred. I argue for a model where phonologization experiences bottom-up and top-down biases. From the bottom up, there is pressure to phonologize phenomena with a categorical distribution; from the top down, there exist formal constraints on featural specification. I focus on the requirement for featural specifications to obey the Contrastivist Hypothesis, which denies that redundant features can be involved in phonological computation, in the context of a framework with emergent features. I suggest that the Contrastivist Hypothesis acts as a useful check for emergent-feature theories, whilst independent phonologization criteria provide contrastivist approaches with a more solid conceptual underpinning.&lt;/p&gt;
-
-&lt;p&gt;You can also download the R notebook with the graphics and scripts from the paper and the data itself &lt;a href=&#34;https://doi.org//10.17605/OSF.IO/HD3BZ&#34;&gt;here at Open Science Framework&lt;/a&gt;&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
 <title>welsh paper</title>
 <link>http://anghyflawn.github.io/news/2016/welsh-paper/</link>
 <pubDate>Sun, 06 Nov 2016 00:00:00 UTC</pubDate>
@@ -751,17 +762,6 @@ phonology.&lt;/p&gt;
 <pubDate>Wed, 05 Oct 2016 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/news/2016/ot-handbook/</guid>
 <description>&lt;p&gt;My chapter on Optimality Theory will appear in the &lt;em&gt;Routledge handbook of phonology&lt;/em&gt; (edited by S. J. Hannahs and Anna Bosch). Download the draft &lt;a href=&#34;http://anghyflawn.github.io/writing/ot-handbook/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>lautgeographie talk</title>
-<link>http://anghyflawn.github.io/news/2016/lautgeographie-talk/</link>
-<pubDate>Mon, 03 Oct 2016 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/news/2016/lautgeographie-talk/</guid>
-<description>&lt;p&gt;I presented &lt;a href=&#34;http://anghyflawn.github.io/presentation/2016/linguistic-circle/&#34;&gt;&lt;em&gt;The northwest European phonological area: New approaches to an old problem&lt;/em&gt;&lt;/a&gt; at Edinburgh&amp;rsquo;s local Linguistic Circle. I very much welcome any feedback on this work.&lt;/p&gt;
 </description>
 </item>
 
