@@ -4,64 +4,60 @@ https://keybase.io/piosad
 
 I hereby claim:
 
-  * I am an admin of https://anghyflawn.net
+  * I am an admin of https://www.anghyflawn.net
   * I am piosad (https://keybase.io/piosad) on keybase.
-  * I have a public key with fingerprint AE49 2D1C B628 F1BA 9FF4  232B 0D60 2C64 93E2 D98B
+  * I have a public key with fingerprint 33F0 ED77 F450 2D56 A393  1F4D 9E32 3316 9F45 29D3
 
 To do so, I am signing this object:
 
 {
     "body": {
-        "client": {
-            "name": "keybase.io node.js client",
-            "version": "0.8.25"
-        },
         "key": {
-            "eldest_kid": "0101663e7b3f3035b134343b5084c838ae5f2ea96699bd4344b3e02d6c9fc41f8c1a0a",
-            "fingerprint": "ae492d1cb628f1ba9ff4232b0d602c6493e2d98b",
+            "eldest_kid": "0101bc8e98cbb093344819e3fa294e3919aeb53568a4cc88b10886412b50131109a30a",
+            "fingerprint": "33f0ed77f4502d56a3931f4d9e3233169f4529d3",
             "host": "keybase.io",
-            "key_id": "0d602c6493e2d98b",
-            "kid": "0101663e7b3f3035b134343b5084c838ae5f2ea96699bd4344b3e02d6c9fc41f8c1a0a",
+            "key_id": "9e3233169f4529d3",
+            "kid": "0101bc8e98cbb093344819e3fa294e3919aeb53568a4cc88b10886412b50131109a30a",
             "uid": "0e4793ff18448a206db2f6268397c919",
             "username": "piosad"
         },
         "service": {
-            "hostname": "anghyflawn.net",
+            "hostname": "www.anghyflawn.net",
             "protocol": "https:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1467971818,
+    "ctime": 1495634215,
     "expire_in": 157680000,
-    "prev": "e558e19d46f116a37a8b16dd32e41a1bc4b979fdbaf897d925e3944143619c4b",
-    "seqno": 3,
+    "prev": "c56df768fa7169fcc203487c6d69379b8e5c3b377024e1849b7ea6ae18232612",
+    "seqno": 5,
     "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: GnuPG/MacGPG2 v2
-Comment: GPGTools - https://gpgtools.org
+Version: Keybase OpenPGP v2.0.70
+Comment: https://keybase.io/crypto
 
-owGtUltsDUEYPnVrtRUk9EVJLS/l5GRnd3Z254hLI1LEvS4JD8fMzszp6rF7urtK
-SV2C0JAgTWkJGiQS0SYuT8QtIeJWXtx5aEtC3EnwQGpH60G8mnmZzPf93//9l92D
-+sbycwYtj7OGzsc7cm69prElG9a8WadQj9UqyXWKnXG4G8qXS1ZyJalU8VpKAp5w
-vBLXYzyxIijp5cSVGu4HjudGLDVhJTRDqYtLvozmGcaDMFXlMIkCFSCkc5PqQld1
-gwIdRpcaqgVtS7cIN4TGCUYIY8oiCFKdqxpDNhY2BMKyAVFJlFA4bpr7Wd+RFhXC
-IdYYsCnSLAEowUJATdeoypCq2QhinWsMWzQKrPSC8K9ilN9OUz32/uX/Z9+reuQ4
-NLEuBLAgtIimIkY1gTRk6di0McCSGHC/t/FZxwsIky2N/mocm8u2yjp6ceKmK2tF
-hqx2Ey6X08j6XujZXibCKsMwGyRlbFibleTVnKZ6ZVLUcVnUx575NfUMEERUO3Sk
-MIDIxCawgBVX+Jqs4/OUIxmGiSw1OjIRr4k0uWFYHGAGkQAAEd0kFgWIMV3jEBBA
-bUixiQWjRFjYZFgzuI4hBFBHAEegIiurdj0lqUc+STqSDJy0S8JVPlfq6nOK+8Vy
-8mMD+veRGxrLHzjkz9o+OprbPb38dfOCInT1WOHO0qav0w7b5imuFc/qPLjvfOz0
-jekt3tXktB/GjP13i2NvRlTsnfSl4MrWDcuHVz64fafpWefCB5cy9d/KiDHUb53Z
-NqwIdTZvfPl0T177nMLBQ5YlduXljuxoLl97ZNTaa0cyDeLkhe6RU9pjY1pPlg91
-aPAurXQVJPsv7vp2w3dnf75uTr4c/3F2QuGZrryHF0syBeNetNcfetqxff6rquru
-ts3fW7fsS7a9Te05d7/CedXor3deznj7rHST+HSvaGJL2fu6j+M3fyjrmFsNRx//
-+OJnbsWK/LHPH7PWpYvatu0ed/hE36lb2bXcm/MOpEsbbTusfv9kSXfLLw==
-=51TG
+yMIsAnicrZJbSBRRGMd3u7eRdJGiMqyBMGGzOXPmdraEQruARIUohdJ2ZubMOqUz
+6+6sq5gPZRjkg5iZiHgpBAu7YC8ShVhqRkoXkqISQ6keVAosLVKkM2ZvPXZezjnf
+9///zvd9nO6VC10edwMH1zXuS3zl7ntYF3Ed31aZUMwollbE+IqZ02RuI7kaCdv+
+04bG+BgWsEBRZYJkVVFYBCHPywARqGMO8QQigDBRBCiIMuZVVZYVwMqyyANOEVgA
+AWARhixmvIxumAESCoYM06ZYCHWWaJKk8wLLaYKIIYJA5zVK5iAEIqIJDmmQGnOs
+sOOgxSk4TJIMi8boxT9X3j/0/7nuyB8c4SUEdR3IlIM5VtQUThc5UYZIUinMEYZJ
+yMR5hKqDhhXGGlPiZWiswFCJM1anj/l8NBpNwmYgp0jPxVEzySQ29QdDlm2pVi7N
+59h2MOxz/HZRcM5AFP88yq8YpkZnSR0FJBQ2LJPxAapUbcNhAx4JIuQ5IHgZUhg0
+QsRvOApBEmWWLucdUkCRqiBqOg3qWHLGp6ocC3lZUkVNRFBCikwEFSpQkliOJ7Rt
+pEgEi5geOciJgGOc5vJNi/HRl2wcoMiwETCxHQkRpuRRZ/Yil9vjWrJ4gfPHXJ7l
+q/7+vA596UyMWSH9qnpSOPqhGU/60c0do7Ot3tQu6ZSn1r2741Py+jL8+Mt4Z2/L
+8OfE8smP9T9mphLG28ouDjTs9K/uLcwcj4sM7BpLuVbqTh+uwt3e8gMX3M2b+jK/
+Hd1bfeTORGnLnmPNI/lN6e+Xbp8NFJZkuHsnKsbih10/T6aNybENyZdvpN6b6oFX
+Gp7El13venxwtrc6Jr+p/vaLu+nVG/m3Gd3T/g1ZsVdfZ9d0KY0JNbXwwZuvKUPn
+jeKXm595st71ZbTl1UpmWv6ys2Vtavua54eKB+NWjKRopZcON9WcOHf/qjIjtov9
+Wfuf2n3Lp+sqtx73rv3u3dLa0w+EW4Nnhn4Dk/xDUg==
+=fbRU
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
