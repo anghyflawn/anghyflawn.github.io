@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+      <title>Categories in Pavel Iosad </title>
+	  <itunes:author>Pavel Iosad</itunes:author>
+	  <itunes:owner>
+	  <itunes:name>Pavel Iosad</itunes:name>
+	  <itunes:email>pavel.iosad@ed.ac.uk</itunes:email>
+	  </itunes:owner>
+	  <itunes:category text="Education">
+	  <itunes:category text="Higher Education"/>
+	  </itunes:category>
+	  <itunes:keywords>Linguistics, phonology, historical linguistics, pdf</itunes:keywords>
+	  <itunes:explicit>no</itunes:explicit>
+	  <itunes:image href="http://anghyflawn.github.io/img/avatar2.jpg" />
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://anghyflawn.github.io/categories/</link>
+    <language>en-gb</language>
+    
+    
+    <updated>Mon, 05 Jun 2017 21:18:26 BST</updated>
+
+
+
+<item>
+<title>Welsh</title>
+<link>http://anghyflawn.github.io/categories/welsh/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/welsh/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Presentations</title>
+<link>http://anghyflawn.github.io/presentation/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Pavel Iosad</title>
+<link>http://anghyflawn.github.io/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Historical Phonology</title>
+<link>http://anghyflawn.github.io/categories/historical-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/historical-phonology/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Celtic</title>
+<link>http://anghyflawn.github.io/categories/celtic/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/celtic/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Breton</title>
+<link>http://anghyflawn.github.io/categories/breton/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/breton/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Bridging the gap</title>
+<link>http://anghyflawn.github.io/presentation/2017/dias/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2017/dias/</guid>
+<description>&lt;p&gt;I focus on reconstructing the development of vowel quality distinctions
+in Brythonic and their connection with the history of vowel quantity
+between the establishment of the ‘standard’ Brythonic penultimate-stress
+system and the present day. In the received picture of Modern Welsh
+phonology, ‘tense’ quality of non-low vowels ([i u e o]) is strongly
+associated with length and, conversely, ‘lax’ quality ([ɪ ʊ ɛ ɔ]) is
+associated with shortness, at least in contrastive, i.e.stressed,
+position. The history of this pattern, however, remains understudied.
+Some important questions that remain to be addressed are as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;When and how did contrastive length in penultimate syllables
+(characteristic of South Welsh, Cornish and most of Breton) become
+established? Is it original (and thus preserved following the stress
+shift), or does it represent a secondary lengthening of vowels that
+had been shortened in unstressed position? What is the position of
+North Welsh with its exclusively short vowels in stressed penults
+(cf. Wmffre 2003)?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Similarly, does the tense/lax quality of vowels in Welsh reflect
+tense/lax quality before the stress shift, or does it represent a
+secondary readjustment? What is the relationship between the pattern
+in stressed penultimates and in final unstressed syllables (where at
+least high vowels seem to show an original length conditioning, at
+least in Welsh)?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Is the complementary pattern of vowel and consonant length in
+penultimate syllables, which is practically universal in Brythonic,
+original, as implied by e.g.the classic account by Falc’hun (1951),
+or is it a secondary development following stress shift?&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I discuss the problems raised for these issues by traditional sources,
+notably the focus on taxonomic phonemic transcription and the frequent
+sidelining of consonant duration. I outline what kinds of studies are
+needed to mitigate these problems. I also draw attention to some
+evidence for the existence of dialects in Mid Wales that may lack a
+tenseness distinction in at least some stressed syllables, and discuss
+whether such systems can be accepted as evidence for the historically
+secondary status of tenseness in penultimate stressed syllables.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>News</title>
+<link>http://anghyflawn.github.io/news/</link>
+<pubDate>Mon, 05 Jun 2017 21:05:57 BST</pubDate>
+<guid>http://anghyflawn.github.io/news/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>dias</title>
+<link>http://anghyflawn.github.io/news/2017/dias/</link>
+<pubDate>Mon, 05 Jun 2017 21:05:57 BST</pubDate>
+<guid>http://anghyflawn.github.io/news/2017/dias/</guid>
+<description>&lt;p&gt;I will present some fledgling work on the history of the tense/lax distinction and quality in Brythonic vowels at the &lt;a href=&#34;https://www.dias.ie/2017/05/17/symposium-new-approaches-to-brittonic-historical-linguistics/&#34;&gt;New Approaches to Brittonic Historical Linguistics&lt;/a&gt; symposium at the Dublin Institute of Advanced Studies. Read more &lt;a href=&#34;http://anghyflawn.github.io/presentation/2017/dias/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>25mfm</title>
+<link>http://anghyflawn.github.io/news/2017/25mfm/</link>
+<pubDate>Sun, 28 May 2017 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2017/25mfm/</guid>
+<description>&lt;p&gt;I presented &lt;em&gt;Microvariation in laryngeal realism: Preaspiration in North Germanic&lt;/em&gt; at the &lt;a href=&#34;http://www.lel.ed.ac.uk/mfm/25mfm.html&#34;&gt;25th Manchester Phonology Meeting&lt;/a&gt;. &lt;a href=&#34;http://anghyflawn.github.io/presentation/2017/25mfm/&#34;&gt;Get the slides and handout here&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Substance Free Phonology</title>
+<link>http://anghyflawn.github.io/categories/substance-free-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/substance-free-phonology/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>North Germanic</title>
+<link>http://anghyflawn.github.io/categories/north-germanic/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/north-germanic/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Laryngeal Phonology</title>
+<link>http://anghyflawn.github.io/categories/laryngeal-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/laryngeal-phonology/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Microvariation in laryngeal realism</title>
+<link>http://anghyflawn.github.io/presentation/2017/25mfm/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2017/25mfm/</guid>
+<description>&lt;p&gt;In this paper I consider the range of microvariation in the expression of laryngeal contrast, focusing on (voiceless) preaspiration in North Germanic. On the basis of an acoustic study, I suggest that both the presence of preaspiration and the diversity of its realization have been under-reported in existing descriptions. This, in turn, has important consequences for our understanding of the phonology of laryngeal contrast. Specifically, I argue that the observed variation in laryngeal phenomena is incompatible with a version of &amp;lsquo;laryngeal realism&amp;rsquo; that produces inferences about phonological specifications on the basis of phonetic implementation; instead, I advocate a more abstract approach that gives primacy to phonological behaviour.&lt;/p&gt;
+
+&lt;p&gt;As discussed by Pétur Helgason (2002), whilst preaspiration and sonorant devoicing before stops in Insular North Germanic have long been recognized by the scholarship, their distribution and behaviour in mainland varieties have been less well understood. In the case of Norwegian, for example, traditional descriptions designate preaspiration as characteristic of Jæren and Gudbrandsdalen, with only passing references for other dialects. However, Pétur Helgason has shown preaspiration to be pervasive in other North Germanic varieties. More recently preaspiration has also been described for the Norwegian of Trøndelag. Moreover, it appears possible that this picture may be partially due to under-reporting in traditional auditory descriptions: thus, Tengesdal (2015), in an instrumental study, shows that Oftedal&amp;rsquo;s (1947) claim that preaspiration of fortis stops is absent in Dalane Norwegian is likely incorrect.&lt;/p&gt;
+
+&lt;p&gt;I report a comparative acoustic study of preaspiration in two regions of Norway: the south-west, parts of which (Jæren, parts of Dalane) are traditionally considered preaspirating areas, and the north, where preaspiration has not been consistently described before. I show that preaspiration is  attested in (at least some) northern dialects, at rates not dissimilar to those in the west. More importantly, the data show a more granular diversity than is implied by broad dialectal labels.&lt;/p&gt;
+
+&lt;p&gt;This microvariation in the expression of laryngeal contrast is important for our understanding of the relationship between phonological specification and phonetic substance. In particular, I suggest that the precise phonetic interpretation of a distinction between (say) fortis and lenis stops can be much more diverse than can be provided for by a theory deriving these differences from phonological specification, such as some versions of laryngeal realism.&lt;/p&gt;
+
+&lt;p&gt;A further argument in favour of the primacy of phonological behaviour is provided by [ʁ]-devoicing in south-western dialects. I argue that is both phonetically categorical (in contrast to lateral and nasal devoicing) and phonological, being triggered only by |fortis| stops. Crucially, lenis stops do not trigger any sonorant devoicing, even gradiently, despite being categorically voiceless (rather than &amp;lsquo;passively voiced&amp;rsquo;) themselves. This coarse-grained phonological behaviour is consistent with a substance-free privative analysis where obstruents are specified as |fortis| vs. ∅, but not with one that attempts to capture the phonetic behaviour of lenis stops in phonological representations.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Blogs</title>
+<link>http://anghyflawn.github.io/blog/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/blog/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>The government has a plan for Gaelic, and you won&#39;t believe what it is</title>
+<link>http://anghyflawn.github.io/blog/2017/dastardly-plan-gaelic/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/blog/2017/dastardly-plan-gaelic/</guid>
+<description>&lt;p&gt;An important dimension that&amp;rsquo;s often missing from the debates about whether it&amp;rsquo;s worthwhile to support Gaelic or promote Scots in Scotland is &lt;em&gt;why&lt;/em&gt; one would do such a thing in the first place. In today&amp;rsquo;s feverish political environment these things slide all too often into outright constitutional mudslinging or at least a debate that foregrounds the essential Scottishness of the country&amp;rsquo;s languages, either as a &lt;a href=&#34;http://www.thenational.scot/comment/14871672.Wee_Ginger_Dug__A_Gaelic_map_isn___t____Gaelic_imperialism_____it___s_a_restorative_act_for_the_language_which_created_Scotland&#34;&gt;good thing&lt;/a&gt; or a &lt;a href=&#34;http://www.scotsman.com/news/opinion/comment-gaelic-signs-a-spurious-vanity-project-for-snp-1-4442999&#34;&gt;bad thing&lt;/a&gt;. Scott Hames has &lt;a href=&#34;http://bellacaledonia.org.uk/2016/02/19/not-nationality-but-language&#34;&gt;written&lt;/a&gt; about this approach being unhelpful, and &lt;a href=&#34;http://anghyflawn.github.io/blog/2016/gaelic-belongs-to-all/&#34;&gt;I agree&lt;/a&gt;. But if this is not about nationality, &lt;em&gt;why indeed&lt;/em&gt; would one put up Gaelic signs in the Borders or push for more recognition of Scots?&lt;/p&gt;
+
+&lt;p&gt;Several misconceptions are widespread among both opponents and supporters of minority language promotion. For instance, the introduction of Gaelic or Scots into schools is often framed as an attempt by the government to &amp;lsquo;teach [alternatively, indoctrinate] the children to speak&amp;rsquo; the minority language &amp;mdash; ominously, at the expense of Standard English? The infamous Gaelic signs (the number of which in all of the Lowlands probably runs, let&amp;rsquo;s face it, into the low three figures) are seen as an attempt to stake a claim on territory for Gaelic, presumably on the basis of it having been spoken in the area historically; this often tends to provoke a backlash along the lines of &amp;lsquo;why don&amp;rsquo;t we promote Welsh then &amp;mdash; isn&amp;rsquo;t it the closest living relative of the historical language of Lowland Scotland?&amp;rsquo; &lt;a href=&#34;https://medium.com/@theiaincameron/gaelic-road-signs-f14235b2984b&#34;&gt;Here&lt;/a&gt; is a typical example.  This latter argument, of course, is only true if the purpose of Gaelic signs is to promote Gaelic for these historical reasons &amp;mdash; which supporters of the language are often wont to support, pointing to the very real Gaelic heritage of much of the country.&lt;/p&gt;
+
+&lt;p&gt;These ideas, whether espoused by well-wishers or detractors of minority languages, suffer from a failure to invert the majority&amp;rsquo;s perspective. Those who do not identify as members of the linguistic minority tend to see language policy as largely aimed at &lt;em&gt;them&lt;/em&gt;, rather than catering for the needs and desires of the minority speakers themselves. Hence the frequent trope of the language being &amp;lsquo;pushed down our throats&amp;rsquo; and &amp;lsquo;subsidies&amp;rsquo; and &amp;lsquo;catering to the needs of the minority at the expense of the majority&amp;rsquo;.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s the problem: the kind of visible gestures that raise the most public ire are, in fact, just that: gestures. It is preposterous to think that having a &amp;lsquo;Burns week&amp;rsquo; at school or a bunch of English lessons attempting to write a poem in Scots (it&amp;rsquo;s always a poem, of course) is sufficient to guide pupils&amp;rsquo; linguistic behaviour outside class. The way people end up speaking depends on the speech first of their caregivers, then of their peers, perhaps particularly in adolescence, and also on their attitude to the different in- and out-groups they are members of.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; A lesson or two in written Scots will no more turn a child with a middle-class accent into a speaker of broad Scots than many years of schooling eradicate non-standard varieties in working-class communities.&lt;/p&gt;
+
+&lt;p&gt;Similarly, a couple of signs at a railway station or the introduction of Gaelic into local council branding will not indoctrinate children into speaking Gaelic, and I strongly suspect they will not be able to somehow push children into having a stronger Scottish identity than they otherwise would have. Such token gestures are utterly ineffectual at the aims that they are commonly seen to have. If you&amp;rsquo;re looking for an actually effective policy tool, look at the &lt;a href=&#34;http://www.bbc.co.uk/naidheachdan/39791058&#34;&gt;LEACAG project&lt;/a&gt; currently conducted by several Scottish universities working towards a reference grammar of Gaelic, with funding from Bòrd na Gàidhlig. Yet it doesn&amp;rsquo;t seem to be the target of quite so much ire.&lt;/p&gt;
+
+&lt;p&gt;Why do it then? It starts making sense if you look at it from the perspective of someone who &lt;em&gt;is&lt;/em&gt; (or aspires to be) a speaker of a minority language or a non-standard variety. This is part of &lt;em&gt;prestige planning&lt;/em&gt; &amp;mdash; measures that improve the perceived status of the minority language in the broader society and building democratic consent for further policy initiatives in that area. In this respect, involving the language in &amp;lsquo;official&amp;rsquo; uses such as signage or school teaching is a signal both to the minority language users themselves and to the society at large that minority and non-standard varieties are valued and respected, and not an irrelevance or an inconvenience to be dismissed. That is an important part of promoting the languages: speakers&amp;rsquo; attitudes to their language are partly, of course, personal, but also shaped to a large extent by the broader societal attitudes &amp;mdash; can we really always expect a person growing up in an environment for few signs of appreciation for the way they speak to have a positive attitude to it themselves?&lt;/p&gt;
+
+&lt;p&gt;This is also the problem with the often-made argument that Scotland-wide promotion of Gaelic is a waste of resources and funding should be concentrated in areas where it has a stronger claim to being a &amp;lsquo;regional&amp;rsquo; language (in practice, the Highlands &amp;mdash; not even perhaps all of it &amp;mdash; and Islands). But look at it from the perspective of a speaker or user of Gaelic. The intent of the current policy is to signal to them: &amp;lsquo;we value your language because of who you are &amp;mdash; one of us &amp;mdash; not because of where you live&amp;rsquo;. A &amp;lsquo;regional&amp;rsquo; policy says: &amp;lsquo;we&amp;rsquo;ll allow you weirdos to have your fun where there&amp;rsquo;s enough of you around, but please don&amp;rsquo;t come here inconveniencing us, the numerical majority who actually matter&amp;rsquo;. This is, in some ways, quite an insidious argument that makes a &amp;lsquo;democratic&amp;rsquo; appeal to the will of the majority against the interests of the minority.&lt;/p&gt;
+
+&lt;p&gt;Have a look at &lt;a href=&#34;http://www.bbc.co.uk/programmes/b08q3ln9&#34;&gt;this programme&lt;/a&gt; recently broadcast on BBC Alba. It&amp;rsquo;s on Gaelic in Aberdeen, showing how people with backgrounds from both the north-east and elsewhere keep the flag flying. All too often they hear people say &amp;lsquo;but it was never spoken here&amp;rsquo;, &amp;lsquo;it is being imposed&amp;rsquo;. And yet they have lived in the north-east for years, sometimes, as some of those interviewed, all their lives &amp;mdash; they are living proof that it &lt;em&gt;is&lt;/em&gt; spoken. How do you tell such a person that their language is an imposition and an inconvenience? This sort of argument betrays a fundamental lack of empathy.&lt;/p&gt;
+
+&lt;p&gt;This is true even when the argument is couched in the language of &amp;lsquo;I have nothing against it, but it should stand on its own two feet&amp;rsquo;. It is majority communities that have the luxury of being confident their culture and language aren&amp;rsquo;t going away, because they already have the support structure and the social scaffolding that ensures their culture and language remain in it. Building and maintaining these structures requires the kind of time and effort that very few people have to spare. Telling them to get on with it and stop being so damn visible shows the very same lack of empathy for these circumstances.&lt;/p&gt;
+
+&lt;p&gt;(Parenthetically, the programme, quite well done and produced, is largely preaching to the choir when it&amp;rsquo;s on BBC Alba. An establishment really keen on promoting and imposing Gaelic would be showing it, probably in English, on prime-time BBC One. As noted, if the SNP or whoever are intent on pushing the language down everybody&amp;rsquo;s throats, they are doing a pretty rubbish job of it.)&lt;/p&gt;
+
+&lt;p&gt;There is, of course, a cultural, heritage argument to be made for the promotion of Gaelic &amp;mdash; one that can be legitimately appealed to if we want to decide on, say, the appropriate level of support for &amp;lsquo;immigrant&amp;rsquo; minority languages that have a &amp;lsquo;home base&amp;rsquo; outside of Scotland. But it is by no means a central plank of Gaelic-language policy. Minority language policy should focus on protecting the rights of speakers, and the rights of speakers are best served with a coherent programme of language planning. This includes prestige planning that aims to build consent for the protection of speakers&amp;rsquo; rights everywhere &amp;mdash; not just in designated areas where they are tolerated, but wherever they choose to live. People who think others shouldn&amp;rsquo;t have these rights are of course entitled to their opinion, but it would be great if they argued their case on that basis, not referring to an imagined nationalist plot or bungled heritage programme.&lt;/p&gt;
+
+&lt;p&gt;PS- If you want to put yourself into the shoes of a minority language speaker Who Has Had Enough, I highly recommend &lt;a href=&#34;https://storify.com/nwdls/on-being-a-rude-welsh-speaker&#34;&gt;this tweetstorm by @Madeley&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Incidentally, some of the groundbreaking research in this area was conducted in the significantly Scots-speaking community of Buckie in the north-east of Scotland.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>phonology paper</title>
+<link>http://anghyflawn.github.io/news/2017/phonology-paper/</link>
+<pubDate>Tue, 09 May 2017 10:15:15 BST</pubDate>
+<guid>http://anghyflawn.github.io/news/2017/phonology-paper/</guid>
+<description>&lt;p&gt;My paper &lt;em&gt;The phonologization of redundancy: Length and quality in Welsh vowels&lt;/em&gt; has appeared in the latest issue of &lt;em&gt;Phonology&lt;/em&gt;. See the published version &lt;a href=&#34;https://doi.org/10.1017/S0952675717000057&#34;&gt;here&lt;/a&gt; or the author manuscript &lt;a href=&#34;http://anghyflawn.github.io/writing/welsh-vowels-phonologization/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Writings</title>
+<link>http://anghyflawn.github.io/writing/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Phonetics Phonology Interface</title>
+<link>http://anghyflawn.github.io/categories/phonetics-phonology-interface/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/phonetics-phonology-interface/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Papers</title>
+<link>http://anghyflawn.github.io/categories/papers/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/papers/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Feature Theory</title>
+<link>http://anghyflawn.github.io/categories/feature-theory/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/feature-theory/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Contrast In Phonology</title>
+<link>http://anghyflawn.github.io/categories/contrast-in-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/contrast-in-phonology/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>The phonologization of redundancy</title>
+<link>http://anghyflawn.github.io/writing/welsh-vowels-phonologization/</link>
+<pubDate>Fri, 05 May 2017 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/welsh-vowels-phonologization/</guid>
+<description>&lt;p&gt;‘Phonologization’ is a process whereby a phonetic phenomenon enters the phonological grammar and becomes conceptualized as the result of categorical manipulation of phonological symbols. I analyse the phonologization of a predictable phonological pattern in Welsh, with particular attention to identifying criteria for whether phonologization has occurred. I argue for a model where phonologization experiences bottom-up and top-down biases. From the bottom up, there is pressure to phonologize phenomena with a categorical distribution; from the top down, there exist formal constraints on featural specification. I focus on the requirement for featural specifications to obey the Contrastivist Hypothesis, which denies that redundant features can be involved in phonological computation, in the context of a framework with emergent features. I suggest that the Contrastivist Hypothesis acts as a useful check for emergent-feature theories, whilst independent phonologization criteria provide contrastivist approaches with a more solid conceptual underpinning.&lt;/p&gt;
+
+&lt;p&gt;You can also download the R notebook with the graphics and scripts from the paper and the data itself &lt;a href=&#34;https://doi.org//10.17605/OSF.IO/HD3BZ&#34;&gt;here at Open Science Framework&lt;/a&gt;&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>book</title>
+<link>http://anghyflawn.github.io/news/2017/book/</link>
+<pubDate>Sat, 04 Mar 2017 21:30:16 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2017/book/</guid>
+<description>&lt;p&gt;My book &lt;em&gt;A substance-free framework for phonology: An analysis of the Breton dialect of Bothoa&lt;/em&gt; is now out with Edinburgh University Press. Read more &lt;a href=&#34;http://anghyflawn.github.io/writing/breton-book/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Initial Consonant Mutations</title>
+<link>http://anghyflawn.github.io/categories/initial-consonant-mutations/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/initial-consonant-mutations/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>obo</title>
+<link>http://anghyflawn.github.io/news/2016/obo/</link>
+<pubDate>Tue, 28 Feb 2017 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2016/obo/</guid>
+<description>&lt;p&gt;My annotated bibliography of works related to Celtic initial consonant mutations has appeared in &lt;em&gt;Oxford Bibliographies Online&lt;/em&gt; &lt;a href=&#34;https://doi.org/10.1093/OBO/9780199772810-0146&#34;&gt;here&lt;/a&gt;. The table of contents is available &lt;a href=&#34;http://anghyflawn.github.io/writing/mutations-bibliography/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Celtic mutations</title>
+<link>http://anghyflawn.github.io/writing/mutations-bibliography/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/mutations-bibliography/</guid>
+<description>&lt;p&gt;This is an annotated and commented bibliography of works related to the initial consonant mutations of Celtic languages, available by subscription via &lt;a href=&#34;https://doi.org/10.1093/OBO/9780199772810-0146&#34;&gt;&lt;em&gt;Oxford Bibliographies Online&lt;/em&gt;&lt;/a&gt;. Here is the table of contents:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Introduction&lt;/li&gt;
+&lt;li&gt;General overviews
+
+&lt;ol&gt;
+&lt;li&gt;Descriptions of individual languages
+
+&lt;ol&gt;
+&lt;li&gt;Welsh&lt;/li&gt;
+&lt;li&gt;Breton&lt;/li&gt;
+&lt;li&gt;Cornish&lt;/li&gt;
+&lt;li&gt;Irish&lt;/li&gt;
+&lt;li&gt;Scottish Gaelic&lt;/li&gt;
+&lt;li&gt;Manx&lt;/li&gt;
+&lt;li&gt;Ancient Celtic languages&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;General bibliographic resources&lt;/li&gt;
+&lt;li&gt;The phonology of mutations
+
+&lt;ol&gt;
+&lt;li&gt;Structuralist approaches&lt;/li&gt;
+&lt;li&gt;Rule-based phonology&lt;/li&gt;
+&lt;li&gt;Nonlinear phonology&lt;/li&gt;
+&lt;li&gt;Optimality Theory&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;The syntax of mutation
+
+&lt;ol&gt;
+&lt;li&gt;The triggering of mutation&lt;/li&gt;
+&lt;li&gt;Direct object mutation in Welsh&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Mutations and morphology&lt;/li&gt;
+&lt;li&gt;Mutations and interfaces
+
+&lt;ol&gt;
+&lt;li&gt;Mutations and other components of grammar&lt;/li&gt;
+&lt;li&gt;Language variation and change&lt;/li&gt;
+&lt;li&gt;Mutation in &amp;lsquo;non-traditional&amp;rsquo; varieties&lt;/li&gt;
+&lt;li&gt;Acquisition and psycholinguistics&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Diachrony of mutations
+
+&lt;ol&gt;
+&lt;li&gt;The origins of mutations&lt;/li&gt;
+&lt;li&gt;The historical development of mutations&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Typological comparison&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Since the published version does not have an acknowledgements facility, I would like to thank here two anonymous reviewers, Peadar Ó Muircheartaigh, Máire Ní Chiosáin, and Christopher Lewin for valuable criticisms and suggestions.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Variation in North Germanic preaspiration</title>
+<link>http://anghyflawn.github.io/presentation/2017/variation-north-germanic-preaspiration/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2017/variation-north-germanic-preaspiration/</guid>
+<description>&lt;p&gt;I consider the extent of cross-dialectal variation in the expression of laryngeal contrast within North Germanic, with a focus on (voiceless) preaspiration, and suggest that the presence of preaspiration and the diversity of its realization across the North Germanic area have been significantly under-reported in the past.&lt;/p&gt;
+
+&lt;p&gt;As discussed by Pétur Helgason (2002), whilst preaspiration and sonorant devoicing in Insular Nordic have long been recognized by the scholarship, their distribution and behaviour in mainland varieties have been less well understood. Traditional descriptions designate preaspiration as characteristic of varieties in Jæren  and Gudbrandsdalen, with only passing references for other dialects such as that of Senja. In Sweden, preaspiration had been noted in Härjedalen and parts of Dalarna, as well as in dialects of the Baltic Sea islands (Gräsö, Åland and Åboland). However, as Pétur Helgason (2002) has shown, preaspiration is pervasive in other varieties, notably Central Standard Swedish. More recently preaspiration has also been studied in detail in Trøndelag Norwegian.&lt;/p&gt;
+
+&lt;p&gt;Whilst Pétur Helgason (2002) makes an important distinction between ‘normative’ and ‘non-normative’ preaspiration, and highlights some differences in the patterning of preaspiration between dialects, the degree of internal variation in the behaviour of preaspiration so far appears relatively small. This is in striking contrast to the significant variability observed in Scottish Gaelic preaspiration despite the comparable, if not smaller, time depth. For now, it is not clear whether this lack of variation may simply be due to under-reporting in traditional auditory descriptions. Tengesdal (2015), in an instrumental study, has shown Oftedal’s (1947) claim that preaspiration of fortis stops is absent in south-east Jæren (Bjerkreim/Dalane) to likely have been incorrect. Preaspiration in ‘non-preaspirating’ areas is also evidenced in the Nordic Dialect Corpus.&lt;/p&gt;
+
+&lt;p&gt;I present a comparative acoustic study of preaspiration in two regions of Norway: Jæren, traditionally considered a preaspirating area, and Northern Norway, where preaspiration has not been consistently described before. I show that preaspiration is in fact prevalent in (some) northern dialects, at rates not dissimilar to those in the west. However, there are also important differences in patterning.&lt;/p&gt;
+
+&lt;p&gt;Documenting the diversity of ways in which laryngeal contrast is realized even in closely related varieties is important for our understanding of the relationship between phonological specification and phonetic substance. I argue that the study of microvariation in laryngeal contrast supports a substance-free view of that relationship, in that even relatively abstract substance-bound approaches such as laryngeal realism  underpredict the fine-grained behaviour of features such as preaspiration. At the same time laryngeal realism and substance-free approaches both readily account for asymmetries in phonological behaviour between fortis and lenis stops. For instance, they predict that Western Norwegian voiceless lenes should be inert in assimilation despite being categorically voiceless phonetically, which I show to be correct in the case of [ʁ]-devoicing.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Phonological Theory</title>
+<link>http://anghyflawn.github.io/categories/phonological-theory/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/phonological-theory/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Categories</title>
+<link>http://anghyflawn.github.io/categories/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Books</title>
+<link>http://anghyflawn.github.io/categories/books/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/books/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>A substance-free framework for phonology</title>
+<link>http://anghyflawn.github.io/writing/breton-book/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/breton-book/</guid>
+<description>&lt;p&gt;The book is a revised and updated version of parts of &lt;a href=&#34;http://anghyflawn.github.io/thesis&#34;&gt;my PhD thesis&lt;/a&gt;. From the publisher&amp;rsquo;s blurb:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;What is the relationship between phonetics and phonology? Are
+phonological features innate and universal, and do they have fixed
+phonetic correlates? These questions have recently received renewed
+prominence in theoretical debates, and this book explores them from
+a modular, substance-free perspective.&lt;/p&gt;
+
+&lt;p&gt;This in-depth analysis of Breton serves not only to introduce
+previously underused data into the theoretical landscape but also to
+demonstrate the viability of a modular framework for phonology. The
+book introduces a minimalist system of phonological representations
+built up on a language-specific basis, without regard to the
+phonetic realisation of phonological objects, and integrates it with
+a fully-fledged computational framework and a stratal interface
+between phonology and morphosyntax, showcasing the numerous
+empirical and conceptual advantages of a substance free view of
+phonology.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Read more &lt;a href=&#34;https://edinburghuniversitypress.com/book-a-substance-free-framework-for-phonology-hb.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Teachings</title>
+<link>http://anghyflawn.github.io/teaching/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Linguistics and the Gaelic Language</title>
+<link>http://anghyflawn.github.io/teaching/2017/cananachas/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2017/cananachas/</guid>
+<description>&lt;p&gt;This course is an obligatory part of the pre-Honours sequence for students on the MA (Hons) degree in Gaelic and Primary Education. It will introduce students to the linguistic analysis of the Scottish Gaelic language, giving an overview of phonetics and phonology, morphology and syntax, together with consideration of key sociolinguistic principles and issues, including phenomena relating to language contact, language shift and status and corpus planning.&lt;/p&gt;
+
+&lt;p&gt;In &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;, I will teach the sections on phonetics and phonology and on language change.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>LEL2E: Structure and History of European Languages</title>
+<link>http://anghyflawn.github.io/teaching/2017/lel2e/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2017/lel2e/</guid>
+<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Indo-European language family&lt;/li&gt;
+&lt;li&gt;Celtic languages&lt;/li&gt;
+&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For course materials, see the relevant page on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>LEL2D: Cross-Linguistic Variation: Limits and Theories</title>
+<link>http://anghyflawn.github.io/teaching/2017/lel2d/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2017/lel2d/</guid>
+<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block. You can get some idea of its contents by looking at the &lt;a href=&#34;http://resourcelists.ed.ac.uk/lists/1713C19C-E564-12A2-D85D-27A30B730228.html&#34;&gt;Resource List&lt;/a&gt; for last year&amp;rsquo;s course.&lt;/p&gt;
+
+&lt;p&gt;Course materials will be available on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Historical Phonology</title>
+<link>http://anghyflawn.github.io/teaching/2017/historical-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2017/historical-phonology/</guid>
+<description>&lt;p&gt;In this course (co-taught with my colleagues &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt; and &lt;a href=&#34;http://www.lel.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt;) we consider a variety of issues connected to phonological change. Throughout the course, we address questions such as the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How do we reconstruct the phonology of past language states?&lt;/li&gt;
+&lt;li&gt;What types of phonological changes are attested?&lt;/li&gt;
+&lt;li&gt;How can synchronic phonological theory assist us in the study of historical phonology?&lt;/li&gt;
+&lt;li&gt;What can we learn about the human language faculty by studying historical phonology?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;, I will cover the following topics (subject to change with extreme prejudice):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mechanisms and types of phonological change&lt;/li&gt;
+&lt;li&gt;Phonological typology and phonological change&lt;/li&gt;
+&lt;li&gt;Historical phonology and phonological representations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Course materials are available on &lt;a href=&#34;http://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Celtic, English, and Norse in Contact</title>
+<link>http://anghyflawn.github.io/teaching/2017/celtic-norse-english/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/2017/celtic-norse-english/</guid>
+<description>&lt;p&gt;This course has three main objectives:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;An introduction to Celtic linguistics, via familiarizing students with the structural properties of Celtic languages&lt;/li&gt;
+&lt;li&gt;An brief introduction to the study of language contact, with particular attention to criteria used to diagnose contact features&lt;/li&gt;
+&lt;li&gt;A discussion of various ways in which Celtic and North Germanic languages interacted with each other and with English in the British Isles&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This course presupposes &lt;em&gt;no&lt;/em&gt; knowledge of any modern or ancient Celtic language. However, it is also open to students pursuing Honours degrees in Celtic, as long as they have passed one of the second-year Gaelic courses &amp;mdash; while some of the linguistic concepts may require a bit of effort (especially if you haven&amp;rsquo;t taken at least LEL1 in pre-Honours), much of the language material will be familiar or sufficiently similar to Gaelic.&lt;/p&gt;
+
+&lt;p&gt;It may be helpful (albeit not at all obligatory) for the early part of the course (which isn&amp;rsquo;t really about linguistics) to get some background on the early medieval period in Britain and Ireland. For a light but very informative introduction, one suggestion is &lt;a href=&#34;http://www.theambulist.co.uk/books/journeys&#34;&gt;Max Adams&amp;rsquo; &lt;em&gt;In the land of giants&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here is the preliminary weekly plan for this year, subject to change with extreme prejudice&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Introduction and the historical setting
+
+&lt;ol&gt;
+&lt;li&gt;Celtic and the Anglo-Saxon conquest&lt;/li&gt;
+&lt;li&gt;Celtic and English in the Middle Ages. The Norse presence in England, Scotland, and Ireland&lt;/li&gt;
+&lt;li&gt;Language shift. &amp;lsquo;Celtic Englishes&amp;rsquo;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Celtic language structures
+
+&lt;ol&gt;
+&lt;li&gt;Old Irish&lt;/li&gt;
+&lt;li&gt;Modern Irish phonology&lt;/li&gt;
+&lt;li&gt;Modern Irish morphosyntax&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Celtic language structures continued
+
+&lt;ol&gt;
+&lt;li&gt;Scottish Gaelic&lt;/li&gt;
+&lt;li&gt;Middle Welsh&lt;/li&gt;
+&lt;li&gt;Modern Welsh phonology&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Celtic language structures; language contact
+
+&lt;ol&gt;
+&lt;li&gt;Modern Welsh morphosyntax&lt;/li&gt;
+&lt;li&gt;An introduction to language contact. Agency in language contact&lt;/li&gt;
+&lt;li&gt;Sociolinguistic complexity and language contact&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Language contact; early Celtic-English contacts
+
+&lt;ol&gt;
+&lt;li&gt;Diagnosing historical language contact&lt;/li&gt;
+&lt;li&gt;The &amp;lsquo;Celtic hypothesis&amp;rsquo;: was Early English influenced by Celtic?&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;The Celtic hypothesis; the Norse influence in the Atlantic Isles
+
+&lt;ol&gt;
+&lt;li&gt;The Celtic hypothesis continued&lt;/li&gt;
+&lt;li&gt;Norse influence in the Old and Middle English periods&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;The Norse influence in Scotland
+
+&lt;ol&gt;
+&lt;li&gt;Class test (worth 30% of the mark)&lt;/li&gt;
+&lt;li&gt;The Norse influence and Gaelic&lt;/li&gt;
+&lt;li&gt;Celtic, Norse and Scots in the Northern Isles&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Celtic Englishes
+
+&lt;ol&gt;
+&lt;li&gt;Irish English&lt;/li&gt;
+&lt;li&gt;Celtic, Scots and Scottish English&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Celtic Englishes continued
+
+&lt;ol&gt;
+&lt;li&gt;Welsh English&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;Substrate&amp;rsquo; transfer vs. learning mechanisms. Simplification under contact conditions and &amp;lsquo;Angloversals&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;Course summary&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The remaining 70% of the mark will be assessed by a final essay of 3,000 words, to be written between the end of teaching and the start of the exam period.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>fino</title>
+<link>http://anghyflawn.github.io/news/2017/fino/</link>
+<pubDate>Tue, 03 Jan 2017 20:43:05 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2017/fino/</guid>
+<description>&lt;p&gt;I presented &lt;em&gt;Variation in North Germanic preaspiration&lt;/em&gt; at the Fonologi i Norden (FiNo) conference at the University of Agder. &lt;a href=&#34;http://anghyflawn.github.io/presentation/2017/variation-north-germanic-preaspiration/&#34;&gt;Download slides and handout&lt;/a&gt;&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>phonology board</title>
+<link>http://anghyflawn.github.io/news/2017/phonology-board/</link>
+<pubDate>Tue, 03 Jan 2017 20:42:15 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2017/phonology-board/</guid>
+<description>&lt;p&gt;From January 2017 I am serving on the editorial board of &lt;a href=&#34;https://www.cambridge.org/core/journals/phonology&#34;&gt;&lt;em&gt;Phonology&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>teachind spring 2017</title>
+<link>http://anghyflawn.github.io/news/2016/teachind-spring-2017/</link>
+<pubDate>Sat, 17 Dec 2016 22:12:56 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2016/teachind-spring-2017/</guid>
+<description>&lt;p&gt;In the second semester of &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;, I am teaching phonology on &lt;a href=&#34;http://anghyflawn.github.io/teaching/2017/lel2d/&#34;&gt;LEL2D: Cross-Linguistic Variation: Limits and Theories&lt;/a&gt; (I am also the course organizer for this course); Indo-European, Celtic, and phonology on &lt;a href=&#34;http://anghyflawn.github.io/teaching/2017/lel2e/&#34;&gt;LEL2E: Structure and History of European Languages&lt;/a&gt;; a range of topics on &lt;a href=&#34;http://anghyflawn.github.io/teaching/2017/historical-phonology/&#34;&gt;Historical Phonology&lt;/a&gt;; the entirety of &lt;a href=&#34;http://anghyflawn.github.io/teaching/2017/celtic-norse-english/&#34;&gt;Celtic, English and Norse in Contact&lt;/a&gt;; and phonetics, phonology and historical linguistics on &lt;a href=&#34;http://anghyflawn.github.io/teaching/2017/cananachas/&#34;&gt;Linguistics and the Gaelic Language&lt;/a&gt;. My office hours are Tuesday, 13:00–15:00.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>pihph</title>
+<link>http://anghyflawn.github.io/news/2016/pihph/</link>
+<pubDate>Mon, 05 Dec 2016 14:43:38 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2016/pihph/</guid>
+<description>&lt;p&gt;We have launched a new journal called &lt;em&gt;Papers in Historical Phonology&lt;/em&gt;. Read more about it, and the first articles, &lt;a href=&#34;http://journals.ed.ac.uk/pihph&#34;&gt;here&lt;/a&gt;. I have contributed a &lt;a href=&#34;http://anghyflawn.github.io/writing/rule-scattering-vowel-length-northern-romance/&#34;&gt;paper&lt;/a&gt; on rule scattering and vowel length in Northern Romance &amp;mdash; comments welcome!&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Language Documentation</title>
+<link>http://anghyflawn.github.io/categories/language-documentation/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/language-documentation/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Irish</title>
+<link>http://anghyflawn.github.io/categories/irish/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/irish/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>tionol presentation</title>
+<link>http://anghyflawn.github.io/news/2016/tionol-presentation/</link>
+<pubDate>Sat, 03 Dec 2016 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2016/tionol-presentation/</guid>
+<description>&lt;p&gt;We presented new results of the project on Irish short vowels with Máire Ní Chiosáin at &lt;a href=&#34;https://www.dias.ie/tionol2016&#34;&gt;Tionól 2016&lt;/a&gt; (slides and handout &lt;a href=&#34;http://anghyflawn.github.io/presentation/2016/tionol/&#34;&gt;here&lt;/a&gt;) and at &lt;a href=&#34;https://www.soas.ac.uk/language-documentation-and-linguistic-theory-2016/&#34;&gt;Language Documentation and Linguistic Theory 5&lt;/a&gt; (slides and handout &lt;a href=&#34;http://anghyflawn.github.io/presentation/2016/ldlt5/&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Making sense of consonant palatalization vowel backness in Irish</title>
+<link>http://anghyflawn.github.io/presentation/2016/ldlt5/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2016/ldlt5/</guid>
+<description>&lt;p&gt;Despite its status as a minority language, Modern Irish has a rich body of phonetic and phonological descriptions, based on (near-)native fieldworker knowledge and traditional auditory methods. In this paper, we draw on a range of up-to-date instrumental and quantitative methods in order to verify and expand the traditional findings regarding the nature and status of the interaction between consonant palatalization and vowel backness in Irish.&lt;/p&gt;
+
+&lt;p&gt;According to the descriptive literature, there are several types of consonant-to-vowel coarticulation in Modern Irish. In the case of long vowels, the distribution of front and back vowels is free with respect to surrounding consonant palatalization: &lt;em&gt;ciúin&lt;/em&gt; /k&amp;rsquo;uːn&amp;rsquo;/ &amp;lsquo;quiet&amp;rsquo;, &amp;lsquo;buíon&amp;rsquo; /biːn/ &amp;lsquo;company&amp;rsquo;. However, descriptions recognize the phonetic reality of &amp;lsquo;on-&amp;rsquo; and &amp;lsquo;off-glides&amp;rsquo; when the backness of the long vowel does not match that of the neighbouring consonant: [kʲuːʲn], [bʷiːˠn]. In the case of short vowels, it is commonly argued that (some) front and back vowels show complementary distribution driven by consonant palatalization, such that, for instance, &lt;em&gt;giobal&lt;/em&gt; &amp;lsquo;rag&amp;rsquo; (surface [ɡʲʊbəl]) and &lt;em&gt;duine&lt;/em&gt; &amp;lsquo;man&amp;rsquo; (surface [dɪnʲə]) both contain the underlying segment (phoneme) /ɯ/, and are derived from /ɡ&amp;rsquo;ɯbəl/ and /dɯn&amp;rsquo;ə/ by &amp;lsquo;vowel separation&amp;rsquo; rules. At the same time, some of the more careful phonetic descriptions also recognize the existence of finely grained (though apparently categorical) vowel allophony driven by consonant palatalization.&lt;/p&gt;
+
+&lt;p&gt;We report the results of a project aiming to disentangle the categorical and gradient aspects of this coarticulation using instrumental methods. Previous studies  show that for low vowels the effect of consonant palatalization on the quality of adjacent vowels cannot be described as simply a &amp;lsquo;glide&amp;rsquo; &amp;mdash; the consonant exerts an influence throughout the duration of the vowel &amp;mdash; and that consonant-vowel coarticulation in Irish is gradient. In this paper, we focus on a controlled acoustic study of &lt;em&gt;short&lt;/em&gt; vowels, claimed in the literature to undergo both categorical (complementary distribution) and gradient (fine-grained allophony) coarticulation.&lt;/p&gt;
+
+&lt;p&gt;We present the results of fitting a variety of generalized additive mixed models  to the acoustic data, and show that both kinds of effects co-exist in Modern Irish: a categorical rule enforcing (near-)allophony and gradient consonant-vowel coarticulation. We argue that this is a theoretically interesting example of the phenomenon of &amp;lsquo;rule scattering&amp;rsquo;, which would have been difficult to establish with confidence solely on the basis of traditional descriptions. We also discuss some of the challenges associated with gathering balanced data (necessary for quantitative analysis) using reading tasks from a minority language, even one with a well-established tradition of literacy.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Romance</title>
+<link>http://anghyflawn.github.io/categories/romance/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/romance/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Rule scattering and vowel length in Northern Romance</title>
+<link>http://anghyflawn.github.io/writing/rule-scattering-vowel-length-northern-romance/</link>
+<pubDate>Wed, 30 Nov 2016 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/rule-scattering-vowel-length-northern-romance/</guid>
+<description>&lt;p&gt;In this paper I reconsider the synchronic status of distinctive vowel length and vowel lengthening and shortening rules in Northern Romance varieties, in light of Loporcaro’s (2015) wide-ranging study of vowel quantity in numerous Romance dialects. Loporcaro (2015) argues that these varieties possess distinctive, phonemic vowel length, and mostly do not have synchronic rules that produce surface long vowels, contrary to many previous analyses of the relevant patterns. In this paper, I argue instead that that lexical vowel length distinctions coexist, in some Northern Romance varieties, with productive phonological rules manipulating vowel quantity. This coexistence is best understood with recourse to the life cycle of phonological processes, and in particular the notion of rule scattering (Bermúdez-Otero 2015). This approach not only allows us to reach an adequate interpretation of the basic facts but also makes further predictions regarding the status of quantity-manipulating rules, which also turn out to be correct, providing further support for the theory of the life cycle.&lt;/p&gt;
+
+&lt;p&gt;Comments are welcome! Please use the &lt;a href=&#34;http://dx.doi.org/10.2218/pihph.1.2016.1700&#34;&gt;PiHPh comments facility&lt;/a&gt; for this purpose.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Short vowel allophones in Modern Irish</title>
+<link>http://anghyflawn.github.io/presentation/2016/tionol/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2016/tionol/</guid>
+<description>&lt;p&gt;We present the results of a study of the acoustic properties of short vowels in Modern Irish, building on data from all three major dialect groupings. It is well known that short vowels in Irish are realized as back or front depending on the palatalization of the surrounding consonants (thus &lt;em&gt;liom&lt;/em&gt; [u] but &lt;em&gt;linn&lt;/em&gt; [i]). In addition, traditional descriptions also recognize that vowels can also have a number of distinct allophones whose distribution also depends on surrounding consonants: for instance, De Bhaldraithe (1945) describes four distinct varieties of [a] in Cois Fhairrge Irish.&lt;/p&gt;
+
+&lt;p&gt;We conduct an acoustic and statistical analysis of the pronunciations of short vowels by speakers of all three major dialects of Irish in order to evaluate the relative contribution of the two kinds of consonant influence on vowel phonetics. We show that the distribution of the coarser categories (e.g. [i] vs. [u]) is largely predictable and mostly follows the generalizations that can be extracted from the traditional descriptive literature (e.g. Ó Maolalaigh 1998). However, the finer-grained allophony does not require setting up discrete categories as in the traditional descriptions, but instead emerges from the interplay of various continuous factors.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>welsh paper</title>
+<link>http://anghyflawn.github.io/news/2016/welsh-paper/</link>
+<pubDate>Sun, 06 Nov 2016 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2016/welsh-paper/</guid>
+<description>&lt;p&gt;Two recent manuscripts on Welsh are now listed: one on &lt;a href=&#34;http://anghyflawn.github.io/writing/welsh-vowels-phonologization/&#34;&gt;quantity-quality interactions in Welsh vowels in substance-free phonology&lt;/a&gt; (to appear in &lt;em&gt;Phonology&lt;/em&gt;) and one on &lt;a href=&#34;http://anghyflawn.github.io/writing/calediad/&#34;&gt;the so-called &amp;lsquo;provection&amp;rsquo; of south-eastern Welsh and its relevance for feature theory&lt;/a&gt; (to appear in a volume with OUP)&lt;/p&gt;
+</description>
+</item>
+
+
+  </channel>
+</rss>

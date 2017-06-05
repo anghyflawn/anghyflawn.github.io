@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://anghyflawn.github.io/presentation/2017/dias/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/news/2017/dias/</loc>
+    <lastmod>2017-06-05T21:05:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/news/2017/25mfm/</loc>
+    <lastmod>2017-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://anghyflawn.github.io/presentation/2017/25mfm/</loc>
     <lastmod>2017-05-27T00:00:00+00:00</lastmod>
   </url>
@@ -19,11 +34,6 @@
   <url>
     <loc>http://anghyflawn.github.io/writing/welsh-vowels-phonologization/</loc>
     <lastmod>2017-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://anghyflawn.github.io/news/2017/25mfm/</loc>
-    <lastmod>2017-04-13T14:15:53+01:00</lastmod>
   </url>
   
   <url>
@@ -347,7 +357,7 @@
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/presentation/2015/pitch-accent-and-preaspiration-in-gaelic:-reconsidering-contact-origins/</loc>
+    <loc>http://anghyflawn.github.io/presentation/2015/pitch-accent-and-preaspiration-in-gaelic-reconsidering-contact-origins/</loc>
     <lastmod>2015-07-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -392,7 +402,7 @@
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/presentation/2015/an-echoing-tone:-pitch-accent-parallels-in-scandinavia-and-scotland/</loc>
+    <loc>http://anghyflawn.github.io/presentation/2015/an-echoing-tone-pitch-accent-parallels-in-scandinavia-and-scotland/</loc>
     <lastmod>2015-02-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -562,7 +572,7 @@
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/presentation/2013/phonemicization-vs-phonologization:-voiced-fricatives-in-old-english-and-brythonic/</loc>
+    <loc>http://anghyflawn.github.io/presentation/2013/phonemicization-vs-phonologization-voiced-fricatives-in-old-english-and-brythonic/</loc>
     <lastmod>2013-08-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -577,7 +587,7 @@
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/presentation/2012/the-phonological-endgame:-welsh-svarabhakti-revisited/</loc>
+    <loc>http://anghyflawn.github.io/presentation/2012/the-phonological-endgame-welsh-svarabhakti-revisited/</loc>
     <lastmod>2012-11-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -592,7 +602,7 @@
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/presentation/2012/in-defence-of-richness-of-the-base:-context-free-weight-in-welsh/</loc>
+    <loc>http://anghyflawn.github.io/presentation/2012/in-defence-of-richness-of-the-base-context-free-weight-in-welsh/</loc>
     <lastmod>2012-09-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -617,7 +627,7 @@
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/presentation/2012/pitch-accent-and-prosodic-structure-in-scottish-gaelic:-historical-implications/</loc>
+    <loc>http://anghyflawn.github.io/presentation/2012/pitch-accent-and-prosodic-structure-in-scottish-gaelic-historical-implications/</loc>
     <lastmod>2012-04-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -632,12 +642,12 @@
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/presentation/2010/final-devoicing-and-vowel-lengthening-in-the-north-of-italy:-a-representational-approach/</loc>
+    <loc>http://anghyflawn.github.io/presentation/2010/final-devoicing-and-vowel-lengthening-in-the-north-of-italy-a-representational-approach/</loc>
     <lastmod>2010-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/presentation/2010/a-bad-case-of-excessive-computation:-the-role-of-morphology-in-palatalization-related-alternations-in-russian/</loc>
+    <loc>http://anghyflawn.github.io/presentation/2010/a-bad-case-of-excessive-computation-the-role-of-morphology-in-palatalization-related-alternations-in-russian/</loc>
     <lastmod>2010-12-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -652,7 +662,7 @@
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/presentation/2010/feature-geometry-meets-contrastive-specification:-incomplete-neutralization-reloaded/</loc>
+    <loc>http://anghyflawn.github.io/presentation/2010/feature-geometry-meets-contrastive-specification-incomplete-neutralization-reloaded/</loc>
     <lastmod>2010-05-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -667,7 +677,7 @@
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/presentation/2010/russian-palatalization:-the-true-r-story/</loc>
+    <loc>http://anghyflawn.github.io/presentation/2010/russian-palatalization-the-true-r-story/</loc>
     <lastmod>2010-01-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -697,7 +707,7 @@
   </url>
   
   <url>
-    <loc>http://anghyflawn.github.io/presentation/2009/sandhi-mutation-and-contrast:-laryngeal-phonology-in-plougrescant-breton/</loc>
+    <loc>http://anghyflawn.github.io/presentation/2009/sandhi-mutation-and-contrast-laryngeal-phonology-in-plougrescant-breton/</loc>
     <lastmod>2009-10-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -795,18 +805,19 @@
   
   <url>
     <loc>http://anghyflawn.github.io/categories/breton/</loc>
-    <lastmod>2017-02-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://anghyflawn.github.io/categories/</loc>
+    <lastmod>2017-02-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://anghyflawn.github.io/categories/celtic/</loc>
-    <lastmod>2017-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -842,7 +853,7 @@
   
   <url>
     <loc>http://anghyflawn.github.io/categories/historical-phonology/</loc>
-    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -890,7 +901,7 @@
   
   <url>
     <loc>http://anghyflawn.github.io/news/</loc>
-    <lastmod>2017-05-09T10:15:15+01:00</lastmod>
+    <lastmod>2017-06-05T21:05:57+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -926,7 +937,7 @@
   
   <url>
     <loc>http://anghyflawn.github.io/</loc>
-    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -950,7 +961,7 @@
   
   <url>
     <loc>http://anghyflawn.github.io/presentation/</loc>
-    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1022,7 +1033,7 @@
   
   <url>
     <loc>http://anghyflawn.github.io/categories/welsh/</loc>
-    <lastmod>2017-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
