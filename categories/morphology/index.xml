@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Mon, 05 Jun 2017 21:19:54 BST</updated>
+    <updated>Mon, 10 Jul 2017 12:02:55 BST</updated>
 
 
 
@@ -142,9 +142,51 @@ secondary status of tenseness in penultimate stressed syllables.&lt;/p&gt;
 <item>
 <title>News</title>
 <link>http://anghyflawn.github.io/news/</link>
-<pubDate>Mon, 05 Jun 2017 21:05:57 BST</pubDate>
+<pubDate>Mon, 10 Jul 2017 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/news/</guid>
 <description></description>
+</item>
+
+
+
+<item>
+<title>tphs paper</title>
+<link>http://anghyflawn.github.io/news/2016/tphs-paper/</link>
+<pubDate>Mon, 10 Jul 2017 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2016/tphs-paper/</guid>
+<description>&lt;p&gt;My paper &lt;em&gt;Welsh svarabhakti as stem allomorphy&lt;/em&gt; has appeared in &lt;em&gt;&lt;a href=&#34;http://www.philsoc.org.uk/transactions.asp&#34;&gt;Transactions of the Philological Society&lt;/a&gt;&lt;/em&gt;. Download the draft version &lt;a href=&#34;http://anghyflawn.github.io/writing/svarabhakti/&#34;&gt;here&lt;/a&gt; or the official version &lt;a href=&#34;https://dx.doi.org/10.1111/1467-968X.12085&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Writings</title>
+<link>http://anghyflawn.github.io/writing/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Phonology Morphology Interface</title>
+<link>http://anghyflawn.github.io/categories/phonology-morphology-interface/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/phonology-morphology-interface/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Welsh svarabhakti as stem allomorphy</title>
+<link>http://anghyflawn.github.io/writing/svarabhakti/</link>
+<pubDate>Fri, 30 Jun 2017 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/svarabhakti/</guid>
+<description>&lt;p&gt;This paper develops the analysis in &lt;a href=&#34;http://anghyflawn.github.io/presentation/2012/the-phonological-endgame-welsh-svarabhakti-revisited/&#34;&gt;this presentation&lt;/a&gt;. I offer an analysis of Welsh epenthesis, whereby a copy of a preceding vowel is inserted to break up final clusters of rising sonority (&lt;em&gt;pwdr&lt;/em&gt; &amp;lsquo;rotten&amp;rsquo; is [pudur] rather than *[pudr]) and deletion in such clusters in polysyllables (&lt;em&gt;perygl&lt;/em&gt; &amp;lsquo;danger&amp;rsquo; is [perɪɡ] rather than *[perɪɡl]). It has previously been argued that both processes can be analysed in a single phonological grammar. I show that this is not tenable for South Welsh dialects, and propose an analysis in terms of part-of-speech-specific allomorphy, formalized as lexical storage of POS-characterized stems rather than roots.&lt;/p&gt;
+</description>
 </item>
 
 
@@ -279,16 +321,6 @@ secondary status of tenseness in penultimate stressed syllables.&lt;/p&gt;
 <guid>http://anghyflawn.github.io/news/2017/phonology-paper/</guid>
 <description>&lt;p&gt;My paper &lt;em&gt;The phonologization of redundancy: Length and quality in Welsh vowels&lt;/em&gt; has appeared in the latest issue of &lt;em&gt;Phonology&lt;/em&gt;. See the published version &lt;a href=&#34;https://doi.org/10.1017/S0952675717000057&#34;&gt;here&lt;/a&gt; or the author manuscript &lt;a href=&#34;http://anghyflawn.github.io/writing/welsh-vowels-phonologization/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-</item>
-
-
-
-<item>
-<title>Writings</title>
-<link>http://anghyflawn.github.io/writing/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/</guid>
-<description></description>
 </item>
 
 
@@ -791,43 +823,6 @@ phonology.&lt;/p&gt;
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/categories/romance/</guid>
 <description></description>
-</item>
-
-
-
-<item>
-<title>Rule scattering and vowel length in Northern Romance</title>
-<link>http://anghyflawn.github.io/writing/rule-scattering-vowel-length-northern-romance/</link>
-<pubDate>Wed, 30 Nov 2016 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/rule-scattering-vowel-length-northern-romance/</guid>
-<description>&lt;p&gt;In this paper I reconsider the synchronic status of distinctive vowel length and vowel lengthening and shortening rules in Northern Romance varieties, in light of Loporcaro’s (2015) wide-ranging study of vowel quantity in numerous Romance dialects. Loporcaro (2015) argues that these varieties possess distinctive, phonemic vowel length, and mostly do not have synchronic rules that produce surface long vowels, contrary to many previous analyses of the relevant patterns. In this paper, I argue instead that that lexical vowel length distinctions coexist, in some Northern Romance varieties, with productive phonological rules manipulating vowel quantity. This coexistence is best understood with recourse to the life cycle of phonological processes, and in particular the notion of rule scattering (Bermúdez-Otero 2015). This approach not only allows us to reach an adequate interpretation of the basic facts but also makes further predictions regarding the status of quantity-manipulating rules, which also turn out to be correct, providing further support for the theory of the life cycle.&lt;/p&gt;
-
-&lt;p&gt;Comments are welcome! Please use the &lt;a href=&#34;http://dx.doi.org/10.2218/pihph.1.2016.1700&#34;&gt;PiHPh comments facility&lt;/a&gt; for this purpose.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Short vowel allophones in Modern Irish</title>
-<link>http://anghyflawn.github.io/presentation/2016/tionol/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/2016/tionol/</guid>
-<description>&lt;p&gt;We present the results of a study of the acoustic properties of short vowels in Modern Irish, building on data from all three major dialect groupings. It is well known that short vowels in Irish are realized as back or front depending on the palatalization of the surrounding consonants (thus &lt;em&gt;liom&lt;/em&gt; [u] but &lt;em&gt;linn&lt;/em&gt; [i]). In addition, traditional descriptions also recognize that vowels can also have a number of distinct allophones whose distribution also depends on surrounding consonants: for instance, De Bhaldraithe (1945) describes four distinct varieties of [a] in Cois Fhairrge Irish.&lt;/p&gt;
-
-&lt;p&gt;We conduct an acoustic and statistical analysis of the pronunciations of short vowels by speakers of all three major dialects of Irish in order to evaluate the relative contribution of the two kinds of consonant influence on vowel phonetics. We show that the distribution of the coarser categories (e.g. [i] vs. [u]) is largely predictable and mostly follows the generalizations that can be extracted from the traditional descriptive literature (e.g. Ó Maolalaigh 1998). However, the finer-grained allophony does not require setting up discrete categories as in the traditional descriptions, but instead emerges from the interplay of various continuous factors.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>welsh paper</title>
-<link>http://anghyflawn.github.io/news/2016/welsh-paper/</link>
-<pubDate>Sun, 06 Nov 2016 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/news/2016/welsh-paper/</guid>
-<description>&lt;p&gt;Two recent manuscripts on Welsh are now listed: one on &lt;a href=&#34;http://anghyflawn.github.io/writing/welsh-vowels-phonologization/&#34;&gt;quantity-quality interactions in Welsh vowels in substance-free phonology&lt;/a&gt; (to appear in &lt;em&gt;Phonology&lt;/em&gt;) and one on &lt;a href=&#34;http://anghyflawn.github.io/writing/calediad/&#34;&gt;the so-called &amp;lsquo;provection&amp;rsquo; of south-eastern Welsh and its relevance for feature theory&lt;/a&gt; (to appear in a volume with OUP)&lt;/p&gt;
-</description>
 </item>
 
 
