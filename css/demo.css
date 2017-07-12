@@ -1,14 +1,14 @@
 /* =Typography
 -----------------------------------------------------------------------------*/
 body {
-	font-family: 'Alegreya', 'Lora', 'Hoefler Text', Times, Serif;
+	font-family: 'Old Standard TT', 'Hoefler Text', Times, Serif;
 	font-size: 1.05em;
-	line-height: 1.6em;
+    /* 	line-height: 1.6em; */
 /*	background-color: #b1b8d3; */
 	background-color: #dee0eb;
 }
 
-form, input[type="search"], select[multiple="multiple"]  {font-family:  'Alegreya', 'Trebuchet MS', Helvetica, Arial, sans-serif;}
+form, input[type="search"], select[multiple="multiple"]  {font-family:  'Old Standard TT', 'Trebuchet MS', Helvetica, Arial, sans-serif;}
 
 /*body {
   background: #ffffff;
@@ -19,7 +19,7 @@ form, input[type="search"], select[multiple="multiple"]  {font-family:  'Alegrey
 }
 */
 h1, h2, h3, h4, h5 {
-	font-family: 'Alegreya', 'Trebuchet MS', Helvetica, Arial, sans-serif;
+	font-family: 'Old Standard TT', 'Trebuchet MS', Helvetica, Arial, sans-serif;
 	font-style: italic;
 	color: #030922;
 }
@@ -35,7 +35,7 @@ h2, h3, h4, h5 {
 }
 h2, h3 {
 	text-transform: lowercase;
-	font-family: 'Alegreya SC';
+	font-family: 'Alegreya SC', 'Lora';
 	font-style: normal;
 }
 
