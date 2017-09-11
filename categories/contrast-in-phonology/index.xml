@@ -8,7 +8,7 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <channel>
-      <title>Contrast In Phonology in Pavel Iosad </title>
+      <title>Contrast in Phonology in Pavel Iosad </title>
 	  <itunes:author>Pavel Iosad</itunes:author>
 	  <itunes:owner>
 	  <itunes:name>Pavel Iosad</itunes:name>
@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Thu, 03 Aug 2017 16:26:37 BST</updated>
+    <updated>Mon, 11 Sep 2017 22:30:13 BST</updated>
 
 
 
@@ -153,6 +153,27 @@
 
 
 <item>
+<title>News</title>
+<link>http://anghyflawn.github.io/news/</link>
+<pubDate>Thu, 31 Aug 2017 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>dias</title>
+<link>http://anghyflawn.github.io/news/2017/dias/</link>
+<pubDate>Thu, 31 Aug 2017 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2017/dias/</guid>
+<description>&lt;p&gt;I presented some fledgling work on the history of the tense/lax distinction and quality in Brythonic vowels at the &lt;a href=&#34;https://www.dias.ie/2017/05/17/symposium-new-approaches-to-brittonic-historical-linguistics/&#34;&gt;New Approaches to Brittonic Historical Linguistics&lt;/a&gt; symposium at the Dublin Institute of Advanced Studies. Get the slides and handout &lt;a href=&#34;http://anghyflawn.github.io/presentation/2017/dias/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
 <title>Welsh</title>
 <link>http://anghyflawn.github.io/categories/welsh/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -253,16 +274,6 @@ secondary status of tenseness in penultimate stressed syllables.&lt;/p&gt;
 
 
 <item>
-<title>News</title>
-<link>http://anghyflawn.github.io/news/</link>
-<pubDate>Thu, 03 Aug 2017 16:19:06 BST</pubDate>
-<guid>http://anghyflawn.github.io/news/</guid>
-<description></description>
-</item>
-
-
-
-<item>
 <title>Senior Tutor</title>
 <link>http://anghyflawn.github.io/news/2017/senior-tutor/</link>
 <pubDate>Thu, 03 Aug 2017 16:19:06 BST</pubDate>
@@ -310,17 +321,6 @@ secondary status of tenseness in penultimate stressed syllables.&lt;/p&gt;
 <pubDate>Fri, 30 Jun 2017 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/writing/svarabhakti/</guid>
 <description>&lt;p&gt;This paper develops the analysis in &lt;a href=&#34;http://anghyflawn.github.io/presentation/2012/the-phonological-endgame-welsh-svarabhakti-revisited/&#34;&gt;this presentation&lt;/a&gt;. I offer an analysis of Welsh epenthesis, whereby a copy of a preceding vowel is inserted to break up final clusters of rising sonority (&lt;em&gt;pwdr&lt;/em&gt; &amp;lsquo;rotten&amp;rsquo; is [pudur] rather than *[pudr]) and deletion in such clusters in polysyllables (&lt;em&gt;perygl&lt;/em&gt; &amp;lsquo;danger&amp;rsquo; is [perɪɡ] rather than *[perɪɡl]). It has previously been argued that both processes can be analysed in a single phonological grammar. I show that this is not tenable for South Welsh dialects, and propose an analysis in terms of part-of-speech-specific allomorphy, formalized as lexical storage of POS-characterized stems rather than roots.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>dias</title>
-<link>http://anghyflawn.github.io/news/2017/dias/</link>
-<pubDate>Mon, 05 Jun 2017 21:05:57 BST</pubDate>
-<guid>http://anghyflawn.github.io/news/2017/dias/</guid>
-<description>&lt;p&gt;I will present some fledgling work on the history of the tense/lax distinction and quality in Brythonic vowels at the &lt;a href=&#34;https://www.dias.ie/2017/05/17/symposium-new-approaches-to-brittonic-historical-linguistics/&#34;&gt;New Approaches to Brittonic Historical Linguistics&lt;/a&gt; symposium at the Dublin Institute of Advanced Studies. Read more &lt;a href=&#34;http://anghyflawn.github.io/presentation/2017/dias/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
@@ -480,7 +480,7 @@ secondary status of tenseness in penultimate stressed syllables.&lt;/p&gt;
 
 
 <item>
-<title>Contrast In Phonology</title>
+<title>Contrast in Phonology</title>
 <link>http://anghyflawn.github.io/categories/contrast-in-phonology/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/categories/contrast-in-phonology/</guid>
