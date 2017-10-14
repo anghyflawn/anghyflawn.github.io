@@ -23,6 +23,26 @@
   </url>
   
   <url>
+    <loc>http://anghyflawn.github.io/presentation/2017/esohph3/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/presentation/2017/esohph3-fringe/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/news/2017/history-of-phonology/</loc>
+    <lastmod>2017-10-14T15:02:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/news/2017/esohph/</loc>
+    <lastmod>2017-10-14T14:57:57+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://anghyflawn.github.io/teaching/2017/phonological-theory/</loc>
     <lastmod>2017-09-19T00:00:00+00:00</lastmod>
   </url>
@@ -30,6 +50,11 @@
   <url>
     <loc>http://anghyflawn.github.io/teaching/2017/univariate-stats/</loc>
     <lastmod>2017-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/writing/history-of-phonology/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -841,7 +866,7 @@
   
   <url>
     <loc>http://anghyflawn.github.io/categories/breton/</loc>
-    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -889,7 +914,13 @@
   
   <url>
     <loc>http://anghyflawn.github.io/categories/historical-phonology/</loc>
-    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/categories/history-of-phonology/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -919,7 +950,7 @@
   
   <url>
     <loc>http://anghyflawn.github.io/categories/laryngeal-phonology/</loc>
-    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -937,7 +968,7 @@
   
   <url>
     <loc>http://anghyflawn.github.io/news/</loc>
-    <lastmod>2017-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-14T15:02:16+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -997,7 +1028,7 @@
   
   <url>
     <loc>http://anghyflawn.github.io/presentation/</loc>
-    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1069,13 +1100,13 @@
   
   <url>
     <loc>http://anghyflawn.github.io/categories/welsh/</loc>
-    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://anghyflawn.github.io/writing/</loc>
-    <lastmod>2017-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

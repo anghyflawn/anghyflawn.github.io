@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Mon, 11 Sep 2017 22:30:13 BST</updated>
+    <updated>Sat, 14 Oct 2017 15:04:17 BST</updated>
 
 
 
@@ -115,6 +115,114 @@
 
 
 <item>
+<title>Welsh</title>
+<link>http://anghyflawn.github.io/categories/welsh/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/welsh/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Presentations</title>
+<link>http://anghyflawn.github.io/presentation/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Historical Phonology</title>
+<link>http://anghyflawn.github.io/categories/historical-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/historical-phonology/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Breton</title>
+<link>http://anghyflawn.github.io/categories/breton/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/breton/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Towards a history of the tenseness contrast in Brythonic vowels</title>
+<link>http://anghyflawn.github.io/presentation/2017/esohph3/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2017/esohph3/</guid>
+<description>&lt;p&gt;Modern Welsh is similar to many modern Germanic languages such as English, German and Dutch in showing an association between &amp;lsquo;tense&amp;rsquo; vowel quality and phonological length. Specifically, long vowels tend to be tense in quality and short vowels tend to be lax, with concomitant alternations. As in the Germanic case, there is some disagreement in the literature on whether quality or quantity (or both) is phonologically relevant in Modern Welsh. In this paper I aim to add to this debate via an overview of the diatopic variation in the relationship between vowel quantity and quality in Welsh and more broadly in the Brythonic languages. I argue that tense/lax quality is likely to be diachronically secondary with respect to quantity, being derivable from prosodic contexts\dash primarily vowel length and syllable structure. One of the notable consequences of this is that even when tense/lax quality has been phonologized (as in, for instance, south-western dialects of Welsh), it is still partly conditioned by quantity and syllable structure; conversely, the distribution of quantity is not significantly determined by vowel quality, which supports the contention that quantity is synchronically active in Welsh phonology.&lt;/p&gt;
+
+&lt;p&gt;To support this case for a secondary development of tense/lax quality, I offer a reconstruction of its rise that starts with a tensing of word-final stressed vowels, perhaps initially only restricted to high vowels. This later undergoes rule generalization  to embrace both non-high vowels (as in most dialects with tense [e:~oː]) and to syllable-final rather than word-final position (as in South Welsh dialects, where long vowels are allowed in penultimate stressed syllables). I show that intermediate stages of this development are attested across modern Welsh dialects. The secondary nature of the development is supported by the fact that Breton largely shares the quantity system of Welsh, but not the patterning of tense/lax quality.&lt;/p&gt;
+
+&lt;p&gt;I argue that the Brythonic languages present an interesting test case for theories that attempt to connect the &amp;lsquo;transphonologization&amp;rsquo; of quantity as quality with the rise of vowel shifts: despite the long/short vowels undergoing a tense/lax split, much as in many Germanic languages, the Brythonic system neither became prone to vowel shifting (as in the case of English) nor underwent a further split where the new qualities fit into a new quantity system (as in many North Germanic varieties). I tentatively suggest that this may be due to the closer relationship between tense/lax quality and syllable structure rather than syllable quantity, which is itself related to the fact that Brythonic (and Welsh in particular) experienced less neutralization of vowel quality in unstressed syllables.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Laryngeal Phonology</title>
+<link>http://anghyflawn.github.io/categories/laryngeal-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/laryngeal-phonology/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Pre-sonorant voicing and language contact</title>
+<link>http://anghyflawn.github.io/presentation/2017/esohph3-fringe/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2017/esohph3-fringe/</guid>
+<description>&lt;p&gt;In this brief talk I draw attention to the fact that whilst pre-sonorant voicing of &lt;em&gt;fricatives&lt;/em&gt; across a word boundary appears to be fairly widely spread (at least in Europe), pre-sonorant voicing of &lt;em&gt;all obstruents&lt;/em&gt; appears to cluster in areas where &amp;lsquo;aspirating&amp;rsquo; languages are in contact with &amp;lsquo;voice&amp;rsquo; languages: the languages involved are Breton (Celtic/Gallo-Romance), Franconian/Netherlandic (e.g. Limburg Dutch, Luxembourgish), Western Polish and Slovak (Slavic/Germanic).&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>News</title>
+<link>http://anghyflawn.github.io/news/</link>
+<pubDate>Sat, 14 Oct 2017 15:02:16 BST</pubDate>
+<guid>http://anghyflawn.github.io/news/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>History of Phonology</title>
+<link>http://anghyflawn.github.io/news/2017/history-of-phonology/</link>
+<pubDate>Sat, 14 Oct 2017 15:02:16 BST</pubDate>
+<guid>http://anghyflawn.github.io/news/2017/history-of-phonology/</guid>
+<description>&lt;p&gt;I have a uploaded a draft version of my &lt;a href=&#34;http://anghyflawn.github.io/writing/history-of-phonology/&#34;&gt;paper on phonology in the Soviet Union&lt;/a&gt; for the forthcoming &lt;em&gt;Oxford History of Phonology&lt;/em&gt;. Comments welcome!&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Esohph</title>
+<link>http://anghyflawn.github.io/news/2017/esohph/</link>
+<pubDate>Sat, 14 Oct 2017 14:57:57 BST</pubDate>
+<guid>http://anghyflawn.github.io/news/2017/esohph/</guid>
+<description>&lt;p&gt;I will offer two presentations at the &lt;a href=&#34;http://www.lel.ed.ac.uk/symposium-on-historical-phonology/&#34;&gt;Third Edinburgh Symposium on Historical Phonology&lt;/a&gt;: a &lt;a href=&#34;http://anghyflawn.github.io/presentation/2017/esohph3-fringe/&#34;&gt;talk&lt;/a&gt; on pre-sonorant voicing and language contact in the fringe session on laryngeal phonology and a &lt;a href=&#34;http://anghyflawn.github.io/presentation/2017/esohph3/&#34;&gt;poster&lt;/a&gt; on the history of Brythonic tense and lax vowels in the main session.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
 <title>Univariate Statistics and Methodology Using R</title>
 <link>http://anghyflawn.github.io/teaching/2017/univariate-stats/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -153,11 +261,32 @@
 
 
 <item>
-<title>News</title>
-<link>http://anghyflawn.github.io/news/</link>
-<pubDate>Thu, 31 Aug 2017 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/news/</guid>
+<title>Writings</title>
+<link>http://anghyflawn.github.io/writing/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/</guid>
 <description></description>
+</item>
+
+
+
+<item>
+<title>History of Phonology</title>
+<link>http://anghyflawn.github.io/categories/history-of-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/history-of-phonology/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Phonology in the Soviet Union</title>
+<link>http://anghyflawn.github.io/writing/history-of-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/history-of-phonology/</guid>
+<description>&lt;p&gt;This invited contribution to a collection on the history of phonology explores the history of phonological studies in the USSR. I offer a short history of phonology in Russia and the USSR before the formation of the two main theoretical currents (the &amp;lsquo;Leningrad&amp;rsquo; and &amp;lsquo;Moscow&amp;rsquo; schools), and emphasize both their mutual common roots and their closeness to other structuralist frameworks, in particular Prague phonology. I discuss the differences between the two schools both in their approach to the phoneme and in their analysis of morphophonological alternations. Throughout, the focus is on the ways in which a focus on Russian shaped the directions of phonological thinking.&lt;/p&gt;
+</description>
 </item>
 
 
@@ -174,50 +303,10 @@
 
 
 <item>
-<title>Welsh</title>
-<link>http://anghyflawn.github.io/categories/welsh/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/categories/welsh/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Presentations</title>
-<link>http://anghyflawn.github.io/presentation/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Historical Phonology</title>
-<link>http://anghyflawn.github.io/categories/historical-phonology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/categories/historical-phonology/</guid>
-<description></description>
-</item>
-
-
-
-<item>
 <title>Celtic</title>
 <link>http://anghyflawn.github.io/categories/celtic/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/categories/celtic/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Breton</title>
-<link>http://anghyflawn.github.io/categories/breton/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/categories/breton/</guid>
 <description></description>
 </item>
 
@@ -296,16 +385,6 @@ secondary status of tenseness in penultimate stressed syllables.&lt;/p&gt;
 
 
 <item>
-<title>Writings</title>
-<link>http://anghyflawn.github.io/writing/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/</guid>
-<description></description>
-</item>
-
-
-
-<item>
 <title>Phonology Morphology Interface</title>
 <link>http://anghyflawn.github.io/categories/phonology-morphology-interface/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -352,16 +431,6 @@ secondary status of tenseness in penultimate stressed syllables.&lt;/p&gt;
 <link>http://anghyflawn.github.io/categories/north-germanic/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/categories/north-germanic/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Laryngeal Phonology</title>
-<link>http://anghyflawn.github.io/categories/laryngeal-phonology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/categories/laryngeal-phonology/</guid>
 <description></description>
 </item>
 
@@ -686,176 +755,6 @@ phonology.&lt;/p&gt;
 <description>&lt;p&gt;This course is an obligatory part of the pre-Honours sequence for students on the MA (Hons) degree in Gaelic and Primary Education. It will introduce students to the linguistic analysis of the Scottish Gaelic language, giving an overview of phonetics and phonology, morphology and syntax, together with consideration of key sociolinguistic principles and issues, including phenomena relating to language contact, language shift and status and corpus planning.&lt;/p&gt;
 
 &lt;p&gt;In &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;, I will teach the sections on phonetics and phonology and on language change.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>http://anghyflawn.github.io/teaching/2017/lel2e/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2017/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The Indo-European language family&lt;/li&gt;
-&lt;li&gt;Celtic languages&lt;/li&gt;
-&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For course materials, see the relevant page on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>LEL2D: Cross-Linguistic Variation: Limits and Theories</title>
-<link>http://anghyflawn.github.io/teaching/2017/lel2d/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2017/lel2d/</guid>
-<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block. You can get some idea of its contents by looking at the &lt;a href=&#34;http://resourcelists.ed.ac.uk/lists/1713C19C-E564-12A2-D85D-27A30B730228.html&#34;&gt;Resource List&lt;/a&gt; for last year&amp;rsquo;s course.&lt;/p&gt;
-
-&lt;p&gt;Course materials will be available on &lt;a href=&#34;https://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Historical Phonology</title>
-<link>http://anghyflawn.github.io/teaching/2017/historical-phonology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2017/historical-phonology/</guid>
-<description>&lt;p&gt;In this course (co-taught with my colleagues &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt; and &lt;a href=&#34;http://www.lel.ed.ac.uk/people/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt;) we consider a variety of issues connected to phonological change. Throughout the course, we address questions such as the following:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;How do we reconstruct the phonology of past language states?&lt;/li&gt;
-&lt;li&gt;What types of phonological changes are attested?&lt;/li&gt;
-&lt;li&gt;How can synchronic phonological theory assist us in the study of historical phonology?&lt;/li&gt;
-&lt;li&gt;What can we learn about the human language faculty by studying historical phonology?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;, I will cover the following topics (subject to change with extreme prejudice):&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mechanisms and types of phonological change&lt;/li&gt;
-&lt;li&gt;Phonological typology and phonological change&lt;/li&gt;
-&lt;li&gt;Historical phonology and phonological representations&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Course materials are available on &lt;a href=&#34;http://www.learn.ed.ac.uk&#34;&gt;Learn&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Celtic, English, and Norse in Contact</title>
-<link>http://anghyflawn.github.io/teaching/2017/celtic-norse-english/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/2017/celtic-norse-english/</guid>
-<description>&lt;p&gt;This course has three main objectives:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;An introduction to Celtic linguistics, via familiarizing students with the structural properties of Celtic languages&lt;/li&gt;
-&lt;li&gt;An brief introduction to the study of language contact, with particular attention to criteria used to diagnose contact features&lt;/li&gt;
-&lt;li&gt;A discussion of various ways in which Celtic and North Germanic languages interacted with each other and with English in the British Isles&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This course presupposes &lt;em&gt;no&lt;/em&gt; knowledge of any modern or ancient Celtic language. However, it is also open to students pursuing Honours degrees in Celtic, as long as they have passed one of the second-year Gaelic courses &amp;mdash; while some of the linguistic concepts may require a bit of effort (especially if you haven&amp;rsquo;t taken at least LEL1 in pre-Honours), much of the language material will be familiar or sufficiently similar to Gaelic.&lt;/p&gt;
-
-&lt;p&gt;It may be helpful (albeit not at all obligatory) for the early part of the course (which isn&amp;rsquo;t really about linguistics) to get some background on the early medieval period in Britain and Ireland. For a light but very informative introduction, one suggestion is &lt;a href=&#34;http://www.theambulist.co.uk/books/journeys&#34;&gt;Max Adams&amp;rsquo; &lt;em&gt;In the land of giants&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Here is the preliminary weekly plan for this year, subject to change with extreme prejudice&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Introduction and the historical setting
-
-&lt;ol&gt;
-&lt;li&gt;Celtic and the Anglo-Saxon conquest&lt;/li&gt;
-&lt;li&gt;Celtic and English in the Middle Ages. The Norse presence in England, Scotland, and Ireland&lt;/li&gt;
-&lt;li&gt;Language shift. &amp;lsquo;Celtic Englishes&amp;rsquo;&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Celtic language structures
-
-&lt;ol&gt;
-&lt;li&gt;Old Irish&lt;/li&gt;
-&lt;li&gt;Modern Irish phonology&lt;/li&gt;
-&lt;li&gt;Modern Irish morphosyntax&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Celtic language structures continued
-
-&lt;ol&gt;
-&lt;li&gt;Scottish Gaelic&lt;/li&gt;
-&lt;li&gt;Middle Welsh&lt;/li&gt;
-&lt;li&gt;Modern Welsh phonology&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Celtic language structures; language contact
-
-&lt;ol&gt;
-&lt;li&gt;Modern Welsh morphosyntax&lt;/li&gt;
-&lt;li&gt;An introduction to language contact. Agency in language contact&lt;/li&gt;
-&lt;li&gt;Sociolinguistic complexity and language contact&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Language contact; early Celtic-English contacts
-
-&lt;ol&gt;
-&lt;li&gt;Diagnosing historical language contact&lt;/li&gt;
-&lt;li&gt;The &amp;lsquo;Celtic hypothesis&amp;rsquo;: was Early English influenced by Celtic?&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;The Celtic hypothesis; the Norse influence in the Atlantic Isles
-
-&lt;ol&gt;
-&lt;li&gt;The Celtic hypothesis continued&lt;/li&gt;
-&lt;li&gt;Norse influence in the Old and Middle English periods&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;The Norse influence in Scotland
-
-&lt;ol&gt;
-&lt;li&gt;Class test (worth 30% of the mark)&lt;/li&gt;
-&lt;li&gt;The Norse influence and Gaelic&lt;/li&gt;
-&lt;li&gt;Celtic, Norse and Scots in the Northern Isles&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Celtic Englishes
-
-&lt;ol&gt;
-&lt;li&gt;Irish English&lt;/li&gt;
-&lt;li&gt;Celtic, Scots and Scottish English&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Celtic Englishes continued
-
-&lt;ol&gt;
-&lt;li&gt;Welsh English&lt;/li&gt;
-&lt;li&gt;&amp;lsquo;Substrate&amp;rsquo; transfer vs. learning mechanisms. Simplification under contact conditions and &amp;lsquo;Angloversals&amp;rsquo;&lt;/li&gt;
-&lt;li&gt;Course summary&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The remaining 70% of the mark will be assessed by a final essay of 3,000 words, to be written between the end of teaching and the start of the exam period.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>fino</title>
-<link>http://anghyflawn.github.io/news/2017/fino/</link>
-<pubDate>Tue, 03 Jan 2017 20:43:05 UTC</pubDate>
-<guid>http://anghyflawn.github.io/news/2017/fino/</guid>
-<description>&lt;p&gt;I presented &lt;em&gt;Variation in North Germanic preaspiration&lt;/em&gt; at the Fonologi i Norden (FiNo) conference at the University of Agder. &lt;a href=&#34;http://anghyflawn.github.io/presentation/2017/variation-north-germanic-preaspiration/&#34;&gt;Download slides and handout&lt;/a&gt;&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>phonology board</title>
-<link>http://anghyflawn.github.io/news/2017/phonology-board/</link>
-<pubDate>Tue, 03 Jan 2017 20:42:15 UTC</pubDate>
-<guid>http://anghyflawn.github.io/news/2017/phonology-board/</guid>
-<description>&lt;p&gt;From January 2017 I am serving on the editorial board of &lt;a href=&#34;https://www.cambridge.org/core/journals/phonology&#34;&gt;&lt;em&gt;Phonology&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
