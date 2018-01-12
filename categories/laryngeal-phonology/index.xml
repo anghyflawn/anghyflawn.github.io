@@ -25,15 +25,15 @@
     <language>en-gb</language>
     
     
-    <updated>Thu, 11 Jan 2018 16:37:38 GMT</updated>
+    <updated>Fri, 12 Jan 2018 10:46:11 GMT</updated>
 
 
 
 <item>
-<title>Teachings</title>
-<link>http://anghyflawn.github.io/teaching/</link>
+<title>Writings</title>
+<link>http://anghyflawn.github.io/writing/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/teaching/</guid>
+<guid>http://anghyflawn.github.io/writing/</guid>
 <description></description>
 </item>
 
@@ -50,6 +50,16 @@
 
 
 <item>
+<title>Phonological Theory</title>
+<link>http://anghyflawn.github.io/categories/phonological-theory/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/phonological-theory/</guid>
+<description></description>
+</item>
+
+
+
+<item>
 <title>Pavel Iosad</title>
 <link>http://anghyflawn.github.io/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -60,10 +70,30 @@
 
 
 <item>
+<title>Optimality Theory</title>
+<link>http://anghyflawn.github.io/categories/optimality-theory/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/optimality-theory/</guid>
+<description></description>
+</item>
+
+
+
+<item>
 <title>North Germanic</title>
 <link>http://anghyflawn.github.io/categories/north-germanic/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/categories/north-germanic/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>News</title>
+<link>http://anghyflawn.github.io/news/</link>
+<pubDate>Fri, 12 Jan 2018 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/</guid>
 <description></description>
 </item>
 
@@ -85,6 +115,19 @@
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/categories/historical-phonology/</guid>
 <description></description>
+</item>
+
+
+
+<item>
+<title>Optimality Theory: Motivations and perspectives</title>
+<link>http://anghyflawn.github.io/writing/ot-handbook/</link>
+<pubDate>Fri, 12 Jan 2018 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/ot-handbook/</guid>
+<description>&lt;p&gt;This chapter provides an introduction to the basic mechanisms of Optimality Theory in phonology and to the most important motivations cited for its widespread adoption. I also review some of the empirical and conceptual challenges it has faced. Ultimately, I suggest, many of these challenges can be traced back to the fact that while OT grew out of a general dissatisfaction with some aspects of late-1980s rule-based phonology, it was adopted as a general theory of phonological computation without an explicit statement of the division of labour vis-à-vis other components of linguistic knowledge with which it interacts. I conclude the chapter by a discussion of ways in which OT still remains relevant even within a changed phonological landscape.&lt;/p&gt;
+
+&lt;p&gt;The chapter is © Routledge&lt;/p&gt;
+</description>
 </item>
 
 
@@ -128,6 +171,27 @@ compare these findings to the recent discussion by Kristoffersen (2016)
 of the late discovery of the lack of tonal contrasts in rural dialects
 around Bergen.&lt;/p&gt;
 </description>
+</item>
+
+
+
+<item>
+<title>Fgls</title>
+<link>http://anghyflawn.github.io/news/2017/fgls/</link>
+<pubDate>Fri, 12 Jan 2018 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/news/2017/fgls/</guid>
+<description>&lt;p&gt;I presented &lt;em&gt;&lt;a href=&#34;http://anghyflawn.github.io/presentation/2018/fgls/&#34;&gt;Norwegian preaspiration in traditional and modern sources&lt;/a&gt;&lt;/em&gt; at the &lt;a href=&#34;http://www.conferences.cahss.ed.ac.uk/germanic-language-studies/&#34;&gt;13th Forum for Germanic Language Studies&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Teachings</title>
+<link>http://anghyflawn.github.io/teaching/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/teaching/</guid>
+<description></description>
 </item>
 
 
@@ -199,16 +263,6 @@ around Bergen.&lt;/p&gt;
 
 
 <item>
-<title>News</title>
-<link>http://anghyflawn.github.io/news/</link>
-<pubDate>Sat, 09 Dec 2017 21:44:31 UTC</pubDate>
-<guid>http://anghyflawn.github.io/news/</guid>
-<description></description>
-</item>
-
-
-
-<item>
 <title>Teaching</title>
 <link>http://anghyflawn.github.io/news/2017/teaching/</link>
 <pubDate>Sat, 09 Dec 2017 21:44:31 UTC</pubDate>
@@ -225,17 +279,6 @@ around Bergen.&lt;/p&gt;
 <pubDate>Sat, 09 Dec 2017 21:41:13 UTC</pubDate>
 <guid>http://anghyflawn.github.io/news/2017/pilot/</guid>
 <description>&lt;p&gt;I have been awarded funding from the &lt;a href=&#34;http://www.ppls.ed.ac.uk&#34;&gt;School of Philosophy, Psychology and Language Sciences&lt;/a&gt; Pilot Project Fund to initiate work on a database of Gaelic dialect forms.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Fgls</title>
-<link>http://anghyflawn.github.io/news/2017/fgls/</link>
-<pubDate>Sat, 09 Dec 2017 21:39:32 UTC</pubDate>
-<guid>http://anghyflawn.github.io/news/2017/fgls/</guid>
-<description>&lt;p&gt;I will present &lt;em&gt;&lt;a href=&#34;http://anghyflawn.github.io/presentation/2018/fgls/&#34;&gt;Norwegian preaspiration in traditional and modern sources&lt;/a&gt;&lt;/em&gt; at the &lt;a href=&#34;http://www.conferences.cahss.ed.ac.uk/germanic-language-studies/&#34;&gt;13th Forum for Germanic Language Studies&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
@@ -546,16 +589,6 @@ the statute books.&lt;/p&gt;
 
 
 <item>
-<title>Writings</title>
-<link>http://anghyflawn.github.io/writing/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/</guid>
-<description></description>
-</item>
-
-
-
-<item>
 <title>History of Phonology</title>
 <link>http://anghyflawn.github.io/categories/history-of-phonology/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -853,99 +886,6 @@ secondary status of tenseness in penultimate stressed syllables.&lt;/p&gt;
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/categories/initial-consonant-mutations/</guid>
 <description></description>
-</item>
-
-
-
-<item>
-<title>obo</title>
-<link>http://anghyflawn.github.io/news/2016/obo/</link>
-<pubDate>Tue, 28 Feb 2017 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/news/2016/obo/</guid>
-<description>&lt;p&gt;My annotated bibliography of works related to Celtic initial consonant mutations has appeared in &lt;em&gt;Oxford Bibliographies Online&lt;/em&gt; &lt;a href=&#34;https://doi.org/10.1093/OBO/9780199772810-0146&#34;&gt;here&lt;/a&gt;. The table of contents is available &lt;a href=&#34;http://anghyflawn.github.io/writing/mutations-bibliography/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Celtic mutations</title>
-<link>http://anghyflawn.github.io/writing/mutations-bibliography/</link>
-<pubDate>Tue, 28 Feb 2017 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/mutations-bibliography/</guid>
-<description>&lt;p&gt;This is an annotated and commented bibliography of works related to the initial consonant mutations of Celtic languages, available by subscription via &lt;a href=&#34;https://doi.org/10.1093/OBO/9780199772810-0146&#34;&gt;&lt;em&gt;Oxford Bibliographies Online&lt;/em&gt;&lt;/a&gt;. Here is the table of contents:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Introduction&lt;/li&gt;
-&lt;li&gt;General overviews
-
-&lt;ol&gt;
-&lt;li&gt;Descriptions of individual languages
-
-&lt;ol&gt;
-&lt;li&gt;Welsh&lt;/li&gt;
-&lt;li&gt;Breton&lt;/li&gt;
-&lt;li&gt;Cornish&lt;/li&gt;
-&lt;li&gt;Irish&lt;/li&gt;
-&lt;li&gt;Scottish Gaelic&lt;/li&gt;
-&lt;li&gt;Manx&lt;/li&gt;
-&lt;li&gt;Ancient Celtic languages&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;General bibliographic resources&lt;/li&gt;
-&lt;li&gt;The phonology of mutations
-
-&lt;ol&gt;
-&lt;li&gt;Structuralist approaches&lt;/li&gt;
-&lt;li&gt;Rule-based phonology&lt;/li&gt;
-&lt;li&gt;Nonlinear phonology&lt;/li&gt;
-&lt;li&gt;Optimality Theory&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;The syntax of mutation
-
-&lt;ol&gt;
-&lt;li&gt;The triggering of mutation&lt;/li&gt;
-&lt;li&gt;Direct object mutation in Welsh&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Mutations and morphology&lt;/li&gt;
-&lt;li&gt;Mutations and interfaces
-
-&lt;ol&gt;
-&lt;li&gt;Mutations and other components of grammar&lt;/li&gt;
-&lt;li&gt;Language variation and change&lt;/li&gt;
-&lt;li&gt;Mutation in &amp;lsquo;non-traditional&amp;rsquo; varieties&lt;/li&gt;
-&lt;li&gt;Acquisition and psycholinguistics&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Diachrony of mutations
-
-&lt;ol&gt;
-&lt;li&gt;The origins of mutations&lt;/li&gt;
-&lt;li&gt;The historical development of mutations&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Typological comparison&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Since the published version does not have an acknowledgements facility, I would like to thank here two anonymous reviewers, Peadar Ó Muircheartaigh, Máire Ní Chiosáin, and Christopher Lewin for valuable criticisms and suggestions.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Variation in North Germanic preaspiration</title>
-<link>http://anghyflawn.github.io/presentation/2017/variation-north-germanic-preaspiration/</link>
-<pubDate>Sat, 25 Feb 2017 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/presentation/2017/variation-north-germanic-preaspiration/</guid>
-<description>&lt;p&gt;I consider the extent of cross-dialectal variation in the expression of laryngeal contrast within North Germanic, with a focus on (voiceless) preaspiration, and suggest that the presence of preaspiration and the diversity of its realization across the North Germanic area have been significantly under-reported in the past.&lt;/p&gt;
-
-&lt;p&gt;As discussed by Pétur Helgason (2002), whilst preaspiration and sonorant devoicing in Insular Nordic have long been recognized by the scholarship, their distribution and behaviour in mainland varieties have been less well understood. Traditional descriptions designate preaspiration as characteristic of varieties in Jæren  and Gudbrandsdalen, with only passing references for other dialects such as that of Senja. In Sweden, preaspiration had been noted in Härjedalen and parts of Dalarna, as well as in dialects of the Baltic Sea islands (Gräsö, Åland and Åboland). However, as Pétur Helgason (2002) has shown, preaspiration is pervasive in other varieties, notably Central Standard Swedish. More recently preaspiration has also been studied in detail in Trøndelag Norwegian.&lt;/p&gt;
-
-&lt;p&gt;Whilst Pétur Helgason (2002) makes an important distinction between ‘normative’ and ‘non-normative’ preaspiration, and highlights some differences in the patterning of preaspiration between dialects, the degree of internal variation in the behaviour of preaspiration so far appears relatively small. This is in striking contrast to the significant variability observed in Scottish Gaelic preaspiration despite the comparable, if not smaller, time depth. For now, it is not clear whether this lack of variation may simply be due to under-reporting in traditional auditory descriptions. Tengesdal (2015), in an instrumental study, has shown Oftedal’s (1947) claim that preaspiration of fortis stops is absent in south-east Jæren (Bjerkreim/Dalane) to likely have been incorrect. Preaspiration in ‘non-preaspirating’ areas is also evidenced in the Nordic Dialect Corpus.&lt;/p&gt;
-
-&lt;p&gt;I present a comparative acoustic study of preaspiration in two regions of Norway: Jæren, traditionally considered a preaspirating area, and Northern Norway, where preaspiration has not been consistently described before. I show that preaspiration is in fact prevalent in (some) northern dialects, at rates not dissimilar to those in the west. However, there are also important differences in patterning.&lt;/p&gt;
-
-&lt;p&gt;Documenting the diversity of ways in which laryngeal contrast is realized even in closely related varieties is important for our understanding of the relationship between phonological specification and phonetic substance. I argue that the study of microvariation in laryngeal contrast supports a substance-free view of that relationship, in that even relatively abstract substance-bound approaches such as laryngeal realism  underpredict the fine-grained behaviour of features such as preaspiration. At the same time laryngeal realism and substance-free approaches both readily account for asymmetries in phonological behaviour between fortis and lenis stops. For instance, they predict that Western Norwegian voiceless lenes should be inert in assimilation despite being categorically voiceless phonetically, which I show to be correct in the case of [ʁ]-devoicing.&lt;/p&gt;
-</description>
 </item>
 
 
