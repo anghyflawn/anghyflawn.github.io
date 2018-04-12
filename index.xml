@@ -25,17 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Fri, 12 Jan 2018 10:48:59 GMT</updated>
-
-
-
-<item>
-<title>Writings</title>
-<link>http://anghyflawn.github.io/writing/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/</guid>
-<description></description>
-</item>
+    <updated>Thu, 12 Apr 2018 12:57:27 BST</updated>
 
 
 
@@ -50,20 +40,159 @@
 
 
 <item>
-<title>Phonological Theory</title>
-<link>http://anghyflawn.github.io/categories/phonological-theory/</link>
+<title>Pavel Iosad</title>
+<link>http://anghyflawn.github.io/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/categories/phonological-theory/</guid>
+<guid>http://anghyflawn.github.io/</guid>
 <description></description>
 </item>
 
 
 
 <item>
-<title>Pavel Iosad</title>
-<link>http://anghyflawn.github.io/</link>
+<title>Historical Phonology</title>
+<link>http://anghyflawn.github.io/categories/historical-phonology/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/</guid>
+<guid>http://anghyflawn.github.io/categories/historical-phonology/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Germanic</title>
+<link>http://anghyflawn.github.io/categories/germanic/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/germanic/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Celtic</title>
+<link>http://anghyflawn.github.io/categories/celtic/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/celtic/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>English epenthesis in lC and rC clusters</title>
+<link>http://anghyflawn.github.io/presentation/2018/icehl/</link>
+<pubDate>Thu, 12 Apr 2018 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2018/icehl/</guid>
+<description>&lt;p&gt;The insertion of an unstressed vowel in &lt;em&gt;lC&lt;/em&gt; and &lt;em&gt;rC&lt;/em&gt; clusters of non-rising sonority (&lt;em&gt;fil[ə]m&lt;/em&gt;), is widely known as characteristic of Irish English. It is frequently cited as a substrate feature carried over from Irish, where this process is productive (Ní Chiosáin 1999), as it is in the related Scottish Gaelic. However, this feature is also known from Older Scots, modern Scots dialects (Maguire 2017), and traditional varieties of English. Therefore, it might be an areal effect in the British and Irish Isles; notably, a similar phenomenon is also attested in Welsh (e. g. Schumacher 2011, Iosad 2017)&lt;/p&gt;
+
+&lt;p&gt;We reconsider whether areality best explains the prevalence of epenthesis in English. Epenthesis in various rC and lC clusters recurs throughout the history of English: Luick (1914) identifies two separate sound changes involving this epenthesis in Old English, with a third one in Middle English (Jordan 1934), all with different trigger contexts and patterns of quality of the epenthetic vowel. In fact, epenthesis in such clusters is extremely common across West Germanic (cf. Howell &amp;amp; Somers Wicka 2007): it is attested in Old High German (Reutercrona 1920, Braune 2004) and retained in Middle High German (Michels 1979) and many modern dialects (Schirmunski 1962); in Old, Middle, and Modern Dutch (van Loey 1976, Warner et al. 2001), and in Frisian (Steller 1928, Visser 2017). Epenthesis appears rarely in ancient North Germanic, but is widely attested at least in Danish dialects (Hansen 1962). Common to Germanic epenthesis patterns are a diversity of affected clusters and qualities of inserted vowel, a lack of regularity of epenthesis as a sound change, and erosion over time due to syncope processes targeting both epenthetic and original vowels. This makes it clear they cannot all be inherited from a single sound change in the protolanguage.&lt;/p&gt;
+
+&lt;p&gt;We argue that parallel developments of post-sonorant epenthesis across (at least West) Germanic represent an instance of drift arising from variation at an earlier stage (e. g. Joseph 2013). The recurring epenthesis ‘events’ are not separate, but instead are best seen as attestations of a variable phenomenon always present to some extent in the West Germanic languages. This makes them distinct from exceptionless excrescence, which arises from retiming of vocalic gestures (Hall 2006), as attested in Scottish Gaelic and in the Sámi languages. We argue that these differences undermine the case for epenthesis as an areal feature in the British and Irish Isles.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Scottish Gaelic</title>
+<link>http://anghyflawn.github.io/categories/scottish-gaelic/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/scottish-gaelic/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Prosody</title>
+<link>http://anghyflawn.github.io/categories/prosody/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/prosody/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>A metrical analysis of Scottish Gaelic tonal accent</title>
+<link>http://anghyflawn.github.io/presentation/2018/rnag/</link>
+<pubDate>Thu, 12 Apr 2018 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2018/rnag/</guid>
+<description>&lt;p&gt;I provide a new analysis of the ‘tonal accent’ opposition in Gaelic, conceptualizing it as involving lexically specified metrical — in particular foot — structure. As discussed among others by Ternes (1980, 2006), many Gaelic varieties use suprasegmental features such as pitch (e.g. Lewis, Wester Ross) or glottalization (e.g. Jura, Colonsay) to make two kinds of distinctions: disyllabic hiatus vs. heavy syllables (&lt;em&gt;àth&lt;/em&gt; vs. &lt;em&gt;atha&lt;/em&gt;); and disyllabic vs. svarabhakti words (&lt;em&gt;balg&lt;/em&gt; vs. &lt;em&gt;balach&lt;/em&gt;). Ternes rightly compares these patterns with tonal accent systems in Germanic, and postulates lexical tone as the key distinction between the two ‘accents’.&lt;/p&gt;
+
+&lt;p&gt;Non-tonal analyses have been proposed by authors such as Bosch &amp;amp; de Jong (1997); Smith (1999); Brown (2009); Iosad (2015). In particular, Smith and Iosad offer analyses where the svarabhakti vowel in words like balg is metrically invisible, with consequences for the patterning of tone and glottalization. However, this analysis can only work if svarabhakti vowels are fully predictable synchronically. In this simple form, the analysis is untenable: svarabhakti vowels may be absent in contexts where they are phonologically motivated (e.g. [x] representing preaspiration of [k] does not trigger svarabhakti &lt;em&gt;olc&lt;/em&gt; [ɔɫxk], *[ɔɫɔxk]), and conversely svarabhakti-related suprasegmental patterns can appear when they are synchronically unmotivated (e.g. [faɫa.i], [mara.i] with ‘monosyllabic’ accent for &lt;em&gt;falbhaidh&lt;/em&gt;, &lt;em&gt;marbhaidh&lt;/em&gt;). Similar counterexampels can be adduced for glottalization: compare [marəv] for marbh with svarabhakti-induced lack of glottalization but [marɪç] &lt;em&gt;marbhaidh&lt;/em&gt; where the lack of [ʔ] cannot be so explained. Building on recent work in the analysis of tonal accents (e.g. Morén-Duolljá 2013, Köhnlein 2016, Iosad 2016, Kehrein 2017), in this paper I show how these problems can be resolved if both glottalization and tonal accents in Scottish Gaelic are analysed using lexically pre-specified foot structure.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Substance Free Phonology</title>
+<link>http://anghyflawn.github.io/categories/substance-free-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/substance-free-phonology/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Russian</title>
+<link>http://anghyflawn.github.io/categories/russian/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/russian/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Phonetics Phonology Interface</title>
+<link>http://anghyflawn.github.io/categories/phonetics-phonology-interface/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/phonetics-phonology-interface/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>There is no problem of /v/ in Russian phonology</title>
+<link>http://anghyflawn.github.io/presentation/2018/26mfm/</link>
+<pubDate>Thu, 12 Apr 2018 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/presentation/2018/26mfm/</guid>
+<description>&lt;p&gt;The dual behaviour of /v/ has been a notorious crux in Russian phonology since at least Jakobson (1956). The basic problem is that /v/ fails to trigger voicing assimilation, like sonorants, but undergoes both assimilation to following obstruents  and final devoicing, like obstruents.&lt;/p&gt;
+
+&lt;p&gt;The commonest solution in the literature is representational: [v] is treated as a sonorant, either an underlying /w/ (Lightner 1972, Hayes 1984, Kiparsky 1985) or some labial non-glide (Coats &amp;amp; Harshenin 1971, Padgett 2002). Most recently, Reiss (2017) analyses /v/ as /V/, underspecified for [±voice] – patterning with sonorants, but not a sonorant in featural terms – that is devoiced to [f]. He argues that this is an insurmountable challenge to the Contrastivist Hypothesis (Hall 2007), since [v] and [f] are minimally distinct in terms of voicing, but do not pattern phonologically like other similar pairs in Russian.&lt;/p&gt;
+
+&lt;p&gt;The argument rests on two premises: Russian /v/ lacks a voicing specification, and is thus unable to trigger assimilation (cf. Kiparsky 1985, Hall 2004), but becomes phonologically voiceless in the course of the derivation. In this paper I argue that the first premise is correct, but there is no evidence that the latter process is phonological; instead, there is every reason to treat all (de)voicing patterns affecting Russian /v/ as belonging to the phonetic component, just as is the case for sonorants.&lt;/p&gt;
+
+&lt;p&gt;Under this analysis, the apparent serial interaction of the obstruentization of /v/ and its devoicing follows from the feed-forward architecture of grammar, not from ordering within the phonology (for a related analysis, see Knyazev 2004, 2006). I argue that Russian /v/ is laryngeally underspecified not just in the input to phonology but also in its output; it is in no sense the voiced counterpart of /f/, which joins the better known [t͡s], [t͡ʃʲ], and [x] in lacking such a counterpart (cf. already Kiparsky 1985). If the patterns of /v/ (de)voicing are phonetic, then a whole host of facts cease to be problematic for phonological analysis, including the famous variability in the behaviour of devoiced /v/ as an assimilation trigger ([jazf] ∼ [jasf] for /jazv/ ‘sore.GEN.PL’; Reformatskiĭ 1975); the behaviour of [v] and sonorants in voicing assimilation (Kulikov 2013); the fact that some (de)voicing patterns are specific to [v], such as the minority but robust pattern of progressive assimilation in [v#v] sequences (Vorontsova 2007); and the sensitivity of sonorant and /v/ (de)voicing to prosodic boundary strength.&lt;/p&gt;
+
+&lt;p&gt;The dissociation between laryngeal assimilation in obstruents and in /v/ is also expected to follow from the life cycle of phonological processes (Bermúdez-Otero 2015): historically, the former predates the latter by several centuries, and there is ample dialect evidence showing that the devoicing of /v/, even where it did happen, did not always result in [f], [x] being a frequent outcome (e. g. Kasatkin 2005, Galinskaya 2008). The proposed analysis is reminiscent of ‘rule scattering’ (Zsiga 2000, Bermúdez- Otero 2015), with both phonological and phonetic patterns of (de)voicing found in the same language; in fact, I argue that phonetic /v/ (de)voicing coexists with another phonetic pattern of obstruent devoicing and assimilation – the gradient congener of phonological assimilation rules arising via rule scattering.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, many aspects of the behaviour of Russian [v] may have a phonetic rationale, at least historically (albeit possibly not synchronically, as argued by Bjorndahl 2015). However, in this paper I argue that the best analysis of the problem of /v/ is a substance-free one that does not encode these explanations in the phonological grammar, contra e. g. Padgett (2002), but also respects the privileged role of contrast in phonological representation, contra Reiss (2017).&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Writings</title>
+<link>http://anghyflawn.github.io/writing/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/writing/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Phonological Theory</title>
+<link>http://anghyflawn.github.io/categories/phonological-theory/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://anghyflawn.github.io/categories/phonological-theory/</guid>
 <description></description>
 </item>
 
@@ -104,16 +233,6 @@
 <link>http://anghyflawn.github.io/categories/laryngeal-phonology/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/categories/laryngeal-phonology/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Historical Phonology</title>
-<link>http://anghyflawn.github.io/categories/historical-phonology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/categories/historical-phonology/</guid>
 <description></description>
 </item>
 
@@ -632,16 +751,6 @@ the statute books.&lt;/p&gt;
 
 
 <item>
-<title>Celtic</title>
-<link>http://anghyflawn.github.io/categories/celtic/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/categories/celtic/</guid>
-<description></description>
-</item>
-
-
-
-<item>
 <title>Bridging the gap</title>
 <link>http://anghyflawn.github.io/presentation/2017/dias/</link>
 <pubDate>Wed, 30 Aug 2017 00:00:00 UTC</pubDate>
@@ -746,16 +855,6 @@ secondary status of tenseness in penultimate stressed syllables.&lt;/p&gt;
 
 
 <item>
-<title>Substance Free Phonology</title>
-<link>http://anghyflawn.github.io/categories/substance-free-phonology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/categories/substance-free-phonology/</guid>
-<description></description>
-</item>
-
-
-
-<item>
 <title>Microvariation in laryngeal realism</title>
 <link>http://anghyflawn.github.io/presentation/2017/25mfm/</link>
 <pubDate>Sat, 27 May 2017 00:00:00 UTC</pubDate>
@@ -769,123 +868,6 @@ secondary status of tenseness in penultimate stressed syllables.&lt;/p&gt;
 &lt;p&gt;This microvariation in the expression of laryngeal contrast is important for our understanding of the relationship between phonological specification and phonetic substance. In particular, I suggest that the precise phonetic interpretation of a distinction between (say) fortis and lenis stops can be much more diverse than can be provided for by a theory deriving these differences from phonological specification, such as some versions of laryngeal realism.&lt;/p&gt;
 
 &lt;p&gt;A further argument in favour of the primacy of phonological behaviour is provided by [ʁ]-devoicing in south-western dialects. I argue that is both phonetically categorical (in contrast to lateral and nasal devoicing) and phonological, being triggered only by |fortis| stops. Crucially, lenis stops do not trigger any sonorant devoicing, even gradiently, despite being categorically voiceless (rather than &amp;lsquo;passively voiced&amp;rsquo;) themselves. This coarse-grained phonological behaviour is consistent with a substance-free privative analysis where obstruents are specified as |fortis| vs. ∅, but not with one that attempts to capture the phonetic behaviour of lenis stops in phonological representations.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>The government has a plan for Gaelic, and you won&#39;t believe what it is</title>
-<link>http://anghyflawn.github.io/blog/2017/dastardly-plan-gaelic/</link>
-<pubDate>Tue, 16 May 2017 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/blog/2017/dastardly-plan-gaelic/</guid>
-<description>&lt;p&gt;An important dimension that&amp;rsquo;s often missing from the debates about whether it&amp;rsquo;s worthwhile to support Gaelic or promote Scots in Scotland is &lt;em&gt;why&lt;/em&gt; one would do such a thing in the first place. In today&amp;rsquo;s feverish political environment these things slide all too often into outright constitutional mudslinging or at least a debate that foregrounds the essential Scottishness of the country&amp;rsquo;s languages, either as a &lt;a href=&#34;http://www.thenational.scot/comment/14871672.Wee_Ginger_Dug__A_Gaelic_map_isn___t____Gaelic_imperialism_____it___s_a_restorative_act_for_the_language_which_created_Scotland&#34;&gt;good thing&lt;/a&gt; or a &lt;a href=&#34;http://www.scotsman.com/news/opinion/comment-gaelic-signs-a-spurious-vanity-project-for-snp-1-4442999&#34;&gt;bad thing&lt;/a&gt;. Scott Hames has &lt;a href=&#34;http://bellacaledonia.org.uk/2016/02/19/not-nationality-but-language&#34;&gt;written&lt;/a&gt; about this approach being unhelpful, and &lt;a href=&#34;http://anghyflawn.github.io/blog/2016/gaelic-belongs-to-all/&#34;&gt;I agree&lt;/a&gt;. But if this is not about nationality, &lt;em&gt;why indeed&lt;/em&gt; would one put up Gaelic signs in the Borders or push for more recognition of Scots?&lt;/p&gt;
-
-&lt;p&gt;Several misconceptions are widespread among both opponents and supporters of minority language promotion. For instance, the introduction of Gaelic or Scots into schools is often framed as an attempt by the government to &amp;lsquo;teach [alternatively, indoctrinate] the children to speak&amp;rsquo; the minority language &amp;mdash; ominously, at the expense of Standard English? The infamous Gaelic signs (the number of which in all of the Lowlands probably runs, let&amp;rsquo;s face it, into the low three figures) are seen as an attempt to stake a claim on territory for Gaelic, presumably on the basis of it having been spoken in the area historically; this often tends to provoke a backlash along the lines of &amp;lsquo;why don&amp;rsquo;t we promote Welsh then &amp;mdash; isn&amp;rsquo;t it the closest living relative of the historical language of Lowland Scotland?&amp;rsquo; &lt;a href=&#34;https://medium.com/@theiaincameron/gaelic-road-signs-f14235b2984b&#34;&gt;Here&lt;/a&gt; is a typical example.  This latter argument, of course, is only true if the purpose of Gaelic signs is to promote Gaelic for these historical reasons &amp;mdash; which supporters of the language are often wont to support, pointing to the very real Gaelic heritage of much of the country.&lt;/p&gt;
-
-&lt;p&gt;These ideas, whether espoused by well-wishers or detractors of minority languages, suffer from a failure to invert the majority&amp;rsquo;s perspective. Those who do not identify as members of the linguistic minority tend to see language policy as largely aimed at &lt;em&gt;them&lt;/em&gt;, rather than catering for the needs and desires of the minority speakers themselves. Hence the frequent trope of the language being &amp;lsquo;pushed down our throats&amp;rsquo; and &amp;lsquo;subsidies&amp;rsquo; and &amp;lsquo;catering to the needs of the minority at the expense of the majority&amp;rsquo;.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;rsquo;s the problem: the kind of visible gestures that raise the most public ire are, in fact, just that: gestures. It is preposterous to think that having a &amp;lsquo;Burns week&amp;rsquo; at school or a bunch of English lessons attempting to write a poem in Scots (it&amp;rsquo;s always a poem, of course) is sufficient to guide pupils&amp;rsquo; linguistic behaviour outside class. The way people end up speaking depends on the speech first of their caregivers, then of their peers, perhaps particularly in adolescence, and also on their attitude to the different in- and out-groups they are members of.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; A lesson or two in written Scots will no more turn a child with a middle-class accent into a speaker of broad Scots than many years of schooling eradicate non-standard varieties in working-class communities.&lt;/p&gt;
-
-&lt;p&gt;Similarly, a couple of signs at a railway station or the introduction of Gaelic into local council branding will not indoctrinate children into speaking Gaelic, and I strongly suspect they will not be able to somehow push children into having a stronger Scottish identity than they otherwise would have. Such token gestures are utterly ineffectual at the aims that they are commonly seen to have. If you&amp;rsquo;re looking for an actually effective policy tool, look at the &lt;a href=&#34;http://www.bbc.co.uk/naidheachdan/39791058&#34;&gt;LEACAG project&lt;/a&gt; currently conducted by several Scottish universities working towards a reference grammar of Gaelic, with funding from Bòrd na Gàidhlig. Yet it doesn&amp;rsquo;t seem to be the target of quite so much ire.&lt;/p&gt;
-
-&lt;p&gt;Why do it then? It starts making sense if you look at it from the perspective of someone who &lt;em&gt;is&lt;/em&gt; (or aspires to be) a speaker of a minority language or a non-standard variety. This is part of &lt;em&gt;prestige planning&lt;/em&gt; &amp;mdash; measures that improve the perceived status of the minority language in the broader society and building democratic consent for further policy initiatives in that area. In this respect, involving the language in &amp;lsquo;official&amp;rsquo; uses such as signage or school teaching is a signal both to the minority language users themselves and to the society at large that minority and non-standard varieties are valued and respected, and not an irrelevance or an inconvenience to be dismissed. That is an important part of promoting the languages: speakers&amp;rsquo; attitudes to their language are partly, of course, personal, but also shaped to a large extent by the broader societal attitudes &amp;mdash; can we really always expect a person growing up in an environment for few signs of appreciation for the way they speak to have a positive attitude to it themselves?&lt;/p&gt;
-
-&lt;p&gt;This is also the problem with the often-made argument that Scotland-wide promotion of Gaelic is a waste of resources and funding should be concentrated in areas where it has a stronger claim to being a &amp;lsquo;regional&amp;rsquo; language (in practice, the Highlands &amp;mdash; not even perhaps all of it &amp;mdash; and Islands). But look at it from the perspective of a speaker or user of Gaelic. The intent of the current policy is to signal to them: &amp;lsquo;we value your language because of who you are &amp;mdash; one of us &amp;mdash; not because of where you live&amp;rsquo;. A &amp;lsquo;regional&amp;rsquo; policy says: &amp;lsquo;we&amp;rsquo;ll allow you weirdos to have your fun where there&amp;rsquo;s enough of you around, but please don&amp;rsquo;t come here inconveniencing us, the numerical majority who actually matter&amp;rsquo;. This is, in some ways, quite an insidious argument that makes a &amp;lsquo;democratic&amp;rsquo; appeal to the will of the majority against the interests of the minority.&lt;/p&gt;
-
-&lt;p&gt;Have a look at &lt;a href=&#34;http://www.bbc.co.uk/programmes/b08q3ln9&#34;&gt;this programme&lt;/a&gt; recently broadcast on BBC Alba. It&amp;rsquo;s on Gaelic in Aberdeen, showing how people with backgrounds from both the north-east and elsewhere keep the flag flying. All too often they hear people say &amp;lsquo;but it was never spoken here&amp;rsquo;, &amp;lsquo;it is being imposed&amp;rsquo;. And yet they have lived in the north-east for years, sometimes, as some of those interviewed, all their lives &amp;mdash; they are living proof that it &lt;em&gt;is&lt;/em&gt; spoken. How do you tell such a person that their language is an imposition and an inconvenience? This sort of argument betrays a fundamental lack of empathy.&lt;/p&gt;
-
-&lt;p&gt;This is true even when the argument is couched in the language of &amp;lsquo;I have nothing against it, but it should stand on its own two feet&amp;rsquo;. It is majority communities that have the luxury of being confident their culture and language aren&amp;rsquo;t going away, because they already have the support structure and the social scaffolding that ensures their culture and language remain in it. Building and maintaining these structures requires the kind of time and effort that very few people have to spare. Telling them to get on with it and stop being so damn visible shows the very same lack of empathy for these circumstances.&lt;/p&gt;
-
-&lt;p&gt;(Parenthetically, the programme, quite well done and produced, is largely preaching to the choir when it&amp;rsquo;s on BBC Alba. An establishment really keen on promoting and imposing Gaelic would be showing it, probably in English, on prime-time BBC One. As noted, if the SNP or whoever are intent on pushing the language down everybody&amp;rsquo;s throats, they are doing a pretty rubbish job of it.)&lt;/p&gt;
-
-&lt;p&gt;There is, of course, a cultural, heritage argument to be made for the promotion of Gaelic &amp;mdash; one that can be legitimately appealed to if we want to decide on, say, the appropriate level of support for &amp;lsquo;immigrant&amp;rsquo; minority languages that have a &amp;lsquo;home base&amp;rsquo; outside of Scotland. But it is by no means a central plank of Gaelic-language policy. Minority language policy should focus on protecting the rights of speakers, and the rights of speakers are best served with a coherent programme of language planning. This includes prestige planning that aims to build consent for the protection of speakers&amp;rsquo; rights everywhere &amp;mdash; not just in designated areas where they are tolerated, but wherever they choose to live. People who think others shouldn&amp;rsquo;t have these rights are of course entitled to their opinion, but it would be great if they argued their case on that basis, not referring to an imagined nationalist plot or bungled heritage programme.&lt;/p&gt;
-
-&lt;p&gt;PS- If you want to put yourself into the shoes of a minority language speaker Who Has Had Enough, I highly recommend &lt;a href=&#34;https://storify.com/nwdls/on-being-a-rude-welsh-speaker&#34;&gt;this tweetstorm by @Madeley&lt;/a&gt;.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;Incidentally, some of the groundbreaking research in this area was conducted in the significantly Scots-speaking community of Buckie in the north-east of Scotland.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>phonology paper</title>
-<link>http://anghyflawn.github.io/news/2017/phonology-paper/</link>
-<pubDate>Tue, 09 May 2017 10:15:15 BST</pubDate>
-<guid>http://anghyflawn.github.io/news/2017/phonology-paper/</guid>
-<description>&lt;p&gt;My paper &lt;em&gt;The phonologization of redundancy: Length and quality in Welsh vowels&lt;/em&gt; has appeared in the latest issue of &lt;em&gt;Phonology&lt;/em&gt;. See the published version &lt;a href=&#34;https://doi.org/10.1017/S0952675717000057&#34;&gt;here&lt;/a&gt; or the author manuscript &lt;a href=&#34;http://anghyflawn.github.io/writing/welsh-vowels-phonologization/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Phonetics Phonology Interface</title>
-<link>http://anghyflawn.github.io/categories/phonetics-phonology-interface/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/categories/phonetics-phonology-interface/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Papers</title>
-<link>http://anghyflawn.github.io/categories/papers/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/categories/papers/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Feature Theory</title>
-<link>http://anghyflawn.github.io/categories/feature-theory/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/categories/feature-theory/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Contrast in Phonology</title>
-<link>http://anghyflawn.github.io/categories/contrast-in-phonology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/categories/contrast-in-phonology/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>The phonologization of redundancy</title>
-<link>http://anghyflawn.github.io/writing/welsh-vowels-phonologization/</link>
-<pubDate>Fri, 05 May 2017 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/welsh-vowels-phonologization/</guid>
-<description>&lt;p&gt;‘Phonologization’ is a process whereby a phonetic phenomenon enters the phonological grammar and becomes conceptualized as the result of categorical manipulation of phonological symbols. I analyse the phonologization of a predictable phonological pattern in Welsh, with particular attention to identifying criteria for whether phonologization has occurred. I argue for a model where phonologization experiences bottom-up and top-down biases. From the bottom up, there is pressure to phonologize phenomena with a categorical distribution; from the top down, there exist formal constraints on featural specification. I focus on the requirement for featural specifications to obey the Contrastivist Hypothesis, which denies that redundant features can be involved in phonological computation, in the context of a framework with emergent features. I suggest that the Contrastivist Hypothesis acts as a useful check for emergent-feature theories, whilst independent phonologization criteria provide contrastivist approaches with a more solid conceptual underpinning.&lt;/p&gt;
-
-&lt;p&gt;You can also download the R notebook with the graphics and scripts from the paper and the data itself &lt;a href=&#34;https://doi.org//10.17605/OSF.IO/HD3BZ&#34;&gt;here at Open Science Framework&lt;/a&gt;&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>book</title>
-<link>http://anghyflawn.github.io/news/2017/book/</link>
-<pubDate>Sat, 04 Mar 2017 21:30:16 UTC</pubDate>
-<guid>http://anghyflawn.github.io/news/2017/book/</guid>
-<description>&lt;p&gt;My book &lt;em&gt;A substance-free framework for phonology: An analysis of the Breton dialect of Bothoa&lt;/em&gt; is now out with Edinburgh University Press. Read more &lt;a href=&#34;http://anghyflawn.github.io/writing/breton-book/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 

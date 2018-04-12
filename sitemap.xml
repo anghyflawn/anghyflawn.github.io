@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://anghyflawn.github.io/presentation/2018/icehl/</loc>
+    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/presentation/2018/rnag/</loc>
+    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anghyflawn.github.io/presentation/2018/26mfm/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://anghyflawn.github.io/news/2017/fgls/</loc>
     <lastmod>2018-01-12T00:00:00+00:00</lastmod>
   </url>
@@ -903,7 +918,7 @@
   
   <url>
     <loc>http://anghyflawn.github.io/categories/celtic/</loc>
-    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -938,8 +953,14 @@
   </url>
   
   <url>
+    <loc>http://anghyflawn.github.io/categories/germanic/</loc>
+    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://anghyflawn.github.io/categories/historical-phonology/</loc>
-    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1029,13 +1050,13 @@
   
   <url>
     <loc>http://anghyflawn.github.io/</loc>
-    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://anghyflawn.github.io/categories/phonetics-phonology-interface/</loc>
-    <lastmod>2017-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1053,7 +1074,7 @@
   
   <url>
     <loc>http://anghyflawn.github.io/presentation/</loc>
-    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1065,7 +1086,7 @@
   
   <url>
     <loc>http://anghyflawn.github.io/categories/prosody/</loc>
-    <lastmod>2015-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1077,7 +1098,7 @@
   
   <url>
     <loc>http://anghyflawn.github.io/categories/russian/</loc>
-    <lastmod>2012-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1089,13 +1110,13 @@
   
   <url>
     <loc>http://anghyflawn.github.io/categories/scottish-gaelic/</loc>
-    <lastmod>2016-09-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://anghyflawn.github.io/categories/substance-free-phonology/</loc>
-    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
