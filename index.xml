@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Fri, 13 Apr 2018 13:49:37 BST</updated>
+    <updated>Tue, 08 May 2018 10:49:28 BST</updated>
 
 
 
@@ -181,9 +181,20 @@
 <item>
 <title>News</title>
 <link>http://anghyflawn.github.io/news/</link>
-<pubDate>Fri, 13 Apr 2018 13:44:24 BST</pubDate>
+<pubDate>Tue, 08 May 2018 10:43:47 BST</pubDate>
 <guid>http://anghyflawn.github.io/news/</guid>
 <description></description>
+</item>
+
+
+
+<item>
+<title>Aaz</title>
+<link>http://anghyflawn.github.io/news/2018/aaz/</link>
+<pubDate>Tue, 08 May 2018 10:43:47 BST</pubDate>
+<guid>http://anghyflawn.github.io/news/2018/aaz/</guid>
+<description>&lt;p&gt;An obituary of the great Russian linguist Andrei Zaliznyak that I co-wrote with &lt;a href=&#34;https://www.su.se/english/profiles/tamm-1.182300&#34;&gt;Maria Koptjevskaja-Tamm&lt;/a&gt;, &lt;a href=&#34;http://ruslang.academia.edu/DmitriSitchinava&#34;&gt;Dmitri Sitchinava&lt;/a&gt;, and &lt;a href=&#34;https://www.hse.ru/en/org/persons/34802244&#34;&gt;Alexander Piperski&lt;/a&gt; has appeared in &lt;em&gt;Linguistic Typology&lt;/em&gt;. &lt;a href=&#34;https://doi.org/10.1515/lingty-2018-0006&#34;&gt;Read it in open access here&lt;/a&gt;.&lt;/p&gt;
+</description>
 </item>
 
 
@@ -849,17 +860,6 @@ secondary status of tenseness in penultimate stressed syllables.&lt;/p&gt;
 <pubDate>Fri, 30 Jun 2017 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/writing/svarabhakti/</guid>
 <description>&lt;p&gt;This paper develops the analysis in &lt;a href=&#34;http://anghyflawn.github.io/presentation/2012/the-phonological-endgame-welsh-svarabhakti-revisited/&#34;&gt;this presentation&lt;/a&gt;. I offer an analysis of Welsh epenthesis, whereby a copy of a preceding vowel is inserted to break up final clusters of rising sonority (&lt;em&gt;pwdr&lt;/em&gt; &amp;lsquo;rotten&amp;rsquo; is [pudur] rather than *[pudr]) and deletion in such clusters in polysyllables (&lt;em&gt;perygl&lt;/em&gt; &amp;lsquo;danger&amp;rsquo; is [perɪɡ] rather than *[perɪɡl]). It has previously been argued that both processes can be analysed in a single phonological grammar. I show that this is not tenable for South Welsh dialects, and propose an analysis in terms of part-of-speech-specific allomorphy, formalized as lexical storage of POS-characterized stems rather than roots.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>25mfm</title>
-<link>http://anghyflawn.github.io/news/2017/25mfm/</link>
-<pubDate>Sun, 28 May 2017 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/news/2017/25mfm/</guid>
-<description>&lt;p&gt;I presented &lt;em&gt;Microvariation in laryngeal realism: Preaspiration in North Germanic&lt;/em&gt; at the &lt;a href=&#34;http://www.lel.ed.ac.uk/mfm/25mfm.html&#34;&gt;25th Manchester Phonology Meeting&lt;/a&gt;. &lt;a href=&#34;http://anghyflawn.github.io/presentation/2017/25mfm/&#34;&gt;Get the slides and handout here&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 

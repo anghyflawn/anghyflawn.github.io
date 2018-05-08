@@ -6,10 +6,19 @@
     <description>Recent content in News on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 13 Apr 2018 13:44:24 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 08 May 2018 10:43:47 +0100</lastBuildDate>
     
 	<atom:link href="http://anghyflawn.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aaz</title>
+      <link>http://anghyflawn.github.io/news/2018/aaz/</link>
+      <pubDate>Tue, 08 May 2018 10:43:47 +0100</pubDate>
+      
+      <guid>http://anghyflawn.github.io/news/2018/aaz/</guid>
+      <description>An obituary of the great Russian linguist Andrei Zaliznyak that I co-wrote with Maria Koptjevskaja-Tamm, Dmitri Sitchinava, and Alexander Piperski has appeared in Linguistic Typology. Read it in open access here.</description>
+    </item>
     
     <item>
       <title>Talks</title>
