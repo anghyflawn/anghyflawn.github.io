@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Tue, 08 May 2018 10:49:28 BST</updated>
+    <updated>Sun, 27 May 2018 15:48:42 BST</updated>
 
 
 
@@ -128,6 +128,27 @@
 
 
 <item>
+<title>News</title>
+<link>http://anghyflawn.github.io/news/</link>
+<pubDate>Sun, 27 May 2018 15:44:59 BST</pubDate>
+<guid>http://anghyflawn.github.io/news/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>26mfm</title>
+<link>http://anghyflawn.github.io/news/2018/26mfm/</link>
+<pubDate>Sun, 27 May 2018 15:44:59 BST</pubDate>
+<guid>http://anghyflawn.github.io/news/2018/26mfm/</guid>
+<description>&lt;p&gt;I presented &lt;em&gt;There is no problem of /v/ in Russian phonology&lt;/em&gt; at the &lt;a href=&#34;http://www.lel.ed.ac.uk/mfm/26mfm.html&#34;&gt;26th Manchester Phonology Meeting&lt;/a&gt;. Get the slides and handout &lt;a href=&#34;http://anghyflawn.github.io/presentation/2018/26mfm/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
 <title>Substance Free Phonology</title>
 <link>http://anghyflawn.github.io/categories/substance-free-phonology/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -179,16 +200,6 @@
 
 
 <item>
-<title>News</title>
-<link>http://anghyflawn.github.io/news/</link>
-<pubDate>Tue, 08 May 2018 10:43:47 BST</pubDate>
-<guid>http://anghyflawn.github.io/news/</guid>
-<description></description>
-</item>
-
-
-
-<item>
 <title>Aaz</title>
 <link>http://anghyflawn.github.io/news/2018/aaz/</link>
 <pubDate>Tue, 08 May 2018 10:43:47 BST</pubDate>
@@ -204,7 +215,7 @@
 <link>http://anghyflawn.github.io/news/2018/talks/</link>
 <pubDate>Fri, 13 Apr 2018 13:44:24 BST</pubDate>
 <guid>http://anghyflawn.github.io/news/2018/talks/</guid>
-<description>&lt;p&gt;In the next few months, I will present &lt;em&gt;&lt;a href=&#34;http://anghyflawn.github.io/presentation/2018/26mfm/&#34;&gt;There is no problem of /v/ in Russian phonology&lt;/a&gt;&lt;/em&gt; (&lt;a href=&#34;http://www.lel.ed.ac.uk/mfm/26mfm.html&#34;&gt;26mfm&lt;/a&gt;), &lt;em&gt;&lt;a href=&#34;http://anghyflawn.github.io/presentation/2018/rnag/&#34;&gt;A metrical analysis of Scottish Gaelic tonal accent&lt;/a&gt;&lt;/em&gt; (&lt;a href=&#34;https://www.ed.ac.uk/literatures-languages-cultures/celtic-scottish-studies/conf/rannsachadh-na-gaidhlig-2018&#34;&gt;Rannsachadh na Gàidhlig 2018&lt;/a&gt;), and (co-authored with &lt;a href=&#34;http://www.lel.ed.ac.uk/~wmaguire/&#34;&gt;Warren Maguire&lt;/a&gt;) &lt;em&gt;&lt;a href=&#34;http://anghyflawn.github.io/presentation/2018/icehl/&#34;&gt;English epenthesis in lC and rC clusters: Areal effect or drift?&lt;/a&gt;&lt;/em&gt; (&lt;a href=&#34;http://www.conferences.cahss.ed.ac.uk/icehl20/&#34;&gt;ICEHL XX&lt;/a&gt;)&lt;/p&gt;
+<description>&lt;p&gt;In the next few months, I will present &lt;em&gt;&lt;a href=&#34;http://anghyflawn.github.io/presentation/2018/rnag/&#34;&gt;A metrical analysis of Scottish Gaelic tonal accent&lt;/a&gt;&lt;/em&gt; (&lt;a href=&#34;https://www.ed.ac.uk/literatures-languages-cultures/celtic-scottish-studies/conf/rannsachadh-na-gaidhlig-2018&#34;&gt;Rannsachadh na Gàidhlig 2018&lt;/a&gt;), and (co-authored with &lt;a href=&#34;http://www.lel.ed.ac.uk/~wmaguire/&#34;&gt;Warren Maguire&lt;/a&gt;) &lt;em&gt;&lt;a href=&#34;http://anghyflawn.github.io/presentation/2018/icehl/&#34;&gt;English epenthesis in lC and rC clusters: Areal effect or drift?&lt;/a&gt;&lt;/em&gt; (&lt;a href=&#34;http://www.conferences.cahss.ed.ac.uk/icehl20/&#34;&gt;ICEHL XX&lt;/a&gt;)&lt;/p&gt;
 </description>
 </item>
 
@@ -850,17 +861,6 @@ secondary status of tenseness in penultimate stressed syllables.&lt;/p&gt;
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://anghyflawn.github.io/categories/phonology-morphology-interface/</guid>
 <description></description>
-</item>
-
-
-
-<item>
-<title>Welsh svarabhakti as stem allomorphy</title>
-<link>http://anghyflawn.github.io/writing/svarabhakti/</link>
-<pubDate>Fri, 30 Jun 2017 00:00:00 UTC</pubDate>
-<guid>http://anghyflawn.github.io/writing/svarabhakti/</guid>
-<description>&lt;p&gt;This paper develops the analysis in &lt;a href=&#34;http://anghyflawn.github.io/presentation/2012/the-phonological-endgame-welsh-svarabhakti-revisited/&#34;&gt;this presentation&lt;/a&gt;. I offer an analysis of Welsh epenthesis, whereby a copy of a preceding vowel is inserted to break up final clusters of rising sonority (&lt;em&gt;pwdr&lt;/em&gt; &amp;lsquo;rotten&amp;rsquo; is [pudur] rather than *[pudr]) and deletion in such clusters in polysyllables (&lt;em&gt;perygl&lt;/em&gt; &amp;lsquo;danger&amp;rsquo; is [perɪɡ] rather than *[perɪɡl]). It has previously been argued that both processes can be analysed in a single phonological grammar. I show that this is not tenable for South Welsh dialects, and propose an analysis in terms of part-of-speech-specific allomorphy, formalized as lexical storage of POS-characterized stems rather than roots.&lt;/p&gt;
-</description>
 </item>
 
 

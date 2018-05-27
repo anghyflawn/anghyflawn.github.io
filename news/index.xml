@@ -6,10 +6,19 @@
     <description>Recent content in News on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 08 May 2018 10:43:47 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 27 May 2018 15:44:59 +0100</lastBuildDate>
     
 	<atom:link href="http://anghyflawn.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>26mfm</title>
+      <link>http://anghyflawn.github.io/news/2018/26mfm/</link>
+      <pubDate>Sun, 27 May 2018 15:44:59 +0100</pubDate>
+      
+      <guid>http://anghyflawn.github.io/news/2018/26mfm/</guid>
+      <description>I presented There is no problem of /v/ in Russian phonology at the 26th Manchester Phonology Meeting. Get the slides and handout here</description>
+    </item>
     
     <item>
       <title>Aaz</title>
@@ -26,7 +35,7 @@
       <pubDate>Fri, 13 Apr 2018 13:44:24 +0100</pubDate>
       
       <guid>http://anghyflawn.github.io/news/2018/talks/</guid>
-      <description>In the next few months, I will present There is no problem of /v/ in Russian phonology (26mfm), A metrical analysis of Scottish Gaelic tonal accent (Rannsachadh na Gàidhlig 2018), and (co-authored with Warren Maguire) English epenthesis in lC and rC clusters: Areal effect or drift? (ICEHL XX)</description>
+      <description>In the next few months, I will present A metrical analysis of Scottish Gaelic tonal accent (Rannsachadh na Gàidhlig 2018), and (co-authored with Warren Maguire) English epenthesis in lC and rC clusters: Areal effect or drift? (ICEHL XX)</description>
     </item>
     
     <item>
