@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Phonological Theory on Pavel Iosad</title>
-    <link>http://anghyflawn.github.io/categories/phonological-theory/</link>
+    <link>https://anghyflawn.github.io/categories/phonological-theory/</link>
     <description>Recent content in Phonological Theory on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 12 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://anghyflawn.github.io/categories/phonological-theory/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anghyflawn.github.io/categories/phonological-theory/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Optimality Theory: Motivations and perspectives</title>
-      <link>http://anghyflawn.github.io/writing/ot-handbook/</link>
+      <link>https://anghyflawn.github.io/writing/ot-handbook/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://anghyflawn.github.io/writing/ot-handbook/</guid>
+      <guid>https://anghyflawn.github.io/writing/ot-handbook/</guid>
       <description>This chapter provides an introduction to the basic mechanisms of Optimality Theory in phonology and to the most important motivations cited for its widespread adoption. I also review some of the empirical and conceptual challenges it has faced. Ultimately, I suggest, many of these challenges can be traced back to the fact that while OT grew out of a general dissatisfaction with some aspects of late-1980s rule-based phonology, it was adopted as a general theory of phonological computation without an explicit statement of the division of labour vis-à-vis other components of linguistic knowledge with which it interacts.</description>
     </item>
     
     <item>
       <title>A substance-free framework for phonology</title>
-      <link>http://anghyflawn.github.io/writing/breton-book/</link>
+      <link>https://anghyflawn.github.io/writing/breton-book/</link>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://anghyflawn.github.io/writing/breton-book/</guid>
+      <guid>https://anghyflawn.github.io/writing/breton-book/</guid>
       <description>The book is a revised and updated version of parts of my PhD thesis. From the publisher&amp;rsquo;s blurb:
  What is the relationship between phonetics and phonology? Are phonological features innate and universal, and do they have fixed phonetic correlates? These questions have recently received renewed prominence in theoretical debates, and this book explores them from a modular, substance-free perspective.
 This in-depth analysis of Breton serves not only to introduce previously underused data into the theoretical landscape but also to demonstrate the viability of a modular framework for phonology.</description>

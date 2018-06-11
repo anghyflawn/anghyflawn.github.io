@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Romance on Pavel Iosad</title>
-    <link>http://anghyflawn.github.io/categories/romance/</link>
+    <link>https://anghyflawn.github.io/categories/romance/</link>
     <description>Recent content in Romance on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 30 Nov 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://anghyflawn.github.io/categories/romance/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anghyflawn.github.io/categories/romance/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rule scattering and vowel length in Northern Romance</title>
-      <link>http://anghyflawn.github.io/writing/rule-scattering-vowel-length-northern-romance/</link>
+      <link>https://anghyflawn.github.io/writing/rule-scattering-vowel-length-northern-romance/</link>
       <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://anghyflawn.github.io/writing/rule-scattering-vowel-length-northern-romance/</guid>
+      <guid>https://anghyflawn.github.io/writing/rule-scattering-vowel-length-northern-romance/</guid>
       <description>In this paper I reconsider the synchronic status of distinctive vowel length and vowel lengthening and shortening rules in Northern Romance varieties, in light of Loporcaro’s (2015) wide-ranging study of vowel quantity in numerous Romance dialects. Loporcaro (2015) argues that these varieties possess distinctive, phonemic vowel length, and mostly do not have synchronic rules that produce surface long vowels, contrary to many previous analyses of the relevant patterns. In this paper, I argue instead that that lexical vowel length distinctions coexist, in some Northern Romance varieties, with productive phonological rules manipulating vowel quantity.</description>
     </item>
     
     <item>
       <title>Final devoicing and vowel lengthening in Friulian</title>
-      <link>http://anghyflawn.github.io/writing/lingua-friulian/</link>
+      <link>https://anghyflawn.github.io/writing/lingua-friulian/</link>
       <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://anghyflawn.github.io/writing/lingua-friulian/</guid>
+      <guid>https://anghyflawn.github.io/writing/lingua-friulian/</guid>
       <description>Here, I propose an analysis of the interacting between final devoicing and vowel lengthening in Friulian (and other related varieties of northern Italy). Historically, stressed vowels lengthen before voiced obstruents, but this is opacified by final devoicing. I capitalize on phonetic studies showing final devoicing in the language to be incomplete and argue that the process is not in fact opaque: devoicing does not involve neutralization but instead the creation of a third, laryngealy unspecified class of obstruents.</description>
     </item>
     
     <item>
       <title>Final devoicing and vowel lengthening in the north of Italy</title>
-      <link>http://anghyflawn.github.io/presentation/2010/final-devoicing-and-vowel-lengthening-in-the-north-of-italy-a-representational-approach/</link>
+      <link>https://anghyflawn.github.io/presentation/2010/final-devoicing-and-vowel-lengthening-in-the-north-of-italy-a-representational-approach/</link>
       <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://anghyflawn.github.io/presentation/2010/final-devoicing-and-vowel-lengthening-in-the-north-of-italy-a-representational-approach/</guid>
+      <guid>https://anghyflawn.github.io/presentation/2010/final-devoicing-and-vowel-lengthening-in-the-north-of-italy-a-representational-approach/</guid>
       <description>This talk presents in detail the analysis of Friulian also given at the 18th mfm and later published here.</description>
     </item>
     
     <item>
       <title>Feature geometry meets contrastive specification</title>
-      <link>http://anghyflawn.github.io/presentation/2010/feature-geometry-meets-contrastive-specification-incomplete-neutralization-reloaded/</link>
+      <link>https://anghyflawn.github.io/presentation/2010/feature-geometry-meets-contrastive-specification-incomplete-neutralization-reloaded/</link>
       <pubDate>Mon, 24 May 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://anghyflawn.github.io/presentation/2010/feature-geometry-meets-contrastive-specification-incomplete-neutralization-reloaded/</guid>
+      <guid>https://anghyflawn.github.io/presentation/2010/feature-geometry-meets-contrastive-specification-incomplete-neutralization-reloaded/</guid>
       <description>I propose an analysis of the interaction between vowel lengthening before voiced obstruents and final devoicing in two languages: Friulian and Breton. I argue that such interactions are transparent and involve a three-way laryngeal contrast formalized geometrically, with true voiceless obstruents the most structurally complex and devoiced ones least. The Friulian analysis was later published here and the Breton was largely incorporated into the thesis.</description>
     </item>
     

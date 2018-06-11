@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Language Documentation on Pavel Iosad</title>
-    <link>http://anghyflawn.github.io/categories/language-documentation/</link>
+    <link>https://anghyflawn.github.io/categories/language-documentation/</link>
     <description>Recent content in Language Documentation on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 03 Dec 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://anghyflawn.github.io/categories/language-documentation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anghyflawn.github.io/categories/language-documentation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Making sense of consonant palatalization vowel backness in Irish</title>
-      <link>http://anghyflawn.github.io/presentation/2016/ldlt5/</link>
+      <link>https://anghyflawn.github.io/presentation/2016/ldlt5/</link>
       <pubDate>Sat, 03 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://anghyflawn.github.io/presentation/2016/ldlt5/</guid>
+      <guid>https://anghyflawn.github.io/presentation/2016/ldlt5/</guid>
       <description>Despite its status as a minority language, Modern Irish has a rich body of phonetic and phonological descriptions, based on (near-)native fieldworker knowledge and traditional auditory methods. In this paper, we draw on a range of up-to-date instrumental and quantitative methods in order to verify and expand the traditional findings regarding the nature and status of the interaction between consonant palatalization and vowel backness in Irish.
 According to the descriptive literature, there are several types of consonant-to-vowel coarticulation in Modern Irish.</description>
     </item>

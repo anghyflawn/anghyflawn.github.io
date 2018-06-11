@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Optimality Theory on Pavel Iosad</title>
-    <link>http://anghyflawn.github.io/categories/optimality-theory/</link>
+    <link>https://anghyflawn.github.io/categories/optimality-theory/</link>
     <description>Recent content in Optimality Theory on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 12 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://anghyflawn.github.io/categories/optimality-theory/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anghyflawn.github.io/categories/optimality-theory/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Optimality Theory: Motivations and perspectives</title>
-      <link>http://anghyflawn.github.io/writing/ot-handbook/</link>
+      <link>https://anghyflawn.github.io/writing/ot-handbook/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://anghyflawn.github.io/writing/ot-handbook/</guid>
+      <guid>https://anghyflawn.github.io/writing/ot-handbook/</guid>
       <description>This chapter provides an introduction to the basic mechanisms of Optimality Theory in phonology and to the most important motivations cited for its widespread adoption. I also review some of the empirical and conceptual challenges it has faced. Ultimately, I suggest, many of these challenges can be traced back to the fact that while OT grew out of a general dissatisfaction with some aspects of late-1980s rule-based phonology, it was adopted as a general theory of phonological computation without an explicit statement of the division of labour vis-à-vis other components of linguistic knowledge with which it interacts.</description>
     </item>
     

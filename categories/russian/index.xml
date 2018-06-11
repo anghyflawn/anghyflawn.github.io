@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Russian on Pavel Iosad</title>
-    <link>http://anghyflawn.github.io/categories/russian/</link>
+    <link>https://anghyflawn.github.io/categories/russian/</link>
     <description>Recent content in Russian on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 24 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://anghyflawn.github.io/categories/russian/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anghyflawn.github.io/categories/russian/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>There is no problem of /v/ in Russian phonology</title>
-      <link>http://anghyflawn.github.io/presentation/2018/26mfm/</link>
+      <link>https://anghyflawn.github.io/presentation/2018/26mfm/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://anghyflawn.github.io/presentation/2018/26mfm/</guid>
+      <guid>https://anghyflawn.github.io/presentation/2018/26mfm/</guid>
       <description>The dual behaviour of /v/ has been a notorious crux in Russian phonology since at least Jakobson (1956). The basic problem is that /v/ fails to trigger voicing assimilation, like sonorants, but undergoes both assimilation to following obstruents and final devoicing, like obstruents.
 The commonest solution in the literature is representational: [v] is treated as a sonorant, either an underlying /w/ (Lightner 1972, Hayes 1984, Kiparsky 1985) or some labial non-glide (Coats &amp;amp; Harshenin 1971, Padgett 2002).</description>
     </item>
     
     <item>
       <title>Vowel reduction in Russian</title>
-      <link>http://anghyflawn.github.io/writing/jl-russian-vowel-reduction/</link>
+      <link>https://anghyflawn.github.io/writing/jl-russian-vowel-reduction/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://anghyflawn.github.io/writing/jl-russian-vowel-reduction/</guid>
+      <guid>https://anghyflawn.github.io/writing/jl-russian-vowel-reduction/</guid>
       <description>In this paper I propose a substance-free analysis of vowel reduction in Standard Russian. I argue that the traditional distinction between &amp;lsquo;moderate&amp;rsquo; reduction (in pretonic syllables, producing less central vowels) and &amp;lsquo;radical&amp;rsquo; reduction (producing central vowels) is not phonologically relevant. The phonological grammar is only responsible for the neutralization patterns and not for the exact phonetic properties of their outcome. In addition, I show that the necessary input-output mappings cannot be effected in a conventional featural system without some weakly supported assumptions: I argue that this demonstrates the viability of a substance-free, emergent-features approach to phonology.</description>
     </item>
     
     <item>
       <title>A bad case of excessive computation</title>
-      <link>http://anghyflawn.github.io/presentation/2010/a-bad-case-of-excessive-computation-the-role-of-morphology-in-palatalization-related-alternations-in-russian/</link>
+      <link>https://anghyflawn.github.io/presentation/2010/a-bad-case-of-excessive-computation-the-role-of-morphology-in-palatalization-related-alternations-in-russian/</link>
       <pubDate>Sun, 12 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://anghyflawn.github.io/presentation/2010/a-bad-case-of-excessive-computation-the-role-of-morphology-in-palatalization-related-alternations-in-russian/</guid>
+      <guid>https://anghyflawn.github.io/presentation/2010/a-bad-case-of-excessive-computation-the-role-of-morphology-in-palatalization-related-alternations-in-russian/</guid>
       <description>I use the analysis of palatalization in Modern Standard Russian offered here to argue that these data do not provide a watertight argument for multilevel phonological computation, and that phonological analysis must be combined with a theory of ordering (such as Stratal OT) if the hypothesis of parallel computation is to be challenged.</description>
     </item>
     
     <item>
       <title>How good is the internal evidence for multiple-level phonological computation? A view from Russian</title>
-      <link>http://anghyflawn.github.io/presentation/2010/how-good-is-the-internal-evidence-for-multiple-level-phonological-computation-a-view-from-russian/</link>
+      <link>https://anghyflawn.github.io/presentation/2010/how-good-is-the-internal-evidence-for-multiple-level-phonological-computation-a-view-from-russian/</link>
       <pubDate>Wed, 15 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://anghyflawn.github.io/presentation/2010/how-good-is-the-internal-evidence-for-multiple-level-phonological-computation-a-view-from-russian/</guid>
+      <guid>https://anghyflawn.github.io/presentation/2010/how-good-is-the-internal-evidence-for-multiple-level-phonological-computation-a-view-from-russian/</guid>
       <description>Relying in part on the analysis of palatalization offered here, I argue that Russian does not provide strong phonology-internal evidence for level ordering, contra suggestions by authors such as Morris Halle and Jerzy Rubach. A more focused argument to the same effect is offered here.</description>
     </item>
     
     <item>
       <title>Russian palatalization</title>
-      <link>http://anghyflawn.github.io/presentation/2010/russian-palatalization-the-true-r-story/</link>
+      <link>https://anghyflawn.github.io/presentation/2010/russian-palatalization-the-true-r-story/</link>
       <pubDate>Wed, 27 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://anghyflawn.github.io/presentation/2010/russian-palatalization-the-true-r-story/</guid>
+      <guid>https://anghyflawn.github.io/presentation/2010/russian-palatalization-the-true-r-story/</guid>
       <description>In this talk we argue that the traditional view of vowel-driven palatalization in Russian is inadequate, at least for two reasons. First, it relies on a six-vowel interpretation of the Russian inventory that is not adequate from a phonetic perspective. Second, and more importantly, it undergenerates the range of alternations found in Modern Standard Russian. Instead, we argue that palatalization must be driven by a floating feature attached to the left edge of suffixes.</description>
     </item>
     
     <item>
       <title>Fonetikk versus fonologi</title>
-      <link>http://anghyflawn.github.io/presentation/2008/novemberseminaret-reduction/</link>
+      <link>https://anghyflawn.github.io/presentation/2008/novemberseminaret-reduction/</link>
       <pubDate>Sat, 15 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://anghyflawn.github.io/presentation/2008/novemberseminaret-reduction/</guid>
+      <guid>https://anghyflawn.github.io/presentation/2008/novemberseminaret-reduction/</guid>
       <description>Dette er det fyrste føredraget i prosjektet om russisk vokalreduksjon. Sluttversjonen kan ein finne i denne artikkelen.</description>
     </item>
     

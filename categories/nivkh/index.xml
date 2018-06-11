@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nivkh on Pavel Iosad</title>
-    <link>http://anghyflawn.github.io/categories/nivkh/</link>
+    <link>https://anghyflawn.github.io/categories/nivkh/</link>
     <description>Recent content in Nivkh on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 04 Dec 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://anghyflawn.github.io/categories/nivkh/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anghyflawn.github.io/categories/nivkh/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Phonetic (non-)explanation in historical phonology: Duration, harmony, and dissimilation</title>
-      <link>http://anghyflawn.github.io/presentation/2015/phonetic-non-explanation-in-historical-phonology-duration-harmony-and-dissimilation/</link>
+      <link>https://anghyflawn.github.io/presentation/2015/phonetic-non-explanation-in-historical-phonology-duration-harmony-and-dissimilation/</link>
       <pubDate>Fri, 04 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://anghyflawn.github.io/presentation/2015/phonetic-non-explanation-in-historical-phonology-duration-harmony-and-dissimilation/</guid>
+      <guid>https://anghyflawn.github.io/presentation/2015/phonetic-non-explanation-in-historical-phonology-duration-harmony-and-dissimilation/</guid>
       <description>We consider the value of phonetically based explanations for phonological change by tracing the phonologization paths of durational asymmetries between vowels. The literature on phonetic motivations for phonological change identifies relative shortness of one vowel with respect to another as an important precursor to vowel reduction, which, in turn, may feed hypercorrection of the reduced vowel to give rise to vowel harmony phenomena. We examine such a case from Nivkh in detail.</description>
     </item>
     
