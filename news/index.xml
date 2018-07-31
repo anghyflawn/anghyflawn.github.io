@@ -6,10 +6,19 @@
     <description>Recent content in News on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 24 Jul 2018 21:37:38 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 31 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://anghyflawn.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>History of Phonology</title>
+      <link>https://anghyflawn.github.io/news/2017/history-of-phonology/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://anghyflawn.github.io/news/2017/history-of-phonology/</guid>
+      <description>I have a uploaded a revised draft of my paper on phonology in the Soviet Union for the forthcoming Oxford History of Phonology. Comments welcome!</description>
+    </item>
     
     <item>
       <title>Vja</title>

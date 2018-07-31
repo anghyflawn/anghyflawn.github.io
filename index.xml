@@ -25,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Tue, 31 Jul 2018 21:27:58 BST</updated>
+    <updated>Tue, 31 Jul 2018 21:49:30 BST</updated>
 
 
 
@@ -168,9 +168,53 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 <item>
 <title>News</title>
 <link>https://anghyflawn.github.io/news/</link>
-<pubDate>Tue, 24 Jul 2018 21:37:38 BST</pubDate>
+<pubDate>Tue, 31 Jul 2018 00:00:00 UTC</pubDate>
 <guid>https://anghyflawn.github.io/news/</guid>
 <description></description>
+</item>
+
+
+
+<item>
+<title>History of Phonology</title>
+<link>https://anghyflawn.github.io/news/2017/history-of-phonology/</link>
+<pubDate>Tue, 31 Jul 2018 00:00:00 UTC</pubDate>
+<guid>https://anghyflawn.github.io/news/2017/history-of-phonology/</guid>
+<description>&lt;p&gt;I have a uploaded a revised draft of my &lt;a href=&#34;https://anghyflawn.github.io/writing/history-of-phonology/&#34;&gt;paper on phonology in the Soviet Union&lt;/a&gt; for the forthcoming &lt;em&gt;Oxford History of Phonology&lt;/em&gt;. Comments welcome!&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Writings</title>
+<link>https://anghyflawn.github.io/writing/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://anghyflawn.github.io/writing/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>History of Phonology</title>
+<link>https://anghyflawn.github.io/categories/history-of-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://anghyflawn.github.io/categories/history-of-phonology/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Phonology in the Soviet Union</title>
+<link>https://anghyflawn.github.io/writing/history-of-phonology/</link>
+<pubDate>Mon, 30 Jul 2018 00:00:00 UTC</pubDate>
+<guid>https://anghyflawn.github.io/writing/history-of-phonology/</guid>
+<description>&lt;p&gt;This invited contribution to a collection on the history of phonology explores the history of phonological studies in the USSR. I offer a short history of phonology in Russia and the USSR before the formation of the two main theoretical currents (the &amp;lsquo;Leningrad&amp;rsquo; and &amp;lsquo;Moscow&amp;rsquo; schools), and emphasize both their mutual common roots and their closeness to other structuralist frameworks, in particular Prague phonology. I discuss the differences between the two schools both in their approach to the phoneme and in their analysis of morphophonological alternations. Throughout, the focus is on the ways in which a focus on Russian shaped the directions of phonological thinking.&lt;/p&gt;
+
+&lt;p&gt;This is the revised version of the paper.&lt;/p&gt;
+</description>
 </item>
 
 
@@ -300,16 +344,6 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 <guid>https://anghyflawn.github.io/news/2018/talks/</guid>
 <description>&lt;p&gt;In the next few months, I will present &lt;em&gt;&lt;a href=&#34;https://anghyflawn.github.io/presentation/2018/rnag/&#34;&gt;A metrical analysis of Scottish Gaelic tonal accent&lt;/a&gt;&lt;/em&gt; (&lt;a href=&#34;https://www.ed.ac.uk/literatures-languages-cultures/celtic-scottish-studies/conf/rannsachadh-na-gaidhlig-2018&#34;&gt;Rannsachadh na Gàidhlig 2018&lt;/a&gt;), and (co-authored with &lt;a href=&#34;http://www.lel.ed.ac.uk/~wmaguire/&#34;&gt;Warren Maguire&lt;/a&gt;) &lt;em&gt;&lt;a href=&#34;https://anghyflawn.github.io/presentation/2018/icehl/&#34;&gt;English epenthesis in lC and rC clusters: Areal effect or drift?&lt;/a&gt;&lt;/em&gt; (&lt;a href=&#34;http://www.conferences.cahss.ed.ac.uk/icehl20/&#34;&gt;ICEHL XX&lt;/a&gt;)&lt;/p&gt;
 </description>
-</item>
-
-
-
-<item>
-<title>Writings</title>
-<link>https://anghyflawn.github.io/writing/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/writing/</guid>
-<description></description>
 </item>
 
 
@@ -819,78 +853,6 @@ the statute books.&lt;/p&gt;
 <pubDate>Thu, 31 Aug 2017 00:00:00 UTC</pubDate>
 <guid>https://anghyflawn.github.io/news/2017/dias/</guid>
 <description>&lt;p&gt;I presented some fledgling work on the history of the tense/lax distinction and quality in Brythonic vowels at the &lt;a href=&#34;https://www.dias.ie/2017/05/17/symposium-new-approaches-to-brittonic-historical-linguistics/&#34;&gt;New Approaches to Brittonic Historical Linguistics&lt;/a&gt; symposium at the Dublin Institute of Advanced Studies. Get the slides and handout &lt;a href=&#34;https://anghyflawn.github.io/presentation/2017/dias/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Bridging the gap</title>
-<link>https://anghyflawn.github.io/presentation/2017/dias/</link>
-<pubDate>Wed, 30 Aug 2017 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/presentation/2017/dias/</guid>
-<description>&lt;p&gt;I focus on reconstructing the development of vowel quality distinctions
-in Brythonic and their connection with the history of vowel quantity
-between the establishment of the ‘standard’ Brythonic penultimate-stress
-system and the present day. In the received picture of Modern Welsh
-phonology, ‘tense’ quality of non-low vowels ([i u e o]) is strongly
-associated with length and, conversely, ‘lax’ quality ([ɪ ʊ ɛ ɔ]) is
-associated with shortness, at least in contrastive, i.e.stressed,
-position. The history of this pattern, however, remains understudied.
-Some important questions that remain to be addressed are as follows:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;When and how did contrastive length in penultimate syllables
-(characteristic of South Welsh, Cornish and most of Breton) become
-established? Is it original (and thus preserved following the stress
-shift), or does it represent a secondary lengthening of vowels that
-had been shortened in unstressed position? What is the position of
-North Welsh with its exclusively short vowels in stressed penults
-(cf. Wmffre 2003)?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Similarly, does the tense/lax quality of vowels in Welsh reflect
-tense/lax quality before the stress shift, or does it represent a
-secondary readjustment? What is the relationship between the pattern
-in stressed penultimates and in final unstressed syllables (where at
-least high vowels seem to show an original length conditioning, at
-least in Welsh)?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Is the complementary pattern of vowel and consonant length in
-penultimate syllables, which is practically universal in Brythonic,
-original, as implied by e.g.the classic account by Falc’hun (1951),
-or is it a secondary development following stress shift?&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I discuss the problems raised for these issues by traditional sources,
-notably the focus on taxonomic phonemic transcription and the frequent
-sidelining of consonant duration. I outline what kinds of studies are
-needed to mitigate these problems. I also draw attention to some
-evidence for the existence of dialects in Mid Wales that may lack a
-tenseness distinction in at least some stressed syllables, and discuss
-whether such systems can be accepted as evidence for the historically
-secondary status of tenseness in penultimate stressed syllables.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Senior Tutor</title>
-<link>https://anghyflawn.github.io/news/2017/senior-tutor/</link>
-<pubDate>Thu, 03 Aug 2017 16:19:06 BST</pubDate>
-<guid>https://anghyflawn.github.io/news/2017/senior-tutor/</guid>
-<description>&lt;p&gt;From 1 August 2017 I am the Senior Tutor in the School of Philosophy, Psychology and Language Sciences. Please use &lt;a href=&#34;mailto:ppls.senior.tutor@ed.ac.uk&#34;&gt;ppls.senior.tutor@ed.ac.uk&lt;/a&gt; for any queries related to that role.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>tphs paper</title>
-<link>https://anghyflawn.github.io/news/2016/tphs-paper/</link>
-<pubDate>Mon, 10 Jul 2017 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/news/2016/tphs-paper/</guid>
-<description>&lt;p&gt;My paper &lt;em&gt;Welsh svarabhakti as stem allomorphy&lt;/em&gt; has appeared in &lt;em&gt;&lt;a href=&#34;http://www.philsoc.org.uk/transactions.asp&#34;&gt;Transactions of the Philological Society&lt;/a&gt;&lt;/em&gt;. Download the draft version &lt;a href=&#34;https://anghyflawn.github.io/writing/svarabhakti/&#34;&gt;here&lt;/a&gt; or the official version &lt;a href=&#34;https://dx.doi.org/10.1111/1467-968X.12085&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
