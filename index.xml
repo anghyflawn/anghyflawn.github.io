@@ -25,17 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Fri, 24 Aug 2018 10:05:23 BST</updated>
-
-
-
-<item>
-<title>Presentations</title>
-<link>https://anghyflawn.github.io/presentation/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/presentation/</guid>
-<description></description>
-</item>
+    <updated>Fri, 31 Aug 2018 11:02:50 BST</updated>
 
 
 
@@ -44,6 +34,57 @@
 <link>https://anghyflawn.github.io/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>https://anghyflawn.github.io/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>News</title>
+<link>https://anghyflawn.github.io/news/</link>
+<pubDate>Fri, 31 Aug 2018 00:00:00 UTC</pubDate>
+<guid>https://anghyflawn.github.io/news/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Talks</title>
+<link>https://anghyflawn.github.io/news/2018/talks/</link>
+<pubDate>Fri, 31 Aug 2018 00:00:00 UTC</pubDate>
+<guid>https://anghyflawn.github.io/news/2018/talks/</guid>
+<description>&lt;p&gt;I  presented &lt;em&gt;&lt;a href=&#34;https://anghyflawn.github.io/presentation/2018/rnag/&#34;&gt;A metrical analysis of Scottish Gaelic tonal accent&lt;/a&gt;&lt;/em&gt; (&lt;a href=&#34;https://www.ed.ac.uk/literatures-languages-cultures/celtic-scottish-studies/conf/rannsachadh-na-gaidhlig-2018&#34;&gt;Rannsachadh na Gàidhlig 2018&lt;/a&gt;), and (co-authored with &lt;a href=&#34;http://www.lel.ed.ac.uk/~wmaguire/&#34;&gt;Warren Maguire&lt;/a&gt;) &lt;em&gt;&lt;a href=&#34;https://anghyflawn.github.io/presentation/2018/icehl/&#34;&gt;English epenthesis in lC and rC clusters: Areal effect or drift?&lt;/a&gt;&lt;/em&gt; (&lt;a href=&#34;http://www.conferences.cahss.ed.ac.uk/icehl20/&#34;&gt;ICEHL XX&lt;/a&gt;)&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Scottish Gaelic</title>
+<link>https://anghyflawn.github.io/categories/scottish-gaelic/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://anghyflawn.github.io/categories/scottish-gaelic/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Prosody</title>
+<link>https://anghyflawn.github.io/categories/prosody/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://anghyflawn.github.io/categories/prosody/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Presentations</title>
+<link>https://anghyflawn.github.io/presentation/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://anghyflawn.github.io/presentation/</guid>
 <description></description>
 </item>
 
@@ -64,6 +105,16 @@
 <link>https://anghyflawn.github.io/categories/germanic/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>https://anghyflawn.github.io/categories/germanic/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>English</title>
+<link>https://anghyflawn.github.io/categories/english/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://anghyflawn.github.io/categories/english/</guid>
 <description></description>
 </item>
 
@@ -95,11 +146,14 @@
 
 
 <item>
-<title>News</title>
-<link>https://anghyflawn.github.io/news/</link>
-<pubDate>Fri, 24 Aug 2018 09:57:41 BST</pubDate>
-<guid>https://anghyflawn.github.io/news/</guid>
-<description></description>
+<title>A metrical analysis of Scottish Gaelic tonal accent</title>
+<link>https://anghyflawn.github.io/presentation/2018/rnag/</link>
+<pubDate>Thu, 12 Apr 2018 00:00:00 UTC</pubDate>
+<guid>https://anghyflawn.github.io/presentation/2018/rnag/</guid>
+<description>&lt;p&gt;I provide a new analysis of the ‘tonal accent’ opposition in Gaelic, conceptualizing it as involving lexically specified metrical — in particular foot — structure. As discussed among others by Ternes (1980, 2006), many Gaelic varieties use suprasegmental features such as pitch (e.g. Lewis, Wester Ross) or glottalization (e.g. Jura, Colonsay) to make two kinds of distinctions: disyllabic hiatus vs. heavy syllables (&lt;em&gt;àth&lt;/em&gt; vs. &lt;em&gt;atha&lt;/em&gt;); and disyllabic vs. svarabhakti words (&lt;em&gt;balg&lt;/em&gt; vs. &lt;em&gt;balach&lt;/em&gt;). Ternes rightly compares these patterns with tonal accent systems in Germanic, and postulates lexical tone as the key distinction between the two ‘accents’.&lt;/p&gt;
+
+&lt;p&gt;Non-tonal analyses have been proposed by authors such as Bosch &amp;amp; de Jong (1997); Smith (1999); Brown (2009); Iosad (2015). In particular, Smith and Iosad offer analyses where the svarabhakti vowel in words like balg is metrically invisible, with consequences for the patterning of tone and glottalization. However, this analysis can only work if svarabhakti vowels are fully predictable synchronically. In this simple form, the analysis is untenable: svarabhakti vowels may be absent in contexts where they are phonologically motivated (e.g. [x] representing preaspiration of [k] does not trigger svarabhakti &lt;em&gt;olc&lt;/em&gt; [ɔɫxk], *[ɔɫɔxk]), and conversely svarabhakti-related suprasegmental patterns can appear when they are synchronically unmotivated (e.g. [faɫa.i], [mara.i] with ‘monosyllabic’ accent for &lt;em&gt;falbhaidh&lt;/em&gt;, &lt;em&gt;marbhaidh&lt;/em&gt;). Similar counterexampels can be adduced for glottalization: compare [marəv] for marbh with svarabhakti-induced lack of glottalization but [marɪç] &lt;em&gt;marbhaidh&lt;/em&gt; where the lack of [ʔ] cannot be so explained. Building on recent work in the analysis of tonal accents (e.g. Morén-Duolljá 2013, Köhnlein 2016, Iosad 2016, Kehrein 2017), in this paper I show how these problems can be resolved if both glottalization and tonal accents in Scottish Gaelic are analysed using lexically pre-specified foot structure.&lt;/p&gt;
+</description>
 </item>
 
 
@@ -111,16 +165,6 @@
 <guid>https://anghyflawn.github.io/news/2018/frlsu-presentation/</guid>
 <description>&lt;p&gt;I presented &lt;em&gt;The Norse influence on Scottish Gaelic, 85 years on&lt;/em&gt;  at the &lt;a href=&#34;https://frlsu.org/frlsu-programme/&#34;&gt;12th conference of the Forum for Research on the Languages of Scotland and Ulster&lt;/a&gt;. Get the slides and handout &lt;a href=&#34;https://anghyflawn.github.io/presentation/2018/frlsu/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
-</item>
-
-
-
-<item>
-<title>Scottish Gaelic</title>
-<link>https://anghyflawn.github.io/categories/scottish-gaelic/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/scottish-gaelic/</guid>
-<description></description>
 </item>
 
 
@@ -242,29 +286,6 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 
 <item>
-<title>Prosody</title>
-<link>https://anghyflawn.github.io/categories/prosody/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/prosody/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>A metrical analysis of Scottish Gaelic tonal accent</title>
-<link>https://anghyflawn.github.io/presentation/2018/rnag/</link>
-<pubDate>Thu, 12 Apr 2018 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/presentation/2018/rnag/</guid>
-<description>&lt;p&gt;I provide a new analysis of the ‘tonal accent’ opposition in Gaelic, conceptualizing it as involving lexically specified metrical — in particular foot — structure. As discussed among others by Ternes (1980, 2006), many Gaelic varieties use suprasegmental features such as pitch (e.g. Lewis, Wester Ross) or glottalization (e.g. Jura, Colonsay) to make two kinds of distinctions: disyllabic hiatus vs. heavy syllables (&lt;em&gt;àth&lt;/em&gt; vs. &lt;em&gt;atha&lt;/em&gt;); and disyllabic vs. svarabhakti words (&lt;em&gt;balg&lt;/em&gt; vs. &lt;em&gt;balach&lt;/em&gt;). Ternes rightly compares these patterns with tonal accent systems in Germanic, and postulates lexical tone as the key distinction between the two ‘accents’.&lt;/p&gt;
-
-&lt;p&gt;Non-tonal analyses have been proposed by authors such as Bosch &amp;amp; de Jong (1997); Smith (1999); Brown (2009); Iosad (2015). In particular, Smith and Iosad offer analyses where the svarabhakti vowel in words like balg is metrically invisible, with consequences for the patterning of tone and glottalization. However, this analysis can only work if svarabhakti vowels are fully predictable synchronically. In this simple form, the analysis is untenable: svarabhakti vowels may be absent in contexts where they are phonologically motivated (e.g. [x] representing preaspiration of [k] does not trigger svarabhakti &lt;em&gt;olc&lt;/em&gt; [ɔɫxk], *[ɔɫɔxk]), and conversely svarabhakti-related suprasegmental patterns can appear when they are synchronically unmotivated (e.g. [faɫa.i], [mara.i] with ‘monosyllabic’ accent for &lt;em&gt;falbhaidh&lt;/em&gt;, &lt;em&gt;marbhaidh&lt;/em&gt;). Similar counterexampels can be adduced for glottalization: compare [marəv] for marbh with svarabhakti-induced lack of glottalization but [marɪç] &lt;em&gt;marbhaidh&lt;/em&gt; where the lack of [ʔ] cannot be so explained. Building on recent work in the analysis of tonal accents (e.g. Morén-Duolljá 2013, Köhnlein 2016, Iosad 2016, Kehrein 2017), in this paper I show how these problems can be resolved if both glottalization and tonal accents in Scottish Gaelic are analysed using lexically pre-specified foot structure.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
 <title>Frlsu</title>
 <link>https://anghyflawn.github.io/news/2018/frlsu/</link>
 <pubDate>Mon, 04 Jun 2018 21:37:25 BST</pubDate>
@@ -343,17 +364,6 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 <pubDate>Tue, 08 May 2018 10:43:47 BST</pubDate>
 <guid>https://anghyflawn.github.io/news/2018/aaz/</guid>
 <description>&lt;p&gt;An obituary of the great Russian linguist Andrei Zaliznyak that I co-wrote with &lt;a href=&#34;https://www.su.se/english/profiles/tamm-1.182300&#34;&gt;Maria Koptjevskaja-Tamm&lt;/a&gt;, &lt;a href=&#34;http://ruslang.academia.edu/DmitriSitchinava&#34;&gt;Dmitri Sitchinava&lt;/a&gt;, and &lt;a href=&#34;https://www.hse.ru/en/org/persons/34802244&#34;&gt;Alexander Piperski&lt;/a&gt; has appeared in &lt;em&gt;Linguistic Typology&lt;/em&gt;. &lt;a href=&#34;https://doi.org/10.1515/lingty-2018-0006&#34;&gt;Read it in open access here&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Talks</title>
-<link>https://anghyflawn.github.io/news/2018/talks/</link>
-<pubDate>Fri, 13 Apr 2018 13:44:24 BST</pubDate>
-<guid>https://anghyflawn.github.io/news/2018/talks/</guid>
-<description>&lt;p&gt;In the next few months, I will present &lt;em&gt;&lt;a href=&#34;https://anghyflawn.github.io/presentation/2018/rnag/&#34;&gt;A metrical analysis of Scottish Gaelic tonal accent&lt;/a&gt;&lt;/em&gt; (&lt;a href=&#34;https://www.ed.ac.uk/literatures-languages-cultures/celtic-scottish-studies/conf/rannsachadh-na-gaidhlig-2018&#34;&gt;Rannsachadh na Gàidhlig 2018&lt;/a&gt;), and (co-authored with &lt;a href=&#34;http://www.lel.ed.ac.uk/~wmaguire/&#34;&gt;Warren Maguire&lt;/a&gt;) &lt;em&gt;&lt;a href=&#34;https://anghyflawn.github.io/presentation/2018/icehl/&#34;&gt;English epenthesis in lC and rC clusters: Areal effect or drift?&lt;/a&gt;&lt;/em&gt; (&lt;a href=&#34;http://www.conferences.cahss.ed.ac.uk/icehl20/&#34;&gt;ICEHL XX&lt;/a&gt;)&lt;/p&gt;
 </description>
 </item>
 
@@ -826,33 +836,6 @@ the statute books.&lt;/p&gt;
 <pubDate>Tue, 19 Sep 2017 00:00:00 UTC</pubDate>
 <guid>https://anghyflawn.github.io/teaching/2017/univariate-stats/</guid>
 <description>&lt;p&gt;This is an introductory postgraduate course in statistics and statistical methodology offered to all PG students in the School. This year I am co-teaching this course with &lt;a href=&#34;www.ed.ac.uk/profile/martin-corley&#34;&gt;Dr Martin Corley&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Phonological Theory</title>
-<link>https://anghyflawn.github.io/teaching/2017/phonological-theory/</link>
-<pubDate>Tue, 19 Sep 2017 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/teaching/2017/phonological-theory/</guid>
-<description>&lt;p&gt;This course introduces students to a range of important topics in (generative) phonological theory and to phonological data analysis. On the theoretical side, we cover the following topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Basics of phonological theory: contrast, phonemes, allophones, alternations&lt;/li&gt;
-&lt;li&gt;Feature theory&lt;/li&gt;
-&lt;li&gt;Derivations, underlying representations, rules&lt;/li&gt;
-&lt;li&gt;Process interaction and rule ordering&lt;/li&gt;
-&lt;li&gt;Suprasegmental phonology: syllable structure, stress, tone&lt;/li&gt;
-&lt;li&gt;Advanced feature theory: feature geometry, unary features&lt;/li&gt;
-&lt;li&gt;Explanation in phonology&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Throughout the course, there is a strong emphasis on building data analysis and problem solving skills.&lt;/p&gt;
-
-&lt;p&gt;This course is also offered for MSc students (as &lt;a href=&#34;http://www.drps.ed.ac.uk/17-18/dpt/cxlasc11148.htm&#34;&gt;LASC11148&lt;/a&gt;). It is suitable for postgraduate students who have had some previous exposure to phonology.&lt;/p&gt;
-
-&lt;p&gt;Following this course, students will be able to progress to advanced study of phonological theory. In &lt;sup&gt;2017&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2018&lt;/sub&gt;, we are offering both LASC10089 Current Issues in Phonology and LASC10046 Historical Phonology.&lt;/p&gt;
 </description>
 </item>
 
