@@ -6,10 +6,39 @@
     <description>Recent content in Teachings on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 11 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://anghyflawn.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Celtic Linguistics</title>
+      <link>https://anghyflawn.github.io/teaching/2018/celtic-linguistics/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://anghyflawn.github.io/teaching/2018/celtic-linguistics/</guid>
+      <description>This course offers students a broad introduction to linguistics of the Celtic languages, one of the two main language groupings in the British and Irish Isles. The focus is on structural topics and engagement with the language material. We cover the following topics:
+ The place of Celtic in the Indo-European family External history of the Celtic languages Structural properties of the Celtic languages, in both their modern and medieval attestations Topics in linguistic theory for which the Celtic languages furnish valuable material.</description>
+    </item>
+    
+    <item>
+      <title>Linguistics and English Language 1A</title>
+      <link>https://anghyflawn.github.io/teaching/2018/lel1a/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://anghyflawn.github.io/teaching/2018/lel1a/</guid>
+      <description>This is the introductory linguistics ab initio course for all first-year students in Linguistics and English Language. With Graeme Trousdale, I am responsible for the data analysis/language puzzles component of the course.</description>
+    </item>
+    
+    <item>
+      <title>Phonological Theory</title>
+      <link>https://anghyflawn.github.io/teaching/2018/phonological-theory/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://anghyflawn.github.io/teaching/2018/phonological-theory/</guid>
+      <description>This course introduces students to a range of important topics in (generative) phonological theory and to phonological data analysis. On the theoretical side, we cover the following topics:
+ Basics of phonological theory: contrast, phonemes, allophones, alternations Feature theory Derivations, underlying representations, rules Process interaction and rule ordering Suprasegmental phonology: syllable structure, stress, tone Advanced feature theory: feature geometry, unary features Explanation in phonology  Throughout the course, there is a strong emphasis on building data analysis and problem solving skills.</description>
+    </item>
     
     <item>
       <title>Current Issues in Phonology</title>

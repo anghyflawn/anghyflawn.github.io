@@ -6,10 +6,19 @@
     <description>Recent content in News on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 31 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Sep 2018 21:49:56 +0100</lastBuildDate>
     
 	<atom:link href="https://anghyflawn.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://anghyflawn.github.io/news/2018/teaching/</link>
+      <pubDate>Sat, 15 Sep 2018 21:49:56 +0100</pubDate>
+      
+      <guid>https://anghyflawn.github.io/news/2018/teaching/</guid>
+      <description>In Semester 1 of 2018&amp;frasl;2019, I am teaching Honours/MSc courses in Phonological Theory, Celtic Linguistics, and run the data analysis component of Linguistics and English Language 1A. My guidance and feedback hour this semester is 13:00&amp;ndash;15:00 on Thursdays.</description>
+    </item>
     
     <item>
       <title>Talks</title>
