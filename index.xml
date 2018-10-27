@@ -25,15 +25,45 @@
     <language>en-gb</language>
     
     
-    <updated>Sat, 15 Sep 2018 22:02:47 BST</updated>
+    <updated>Sat, 27 Oct 2018 22:34:29 BST</updated>
 
 
 
 <item>
-<title>Teachings</title>
-<link>https://anghyflawn.github.io/teaching/</link>
+<title>Welsh</title>
+<link>https://anghyflawn.github.io/categories/welsh/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/teaching/</guid>
+<guid>https://anghyflawn.github.io/categories/welsh/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Russian</title>
+<link>https://anghyflawn.github.io/categories/russian/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://anghyflawn.github.io/categories/russian/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Presentations</title>
+<link>https://anghyflawn.github.io/presentation/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://anghyflawn.github.io/presentation/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Phonology Morphology Interface</title>
+<link>https://anghyflawn.github.io/categories/phonology-morphology-interface/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://anghyflawn.github.io/categories/phonology-morphology-interface/</guid>
 <description></description>
 </item>
 
@@ -44,6 +74,36 @@
 <link>https://anghyflawn.github.io/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>https://anghyflawn.github.io/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Irish</title>
+<link>https://anghyflawn.github.io/categories/irish/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://anghyflawn.github.io/categories/irish/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Evidence for Stratal Phonology</title>
+<link>https://anghyflawn.github.io/presentation/2018/evidence-for-stratal-phonology/</link>
+<pubDate>Tue, 23 Oct 2018 00:00:00 UTC</pubDate>
+<guid>https://anghyflawn.github.io/presentation/2018/evidence-for-stratal-phonology/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Teachings</title>
+<link>https://anghyflawn.github.io/teaching/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://anghyflawn.github.io/teaching/</guid>
 <description></description>
 </item>
 
@@ -154,16 +214,6 @@
 <link>https://anghyflawn.github.io/categories/prosody/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>https://anghyflawn.github.io/categories/prosody/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Presentations</title>
-<link>https://anghyflawn.github.io/presentation/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/presentation/</guid>
 <description></description>
 </item>
 
@@ -391,16 +441,6 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 <link>https://anghyflawn.github.io/categories/substance-free-phonology/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>https://anghyflawn.github.io/categories/substance-free-phonology/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Russian</title>
-<link>https://anghyflawn.github.io/categories/russian/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/russian/</guid>
 <description></description>
 </item>
 
@@ -639,52 +679,6 @@ around Bergen.&lt;/p&gt;
 <pubDate>Sat, 09 Dec 2017 21:41:13 UTC</pubDate>
 <guid>https://anghyflawn.github.io/news/2017/pilot/</guid>
 <description>&lt;p&gt;I have been awarded funding from the &lt;a href=&#34;http://www.ppls.ed.ac.uk&#34;&gt;School of Philosophy, Psychology and Language Sciences&lt;/a&gt; Pilot Project Fund to initiate work on a database of Gaelic dialect forms.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Esohph</title>
-<link>https://anghyflawn.github.io/news/2017/esohph/</link>
-<pubDate>Fri, 01 Dec 2017 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/news/2017/esohph/</guid>
-<description>&lt;p&gt;I offered two presentations at the &lt;a href=&#34;http://www.lel.ed.ac.uk/symposium-on-historical-phonology/&#34;&gt;Third Edinburgh Symposium on Historical Phonology&lt;/a&gt;: a &lt;a href=&#34;https://anghyflawn.github.io/presentation/2017/esohph3-fringe/&#34;&gt;talk&lt;/a&gt; on pre-sonorant voicing and language contact in the fringe session on laryngeal phonology and a &lt;a href=&#34;https://anghyflawn.github.io/presentation/2017/esohph3/&#34;&gt;poster&lt;/a&gt; on the history of Brythonic tense and lax vowels in the main session.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Welsh</title>
-<link>https://anghyflawn.github.io/categories/welsh/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/welsh/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Breton</title>
-<link>https://anghyflawn.github.io/categories/breton/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/breton/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Towards a history of the tenseness contrast in Brythonic vowels</title>
-<link>https://anghyflawn.github.io/presentation/2017/esohph3/</link>
-<pubDate>Fri, 01 Sep 2017 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/presentation/2017/esohph3/</guid>
-<description>&lt;p&gt;Modern Welsh is similar to many modern Germanic languages such as English, German and Dutch in showing an association between &amp;lsquo;tense&amp;rsquo; vowel quality and phonological length. Specifically, long vowels tend to be tense in quality and short vowels tend to be lax, with concomitant alternations. As in the Germanic case, there is some disagreement in the literature on whether quality or quantity (or both) is phonologically relevant in Modern Welsh. In this paper I aim to add to this debate via an overview of the diatopic variation in the relationship between vowel quantity and quality in Welsh and more broadly in the Brythonic languages. I argue that tense/lax quality is likely to be diachronically secondary with respect to quantity, being derivable from prosodic contexts &amp;mdash; primarily vowel length and syllable structure. One of the notable consequences of this is that even when tense/lax quality has been phonologized (as in, for instance, south-western dialects of Welsh), it is still partly conditioned by quantity and syllable structure; conversely, the distribution of quantity is not significantly determined by vowel quality, which supports the contention that quantity is synchronically active in Welsh phonology.&lt;/p&gt;
-
-&lt;p&gt;To support this case for a secondary development of tense/lax quality, I offer a reconstruction of its rise that starts with a tensing of word-final stressed vowels, perhaps initially only restricted to high vowels. This later undergoes rule generalization  to embrace both non-high vowels (as in most dialects with tense [e: oː]) and to syllable-final rather than word-final position (as in South Welsh dialects, where long vowels are allowed in penultimate stressed syllables). I show that intermediate stages of this development are attested across modern Welsh dialects.&lt;/p&gt;
-
-&lt;p&gt;I argue that the Brythonic languages present an interesting test case for theories that attempt to connect the &amp;lsquo;transphonologization&amp;rsquo; of quantity as quality with the rise of vowel shifts: despite the long/short vowels undergoing a tense/lax split, much as in many Germanic languages, the Brythonic system neither became prone to vowel shifting (as in the case of English) nor underwent a further split where the new qualities fit into a new quantity system (as in many North Germanic varieties).&lt;/p&gt;
 </description>
 </item>
 
