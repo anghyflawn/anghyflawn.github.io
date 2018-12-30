@@ -2,453 +2,489 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Pavel Iosad</title>
-    <link>https://anghyflawn.github.io/news/</link>
+    <link>https://www.anghyflawn.net/news/</link>
     <description>Recent content in News on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 15 Sep 2018 21:49:56 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 30 Dec 2018 21:38:13 +0000</lastBuildDate>
     
-	<atom:link href="https://anghyflawn.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.anghyflawn.net/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>2019 Spring Talks</title>
+      <link>https://www.anghyflawn.net/news/2019/2019-spring-talks/</link>
+      <pubDate>Sun, 30 Dec 2018 21:38:13 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/news/2019/2019-spring-talks/</guid>
+      <description>In the spring semester of 2018&amp;frasl;2018, I will present invited talks at the Languages and Literatures Research Seminar at the University of Stirling, at the Linguistics Seminar at University College London, and at Formal Approaches to Russian Linguistics 3 at Moscow State University.</description>
+    </item>
+    
+    <item>
+      <title>2019 Spring Teaching</title>
+      <link>https://www.anghyflawn.net/news/2019/2019-spring-teaching/</link>
+      <pubDate>Sun, 30 Dec 2018 21:34:45 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/news/2019/2019-spring-teaching/</guid>
+      <description>In Semester 2 of 2018&amp;frasl;2019, I am course organizer for the pre-Honours course LEL2D: Cross-Linguistic Variation: Limits and Theories, where I also teach the phonology block. I also teach in pre-Honours on LEL2E: Structure and History of European Languages and on Linguistics and the Gaelic Language, and at Honours/MSc level on Historical Phonology.</description>
+    </item>
+    
+    <item>
+      <title>OUP Proposal</title>
+      <link>https://www.anghyflawn.net/news/2018/oup-proposal/</link>
+      <pubDate>Sun, 30 Dec 2018 21:28:08 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/news/2018/oup-proposal/</guid>
+      <description>Oxford University Press has accepted the proposal for a volume I will co-edit with Björn Köhnlein (The Ohio State University), provisionally entitled Synchronic and diachronic approaches to tonal accent, for the Oxford Studies in Phonology and Phonetics series.</description>
+    </item>
+    
+    <item>
+      <title>Manchester talk</title>
+      <link>https://www.anghyflawn.net/news/2018/manchester-talk/</link>
+      <pubDate>Tue, 23 Oct 2018 20:02:49 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/news/2018/manchester-talk/</guid>
+      <description>I gave a talk at the University of Manchester entitled Evidence for Stratal Phonology: Stem-level phonology and morphological structure. The slides and handout are available here</description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
-      <link>https://anghyflawn.github.io/news/2018/teaching/</link>
+      <link>https://www.anghyflawn.net/news/2018/teaching/</link>
       <pubDate>Sat, 15 Sep 2018 21:49:56 +0100</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2018/teaching/</guid>
+      <guid>https://www.anghyflawn.net/news/2018/teaching/</guid>
       <description>In Semester 1 of 2018&amp;frasl;2019, I am teaching Honours/MSc courses in Phonological Theory, Celtic Linguistics, and run the data analysis component of Linguistics and English Language 1A. My guidance and feedback hour this semester is 13:00&amp;ndash;15:00 on Thursdays.</description>
     </item>
     
     <item>
       <title>Talks</title>
-      <link>https://anghyflawn.github.io/news/2018/talks/</link>
+      <link>https://www.anghyflawn.net/news/2018/talks/</link>
       <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2018/talks/</guid>
+      <guid>https://www.anghyflawn.net/news/2018/talks/</guid>
       <description>I presented A metrical analysis of Scottish Gaelic tonal accent (Rannsachadh na Gàidhlig 2018), and (co-authored with Warren Maguire) English epenthesis in lC and rC clusters: Areal effect or drift? (ICEHL XX)</description>
     </item>
     
     <item>
       <title>Frlsu Presentation</title>
-      <link>https://anghyflawn.github.io/news/2018/frlsu-presentation/</link>
+      <link>https://www.anghyflawn.net/news/2018/frlsu-presentation/</link>
       <pubDate>Fri, 24 Aug 2018 09:57:41 +0100</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2018/frlsu-presentation/</guid>
+      <guid>https://www.anghyflawn.net/news/2018/frlsu-presentation/</guid>
       <description>I presented The Norse influence on Scottish Gaelic, 85 years on at the 12th conference of the Forum for Research on the Languages of Scotland and Ulster. Get the slides and handout here</description>
     </item>
     
     <item>
       <title>History of Phonology</title>
-      <link>https://anghyflawn.github.io/news/2017/history-of-phonology/</link>
+      <link>https://www.anghyflawn.net/news/2017/history-of-phonology/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2017/history-of-phonology/</guid>
+      <guid>https://www.anghyflawn.net/news/2017/history-of-phonology/</guid>
       <description>I have a uploaded a revised draft of my paper on phonology in the Soviet Union for the forthcoming Oxford History of Phonology. Comments welcome!</description>
     </item>
     
     <item>
       <title>Vja</title>
-      <link>https://anghyflawn.github.io/news/2018/vja/</link>
+      <link>https://www.anghyflawn.net/news/2018/vja/</link>
       <pubDate>Tue, 24 Jul 2018 21:37:38 +0100</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2018/vja/</guid>
+      <guid>https://www.anghyflawn.net/news/2018/vja/</guid>
       <description>As of July 2018, I will serve as a member of the editorial board at Russia&amp;rsquo;s premier linguistics journal, Voprosy jazykoznanija</description>
     </item>
     
     <item>
       <title>Frlsu</title>
-      <link>https://anghyflawn.github.io/news/2018/frlsu/</link>
+      <link>https://www.anghyflawn.net/news/2018/frlsu/</link>
       <pubDate>Mon, 04 Jun 2018 21:37:25 +0100</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2018/frlsu/</guid>
+      <guid>https://www.anghyflawn.net/news/2018/frlsu/</guid>
       <description>I will present The influence of Norse on Scottish Gaelic, 85 years on at the 12th conference of the Forum for Research on the Languages of Scotland and Ulster.</description>
     </item>
     
     <item>
       <title>26mfm</title>
-      <link>https://anghyflawn.github.io/news/2018/26mfm/</link>
+      <link>https://www.anghyflawn.net/news/2018/26mfm/</link>
       <pubDate>Sun, 27 May 2018 15:44:59 +0100</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2018/26mfm/</guid>
+      <guid>https://www.anghyflawn.net/news/2018/26mfm/</guid>
       <description>I presented There is no problem of /v/ in Russian phonology at the 26th Manchester Phonology Meeting. Get the slides and handout here</description>
     </item>
     
     <item>
       <title>Aaz</title>
-      <link>https://anghyflawn.github.io/news/2018/aaz/</link>
+      <link>https://www.anghyflawn.net/news/2018/aaz/</link>
       <pubDate>Tue, 08 May 2018 10:43:47 +0100</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2018/aaz/</guid>
+      <guid>https://www.anghyflawn.net/news/2018/aaz/</guid>
       <description>An obituary of the great Russian linguist Andrei Zaliznyak that I co-wrote with Maria Koptjevskaja-Tamm, Dmitri Sitchinava, and Alexander Piperski has appeared in Linguistic Typology. Read it in open access here.</description>
     </item>
     
     <item>
       <title>Fgls</title>
-      <link>https://anghyflawn.github.io/news/2017/fgls/</link>
+      <link>https://www.anghyflawn.net/news/2017/fgls/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2017/fgls/</guid>
+      <guid>https://www.anghyflawn.net/news/2017/fgls/</guid>
       <description>I presented Norwegian preaspiration in traditional and modern sources at the 13th Forum for Germanic Language Studies.</description>
     </item>
     
     <item>
       <title>ot handbook</title>
-      <link>https://anghyflawn.github.io/news/2016/ot-handbook/</link>
+      <link>https://www.anghyflawn.net/news/2016/ot-handbook/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2016/ot-handbook/</guid>
+      <guid>https://www.anghyflawn.net/news/2016/ot-handbook/</guid>
       <description>My chapter on Optimality Theory has appeared in the Routledge handbook of phonological theory (edited by S. J. Hannahs and Anna Bosch). Download the draft here</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://anghyflawn.github.io/news/2017/teaching/</link>
+      <link>https://www.anghyflawn.net/news/2017/teaching/</link>
       <pubDate>Sat, 09 Dec 2017 21:44:31 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2017/teaching/</guid>
+      <guid>https://www.anghyflawn.net/news/2017/teaching/</guid>
       <description>In the second semester of 2017&amp;frasl;2018, I am teaching Historical Phonology (Honours/MSc), Current Issues in Phonology (Honours/MSc), LEL2D: Cross-Linguistic Variation: Limits and Theories (pre-Honours; I am also the course organizer), LEL2E: Structure and History of European Languages, and Linguistics and the Gaelic Language (pre-Honours).</description>
     </item>
     
     <item>
       <title>Pilot</title>
-      <link>https://anghyflawn.github.io/news/2017/pilot/</link>
+      <link>https://www.anghyflawn.net/news/2017/pilot/</link>
       <pubDate>Sat, 09 Dec 2017 21:41:13 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2017/pilot/</guid>
+      <guid>https://www.anghyflawn.net/news/2017/pilot/</guid>
       <description>I have been awarded funding from the School of Philosophy, Psychology and Language Sciences Pilot Project Fund to initiate work on a database of Gaelic dialect forms.</description>
     </item>
     
     <item>
       <title>Esohph</title>
-      <link>https://anghyflawn.github.io/news/2017/esohph/</link>
+      <link>https://www.anghyflawn.net/news/2017/esohph/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2017/esohph/</guid>
+      <guid>https://www.anghyflawn.net/news/2017/esohph/</guid>
       <description>I offered two presentations at the Third Edinburgh Symposium on Historical Phonology: a talk on pre-sonorant voicing and language contact in the fringe session on laryngeal phonology and a poster on the history of Brythonic tense and lax vowels in the main session.</description>
     </item>
     
     <item>
       <title>dias</title>
-      <link>https://anghyflawn.github.io/news/2017/dias/</link>
+      <link>https://www.anghyflawn.net/news/2017/dias/</link>
       <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2017/dias/</guid>
+      <guid>https://www.anghyflawn.net/news/2017/dias/</guid>
       <description>I presented some fledgling work on the history of the tense/lax distinction and quality in Brythonic vowels at the New Approaches to Brittonic Historical Linguistics symposium at the Dublin Institute of Advanced Studies. Get the slides and handout here.</description>
     </item>
     
     <item>
       <title>Senior Tutor</title>
-      <link>https://anghyflawn.github.io/news/2017/senior-tutor/</link>
+      <link>https://www.anghyflawn.net/news/2017/senior-tutor/</link>
       <pubDate>Thu, 03 Aug 2017 16:19:06 +0100</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2017/senior-tutor/</guid>
+      <guid>https://www.anghyflawn.net/news/2017/senior-tutor/</guid>
       <description>From 1 August 2017 I am the Senior Tutor in the School of Philosophy, Psychology and Language Sciences. Please use ppls.senior.tutor@ed.ac.uk for any queries related to that role.</description>
     </item>
     
     <item>
       <title>tphs paper</title>
-      <link>https://anghyflawn.github.io/news/2016/tphs-paper/</link>
+      <link>https://www.anghyflawn.net/news/2016/tphs-paper/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2016/tphs-paper/</guid>
+      <guid>https://www.anghyflawn.net/news/2016/tphs-paper/</guid>
       <description>My paper Welsh svarabhakti as stem allomorphy has appeared in Transactions of the Philological Society. Download the draft version here or the official version here.</description>
     </item>
     
     <item>
       <title>25mfm</title>
-      <link>https://anghyflawn.github.io/news/2017/25mfm/</link>
+      <link>https://www.anghyflawn.net/news/2017/25mfm/</link>
       <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2017/25mfm/</guid>
+      <guid>https://www.anghyflawn.net/news/2017/25mfm/</guid>
       <description>I presented Microvariation in laryngeal realism: Preaspiration in North Germanic at the 25th Manchester Phonology Meeting. Get the slides and handout here.</description>
     </item>
     
     <item>
       <title>phonology paper</title>
-      <link>https://anghyflawn.github.io/news/2017/phonology-paper/</link>
+      <link>https://www.anghyflawn.net/news/2017/phonology-paper/</link>
       <pubDate>Tue, 09 May 2017 10:15:15 +0100</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2017/phonology-paper/</guid>
+      <guid>https://www.anghyflawn.net/news/2017/phonology-paper/</guid>
       <description>My paper The phonologization of redundancy: Length and quality in Welsh vowels has appeared in the latest issue of Phonology. See the published version here or the author manuscript here.</description>
     </item>
     
     <item>
       <title>book</title>
-      <link>https://anghyflawn.github.io/news/2017/book/</link>
+      <link>https://www.anghyflawn.net/news/2017/book/</link>
       <pubDate>Sat, 04 Mar 2017 21:30:16 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2017/book/</guid>
+      <guid>https://www.anghyflawn.net/news/2017/book/</guid>
       <description>My book A substance-free framework for phonology: An analysis of the Breton dialect of Bothoa is now out with Edinburgh University Press. Read more here.</description>
     </item>
     
     <item>
       <title>obo</title>
-      <link>https://anghyflawn.github.io/news/2016/obo/</link>
+      <link>https://www.anghyflawn.net/news/2016/obo/</link>
       <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2016/obo/</guid>
+      <guid>https://www.anghyflawn.net/news/2016/obo/</guid>
       <description>My annotated bibliography of works related to Celtic initial consonant mutations has appeared in Oxford Bibliographies Online here. The table of contents is available here</description>
     </item>
     
     <item>
       <title>fino</title>
-      <link>https://anghyflawn.github.io/news/2017/fino/</link>
+      <link>https://www.anghyflawn.net/news/2017/fino/</link>
       <pubDate>Tue, 03 Jan 2017 20:43:05 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2017/fino/</guid>
+      <guid>https://www.anghyflawn.net/news/2017/fino/</guid>
       <description>I presented Variation in North Germanic preaspiration at the Fonologi i Norden (FiNo) conference at the University of Agder. Download slides and handout</description>
     </item>
     
     <item>
       <title>phonology board</title>
-      <link>https://anghyflawn.github.io/news/2017/phonology-board/</link>
+      <link>https://www.anghyflawn.net/news/2017/phonology-board/</link>
       <pubDate>Tue, 03 Jan 2017 20:42:15 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2017/phonology-board/</guid>
+      <guid>https://www.anghyflawn.net/news/2017/phonology-board/</guid>
       <description>From January 2017 I am serving on the editorial board of Phonology.</description>
     </item>
     
     <item>
       <title>teachind spring 2017</title>
-      <link>https://anghyflawn.github.io/news/2016/teachind-spring-2017/</link>
+      <link>https://www.anghyflawn.net/news/2016/teachind-spring-2017/</link>
       <pubDate>Sat, 17 Dec 2016 22:12:56 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2016/teachind-spring-2017/</guid>
+      <guid>https://www.anghyflawn.net/news/2016/teachind-spring-2017/</guid>
       <description>In the second semester of 2016&amp;frasl;2017, I am teaching phonology on LEL2D: Cross-Linguistic Variation: Limits and Theories (I am also the course organizer for this course); Indo-European, Celtic, and phonology on LEL2E: Structure and History of European Languages; a range of topics on Historical Phonology; the entirety of Celtic, English and Norse in Contact; and phonetics, phonology and historical linguistics on Linguistics and the Gaelic Language. My office hours are Tuesday, 13:00–15:00.</description>
     </item>
     
     <item>
       <title>pihph</title>
-      <link>https://anghyflawn.github.io/news/2016/pihph/</link>
+      <link>https://www.anghyflawn.net/news/2016/pihph/</link>
       <pubDate>Mon, 05 Dec 2016 14:43:38 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2016/pihph/</guid>
+      <guid>https://www.anghyflawn.net/news/2016/pihph/</guid>
       <description>We have launched a new journal called Papers in Historical Phonology. Read more about it, and the first articles, here. I have contributed a paper on rule scattering and vowel length in Northern Romance &amp;mdash; comments welcome!</description>
     </item>
     
     <item>
       <title>tionol presentation</title>
-      <link>https://anghyflawn.github.io/news/2016/tionol-presentation/</link>
+      <link>https://www.anghyflawn.net/news/2016/tionol-presentation/</link>
       <pubDate>Sat, 03 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2016/tionol-presentation/</guid>
+      <guid>https://www.anghyflawn.net/news/2016/tionol-presentation/</guid>
       <description>We presented new results of the project on Irish short vowels with Máire Ní Chiosáin at Tionól 2016 (slides and handout here) and at Language Documentation and Linguistic Theory 5 (slides and handout here).</description>
     </item>
     
     <item>
       <title>welsh paper</title>
-      <link>https://anghyflawn.github.io/news/2016/welsh-paper/</link>
+      <link>https://www.anghyflawn.net/news/2016/welsh-paper/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2016/welsh-paper/</guid>
+      <guid>https://www.anghyflawn.net/news/2016/welsh-paper/</guid>
       <description>Two recent manuscripts on Welsh are now listed: one on quantity-quality interactions in Welsh vowels in substance-free phonology (to appear in Phonology) and one on the so-called &amp;lsquo;provection&amp;rsquo; of south-eastern Welsh and its relevance for feature theory (to appear in a volume with OUP)</description>
     </item>
     
     <item>
       <title>nrn proceedings</title>
-      <link>https://anghyflawn.github.io/news/2016/nrn-proceedings/</link>
+      <link>https://www.anghyflawn.net/news/2016/nrn-proceedings/</link>
       <pubDate>Sat, 05 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2016/nrn-proceedings/</guid>
+      <guid>https://www.anghyflawn.net/news/2016/nrn-proceedings/</guid>
       <description>My paper on tonogenesis in North Germanic has appeared in a volume of proceedings of the Nordic Research Network 2015 conference</description>
     </item>
     
     <item>
       <title>lautgeographie talk</title>
-      <link>https://anghyflawn.github.io/news/2016/lautgeographie-talk/</link>
+      <link>https://www.anghyflawn.net/news/2016/lautgeographie-talk/</link>
       <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2016/lautgeographie-talk/</guid>
+      <guid>https://www.anghyflawn.net/news/2016/lautgeographie-talk/</guid>
       <description>I presented The northwest European phonological area: New approaches to an old problem at Edinburgh&amp;rsquo;s local Linguistic Circle. I very much welcome any feedback on this work.</description>
     </item>
     
     <item>
       <title>clc ldlt</title>
-      <link>https://anghyflawn.github.io/news/2016/clc-ldlt/</link>
+      <link>https://www.anghyflawn.net/news/2016/clc-ldlt/</link>
       <pubDate>Sun, 02 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2016/clc-ldlt/</guid>
+      <guid>https://www.anghyflawn.net/news/2016/clc-ldlt/</guid>
       <description>Máire Ní Chiosáin presented our work on vowel backness and consonant palatalization in Irish at the 9th Celtic Linguistics Conference in Cardiff (handout and slides). We will also present related work at Tionól 2016 in Dublin, and Language Documentation and Linguistic Theory 5 in London.</description>
     </item>
     
     <item>
       <title>JCGL paper</title>
-      <link>https://anghyflawn.github.io/news/2016/stod-paper/</link>
+      <link>https://www.anghyflawn.net/news/2016/stod-paper/</link>
       <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2016/stod-paper/</guid>
+      <guid>https://www.anghyflawn.net/news/2016/stod-paper/</guid>
       <description>My paper Prosodic structure and suprasegmental features: Short-vowel stød in Danish has appeared in Journal of Comparative Germanic Linguistics. Download the final version here or at the journal&amp;rsquo;s website.</description>
     </item>
     
     <item>
       <title>book</title>
-      <link>https://anghyflawn.github.io/news/2016/book/</link>
+      <link>https://www.anghyflawn.net/news/2016/book/</link>
       <pubDate>Mon, 05 Sep 2016 11:45:38 +0100</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2016/book/</guid>
+      <guid>https://www.anghyflawn.net/news/2016/book/</guid>
       <description>My book A substance-free framework for phonology: An analysis of the dialect of Bothoa will appear with Edinburgh University Press in 2017. Read more here</description>
     </item>
     
     <item>
       <title>rnag2016</title>
-      <link>https://anghyflawn.github.io/news/2016/rnag2016/</link>
+      <link>https://www.anghyflawn.net/news/2016/rnag2016/</link>
       <pubDate>Sat, 25 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2016/rnag2016/</guid>
+      <guid>https://www.anghyflawn.net/news/2016/rnag2016/</guid>
       <description>Will Lamb presented the results of our joint work on quantitative approaches to dialect variation in Scottish Gaelic morphology at Rannsachadh na Gàidhlig 2016 at Sabhal Mòr Ostaig. Get the slides and handout here</description>
     </item>
     
     <item>
       <title>amc</title>
-      <link>https://anghyflawn.github.io/news/2016/amc/</link>
+      <link>https://www.anghyflawn.net/news/2016/amc/</link>
       <pubDate>Fri, 10 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2016/amc/</guid>
+      <guid>https://www.anghyflawn.net/news/2016/amc/</guid>
       <description>I presented, with Remco Knooihuizen, Vowel length in Shetland Norn: Contact, change, and competing systems, at the First AMC Symposium at the University of Edinburgh</description>
     </item>
     
     <item>
       <title>leave</title>
-      <link>https://anghyflawn.github.io/news/2016/leave/</link>
+      <link>https://www.anghyflawn.net/news/2016/leave/</link>
       <pubDate>Sat, 14 May 2016 16:58:52 +0100</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2016/leave/</guid>
+      <guid>https://www.anghyflawn.net/news/2016/leave/</guid>
       <description>In the autumn semester of 2016&amp;frasl;2017, I will be on research leave and will not be teaching any courses. See the teaching page for the spring semester plans.</description>
     </item>
     
     <item>
       <title>ocp13-fisk</title>
-      <link>https://anghyflawn.github.io/news/2016/ocp-fisk/</link>
+      <link>https://www.anghyflawn.net/news/2016/ocp-fisk/</link>
       <pubDate>Sat, 20 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2016/ocp-fisk/</guid>
+      <guid>https://www.anghyflawn.net/news/2016/ocp-fisk/</guid>
       <description>Our joint work with Máire Ní Chiosáin on consonant palatalization and vowel backness in Irish and Scottish Gaelic was presented at the 13th Old World Conference in Phonology in Budapest and Fonologi i Skandinavien (FiSK) meeting in Gothenburg</description>
     </item>
     
     <item>
       <title>carnegie</title>
-      <link>https://anghyflawn.github.io/news/2015/carnegie/</link>
+      <link>https://www.anghyflawn.net/news/2015/carnegie/</link>
       <pubDate>Thu, 10 Dec 2015 13:47:48 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2015/carnegie/</guid>
+      <guid>https://www.anghyflawn.net/news/2015/carnegie/</guid>
       <description>I have been awarded a £3,183 Research Incentive Grant by the Carnegie Trust for the Universities of Scotland for the project Preaspiration in North Germanic: Internal variation and language history. Read more here</description>
     </item>
     
     <item>
       <title>Spring 2016 teaching</title>
-      <link>https://anghyflawn.github.io/news/2015/spring-2016-teaching/</link>
+      <link>https://www.anghyflawn.net/news/2015/spring-2016-teaching/</link>
       <pubDate>Mon, 30 Nov 2015 20:53:33 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2015/spring-2016-teaching/</guid>
+      <guid>https://www.anghyflawn.net/news/2015/spring-2016-teaching/</guid>
       <description>In the spring semester of 2015&amp;frasl;2016, I will be teaching on the following courses: LEL2D: Cross-Linguistic Variation: Limits and Theories (pre-Honours; I am also the course organizer); LEL2E: Structure and History of European Languages (pre-Honours); Linguistics and the Gaelic Language (pre-Honours); Celtic, English, and Norse in Contact (Honours); and Historical Phonology (Honours/MSc).</description>
     </item>
     
     <item>
       <title>cjl</title>
-      <link>https://anghyflawn.github.io/news/2015/cjl/</link>
+      <link>https://www.anghyflawn.net/news/2015/cjl/</link>
       <pubDate>Mon, 30 Nov 2015 20:49:20 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2015/cjl/</guid>
+      <guid>https://www.anghyflawn.net/news/2015/cjl/</guid>
       <description>From 1st January 2016 I have been serving on the editorial board of the Canadian Journal of Linguistics | Revue canadienne de linguistique</description>
     </item>
     
     <item>
       <title>ocp13</title>
-      <link>https://anghyflawn.github.io/news/2015/ocp13/</link>
+      <link>https://www.anghyflawn.net/news/2015/ocp13/</link>
       <pubDate>Mon, 16 Nov 2015 21:08:40 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2015/ocp13/</guid>
+      <guid>https://www.anghyflawn.net/news/2015/ocp13/</guid>
       <description>Our joint work with Máire Ní Chiosáin on consonant palatalization and vowel backness in Irish and Scottish Gaelic was presented at the 13th Old World Conference in Phonology in Budapest, and is on the programme for the Fonologi i Skandinavien (FiSK) meeting in Gothenburg</description>
     </item>
     
     <item>
       <title>eshp2</title>
-      <link>https://anghyflawn.github.io/news/2015/eshp2/</link>
+      <link>https://www.anghyflawn.net/news/2015/eshp2/</link>
       <pubDate>Tue, 29 Sep 2015 12:09:14 +0100</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2015/eshp2/</guid>
+      <guid>https://www.anghyflawn.net/news/2015/eshp2/</guid>
       <description>I presented Phonetic (non-)explanation in historical phonology: Duration, harmony, and dissimilation (with Bert Botma and Hidetoshi Shiraishi) at the 2nd Edinburgh Symposium on Historical Phonology.</description>
     </item>
     
     <item>
       <title>sem1 teaching</title>
-      <link>https://anghyflawn.github.io/news/2015/sem1-teaching/</link>
+      <link>https://www.anghyflawn.net/news/2015/sem1-teaching/</link>
       <pubDate>Fri, 14 Aug 2015 20:57:36 +0100</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2015/sem1-teaching/</guid>
+      <guid>https://www.anghyflawn.net/news/2015/sem1-teaching/</guid>
       <description>In the autumn semester of 2015&amp;frasl;2016, I am teaching LASC10088 Phonological Theory. For further teaching plans, see here.</description>
     </item>
     
     <item>
       <title>frlsu</title>
-      <link>https://anghyflawn.github.io/news/2015/frlsu/</link>
+      <link>https://www.anghyflawn.net/news/2015/frlsu/</link>
       <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2015/frlsu/</guid>
+      <guid>https://www.anghyflawn.net/news/2015/frlsu/</guid>
       <description>I presented our joint work on Argyll Gaelic preaspiration with Michael Ramsammy and Patrick Honeybone at the conference of the Forum for Research on the Languages of Scotland and Ulster (University of the West of Scotland, Ayr).</description>
     </item>
     
     <item>
       <title>ahrc</title>
-      <link>https://anghyflawn.github.io/news/2015/ahrc/</link>
+      <link>https://www.anghyflawn.net/news/2015/ahrc/</link>
       <pubDate>Sat, 01 Aug 2015 19:42:04 +0100</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2015/ahrc/</guid>
+      <guid>https://www.anghyflawn.net/news/2015/ahrc/</guid>
       <description>I have been invited to serve on the AHRC Peer Review College from October 2015 through 2018.</description>
     </item>
     
     <item>
       <title>ICCS</title>
-      <link>https://anghyflawn.github.io/news/2015/iccs/</link>
+      <link>https://www.anghyflawn.net/news/2015/iccs/</link>
       <pubDate>Thu, 16 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2015/iccs/</guid>
+      <guid>https://www.anghyflawn.net/news/2015/iccs/</guid>
       <description>I presented Pitch accent and preaspiration in Gaelic: Reconsidering contact origins at the 15th International Congress of Celtic Studies at the University of Glasgow, Scotland.</description>
     </item>
     
     <item>
       <title>gregynog</title>
-      <link>https://anghyflawn.github.io/news/2015/gregynog/</link>
+      <link>https://www.anghyflawn.net/news/2015/gregynog/</link>
       <pubDate>Tue, 07 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2015/gregynog/</guid>
+      <guid>https://www.anghyflawn.net/news/2015/gregynog/</guid>
       <description>I presented Free and not so free: Dialect variation and quantity-quality interactions in Welsh vowels at the 22nd Welsh Linguistics Seminar</description>
     </item>
     
     <item>
       <title>Welsh vowels presentation at the mfm</title>
-      <link>https://anghyflawn.github.io/news/2015/welsh-vowels/</link>
+      <link>https://www.anghyflawn.net/news/2015/welsh-vowels/</link>
       <pubDate>Sat, 30 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2015/welsh-vowels/</guid>
+      <guid>https://www.anghyflawn.net/news/2015/welsh-vowels/</guid>
       <description>I presented Quantity-quality interactions in Welsh vowels: Phonologization across dialects at the 23rd Manchester Phonology Meeting.</description>
     </item>
     
     <item>
       <title>nrn</title>
-      <link>https://anghyflawn.github.io/news/2015/nrn/</link>
+      <link>https://www.anghyflawn.net/news/2015/nrn/</link>
       <pubDate>Wed, 18 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2015/nrn/</guid>
+      <guid>https://www.anghyflawn.net/news/2015/nrn/</guid>
       <description>I presented &amp;lsquo;An echoing tone: Pitch accent parallels in Scandinavia and Scotland&amp;rsquo; at the Nordic Research Network conference at the University of Edinburgh. Get the slides and handout.</description>
     </item>
     
     <item>
       <title>ICNGL paper</title>
-      <link>https://anghyflawn.github.io/news/2015/icngl11-paper/</link>
+      <link>https://www.anghyflawn.net/news/2015/icngl11-paper/</link>
       <pubDate>Tue, 20 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2015/icngl11-paper/</guid>
+      <guid>https://www.anghyflawn.net/news/2015/icngl11-paper/</guid>
       <description>My paper ‘Pitch accent’ and prosodic structure in Scottish Gaelic: Reassessing the role of contact has appeared in New trends in Nordic and general linguistics, edited by Martin Hilpert, Janet Duke, Christine Mertzlufft, Jan-Ola Östman, and Michael Rießler (Mouton de Gruyter). Read more and download a copy here.</description>
     </item>
     
     <item>
       <title>RSE grant</title>
-      <link>https://anghyflawn.github.io/news/2014/rse-grant/</link>
+      <link>https://www.anghyflawn.net/news/2014/rse-grant/</link>
       <pubDate>Fri, 05 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/news/2014/rse-grant/</guid>
+      <guid>https://www.anghyflawn.net/news/2014/rse-grant/</guid>
       <description>I received a Small Research Grant in the Arts and Humanities from the Royal Society of Edinburgh for the project The phonetics and phonology of short vowels in Irish and Scottish Gaelic, with Máire Ní Chiosáin (University College Dublin).</description>
     </item>
     

@@ -19,51 +19,21 @@
 	  </itunes:category>
 	  <itunes:keywords>Linguistics, phonology, historical linguistics, pdf</itunes:keywords>
 	  <itunes:explicit>no</itunes:explicit>
-	  <itunes:image href="https://anghyflawn.github.io/img/avatar2.jpg" />
+	  <itunes:image href="https://www.anghyflawn.net/img/avatar2.jpg" />
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>https://anghyflawn.github.io/</link>
+    <link>https://www.anghyflawn.net/</link>
     <language>en-gb</language>
     
     
-    <updated>Sun, 28 Oct 2018 20:06:24 GMT</updated>
+    <updated>Sun, 30 Dec 2018 21:41:06 GMT</updated>
 
 
 
 <item>
-<title>Welsh</title>
-<link>https://anghyflawn.github.io/categories/welsh/</link>
+<title>Teachings</title>
+<link>https://www.anghyflawn.net/teaching/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/welsh/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Russian</title>
-<link>https://anghyflawn.github.io/categories/russian/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/russian/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Presentations</title>
-<link>https://anghyflawn.github.io/presentation/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/presentation/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Phonology Morphology Interface</title>
-<link>https://anghyflawn.github.io/categories/phonology-morphology-interface/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/phonology-morphology-interface/</guid>
+<guid>https://www.anghyflawn.net/teaching/</guid>
 <description></description>
 </item>
 
@@ -71,9 +41,159 @@
 
 <item>
 <title>Pavel Iosad</title>
-<link>https://anghyflawn.github.io/</link>
+<link>https://www.anghyflawn.net/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/</guid>
+<guid>https://www.anghyflawn.net/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>LEL2E: Structure and History of European Languages</title>
+<link>https://www.anghyflawn.net/teaching/2019/lel2e/</link>
+<pubDate>Sat, 01 Sep 2018 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/teaching/2019/lel2e/</guid>
+<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2018&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2019&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Indo-European language family&lt;/li&gt;
+&lt;li&gt;Celtic languages&lt;/li&gt;
+&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
+&lt;li&gt;Non-Indo-European languages of Europe (Basque; Finno-Ugric)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>LEL2D: Cross-Linguistic Variation: Limits and Theories</title>
+<link>https://www.anghyflawn.net/teaching/2019/lel2d/</link>
+<pubDate>Sat, 01 Sep 2018 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/teaching/2019/lel2d/</guid>
+<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2018&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2019&lt;/sub&gt;, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Historical Phonology</title>
+<link>https://www.anghyflawn.net/teaching/2019/historical-phonology/</link>
+<pubDate>Sat, 01 Sep 2018 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/teaching/2019/historical-phonology/</guid>
+<description>&lt;p&gt;In this course (co-taught with my colleague &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt;) we consider a variety of issues connected to phonological change. Throughout the course, we address questions such as the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How do we reconstruct the phonology of past language states?&lt;/li&gt;
+&lt;li&gt;What types of phonological changes are attested?&lt;/li&gt;
+&lt;li&gt;How can synchronic phonological theory assist us in the study of historical phonology?&lt;/li&gt;
+&lt;li&gt;What can we learn about the human language faculty by studying historical phonology?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In &lt;sup&gt;2018&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2019&lt;/sub&gt;, I will cover the following topics :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mechanisms and types of phonological change&lt;/li&gt;
+&lt;li&gt;Phonological typology and phonological change&lt;/li&gt;
+&lt;li&gt;The life cycle of phonological processes; transmission and diffusion in phonological change&lt;/li&gt;
+&lt;li&gt;Historical phonology and phonological representations&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>News</title>
+<link>https://www.anghyflawn.net/news/</link>
+<pubDate>Sun, 30 Dec 2018 21:38:13 UTC</pubDate>
+<guid>https://www.anghyflawn.net/news/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>2019 Spring Talks</title>
+<link>https://www.anghyflawn.net/news/2019/2019-spring-talks/</link>
+<pubDate>Sun, 30 Dec 2018 21:38:13 UTC</pubDate>
+<guid>https://www.anghyflawn.net/news/2019/2019-spring-talks/</guid>
+<description>&lt;p&gt;In the spring semester of &lt;sup&gt;2018&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2018&lt;/sub&gt;, I will present invited talks at the Languages and Literatures Research Seminar at the University of Stirling, at the Linguistics Seminar at University College London, and at &lt;a href=&#34;http://otipl.philol.msu.ru/library/seminars/farl/farl3_main.php&#34;&gt;Formal Approaches to Russian Linguistics 3&lt;/a&gt; at Moscow State University.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>2019 Spring Teaching</title>
+<link>https://www.anghyflawn.net/news/2019/2019-spring-teaching/</link>
+<pubDate>Sun, 30 Dec 2018 21:34:45 UTC</pubDate>
+<guid>https://www.anghyflawn.net/news/2019/2019-spring-teaching/</guid>
+<description>&lt;p&gt;In Semester 2 of &lt;sup&gt;2018&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2019&lt;/sub&gt;, I am course organizer for the pre-Honours course &lt;a href=&#34;https://www.anghyflawn.net/teaching/2019/lel2d/&#34;&gt;&lt;em&gt;LEL2D: Cross-Linguistic Variation: Limits and Theories&lt;/em&gt;&lt;/a&gt;, where I also teach the phonology block. I also teach in pre-Honours on &lt;a href=&#34;https://www.anghyflawn.net/teaching/2018/lel2e/&#34;&gt;&lt;em&gt;LEL2E: Structure and History of European Languages&lt;/em&gt;&lt;/a&gt; and on &lt;em&gt;Linguistics and the Gaelic Language&lt;/em&gt;, and at Honours/MSc level on &lt;a href=&#34;https://www.anghyflawn.net/teaching/2019/historical-phonology/&#34;&gt;&lt;em&gt;Historical Phonology&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>OUP Proposal</title>
+<link>https://www.anghyflawn.net/news/2018/oup-proposal/</link>
+<pubDate>Sun, 30 Dec 2018 21:28:08 UTC</pubDate>
+<guid>https://www.anghyflawn.net/news/2018/oup-proposal/</guid>
+<description>&lt;p&gt;Oxford University Press has accepted the proposal for a volume I will co-edit with &lt;a href=&#34;https://u.osu.edu/koehnlein.3/&#34;&gt;Björn Köhnlein&lt;/a&gt; (The Ohio State University), provisionally entitled &lt;em&gt;Synchronic and diachronic approaches to tonal accent&lt;/em&gt;, for the &lt;a href=&#34;https://global.oup.com/academic/content/series/o/oxford-studies-in-phonology-and-phonetics-ostpp/?lang=en&amp;amp;cc=gb&#34;&gt;&lt;em&gt;Oxford Studies in Phonology and Phonetics&lt;/em&gt;&lt;/a&gt; series.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Manchester talk</title>
+<link>https://www.anghyflawn.net/news/2018/manchester-talk/</link>
+<pubDate>Tue, 23 Oct 2018 20:02:49 &#43;0000</pubDate>
+<guid>https://www.anghyflawn.net/news/2018/manchester-talk/</guid>
+<description>&lt;p&gt;I gave a talk at the University of Manchester entitled &lt;em&gt;Evidence for Stratal Phonology: Stem-level phonology and morphological structure.&lt;/em&gt; The slides and handout are available &lt;a href=&#34;https://www.anghyflawn.net/presentation/2018/evidence-for-stratal-phonology/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Welsh</title>
+<link>https://www.anghyflawn.net/categories/welsh/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/welsh/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Russian</title>
+<link>https://www.anghyflawn.net/categories/russian/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/russian/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Presentations</title>
+<link>https://www.anghyflawn.net/presentation/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/presentation/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Phonology Morphology Interface</title>
+<link>https://www.anghyflawn.net/categories/phonology-morphology-interface/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/phonology-morphology-interface/</guid>
 <description></description>
 </item>
 
@@ -81,9 +201,9 @@
 
 <item>
 <title>Irish</title>
-<link>https://anghyflawn.github.io/categories/irish/</link>
+<link>https://www.anghyflawn.net/categories/irish/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/irish/</guid>
+<guid>https://www.anghyflawn.net/categories/irish/</guid>
 <description></description>
 </item>
 
@@ -91,29 +211,20 @@
 
 <item>
 <title>Evidence for Stratal Phonology</title>
-<link>https://anghyflawn.github.io/presentation/2018/evidence-for-stratal-phonology/</link>
+<link>https://www.anghyflawn.net/presentation/2018/evidence-for-stratal-phonology/</link>
 <pubDate>Tue, 23 Oct 2018 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/presentation/2018/evidence-for-stratal-phonology/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Teachings</title>
-<link>https://anghyflawn.github.io/teaching/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/teaching/</guid>
-<description></description>
+<guid>https://www.anghyflawn.net/presentation/2018/evidence-for-stratal-phonology/</guid>
+<description>&lt;p&gt;In this talk I discuss the nature of evidence for the stratal organization of morphophonological grammar. Much — of course by no means all — of the currently available evidence in favour a stratal approach to morphology-phonology interactions comes from languages such as English, where the stratification of the lexicon has a strong historical rationale, or the Romance languages, where one can often easily observe morphological constituency at the level below the word. In this talk I discuss three cases that support the division between stem-level and word-level morphophonology as assumed in Stratal Phonology, from languages where the morphological rationale for stratification is less obvious. I consider evidence from Welsh svarabhakti, Irish vowel allophony, and the [e]~[o] alternation in Russian, and show that in all cases we observe not only cyclic misapplication effects but also properties more generally associated with the ‘lexical syndrome’.&lt;/p&gt;
+</description>
 </item>
 
 
 
 <item>
 <title>Phonological Theory</title>
-<link>https://anghyflawn.github.io/teaching/2018/phonological-theory/</link>
+<link>https://www.anghyflawn.net/teaching/2018/phonological-theory/</link>
 <pubDate>Sat, 15 Sep 2018 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/teaching/2018/phonological-theory/</guid>
+<guid>https://www.anghyflawn.net/teaching/2018/phonological-theory/</guid>
 <description>&lt;p&gt;This course introduces students to a range of important topics in (generative) phonological theory and to phonological data analysis. On the theoretical side, we cover the following topics:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -138,9 +249,9 @@
 
 <item>
 <title>Linguistics and English Language 1A</title>
-<link>https://anghyflawn.github.io/teaching/2018/lel1a/</link>
+<link>https://www.anghyflawn.net/teaching/2018/lel1a/</link>
 <pubDate>Sat, 15 Sep 2018 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/teaching/2018/lel1a/</guid>
+<guid>https://www.anghyflawn.net/teaching/2018/lel1a/</guid>
 <description>&lt;p&gt;This is the introductory linguistics &lt;em&gt;ab initio&lt;/em&gt; course for all first-year students in Linguistics and English Language. With &lt;a href=&#34;https://www.ed.ac.uk/profile/graeme-trousdale&#34;&gt;Graeme Trousdale&lt;/a&gt;, I am responsible for the data analysis/language puzzles component of the course.&lt;/p&gt;
 </description>
 </item>
@@ -149,9 +260,9 @@
 
 <item>
 <title>Celtic Linguistics</title>
-<link>https://anghyflawn.github.io/teaching/2018/celtic-linguistics/</link>
+<link>https://www.anghyflawn.net/teaching/2018/celtic-linguistics/</link>
 <pubDate>Sat, 15 Sep 2018 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/teaching/2018/celtic-linguistics/</guid>
+<guid>https://www.anghyflawn.net/teaching/2018/celtic-linguistics/</guid>
 <description>&lt;p&gt;This course offers students a broad introduction to linguistics of the Celtic languages, one of the two main language groupings in the British and Irish Isles. The focus is on structural topics and engagement with the language material. We cover the following topics:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -168,21 +279,11 @@
 
 
 <item>
-<title>News</title>
-<link>https://anghyflawn.github.io/news/</link>
-<pubDate>Sat, 15 Sep 2018 21:49:56 BST</pubDate>
-<guid>https://anghyflawn.github.io/news/</guid>
-<description></description>
-</item>
-
-
-
-<item>
 <title>Teaching</title>
-<link>https://anghyflawn.github.io/news/2018/teaching/</link>
+<link>https://www.anghyflawn.net/news/2018/teaching/</link>
 <pubDate>Sat, 15 Sep 2018 21:49:56 BST</pubDate>
-<guid>https://anghyflawn.github.io/news/2018/teaching/</guid>
-<description>&lt;p&gt;In Semester 1 of &lt;sup&gt;2018&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2019&lt;/sub&gt;, I am teaching Honours/MSc courses in &lt;a href=&#34;https://anghyflawn.github.io/teaching/2018/phonological-theory/&#34;&gt;&lt;em&gt;Phonological Theory&lt;/em&gt;&lt;/a&gt;, &lt;a href=&#34;https://anghyflawn.github.io/teaching/2018/celtic-linguistics/&#34;&gt;&lt;em&gt;Celtic Linguistics&lt;/em&gt;&lt;/a&gt;, and run the data analysis component of &lt;a href=&#34;https://anghyflawn.github.io/teaching/2018/lel1a/&#34;&gt;&lt;em&gt;Linguistics and English Language 1A&lt;/em&gt;&lt;/a&gt;. My guidance and feedback hour this semester is 13:00&amp;ndash;15:00 on Thursdays.&lt;/p&gt;
+<guid>https://www.anghyflawn.net/news/2018/teaching/</guid>
+<description>&lt;p&gt;In Semester 1 of &lt;sup&gt;2018&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2019&lt;/sub&gt;, I am teaching Honours/MSc courses in &lt;a href=&#34;https://www.anghyflawn.net/teaching/2018/phonological-theory/&#34;&gt;&lt;em&gt;Phonological Theory&lt;/em&gt;&lt;/a&gt;, &lt;a href=&#34;https://www.anghyflawn.net/teaching/2018/celtic-linguistics/&#34;&gt;&lt;em&gt;Celtic Linguistics&lt;/em&gt;&lt;/a&gt;, and run the data analysis component of &lt;a href=&#34;https://www.anghyflawn.net/teaching/2018/lel1a/&#34;&gt;&lt;em&gt;Linguistics and English Language 1A&lt;/em&gt;&lt;/a&gt;. My guidance and feedback hour this semester is 13:00&amp;ndash;15:00 on Thursdays.&lt;/p&gt;
 </description>
 </item>
 
@@ -190,10 +291,10 @@
 
 <item>
 <title>Talks</title>
-<link>https://anghyflawn.github.io/news/2018/talks/</link>
+<link>https://www.anghyflawn.net/news/2018/talks/</link>
 <pubDate>Fri, 31 Aug 2018 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/news/2018/talks/</guid>
-<description>&lt;p&gt;I  presented &lt;em&gt;&lt;a href=&#34;https://anghyflawn.github.io/presentation/2018/rnag/&#34;&gt;A metrical analysis of Scottish Gaelic tonal accent&lt;/a&gt;&lt;/em&gt; (&lt;a href=&#34;https://www.ed.ac.uk/literatures-languages-cultures/celtic-scottish-studies/conf/rannsachadh-na-gaidhlig-2018&#34;&gt;Rannsachadh na Gàidhlig 2018&lt;/a&gt;), and (co-authored with &lt;a href=&#34;http://www.lel.ed.ac.uk/~wmaguire/&#34;&gt;Warren Maguire&lt;/a&gt;) &lt;em&gt;&lt;a href=&#34;https://anghyflawn.github.io/presentation/2018/icehl/&#34;&gt;English epenthesis in lC and rC clusters: Areal effect or drift?&lt;/a&gt;&lt;/em&gt; (&lt;a href=&#34;http://www.conferences.cahss.ed.ac.uk/icehl20/&#34;&gt;ICEHL XX&lt;/a&gt;)&lt;/p&gt;
+<guid>https://www.anghyflawn.net/news/2018/talks/</guid>
+<description>&lt;p&gt;I  presented &lt;em&gt;&lt;a href=&#34;https://www.anghyflawn.net/presentation/2018/rnag/&#34;&gt;A metrical analysis of Scottish Gaelic tonal accent&lt;/a&gt;&lt;/em&gt; (&lt;a href=&#34;https://www.ed.ac.uk/literatures-languages-cultures/celtic-scottish-studies/conf/rannsachadh-na-gaidhlig-2018&#34;&gt;Rannsachadh na Gàidhlig 2018&lt;/a&gt;), and (co-authored with &lt;a href=&#34;http://www.lel.ed.ac.uk/~wmaguire/&#34;&gt;Warren Maguire&lt;/a&gt;) &lt;em&gt;&lt;a href=&#34;https://www.anghyflawn.net/presentation/2018/icehl/&#34;&gt;English epenthesis in lC and rC clusters: Areal effect or drift?&lt;/a&gt;&lt;/em&gt; (&lt;a href=&#34;http://www.conferences.cahss.ed.ac.uk/icehl20/&#34;&gt;ICEHL XX&lt;/a&gt;)&lt;/p&gt;
 </description>
 </item>
 
@@ -201,9 +302,9 @@
 
 <item>
 <title>Scottish Gaelic</title>
-<link>https://anghyflawn.github.io/categories/scottish-gaelic/</link>
+<link>https://www.anghyflawn.net/categories/scottish-gaelic/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/scottish-gaelic/</guid>
+<guid>https://www.anghyflawn.net/categories/scottish-gaelic/</guid>
 <description></description>
 </item>
 
@@ -211,9 +312,9 @@
 
 <item>
 <title>Prosody</title>
-<link>https://anghyflawn.github.io/categories/prosody/</link>
+<link>https://www.anghyflawn.net/categories/prosody/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/prosody/</guid>
+<guid>https://www.anghyflawn.net/categories/prosody/</guid>
 <description></description>
 </item>
 
@@ -221,9 +322,9 @@
 
 <item>
 <title>Historical Phonology</title>
-<link>https://anghyflawn.github.io/categories/historical-phonology/</link>
+<link>https://www.anghyflawn.net/categories/historical-phonology/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/historical-phonology/</guid>
+<guid>https://www.anghyflawn.net/categories/historical-phonology/</guid>
 <description></description>
 </item>
 
@@ -231,9 +332,9 @@
 
 <item>
 <title>Germanic</title>
-<link>https://anghyflawn.github.io/categories/germanic/</link>
+<link>https://www.anghyflawn.net/categories/germanic/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/germanic/</guid>
+<guid>https://www.anghyflawn.net/categories/germanic/</guid>
 <description></description>
 </item>
 
@@ -241,9 +342,9 @@
 
 <item>
 <title>English</title>
-<link>https://anghyflawn.github.io/categories/english/</link>
+<link>https://www.anghyflawn.net/categories/english/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/english/</guid>
+<guid>https://www.anghyflawn.net/categories/english/</guid>
 <description></description>
 </item>
 
@@ -251,9 +352,9 @@
 
 <item>
 <title>Celtic</title>
-<link>https://anghyflawn.github.io/categories/celtic/</link>
+<link>https://www.anghyflawn.net/categories/celtic/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/celtic/</guid>
+<guid>https://www.anghyflawn.net/categories/celtic/</guid>
 <description></description>
 </item>
 
@@ -261,9 +362,9 @@
 
 <item>
 <title>English epenthesis in lC and rC clusters</title>
-<link>https://anghyflawn.github.io/presentation/2018/icehl/</link>
+<link>https://www.anghyflawn.net/presentation/2018/icehl/</link>
 <pubDate>Thu, 12 Apr 2018 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/presentation/2018/icehl/</guid>
+<guid>https://www.anghyflawn.net/presentation/2018/icehl/</guid>
 <description>&lt;p&gt;The insertion of an unstressed vowel in &lt;em&gt;lC&lt;/em&gt; and &lt;em&gt;rC&lt;/em&gt; clusters of non-rising sonority (&lt;em&gt;fil[ə]m&lt;/em&gt;), is widely known as characteristic of Irish English. It is frequently cited as a substrate feature carried over from Irish, where this process is productive (Ní Chiosáin 1999), as it is in the related Scottish Gaelic. However, this feature is also known from Older Scots, modern Scots dialects (Maguire 2017), and traditional varieties of English. Therefore, it might be an areal effect in the British and Irish Isles; notably, a similar phenomenon is also attested in Welsh (e. g. Schumacher 2011, Iosad 2017)&lt;/p&gt;
 
 &lt;p&gt;We reconsider whether areality best explains the prevalence of epenthesis in English. Epenthesis in various rC and lC clusters recurs throughout the history of English: Luick (1914) identifies two separate sound changes involving this epenthesis in Old English, with a third one in Middle English (Jordan 1934), all with different trigger contexts and patterns of quality of the epenthetic vowel. In fact, epenthesis in such clusters is extremely common across West Germanic (cf. Howell &amp;amp; Somers Wicka 2007): it is attested in Old High German (Reutercrona 1920, Braune 2004) and retained in Middle High German (Michels 1979) and many modern dialects (Schirmunski 1962); in Old, Middle, and Modern Dutch (van Loey 1976, Warner et al. 2001), and in Frisian (Steller 1928, Visser 2017). Epenthesis appears rarely in ancient North Germanic, but is widely attested at least in Danish dialects (Hansen 1962). Common to Germanic epenthesis patterns are a diversity of affected clusters and qualities of inserted vowel, a lack of regularity of epenthesis as a sound change, and erosion over time due to syncope processes targeting both epenthetic and original vowels. This makes it clear they cannot all be inherited from a single sound change in the protolanguage.&lt;/p&gt;
@@ -276,9 +377,9 @@
 
 <item>
 <title>A metrical analysis of Scottish Gaelic tonal accent</title>
-<link>https://anghyflawn.github.io/presentation/2018/rnag/</link>
+<link>https://www.anghyflawn.net/presentation/2018/rnag/</link>
 <pubDate>Thu, 12 Apr 2018 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/presentation/2018/rnag/</guid>
+<guid>https://www.anghyflawn.net/presentation/2018/rnag/</guid>
 <description>&lt;p&gt;I provide a new analysis of the ‘tonal accent’ opposition in Gaelic, conceptualizing it as involving lexically specified metrical — in particular foot — structure. As discussed among others by Ternes (1980, 2006), many Gaelic varieties use suprasegmental features such as pitch (e.g. Lewis, Wester Ross) or glottalization (e.g. Jura, Colonsay) to make two kinds of distinctions: disyllabic hiatus vs. heavy syllables (&lt;em&gt;àth&lt;/em&gt; vs. &lt;em&gt;atha&lt;/em&gt;); and disyllabic vs. svarabhakti words (&lt;em&gt;balg&lt;/em&gt; vs. &lt;em&gt;balach&lt;/em&gt;). Ternes rightly compares these patterns with tonal accent systems in Germanic, and postulates lexical tone as the key distinction between the two ‘accents’.&lt;/p&gt;
 
 &lt;p&gt;Non-tonal analyses have been proposed by authors such as Bosch &amp;amp; de Jong (1997); Smith (1999); Brown (2009); Iosad (2015). In particular, Smith and Iosad offer analyses where the svarabhakti vowel in words like balg is metrically invisible, with consequences for the patterning of tone and glottalization. However, this analysis can only work if svarabhakti vowels are fully predictable synchronically. In this simple form, the analysis is untenable: svarabhakti vowels may be absent in contexts where they are phonologically motivated (e.g. [x] representing preaspiration of [k] does not trigger svarabhakti &lt;em&gt;olc&lt;/em&gt; [ɔɫxk], *[ɔɫɔxk]), and conversely svarabhakti-related suprasegmental patterns can appear when they are synchronically unmotivated (e.g. [faɫa.i], [mara.i] with ‘monosyllabic’ accent for &lt;em&gt;falbhaidh&lt;/em&gt;, &lt;em&gt;marbhaidh&lt;/em&gt;). Similar counterexampels can be adduced for glottalization: compare [marəv] for marbh with svarabhakti-induced lack of glottalization but [marɪç] &lt;em&gt;marbhaidh&lt;/em&gt; where the lack of [ʔ] cannot be so explained. Building on recent work in the analysis of tonal accents (e.g. Morén-Duolljá 2013, Köhnlein 2016, Iosad 2016, Kehrein 2017), in this paper I show how these problems can be resolved if both glottalization and tonal accents in Scottish Gaelic are analysed using lexically pre-specified foot structure.&lt;/p&gt;
@@ -289,10 +390,10 @@
 
 <item>
 <title>Frlsu Presentation</title>
-<link>https://anghyflawn.github.io/news/2018/frlsu-presentation/</link>
+<link>https://www.anghyflawn.net/news/2018/frlsu-presentation/</link>
 <pubDate>Fri, 24 Aug 2018 09:57:41 BST</pubDate>
-<guid>https://anghyflawn.github.io/news/2018/frlsu-presentation/</guid>
-<description>&lt;p&gt;I presented &lt;em&gt;The Norse influence on Scottish Gaelic, 85 years on&lt;/em&gt;  at the &lt;a href=&#34;https://frlsu.org/frlsu-programme/&#34;&gt;12th conference of the Forum for Research on the Languages of Scotland and Ulster&lt;/a&gt;. Get the slides and handout &lt;a href=&#34;https://anghyflawn.github.io/presentation/2018/frlsu/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+<guid>https://www.anghyflawn.net/news/2018/frlsu-presentation/</guid>
+<description>&lt;p&gt;I presented &lt;em&gt;The Norse influence on Scottish Gaelic, 85 years on&lt;/em&gt;  at the &lt;a href=&#34;https://frlsu.org/frlsu-programme/&#34;&gt;12th conference of the Forum for Research on the Languages of Scotland and Ulster&lt;/a&gt;. Get the slides and handout &lt;a href=&#34;https://www.anghyflawn.net/presentation/2018/frlsu/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
 </item>
 
@@ -300,9 +401,9 @@
 
 <item>
 <title>Laryngeal Phonology</title>
-<link>https://anghyflawn.github.io/categories/laryngeal-phonology/</link>
+<link>https://www.anghyflawn.net/categories/laryngeal-phonology/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/laryngeal-phonology/</guid>
+<guid>https://www.anghyflawn.net/categories/laryngeal-phonology/</guid>
 <description></description>
 </item>
 
@@ -310,9 +411,9 @@
 
 <item>
 <title>Language Contact</title>
-<link>https://anghyflawn.github.io/categories/language-contact/</link>
+<link>https://www.anghyflawn.net/categories/language-contact/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/language-contact/</guid>
+<guid>https://www.anghyflawn.net/categories/language-contact/</guid>
 <description></description>
 </item>
 
@@ -320,9 +421,9 @@
 
 <item>
 <title>The influence of Norse on Scottish Gaelic, 85 years on</title>
-<link>https://anghyflawn.github.io/presentation/2018/frlsu/</link>
+<link>https://www.anghyflawn.net/presentation/2018/frlsu/</link>
 <pubDate>Mon, 04 Jun 2018 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/presentation/2018/frlsu/</guid>
+<guid>https://www.anghyflawn.net/presentation/2018/frlsu/</guid>
 <description>&lt;p&gt;In this paper I propose (yet another) reappraisal of the arguments
 regarding the relationship between Norse and Gaelic in the North
 Atlantic world, focusing on the development of preaspiration. There is
@@ -361,10 +462,10 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 <item>
 <title>History of Phonology</title>
-<link>https://anghyflawn.github.io/news/2017/history-of-phonology/</link>
+<link>https://www.anghyflawn.net/news/2017/history-of-phonology/</link>
 <pubDate>Tue, 31 Jul 2018 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/news/2017/history-of-phonology/</guid>
-<description>&lt;p&gt;I have a uploaded a revised draft of my &lt;a href=&#34;https://anghyflawn.github.io/writing/history-of-phonology/&#34;&gt;paper on phonology in the Soviet Union&lt;/a&gt; for the forthcoming &lt;em&gt;Oxford History of Phonology&lt;/em&gt;. Comments welcome!&lt;/p&gt;
+<guid>https://www.anghyflawn.net/news/2017/history-of-phonology/</guid>
+<description>&lt;p&gt;I have a uploaded a revised draft of my &lt;a href=&#34;https://www.anghyflawn.net/writing/history-of-phonology/&#34;&gt;paper on phonology in the Soviet Union&lt;/a&gt; for the forthcoming &lt;em&gt;Oxford History of Phonology&lt;/em&gt;. Comments welcome!&lt;/p&gt;
 </description>
 </item>
 
@@ -372,9 +473,9 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 <item>
 <title>Writings</title>
-<link>https://anghyflawn.github.io/writing/</link>
+<link>https://www.anghyflawn.net/writing/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/writing/</guid>
+<guid>https://www.anghyflawn.net/writing/</guid>
 <description></description>
 </item>
 
@@ -382,9 +483,9 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 <item>
 <title>History of Phonology</title>
-<link>https://anghyflawn.github.io/categories/history-of-phonology/</link>
+<link>https://www.anghyflawn.net/categories/history-of-phonology/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/history-of-phonology/</guid>
+<guid>https://www.anghyflawn.net/categories/history-of-phonology/</guid>
 <description></description>
 </item>
 
@@ -392,9 +493,9 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 <item>
 <title>Phonology in the Soviet Union</title>
-<link>https://anghyflawn.github.io/writing/history-of-phonology/</link>
+<link>https://www.anghyflawn.net/writing/history-of-phonology/</link>
 <pubDate>Mon, 30 Jul 2018 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/writing/history-of-phonology/</guid>
+<guid>https://www.anghyflawn.net/writing/history-of-phonology/</guid>
 <description>&lt;p&gt;This invited contribution to a collection on the history of phonology explores the history of phonological studies in the USSR. I offer a short history of phonology in Russia and the USSR before the formation of the two main theoretical currents (the &amp;lsquo;Leningrad&amp;rsquo; and &amp;lsquo;Moscow&amp;rsquo; schools), and emphasize both their mutual common roots and their closeness to other structuralist frameworks, in particular Prague phonology. I discuss the differences between the two schools both in their approach to the phoneme and in their analysis of morphophonological alternations. Throughout, the focus is on the ways in which a focus on Russian shaped the directions of phonological thinking.&lt;/p&gt;
 
 &lt;p&gt;This is the revised version of the paper.&lt;/p&gt;
@@ -405,9 +506,9 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 <item>
 <title>Vja</title>
-<link>https://anghyflawn.github.io/news/2018/vja/</link>
+<link>https://www.anghyflawn.net/news/2018/vja/</link>
 <pubDate>Tue, 24 Jul 2018 21:37:38 BST</pubDate>
-<guid>https://anghyflawn.github.io/news/2018/vja/</guid>
+<guid>https://www.anghyflawn.net/news/2018/vja/</guid>
 <description>&lt;p&gt;As of July 2018, I will serve as a member of the editorial board at Russia&amp;rsquo;s premier linguistics journal, &lt;a href=&#34;http://www.issuesinlinguistics.ru&#34;&gt;&lt;em&gt;Voprosy jazykoznanija&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
 </item>
@@ -416,10 +517,10 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 <item>
 <title>Frlsu</title>
-<link>https://anghyflawn.github.io/news/2018/frlsu/</link>
+<link>https://www.anghyflawn.net/news/2018/frlsu/</link>
 <pubDate>Mon, 04 Jun 2018 21:37:25 BST</pubDate>
-<guid>https://anghyflawn.github.io/news/2018/frlsu/</guid>
-<description>&lt;p&gt;I will present &lt;em&gt;&lt;a href=&#34;https://anghyflawn.github.io/presentation/2018/frlsu/&#34;&gt;The influence of Norse on Scottish Gaelic, 85 years on&lt;/a&gt;&lt;/em&gt; at the &lt;a href=&#34;https://frlsu.org/conferences/2018-2/&#34;&gt;12th conference of the Forum for Research on the Languages of Scotland and Ulster&lt;/a&gt;.&lt;/p&gt;
+<guid>https://www.anghyflawn.net/news/2018/frlsu/</guid>
+<description>&lt;p&gt;I will present &lt;em&gt;&lt;a href=&#34;https://www.anghyflawn.net/presentation/2018/frlsu/&#34;&gt;The influence of Norse on Scottish Gaelic, 85 years on&lt;/a&gt;&lt;/em&gt; at the &lt;a href=&#34;https://frlsu.org/conferences/2018-2/&#34;&gt;12th conference of the Forum for Research on the Languages of Scotland and Ulster&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
@@ -427,10 +528,10 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 <item>
 <title>26mfm</title>
-<link>https://anghyflawn.github.io/news/2018/26mfm/</link>
+<link>https://www.anghyflawn.net/news/2018/26mfm/</link>
 <pubDate>Sun, 27 May 2018 15:44:59 BST</pubDate>
-<guid>https://anghyflawn.github.io/news/2018/26mfm/</guid>
-<description>&lt;p&gt;I presented &lt;em&gt;There is no problem of /v/ in Russian phonology&lt;/em&gt; at the &lt;a href=&#34;http://www.lel.ed.ac.uk/mfm/26mfm.html&#34;&gt;26th Manchester Phonology Meeting&lt;/a&gt;. Get the slides and handout &lt;a href=&#34;https://anghyflawn.github.io/presentation/2018/26mfm/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+<guid>https://www.anghyflawn.net/news/2018/26mfm/</guid>
+<description>&lt;p&gt;I presented &lt;em&gt;There is no problem of /v/ in Russian phonology&lt;/em&gt; at the &lt;a href=&#34;http://www.lel.ed.ac.uk/mfm/26mfm.html&#34;&gt;26th Manchester Phonology Meeting&lt;/a&gt;. Get the slides and handout &lt;a href=&#34;https://www.anghyflawn.net/presentation/2018/26mfm/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
 </item>
 
@@ -438,9 +539,9 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 <item>
 <title>Substance Free Phonology</title>
-<link>https://anghyflawn.github.io/categories/substance-free-phonology/</link>
+<link>https://www.anghyflawn.net/categories/substance-free-phonology/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/substance-free-phonology/</guid>
+<guid>https://www.anghyflawn.net/categories/substance-free-phonology/</guid>
 <description></description>
 </item>
 
@@ -448,9 +549,9 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 <item>
 <title>Phonetics Phonology Interface</title>
-<link>https://anghyflawn.github.io/categories/phonetics-phonology-interface/</link>
+<link>https://www.anghyflawn.net/categories/phonetics-phonology-interface/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/phonetics-phonology-interface/</guid>
+<guid>https://www.anghyflawn.net/categories/phonetics-phonology-interface/</guid>
 <description></description>
 </item>
 
@@ -458,9 +559,9 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 <item>
 <title>There is no problem of /v/ in Russian phonology</title>
-<link>https://anghyflawn.github.io/presentation/2018/26mfm/</link>
+<link>https://www.anghyflawn.net/presentation/2018/26mfm/</link>
 <pubDate>Thu, 12 Apr 2018 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/presentation/2018/26mfm/</guid>
+<guid>https://www.anghyflawn.net/presentation/2018/26mfm/</guid>
 <description>&lt;p&gt;The dual behaviour of /v/ has been a notorious crux in Russian phonology since at least Jakobson (1956). The basic problem is that /v/ fails to trigger voicing assimilation, like sonorants, but undergoes both assimilation to following obstruents  and final devoicing, like obstruents.&lt;/p&gt;
 
 &lt;p&gt;The commonest solution in the literature is representational: [v] is treated as a sonorant, either an underlying /w/ (Lightner 1972, Hayes 1984, Kiparsky 1985) or some labial non-glide (Coats &amp;amp; Harshenin 1971, Padgett 2002). Most recently, Reiss (2017) analyses /v/ as /V/, underspecified for [±voice] – patterning with sonorants, but not a sonorant in featural terms – that is devoiced to [f]. He argues that this is an insurmountable challenge to the Contrastivist Hypothesis (Hall 2007), since [v] and [f] are minimally distinct in terms of voicing, but do not pattern phonologically like other similar pairs in Russian.&lt;/p&gt;
@@ -479,9 +580,9 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 <item>
 <title>Aaz</title>
-<link>https://anghyflawn.github.io/news/2018/aaz/</link>
+<link>https://www.anghyflawn.net/news/2018/aaz/</link>
 <pubDate>Tue, 08 May 2018 10:43:47 BST</pubDate>
-<guid>https://anghyflawn.github.io/news/2018/aaz/</guid>
+<guid>https://www.anghyflawn.net/news/2018/aaz/</guid>
 <description>&lt;p&gt;An obituary of the great Russian linguist Andrei Zaliznyak that I co-wrote with &lt;a href=&#34;https://www.su.se/english/profiles/tamm-1.182300&#34;&gt;Maria Koptjevskaja-Tamm&lt;/a&gt;, &lt;a href=&#34;http://ruslang.academia.edu/DmitriSitchinava&#34;&gt;Dmitri Sitchinava&lt;/a&gt;, and &lt;a href=&#34;https://www.hse.ru/en/org/persons/34802244&#34;&gt;Alexander Piperski&lt;/a&gt; has appeared in &lt;em&gt;Linguistic Typology&lt;/em&gt;. &lt;a href=&#34;https://doi.org/10.1515/lingty-2018-0006&#34;&gt;Read it in open access here&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
@@ -490,9 +591,9 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 <item>
 <title>Phonological Theory</title>
-<link>https://anghyflawn.github.io/categories/phonological-theory/</link>
+<link>https://www.anghyflawn.net/categories/phonological-theory/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/phonological-theory/</guid>
+<guid>https://www.anghyflawn.net/categories/phonological-theory/</guid>
 <description></description>
 </item>
 
@@ -500,9 +601,9 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 <item>
 <title>Optimality Theory</title>
-<link>https://anghyflawn.github.io/categories/optimality-theory/</link>
+<link>https://www.anghyflawn.net/categories/optimality-theory/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/optimality-theory/</guid>
+<guid>https://www.anghyflawn.net/categories/optimality-theory/</guid>
 <description></description>
 </item>
 
@@ -510,9 +611,9 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 <item>
 <title>North Germanic</title>
-<link>https://anghyflawn.github.io/categories/north-germanic/</link>
+<link>https://www.anghyflawn.net/categories/north-germanic/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/categories/north-germanic/</guid>
+<guid>https://www.anghyflawn.net/categories/north-germanic/</guid>
 <description></description>
 </item>
 
@@ -520,10 +621,10 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 <item>
 <title>ot handbook</title>
-<link>https://anghyflawn.github.io/news/2016/ot-handbook/</link>
+<link>https://www.anghyflawn.net/news/2016/ot-handbook/</link>
 <pubDate>Fri, 12 Jan 2018 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/news/2016/ot-handbook/</guid>
-<description>&lt;p&gt;My chapter on Optimality Theory has appeared in the &lt;em&gt;Routledge handbook of phonological theory&lt;/em&gt; (edited by S. J. Hannahs and Anna Bosch). Download the draft &lt;a href=&#34;https://anghyflawn.github.io/writing/ot-handbook/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+<guid>https://www.anghyflawn.net/news/2016/ot-handbook/</guid>
+<description>&lt;p&gt;My chapter on Optimality Theory has appeared in the &lt;em&gt;Routledge handbook of phonological theory&lt;/em&gt; (edited by S. J. Hannahs and Anna Bosch). Download the draft &lt;a href=&#34;https://www.anghyflawn.net/writing/ot-handbook/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
 </item>
 
@@ -531,9 +632,9 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 <item>
 <title>Optimality Theory: Motivations and perspectives</title>
-<link>https://anghyflawn.github.io/writing/ot-handbook/</link>
+<link>https://www.anghyflawn.net/writing/ot-handbook/</link>
 <pubDate>Fri, 12 Jan 2018 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/writing/ot-handbook/</guid>
+<guid>https://www.anghyflawn.net/writing/ot-handbook/</guid>
 <description>&lt;p&gt;This chapter provides an introduction to the basic mechanisms of Optimality Theory in phonology and to the most important motivations cited for its widespread adoption. I also review some of the empirical and conceptual challenges it has faced. Ultimately, I suggest, many of these challenges can be traced back to the fact that while OT grew out of a general dissatisfaction with some aspects of late-1980s rule-based phonology, it was adopted as a general theory of phonological computation without an explicit statement of the division of labour vis-à-vis other components of linguistic knowledge with which it interacts. I conclude the chapter by a discussion of ways in which OT still remains relevant even within a changed phonological landscape.&lt;/p&gt;
 
 &lt;p&gt;The chapter is © Routledge&lt;/p&gt;
@@ -544,9 +645,9 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 <item>
 <title>Norwegian preaspiration in traditional and modern sources</title>
-<link>https://anghyflawn.github.io/presentation/2018/fgls/</link>
+<link>https://www.anghyflawn.net/presentation/2018/fgls/</link>
 <pubDate>Sat, 09 Dec 2017 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/presentation/2018/fgls/</guid>
+<guid>https://www.anghyflawn.net/presentation/2018/fgls/</guid>
 <description>&lt;p&gt;In this paper I survey traditional descriptions of Norwegian dialects
 with particular attention to their discussion of voiceless stop
 preaspiration, and conclude that it is highly probable preaspiration has
@@ -580,105 +681,6 @@ correctly identified preaspiration in Scottish Gaelic (Oftedal 1956). I
 compare these findings to the recent discussion by Kristoffersen (2016)
 of the late discovery of the lack of tonal contrasts in rural dialects
 around Bergen.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Fgls</title>
-<link>https://anghyflawn.github.io/news/2017/fgls/</link>
-<pubDate>Fri, 12 Jan 2018 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/news/2017/fgls/</guid>
-<description>&lt;p&gt;I presented &lt;em&gt;&lt;a href=&#34;https://anghyflawn.github.io/presentation/2018/fgls/&#34;&gt;Norwegian preaspiration in traditional and modern sources&lt;/a&gt;&lt;/em&gt; at the &lt;a href=&#34;http://www.conferences.cahss.ed.ac.uk/germanic-language-studies/&#34;&gt;13th Forum for Germanic Language Studies&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Current Issues in Phonology</title>
-<link>https://anghyflawn.github.io/teaching/2018/current-issues-in-phonology/</link>
-<pubDate>Fri, 01 Sep 2017 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/teaching/2018/current-issues-in-phonology/</guid>
-<description>&lt;p&gt;This advanced course introduces students to a variety of live research issues in phonological theory. I teach this course with my colleagues &lt;a href=&#34;http://www.ed.ac.uk/profile/heinz-giegerich&#34;&gt;Heinz Giegerich&lt;/a&gt;, &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt;, and &lt;a href=&#34;http://www.ed.ac.uk/profile/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt;. Check back nearer the time for a list of topics I will cover.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>https://anghyflawn.github.io/teaching/2018/lel2e/</link>
-<pubDate>Fri, 01 Sep 2017 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/teaching/2018/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2017&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2018&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The Indo-European language family&lt;/li&gt;
-&lt;li&gt;Celtic languages&lt;/li&gt;
-&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
-&lt;li&gt;Non-Indo-European languages of Europe (Basque; Finno-Ugric)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>LEL2D: Cross-Linguistic Variation: Limits and Theories</title>
-<link>https://anghyflawn.github.io/teaching/2018/lel2d/</link>
-<pubDate>Fri, 01 Sep 2017 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/teaching/2018/lel2d/</guid>
-<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2017&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2018&lt;/sub&gt;, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Historical Phonology</title>
-<link>https://anghyflawn.github.io/teaching/2018/historical-phonology/</link>
-<pubDate>Fri, 01 Sep 2017 00:00:00 UTC</pubDate>
-<guid>https://anghyflawn.github.io/teaching/2018/historical-phonology/</guid>
-<description>&lt;p&gt;In this course (co-taught with my colleagues &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt; and &lt;a href=&#34;http://www.ed.ac.uk/profile/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt;) we consider a variety of issues connected to phonological change. Throughout the course, we address questions such as the following:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;How do we reconstruct the phonology of past language states?&lt;/li&gt;
-&lt;li&gt;What types of phonological changes are attested?&lt;/li&gt;
-&lt;li&gt;How can synchronic phonological theory assist us in the study of historical phonology?&lt;/li&gt;
-&lt;li&gt;What can we learn about the human language faculty by studying historical phonology?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In &lt;sup&gt;2017&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2018&lt;/sub&gt;, I will cover the following topics (subject to change with extreme prejudice):&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mechanisms and types of phonological change&lt;/li&gt;
-&lt;li&gt;Phonological typology and phonological change&lt;/li&gt;
-&lt;li&gt;Historical phonology and phonological representations&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Teaching</title>
-<link>https://anghyflawn.github.io/news/2017/teaching/</link>
-<pubDate>Sat, 09 Dec 2017 21:44:31 UTC</pubDate>
-<guid>https://anghyflawn.github.io/news/2017/teaching/</guid>
-<description>&lt;p&gt;In the second semester of &lt;sup&gt;2017&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2018&lt;/sub&gt;, I am teaching &lt;a href=&#34;http://www.drps.ed.ac.uk/17-18/dpt/cxlasc10046.htm&#34;&gt;Historical Phonology&lt;/a&gt; (Honours/MSc), &lt;a href=&#34;http://www.drps.ed.ac.uk/17-18/dpt/cxlasc10089.htm&#34;&gt;Current Issues in Phonology&lt;/a&gt; (Honours/MSc), &lt;a href=&#34;http://www.drps.ed.ac.uk/17-18/dpt/cxlasc08020.htm&#34;&gt;LEL2D: Cross-Linguistic Variation: Limits and Theories&lt;/a&gt; (pre-Honours; I am also the course organizer), &lt;a href=&#34;http://www.drps.ed.ac.uk/17-18/dpt/cxlasc08021.htm&#34;&gt;LEL2E: Structure and History of European Languages&lt;/a&gt;, and &lt;a href=&#34;http://www.drps.ed.ac.uk/17-18/dpt/cxcelt08019.htm&#34;&gt;Linguistics and the Gaelic Language&lt;/a&gt; (pre-Honours).&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Pilot</title>
-<link>https://anghyflawn.github.io/news/2017/pilot/</link>
-<pubDate>Sat, 09 Dec 2017 21:41:13 UTC</pubDate>
-<guid>https://anghyflawn.github.io/news/2017/pilot/</guid>
-<description>&lt;p&gt;I have been awarded funding from the &lt;a href=&#34;http://www.ppls.ed.ac.uk&#34;&gt;School of Philosophy, Psychology and Language Sciences&lt;/a&gt; Pilot Project Fund to initiate work on a database of Gaelic dialect forms.&lt;/p&gt;
 </description>
 </item>
 

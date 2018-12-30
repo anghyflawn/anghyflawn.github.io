@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Pavel Iosad</title>
-    <link>https://anghyflawn.github.io/page/</link>
+    <link>https://www.anghyflawn.net/page/</link>
     <description>Recent content in Pages on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 20 Apr 2015 23:06:40 +0100</lastBuildDate>
     
-	<atom:link href="https://anghyflawn.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.anghyflawn.net/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About my name</title>
-      <link>https://anghyflawn.github.io/my-name/</link>
+      <link>https://www.anghyflawn.net/my-name/</link>
       <pubDate>Mon, 20 Apr 2015 23:06:40 +0100</pubDate>
       
-      <guid>https://anghyflawn.github.io/my-name/</guid>
+      <guid>https://www.anghyflawn.net/my-name/</guid>
       <description>My name is obviously problematic for English speakers (or indeed for Russian speakers), so I&amp;rsquo;m just putting this up for future reference.
 In Russian, my surname is Иосад, pronounced in Modern Standard Russian as something like [i.aˈsat] &amp;mdash; that&amp;rsquo;s two onsetless syllables in a row, plus final devoicing. English speakers rightly ignore the final devoicing, but the two first syllables can still be a problem. The suggested version for English speakers is [ˈjɔːsəd], with the vowel of thought.</description>
     </item>
     
     <item>
       <title>Representation and variation in substance-free phonology: A case study in Celtic</title>
-      <link>https://anghyflawn.github.io/thesis/</link>
+      <link>https://www.anghyflawn.net/thesis/</link>
       <pubDate>Mon, 20 Apr 2015 21:04:07 +0100</pubDate>
       
-      <guid>https://anghyflawn.github.io/thesis/</guid>
+      <guid>https://www.anghyflawn.net/thesis/</guid>
       <description>Here you will find some material related to my PhD thesis entitled Representation and variation in substance-free phonology, which I submitted to the University of Tromsø on 3rd August 2012 and which I successfully defended in a viva voce examination on 18th February 2013.
  The official version of the thesis can be downloaded from Munin, the University of Tromsø&amp;rsquo;s institutional repository, here  You can download the LaTeX source code for the thesis here There is an interview I did for the faculty&amp;rsquo;s web site (it is in Norwegian).</description>
     </item>

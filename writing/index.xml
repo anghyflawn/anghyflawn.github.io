@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writings on Pavel Iosad</title>
-    <link>https://anghyflawn.github.io/writing/</link>
+    <link>https://www.anghyflawn.net/writing/</link>
     <description>Recent content in Writings on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 30 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://anghyflawn.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.anghyflawn.net/writing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Phonology in the Soviet Union</title>
-      <link>https://anghyflawn.github.io/writing/history-of-phonology/</link>
+      <link>https://www.anghyflawn.net/writing/history-of-phonology/</link>
       <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/writing/history-of-phonology/</guid>
+      <guid>https://www.anghyflawn.net/writing/history-of-phonology/</guid>
       <description>This invited contribution to a collection on the history of phonology explores the history of phonological studies in the USSR. I offer a short history of phonology in Russia and the USSR before the formation of the two main theoretical currents (the &amp;lsquo;Leningrad&amp;rsquo; and &amp;lsquo;Moscow&amp;rsquo; schools), and emphasize both their mutual common roots and their closeness to other structuralist frameworks, in particular Prague phonology. I discuss the differences between the two schools both in their approach to the phoneme and in their analysis of morphophonological alternations.</description>
     </item>
     
     <item>
       <title>Optimality Theory: Motivations and perspectives</title>
-      <link>https://anghyflawn.github.io/writing/ot-handbook/</link>
+      <link>https://www.anghyflawn.net/writing/ot-handbook/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/writing/ot-handbook/</guid>
+      <guid>https://www.anghyflawn.net/writing/ot-handbook/</guid>
       <description>This chapter provides an introduction to the basic mechanisms of Optimality Theory in phonology and to the most important motivations cited for its widespread adoption. I also review some of the empirical and conceptual challenges it has faced. Ultimately, I suggest, many of these challenges can be traced back to the fact that while OT grew out of a general dissatisfaction with some aspects of late-1980s rule-based phonology, it was adopted as a general theory of phonological computation without an explicit statement of the division of labour vis-à-vis other components of linguistic knowledge with which it interacts.</description>
     </item>
     
     <item>
       <title>Welsh svarabhakti as stem allomorphy</title>
-      <link>https://anghyflawn.github.io/writing/svarabhakti/</link>
+      <link>https://www.anghyflawn.net/writing/svarabhakti/</link>
       <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/writing/svarabhakti/</guid>
+      <guid>https://www.anghyflawn.net/writing/svarabhakti/</guid>
       <description>This paper develops the analysis in this presentation. I offer an analysis of Welsh epenthesis, whereby a copy of a preceding vowel is inserted to break up final clusters of rising sonority (pwdr &amp;lsquo;rotten&amp;rsquo; is [pudur] rather than *[pudr]) and deletion in such clusters in polysyllables (perygl &amp;lsquo;danger&amp;rsquo; is [perɪɡ] rather than *[perɪɡl]). It has previously been argued that both processes can be analysed in a single phonological grammar. I show that this is not tenable for South Welsh dialects, and propose an analysis in terms of part-of-speech-specific allomorphy, formalized as lexical storage of POS-characterized stems rather than roots.</description>
     </item>
     
     <item>
       <title>The phonologization of redundancy</title>
-      <link>https://anghyflawn.github.io/writing/welsh-vowels-phonologization/</link>
+      <link>https://www.anghyflawn.net/writing/welsh-vowels-phonologization/</link>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/writing/welsh-vowels-phonologization/</guid>
+      <guid>https://www.anghyflawn.net/writing/welsh-vowels-phonologization/</guid>
       <description>‘Phonologization’ is a process whereby a phonetic phenomenon enters the phonological grammar and becomes conceptualized as the result of categorical manipulation of phonological symbols. I analyse the phonologization of a predictable phonological pattern in Welsh, with particular attention to identifying criteria for whether phonologization has occurred. I argue for a model where phonologization experiences bottom-up and top-down biases. From the bottom up, there is pressure to phonologize phenomena with a categorical distribution; from the top down, there exist formal constraints on featural specification.</description>
     </item>
     
     <item>
       <title>Celtic mutations</title>
-      <link>https://anghyflawn.github.io/writing/mutations-bibliography/</link>
+      <link>https://www.anghyflawn.net/writing/mutations-bibliography/</link>
       <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/writing/mutations-bibliography/</guid>
+      <guid>https://www.anghyflawn.net/writing/mutations-bibliography/</guid>
       <description>This is an annotated and commented bibliography of works related to the initial consonant mutations of Celtic languages, available by subscription via Oxford Bibliographies Online. Here is the table of contents:
  Introduction General overviews  Descriptions of individual languages  Welsh Breton Cornish Irish Scottish Gaelic Manx Ancient Celtic languages   General bibliographic resources The phonology of mutations  Structuralist approaches Rule-based phonology Nonlinear phonology Optimality Theory  The syntax of mutation  The triggering of mutation Direct object mutation in Welsh  Mutations and morphology Mutations and interfaces  Mutations and other components of grammar Language variation and change Mutation in &amp;lsquo;non-traditional&amp;rsquo; varieties Acquisition and psycholinguistics  Diachrony of mutations  The origins of mutations The historical development of mutations  Typological comparison  Since the published version does not have an acknowledgements facility, I would like to thank here two anonymous reviewers, Peadar Ó Muircheartaigh, Máire Ní Chiosáin, and Christopher Lewin for valuable criticisms and suggestions.</description>
     </item>
     
     <item>
       <title>A substance-free framework for phonology</title>
-      <link>https://anghyflawn.github.io/writing/breton-book/</link>
+      <link>https://www.anghyflawn.net/writing/breton-book/</link>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/writing/breton-book/</guid>
+      <guid>https://www.anghyflawn.net/writing/breton-book/</guid>
       <description>The book is a revised and updated version of parts of my PhD thesis. From the publisher&amp;rsquo;s blurb:
  What is the relationship between phonetics and phonology? Are phonological features innate and universal, and do they have fixed phonetic correlates? These questions have recently received renewed prominence in theoretical debates, and this book explores them from a modular, substance-free perspective.
 This in-depth analysis of Breton serves not only to introduce previously underused data into the theoretical landscape but also to demonstrate the viability of a modular framework for phonology.</description>
@@ -70,100 +70,100 @@ This in-depth analysis of Breton serves not only to introduce previously underus
     
     <item>
       <title>Rule scattering and vowel length in Northern Romance</title>
-      <link>https://anghyflawn.github.io/writing/rule-scattering-vowel-length-northern-romance/</link>
+      <link>https://www.anghyflawn.net/writing/rule-scattering-vowel-length-northern-romance/</link>
       <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/writing/rule-scattering-vowel-length-northern-romance/</guid>
+      <guid>https://www.anghyflawn.net/writing/rule-scattering-vowel-length-northern-romance/</guid>
       <description>In this paper I reconsider the synchronic status of distinctive vowel length and vowel lengthening and shortening rules in Northern Romance varieties, in light of Loporcaro’s (2015) wide-ranging study of vowel quantity in numerous Romance dialects. Loporcaro (2015) argues that these varieties possess distinctive, phonemic vowel length, and mostly do not have synchronic rules that produce surface long vowels, contrary to many previous analyses of the relevant patterns. In this paper, I argue instead that that lexical vowel length distinctions coexist, in some Northern Romance varieties, with productive phonological rules manipulating vowel quantity.</description>
     </item>
     
     <item>
       <title>Tonal stability and tonogenesis in North Germanic</title>
-      <link>https://anghyflawn.github.io/writing/nrn-proceedings/</link>
+      <link>https://www.anghyflawn.net/writing/nrn-proceedings/</link>
       <pubDate>Sat, 05 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/writing/nrn-proceedings/</guid>
+      <guid>https://www.anghyflawn.net/writing/nrn-proceedings/</guid>
       <description>The origin of North Germanic tonal accents is a question with a long history and a range of available answers. Although the basic facts are not in dispute, the accents&amp;rsquo; historical development remains controversial. In this paper, I aim to contribute an argument in favour of the view that tonal accent arose in post-Viking Age North Germanic in connection with changes in syllable count (Oftedal 1952; Elstad 1980; Bye 2004, 2011; Hognestad 2012).</description>
     </item>
     
     <item>
       <title>The ATR/Laryngeal connection and emergent features</title>
-      <link>https://anghyflawn.github.io/writing/calediad/</link>
+      <link>https://www.anghyflawn.net/writing/calediad/</link>
       <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/writing/calediad/</guid>
+      <guid>https://www.anghyflawn.net/writing/calediad/</guid>
       <description>I consider an unusual sound change and synchronic alternation in south-eastern dialects of Welsh, traditionally referred to as ‘provection’ (Welsh calediad). This phenomenon involves the ‘devoicing’ of stops following stressed vowels. I suggest that it may be the result of a typologically rare sort of vowel-consonant featural interaction, where ‘devoicing’ is triggered by tense vowels. This is unexpected typologically, since tongue root advancement — often a correlate of ‘tense’ vowel quality — is more frequently associated with voicing rather than devoicing in obstruents.</description>
     </item>
     
     <item>
       <title>Prosodic structure and suprasegmental features</title>
-      <link>https://anghyflawn.github.io/writing/stod/</link>
+      <link>https://www.anghyflawn.net/writing/stod/</link>
       <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/writing/stod/</guid>
+      <guid>https://www.anghyflawn.net/writing/stod/</guid>
       <description>This paper sets out in detail the analysis first offered in my 21mfm presentation. I examine the so-called &amp;lsquo;short-vowel stød&amp;rsquo; (kortvokalstød) found in certain island dialects of Danish, which differs from the &amp;lsquo;common Danish&amp;rsquo; stød in that it is associated with light syllables (open syllable with short vowels or closed syllables with low-sonority codas) rather than heavy ones. I argue that it is best represented as a [constricted glottis] feature associated with a segmentally empty mora, which is projected due to top-down requirements on the internal structure of suprasegmental constituents.</description>
     </item>
     
     <item>
       <title>‘Pitch accent’ and prosodic structure in Scottish Gaelic</title>
-      <link>https://anghyflawn.github.io/writing/icngl-proceedings/</link>
+      <link>https://www.anghyflawn.net/writing/icngl-proceedings/</link>
       <pubDate>Tue, 13 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/writing/icngl-proceedings/</guid>
+      <guid>https://www.anghyflawn.net/writing/icngl-proceedings/</guid>
       <description>This paper considers the origin of &amp;lsquo;pitch accents&amp;rsquo; in Scottish Gaelic with a view to evaluating the hypothesis that this feature was borrowed from North Germanic varieties spoken by Norse settlers in medieval Scotland. It is shown that the &amp;lsquo;pitch accent&amp;rsquo; system in Gaelic is tightly bound with metrical structure (more precisely syllable count), certainly diachronically, and probably (at least in some varieties) synchronically. Gaelic &amp;lsquo;pitch accent&amp;rsquo; is argued to be a plausible internal development, parallel to similar phenomena in other branches of Celtic (specifically in Breton), as well as in Germanic.</description>
     </item>
     
     <item>
       <title>The phonology and morphosyntax of Breton mutation</title>
-      <link>https://anghyflawn.github.io/writing/breton-mutation/</link>
+      <link>https://www.anghyflawn.net/writing/breton-mutation/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/writing/breton-mutation/</guid>
+      <guid>https://www.anghyflawn.net/writing/breton-mutation/</guid>
       <description>I analyse of initial consonant mutation in a Breton dialect, with a focus on establishing the division of labour between phonology and morphology in the triggering of mutation and its phonological expression. I argue that different types of mutation have different status in the grammar: some are purely phonological, others involve subsegmental morphemes with a clear morphosyntactic rationale, and for some the phonological aspects are clear but the morphosyntactic motivation remains obscure.</description>
     </item>
     
     <item>
       <title>Minority languages, microvariation, minimalism and meaning</title>
-      <link>https://anghyflawn.github.io/writing/infl-book/</link>
+      <link>https://www.anghyflawn.net/writing/infl-book/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/writing/infl-book/</guid>
+      <guid>https://www.anghyflawn.net/writing/infl-book/</guid>
       <description>This books is a collection of papers presented at the inaugural conference of the Irish Network in Formal Linguistics. To see the table of contents and the editors&amp;rsquo; introduction, go here.</description>
     </item>
     
     <item>
       <title>Head-dependent asymmetries in Munster Irish prosody</title>
-      <link>https://anghyflawn.github.io/writing/munster-irish-stress/</link>
+      <link>https://www.anghyflawn.net/writing/munster-irish-stress/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/writing/munster-irish-stress/</guid>
+      <guid>https://www.anghyflawn.net/writing/munster-irish-stress/</guid>
       <description>In this paper I propose an analysis of stress in Munster Irish which builds on two important premises. First, I argue for a distinction between the notion &amp;lsquo;head of a constituent&amp;rsquo; and the notion of &amp;lsquo;stress&amp;rsquo;: these are separate entities, and the typologically frequent isomorphic distribution of the two is just one possible outcome of the phonological computation. Second, I propose to employ a particular family of constraints requiring head-dependent asymmetries (Dresher and van der Hulst 1998) to account for the mismatch between the placement of foot heads and stress in Munster Irish.</description>
     </item>
     
     <item>
       <title>Vowel reduction in Russian</title>
-      <link>https://anghyflawn.github.io/writing/jl-russian-vowel-reduction/</link>
+      <link>https://www.anghyflawn.net/writing/jl-russian-vowel-reduction/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/writing/jl-russian-vowel-reduction/</guid>
+      <guid>https://www.anghyflawn.net/writing/jl-russian-vowel-reduction/</guid>
       <description>In this paper I propose a substance-free analysis of vowel reduction in Standard Russian. I argue that the traditional distinction between &amp;lsquo;moderate&amp;rsquo; reduction (in pretonic syllables, producing less central vowels) and &amp;lsquo;radical&amp;rsquo; reduction (producing central vowels) is not phonologically relevant. The phonological grammar is only responsible for the neutralization patterns and not for the exact phonetic properties of their outcome. In addition, I show that the necessary input-output mappings cannot be effected in a conventional featural system without some weakly supported assumptions: I argue that this demonstrates the viability of a substance-free, emergent-features approach to phonology.</description>
     </item>
     
     <item>
       <title>Final devoicing and vowel lengthening in Friulian</title>
-      <link>https://anghyflawn.github.io/writing/lingua-friulian/</link>
+      <link>https://www.anghyflawn.net/writing/lingua-friulian/</link>
       <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/writing/lingua-friulian/</guid>
+      <guid>https://www.anghyflawn.net/writing/lingua-friulian/</guid>
       <description>Here, I propose an analysis of the interacting between final devoicing and vowel lengthening in Friulian (and other related varieties of northern Italy). Historically, stressed vowels lengthen before voiced obstruents, but this is opacified by final devoicing. I capitalize on phonetic studies showing final devoicing in the language to be incomplete and argue that the process is not in fact opaque: devoicing does not involve neutralization but instead the creation of a third, laryngealy unspecified class of obstruents.</description>
     </item>
     
     <item>
       <title>Right at the left edge</title>
-      <link>https://anghyflawn.github.io/writing/rara/</link>
+      <link>https://www.anghyflawn.net/writing/rara/</link>
       <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://anghyflawn.github.io/writing/rara/</guid>
+      <guid>https://www.anghyflawn.net/writing/rara/</guid>
       <description>In this paper I offer an overview of systems of initial consonant mutations found in the world&amp;rsquo;s languages and attempt to propose a preliminary typology. Many of these phenomena can probably be subsumed under a general theory of nonconcatenative morphology and phonology, but in some cases (notably some of the Celtic ones) the mutations&amp;rsquo; place in the grammar is less clear. For another, more detailed take on this architectural issue in the specific case of Breton, see also this later paper.</description>
     </item>
     
