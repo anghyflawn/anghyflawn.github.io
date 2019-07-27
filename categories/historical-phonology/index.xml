@@ -1,15 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Historical Phonology on Pavel Iosad</title>
+    <title>Historical phonology on Pavel Iosad</title>
     <link>https://www.anghyflawn.net/categories/historical-phonology/</link>
-    <description>Recent content in Historical Phonology on Pavel Iosad</description>
+    <description>Recent content in Historical phonology on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 30 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.anghyflawn.net/categories/historical-phonology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Variation and (presumed) change in Norwegian preaspiration</title>
+      <link>https://www.anghyflawn.net/presentation/2019/ucl/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/presentation/2019/ucl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can language areas arise by drift?</title>
+      <link>https://www.anghyflawn.net/presentation/2019/stirling/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/presentation/2019/stirling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.anghyflawn.net/writing/frlsu-proceedings/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/writing/frlsu-proceedings/</guid>
+      <description>This paper is a written-up version of my presentation at the 2018 conference of the Forum for Research on the Languages of Scotland and Ulster.
+In this paper I propose (yet another) reappraisal of the arguments regarding the relationship between Norse and Gaelic in the North Atlantic world, focusing on the development of preaspiration. There is significant controversy in the literature as to whether this feature, along with others such as tonal accent, represents Norse influence on Gaelic (e.</description>
+    </item>
     
     <item>
       <title>A metrical analysis of Scottish Gaelic tonal accent</title>
@@ -114,7 +142,7 @@ As discussed by Pétur Helgason (2002), whilst preaspiration and sonorant devoi
     <item>
       <title>The ATR/Laryngeal connection and emergent features</title>
       <link>https://www.anghyflawn.net/writing/calediad/</link>
-      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/writing/calediad/</guid>
       <description>I consider an unusual sound change and synchronic alternation in south-eastern dialects of Welsh, traditionally referred to as ‘provection’ (Welsh calediad). This phenomenon involves the ‘devoicing’ of stops following stressed vowels. I suggest that it may be the result of a typologically rare sort of vowel-consonant featural interaction, where ‘devoicing’ is triggered by tense vowels. This is unexpected typologically, since tongue root advancement — often a correlate of ‘tense’ vowel quality — is more frequently associated with voicing rather than devoicing in obstruents.</description>

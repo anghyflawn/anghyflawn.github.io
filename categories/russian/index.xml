@@ -6,10 +6,19 @@
     <description>Recent content in Russian on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.anghyflawn.net/categories/russian/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bringing it all together</title>
+      <link>https://www.anghyflawn.net/presentation/2019/farl3/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/presentation/2019/farl3/</guid>
+      <description>Palatalization processes and the e ~ ’o alternation are both classic problems in Russian (morpho)phonology. It is now widely recognized that there is a relationship between the two: where suffixes are relevant to the e ~ ’o alternation, palatalizing suffixes require the front vowel in the preceding morpheme, and non-palatalizing suffixes require the back vowel (see particularly Itkin 1994). This strongly suggests a phonological analysis of the e ~ ’o alternation, which has hitherto proven elusive, primarily since there is no principled, non-circular account of apparent lexical exceptions and of suffixes that are neutral for the purposes of the alternation.</description>
+    </item>
     
     <item>
       <title>Evidence for Stratal Phonology</title>
