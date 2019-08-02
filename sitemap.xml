@@ -31,8 +31,13 @@
   
   <url>
     <loc>https://www.anghyflawn.net/news/</loc>
-    <lastmod>2019-07-28T00:28:51+01:00</lastmod>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2019/promotion/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -43,11 +48,6 @@
   <url>
     <loc>https://www.anghyflawn.net/news/2019/autumn-teaching/</loc>
     <lastmod>2019-07-27T23:06:09+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/news/2019/promotion/</loc>
-    <lastmod>2019-07-27T22:54:56+01:00</lastmod>
   </url>
   
   <url>
