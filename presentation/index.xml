@@ -6,10 +6,19 @@
     <description>Recent content in Presentations on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.anghyflawn.net/presentation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Drift revisited</title>
+      <link>https://www.anghyflawn.net/presentation/2019/eshp4/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/presentation/2019/eshp4/</guid>
+      <description>In this talk I offer a framework for understanding convergent diachronic developments in the phonological systems of unrelated languages, informed by the life cycle of phonological processes. I focus on preaspiration of |fortis| stops (the traditional /p t k/ series) in several languages of north-western Europe that are either unrelated, or not related closely enough for preaspiration to be inherited: they include the North Germanic languages, varieties of English, the Gaelic languages, Welsh, and the Sámi languages.</description>
+    </item>
     
     <item>
       <title>Bringing it all together</title>

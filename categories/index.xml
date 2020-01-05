@@ -6,10 +6,55 @@
     <description>Recent content in Categories on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.anghyflawn.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gaelic</title>
+      <link>https://www.anghyflawn.net/categories/gaelic/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/gaelic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Historical phonology</title>
+      <link>https://www.anghyflawn.net/categories/historical-phonology/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/historical-phonology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language contact</title>
+      <link>https://www.anghyflawn.net/categories/language-contact/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/language-contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laryngeal phonology</title>
+      <link>https://www.anghyflawn.net/categories/laryngeal-phonology/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/laryngeal-phonology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>North Germanic</title>
+      <link>https://www.anghyflawn.net/categories/north-germanic/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/north-germanic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Phonology-morphology interface</title>
@@ -53,42 +98,6 @@
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/categories/germanic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Language contact</title>
-      <link>https://www.anghyflawn.net/categories/language-contact/</link>
-      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/language-contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Historical phonology</title>
-      <link>https://www.anghyflawn.net/categories/historical-phonology/</link>
-      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/historical-phonology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Laryngeal phonology</title>
-      <link>https://www.anghyflawn.net/categories/laryngeal-phonology/</link>
-      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/laryngeal-phonology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>North Germanic</title>
-      <link>https://www.anghyflawn.net/categories/north-germanic/</link>
-      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/north-germanic/</guid>
       <description></description>
     </item>
     
@@ -165,7 +174,7 @@
     </item>
     
     <item>
-      <title>Phonological theory</title>
+      <title>phonological theory</title>
       <link>https://www.anghyflawn.net/categories/phonological-theory/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
