@@ -3,6 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.anghyflawn.net/categories/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/prosodic-structure/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/scottish-gaelic/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/writing/gaelic-tonal-accent-rnag2018/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/writing/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/history-of-phonology/</loc>
+    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/writing/history-of-phonology/</loc>
+    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.anghyflawn.net/teaching/2020/current-issues-in-phonology/</loc>
     <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url>
@@ -23,12 +69,6 @@
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/</loc>
-    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.anghyflawn.net/teaching/</loc>
     <lastmod>2020-01-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -43,12 +83,6 @@
   <url>
     <loc>https://www.anghyflawn.net/news/2020/sem2-start/</loc>
     <lastmod>2020-01-05T12:32:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/</loc>
-    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -105,12 +139,6 @@
   <url>
     <loc>https://www.anghyflawn.net/writing/gjert-kristoffersen-fs/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/writing/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -196,12 +224,6 @@
   <url>
     <loc>https://www.anghyflawn.net/writing/frlsu-proceedings/</loc>
     <lastmod>2019-01-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/scottish-gaelic/</loc>
-    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -313,17 +335,6 @@
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/categories/history-of-phonology/</loc>
-    <lastmod>2018-07-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/writing/history-of-phonology/</loc>
-    <lastmod>2018-07-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.anghyflawn.net/news/2018/vja/</loc>
     <lastmod>2018-07-24T21:37:38+01:00</lastmod>
   </url>
@@ -382,14 +393,14 @@
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/news/2016/ot-handbook/</loc>
-    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.anghyflawn.net/categories/phonological-theory/</loc>
     <lastmod>2018-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2016/ot-handbook/</loc>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -649,12 +660,6 @@
   <url>
     <loc>https://www.anghyflawn.net/news/2016/welsh-paper/</loc>
     <lastmod>2016-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/prosodic-structure/</loc>
-    <lastmod>2016-11-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
