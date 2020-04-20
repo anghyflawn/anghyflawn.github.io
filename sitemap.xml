@@ -3,15 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.anghyflawn.net/categories/</loc>
-    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+    <loc>https://www.anghyflawn.net/news/</loc>
+    <lastmod>2020-04-20T09:51:53+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.anghyflawn.net/</loc>
-    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-20T09:51:53+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2020/rhema-paper/</loc>
+    <lastmod>2020-04-20T09:51:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/papers/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/phonology-morphology-interface/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/russian/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/writing/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/writing/stratal-phonology-russian-morphophonology/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -29,12 +69,6 @@
   <url>
     <loc>https://www.anghyflawn.net/writing/gaelic-tonal-accent-rnag2018/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/writing/</loc>
-    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -71,12 +105,6 @@
   <url>
     <loc>https://www.anghyflawn.net/teaching/</loc>
     <lastmod>2020-01-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/news/</loc>
-    <lastmod>2020-01-05T12:32:22+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -174,18 +202,6 @@
   <url>
     <loc>https://www.anghyflawn.net/presentation/2019/farl3/</loc>
     <lastmod>2019-04-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/phonology-morphology-interface/</loc>
-    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/russian/</loc>
-    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -393,14 +409,14 @@
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/categories/phonological-theory/</loc>
+    <loc>https://www.anghyflawn.net/news/2016/ot-handbook/</loc>
     <lastmod>2018-01-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/news/2016/ot-handbook/</loc>
+    <loc>https://www.anghyflawn.net/categories/phonological-theory/</loc>
     <lastmod>2018-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -528,12 +544,6 @@
   
   <url>
     <loc>https://www.anghyflawn.net/categories/feature-theory/</loc>
-    <lastmod>2017-05-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/papers/</loc>
     <lastmod>2017-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
