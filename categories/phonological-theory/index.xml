@@ -6,10 +6,19 @@
     <description>Recent content in Phonological theory on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 12 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.anghyflawn.net/categories/phonological-theory/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Per aspera ad astra</title>
+      <link>https://www.anghyflawn.net/writing/vaplujub/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/writing/vaplujub/</guid>
+      <description>In this brief paper, I suggest that, contrary to much previous literature, the quality of the yer vowels in Modern Russian is predictable, and does not have to be encoded in the underlying representation. This is a consequence of an approach that rejects the long-standing tradition of positing highly abstract underlying representations, and in particular derives the palatalization of consonants from the backness of following vowels. I argue that the quality of yers is predictable from the context, particularly from the palatalization of preceding consonants and from whether the morphological context drives the otherwise well-known e ~ ’o alternation.</description>
+    </item>
     
     <item>
       <title>Optimality Theory: Motivations and perspectives</title>
