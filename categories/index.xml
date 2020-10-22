@@ -6,24 +6,33 @@
     <description>Recent content in Categories on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.anghyflawn.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Papers</title>
-      <link>https://www.anghyflawn.net/categories/papers/</link>
-      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Historical phonology</title>
+      <link>https://www.anghyflawn.net/categories/historical-phonology/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anghyflawn.net/categories/papers/</guid>
+      <guid>https://www.anghyflawn.net/categories/historical-phonology/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Phonological theory</title>
+      <title>Language contact</title>
+      <link>https://www.anghyflawn.net/categories/language-contact/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/language-contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phonological Theory</title>
       <link>https://www.anghyflawn.net/categories/phonological-theory/</link>
-      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/categories/phonological-theory/</guid>
       <description></description>
@@ -32,7 +41,7 @@
     <item>
       <title>Phonology-morphology interface</title>
       <link>https://www.anghyflawn.net/categories/phonology-morphology-interface/</link>
-      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/categories/phonology-morphology-interface/</guid>
       <description></description>
@@ -41,9 +50,18 @@
     <item>
       <title>Russian</title>
       <link>https://www.anghyflawn.net/categories/russian/</link>
-      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/categories/russian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>https://www.anghyflawn.net/categories/papers/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/papers/</guid>
       <description></description>
     </item>
     
@@ -62,24 +80,6 @@
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/categories/scottish-gaelic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Historical phonology</title>
-      <link>https://www.anghyflawn.net/categories/historical-phonology/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/historical-phonology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Language contact</title>
-      <link>https://www.anghyflawn.net/categories/language-contact/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/language-contact/</guid>
       <description></description>
     </item>
     

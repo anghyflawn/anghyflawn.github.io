@@ -6,10 +6,20 @@
     <description>Recent content in Historical phonology on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.anghyflawn.net/categories/historical-phonology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Конвергенция фонологических систем в Северной Европе</title>
+      <link>https://www.anghyflawn.net/presentation/2020/zvegincev-conference/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/presentation/2020/zvegincev-conference/</guid>
+      <description>This is a Russian summary of the work that I presented, among other places, at the Edinburgh Symposium on Historical Phonology
+В докладе предлагается подход к диахронической конвергенции фонологических систем в неродственных языках, основанный на теории «жизненного цикла фонологических процессов» [Bermúdez-Otero 2007], на примере развития преаспирациии сильных («глухих») взрывных в нескольких языках северной Европы. Преаспирация обычно считается явлением типологически редким и диахронически нестабильным [Silverman 2003]. Тем более удивительным кажется ее наличие в таких географически, но не генеалогически, близких языках, как северогерманские, английский (несколько разновидностей), гойдельские языки (ирландский и шотландский), валлийский и саамские языки.</description>
+    </item>
     
     <item>
       <title>The life cycle of preaspiration in the Gaelic languages</title>

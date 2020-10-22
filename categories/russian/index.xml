@@ -6,10 +6,19 @@
     <description>Recent content in Russian on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.anghyflawn.net/categories/russian/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rebooting Slavic phonology</title>
+      <link>https://www.anghyflawn.net/presentation/2020/abralin/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/presentation/2020/abralin/</guid>
+      <description>The Slavic languages have historically played a very prominent role in the development of Western phonological theory, from some of the earliest pioneers of phonemic theory such as Jan Baudouin de Courtenay, Mikołaj Kruszewski and Lev Shcherba, through the Praguian structuralism of Nikolai Trubetzkoy and (early) Roman Jakobson, and to some of the foundational work of generative phonology. In particular, Morris Halle and Theodore Lightner offered comprehensive analyses of Russian phonology that relied heavily on multi-level derivations, abstract underlying representations and a suite of rules that largely recapitulated diachronic developments.</description>
+    </item>
     
     <item>
       <title>Per aspera ad astra</title>

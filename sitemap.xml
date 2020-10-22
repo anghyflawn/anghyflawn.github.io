@@ -3,26 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.anghyflawn.net/news/</loc>
-    <lastmod>2020-10-20T10:31:55+01:00</lastmod>
+    <loc>https://www.anghyflawn.net/categories/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/historical-phonology/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/language-contact/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.anghyflawn.net/</loc>
-    <lastmod>2020-10-20T10:31:55+01:00</lastmod>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/presentation/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/presentation/2020/zvegincev-conference/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/</loc>
+    <lastmod>2020-10-22T09:32:12+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2020/zvegincev/</loc>
+    <lastmod>2020-10-22T09:32:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2020/abralin/</loc>
+    <lastmod>2020-10-22T09:18:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/phonological-theory/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/phonology-morphology-interface/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/presentation/2020/abralin/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/russian/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.anghyflawn.net/news/2020/vaplujub/</loc>
     <lastmod>2020-10-20T10:31:55+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -34,24 +90,6 @@
   <url>
     <loc>https://www.anghyflawn.net/writing/vaplujub/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/phonological-theory/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/phonology-morphology-interface/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/russian/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -106,18 +144,6 @@
   <url>
     <loc>https://www.anghyflawn.net/news/2020/sem1-start/</loc>
     <lastmod>2020-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/historical-phonology/</loc>
-    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/language-contact/</loc>
-    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -206,12 +232,6 @@
   
   <url>
     <loc>https://www.anghyflawn.net/categories/north-germanic/</loc>
-    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/presentation/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
