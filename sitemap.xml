@@ -3,26 +3,81 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.anghyflawn.net/news/2020/frlsu-published/</loc>
-    <lastmod>2020-12-02T09:44:49+00:00</lastmod>
+    <loc>https://www.anghyflawn.net/teaching/2021/historical-linguistics/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/news/</loc>
-    <lastmod>2020-12-02T09:44:49+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://www.anghyflawn.net/teaching/2021/lel2d/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.anghyflawn.net/</loc>
-    <lastmod>2020-12-02T09:44:49+00:00</lastmod>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/categories/</loc>
-    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+    <loc>https://www.anghyflawn.net/teaching/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/</loc>
+    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2021/2021-spring-teaching/</loc>
+    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/</loc>
+    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/writing/gaelic-morphology-glossa/</loc>
+    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/dialectology/</loc>
+    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2020/glossa-paper/</loc>
+    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/papers/</loc>
+    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/scottish-gaelic/</loc>
+    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/writing/</loc>
+    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2020/frlsu-published/</loc>
+    <lastmod>2020-12-02T09:44:49+00:00</lastmod>
   </url>
   
   <url>
@@ -50,20 +105,8 @@
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/categories/scottish-gaelic/</loc>
-    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.anghyflawn.net/writing/frlsu-proceedings/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/writing/</loc>
-    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -110,12 +153,6 @@
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/categories/papers/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.anghyflawn.net/writing/vaplujub/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
@@ -133,28 +170,6 @@
   <url>
     <loc>https://www.anghyflawn.net/teaching/2020/phonological-theory/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/teaching/</loc>
-    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/writing/gaelic-morphology-glossa/</loc>
-    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/dialectology/</loc>
-    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/news/2020/glossa-paper/</loc>
-    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
