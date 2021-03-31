@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" 
   xmlns:dc="http://purl.org/dc/elements/1.1/"
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
@@ -24,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Wed, 02 Dec 2020 09:58:50 GMT</updated>
+    <updated>Wed, 31 Mar 2021 18:15:12 BST</updated>
 
 
 
@@ -41,9 +42,192 @@
 <item>
 <title>News</title>
 <link>https://www.anghyflawn.net/news/</link>
-<pubDate>Wed, 02 Dec 2020 09:44:49 UTC</pubDate>
+<pubDate>Wed, 31 Mar 2021 18:12:22 BST</pubDate>
 <guid>https://www.anghyflawn.net/news/</guid>
 <description></description>
+</item>
+
+
+
+<item>
+<title>Otipl Colloquium</title>
+<link>https://www.anghyflawn.net/news/2021/otipl-colloquium/</link>
+<pubDate>Wed, 31 Mar 2021 18:12:22 BST</pubDate>
+<guid>https://www.anghyflawn.net/news/2021/otipl-colloquium/</guid>
+<description>&lt;p&gt;I gave a &lt;a href=&#34;https://www.anghyflawn.net/presentation/2021/otipl-colloquium/&#34;&gt;talk&lt;/a&gt; on the life cycle of some phonological patterns in Russian for the Colloquium series at the Department of Theoretical and Applied Linguistics (OTiPL), Moscow State University.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Russian</title>
+<link>https://www.anghyflawn.net/categories/russian/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/russian/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Presentations</title>
+<link>https://www.anghyflawn.net/presentation/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/presentation/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Phonology Morphology Interface</title>
+<link>https://www.anghyflawn.net/categories/phonology-morphology-interface/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/phonology-morphology-interface/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Phonetics Phonology Interface</title>
+<link>https://www.anghyflawn.net/categories/phonetics-phonology-interface/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/phonetics-phonology-interface/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Historical Phonology</title>
+<link>https://www.anghyflawn.net/categories/historical-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/historical-phonology/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Жизненный цикл морфонологических процессов в русском языке</title>
+<link>https://www.anghyflawn.net/presentation/2021/otipl-colloquium/</link>
+<pubDate>Wed, 31 Mar 2021 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/presentation/2021/otipl-colloquium/</guid>
+<description>&lt;p&gt;Характерное свойство динамических подходов к русской фонологии и морфонологии — как выполненных в духе порождающих фонологических теорий, так и (пост)структуралистских — обширное использование правил, обязательно применяемых в определенном порядке. Обоснование этого порядка — важнейшая задача для теоретического осмысления фактов русского языка, без решения которой динамические подходы являются по сути нефальсифицируемыми: в отсутствие четких ограничений на количество правил и порядок их применения любое чередование можно подвергнуть сколь угодно абстрактному анализу с произвольным количеством правил.&lt;/p&gt;
+
+&lt;p&gt;В число теорий, призванных выявить ограничения на возможный порядок правил, входит, в частности, лексическая фонология и морфология (включая стратификационные варианты теории оптимальности). В рамках этой модели порядок правил ограничен морфологической и синтаксической структурой высказывания.&lt;/p&gt;
+
+&lt;p&gt;Подобные стратификационные модели делают интересные предсказания не только в синхронии, но и в диахронии, в рамках так назывемой модели «жизненного цикла фонологических процессов». В докладе рассматриваются примеры жизненного цикла нескольких процессов (палатализации велярных, редукции безударных гласных, поведения согласного /в/) в литературном и диалектном языке и описываются перспективы дальнейшего исследования этих вопросов.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Teachings</title>
+<link>https://www.anghyflawn.net/teaching/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/teaching/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>LEL2D: Cross-Linguistic Variation: Limits and Theories</title>
+<link>https://www.anghyflawn.net/teaching/2021/lel2d/</link>
+<pubDate>Wed, 06 Jan 2021 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/teaching/2021/lel2d/</guid>
+<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2020&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2021&lt;/sub&gt;, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block, and for the ‘implications of variation and universals’ block (with &lt;a href=&#34;https://www.ed.ac.uk/profile/graeme-trousdale&#34;&gt;Graeme Trousdale&lt;/a&gt;).&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Historical Linguistics</title>
+<link>https://www.anghyflawn.net/teaching/2021/historical-linguistics/</link>
+<pubDate>Fri, 01 Jan 2021 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/teaching/2021/historical-linguistics/</guid>
+<description>&lt;p&gt;This course introduces the type of changes that a language may undergo, at all levels of linguistic structure, and the theoretical frameworks that are available to discuss them. The course also looks at sociolinguistic influences on language change and the consequences of language contact including language convergence, creolisation and language death.&lt;/p&gt;
+
+&lt;p&gt;In &lt;sup&gt;2020&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2021&lt;/sub&gt;, I am conducting tutorials covering the entire range of the course’s topics.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Teaching in spring term 2021</title>
+<link>https://www.anghyflawn.net/news/2021/2021-spring-teaching/</link>
+<pubDate>Wed, 06 Jan 2021 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/news/2021/2021-spring-teaching/</guid>
+<description>&lt;p&gt;In Semester 2 of &lt;sup&gt;2020&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2021&lt;/sub&gt;, I am course organizer for the pre-Honours course &lt;a href=&#34;https://www.anghyflawn.net/teaching/2021/lel2d/&#34;&gt;&lt;em&gt;LEL2D: Cross-Linguistic Variation: Limits and Theories&lt;/em&gt;&lt;/a&gt;, where I also teach the universals of variation and phonology blocks. I also teach in pre-Honours on &lt;em&gt;Linguistics and the Gaelic Language&lt;/em&gt;, and at Honours/MSc level on &lt;a href=&#34;https://www.anghyflawn.net/teaching/2021/historical-linguistics/&#34;&gt;&lt;em&gt;Historical Linguistics&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://www.anghyflawn.net/teaching/2020/guided-research/&#34;&gt;&lt;em&gt;Guided Research in Linguistics and English Language&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Writings</title>
+<link>https://www.anghyflawn.net/writing/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/writing/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Scottish Gaelic</title>
+<link>https://www.anghyflawn.net/categories/scottish-gaelic/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/scottish-gaelic/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Papers</title>
+<link>https://www.anghyflawn.net/categories/papers/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/papers/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Dialectology</title>
+<link>https://www.anghyflawn.net/categories/dialectology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/dialectology/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Glossa paper</title>
+<link>https://www.anghyflawn.net/news/2020/glossa-paper/</link>
+<pubDate>Wed, 30 Dec 2020 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/news/2020/glossa-paper/</guid>
+<description>&lt;p&gt;My paper with &lt;a href=&#34;https://www.ed.ac.uk/profile/william-lamb&#34;&gt;Will Lamb&lt;/a&gt; entitled &lt;a href=&#34;https://www.anghyflawn.net/writing/gaelic-morphology-glossa/&#34;&gt;&lt;em&gt;Dialect variation in Scottish Gaelic nominal morphology: A quantitative study&lt;/em&gt;&lt;/a&gt; has appeared in &lt;a href=&#34;https://www.glossa-journal.org&#34;&gt;&lt;em&gt;Glossa: A Journal of General Linguistics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Dialect variation in Scottish Gaelic nominal morphology</title>
+<link>https://www.anghyflawn.net/writing/gaelic-morphology-glossa/</link>
+<pubDate>Wed, 30 Dec 2020 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/writing/gaelic-morphology-glossa/</guid>
+<description>&lt;p&gt;This paper presents a dialectometric analysis of Scottish Gaelic morphology, with a focus on the noun phrase, using previously unpublished data from the Linguistic Survey of Scotland. Fifty-five morphological features were extracted across 201 survey points, and the data subjected to a variety of analyses, including cluster analysis, regression, and correlation analysis. We establish that the Gaelic noun system shows robust diatopic (i. e. geographical) variation; this challenges previous assertions in the literature, which describe Gaelic morphosyntax as geographically uniform. In addition, we argue that our dialectometric results provide an insight into the grammatical structure of the language that is not easily achievable through the analysis of individual varieties. In particular, we argue that the results highlight a dissociation between morphological categories such as case and gender and their morphophonological exponents, which are particularly complex in Scottish Gaelic. The paper thus serves as a proof of concept for the use of dialectometric findings in a theoretical context.&lt;/p&gt;
+</description>
 </item>
 
 
@@ -55,6 +239,26 @@
 <guid>https://www.anghyflawn.net/news/2020/frlsu-published/</guid>
 <description>&lt;p&gt;My paper &lt;a href=&#34;https://www.anghyflawn.net/writing/frlsu-proceedings/&#34;&gt;&lt;em&gt;The life cycle of preaspiration in the Gaelic languages&lt;/em&gt;&lt;/a&gt; has appeared in the &lt;a href=&#34;www.abdn.ac.uk/pfrlsu/volumes/vol-6/&#34;&gt;Proceedings of the 2018 Forum for Research on the Languages of Scotland and Ulster&lt;/a&gt;.&lt;/p&gt;
 </description>
+</item>
+
+
+
+<item>
+<title>Laryngeal Phonology</title>
+<link>https://www.anghyflawn.net/categories/laryngeal-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/laryngeal-phonology/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Language Contact</title>
+<link>https://www.anghyflawn.net/categories/language-contact/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/language-contact/</guid>
+<description></description>
 </item>
 
 
@@ -75,16 +279,6 @@
 
 &lt;p&gt;Предложенный подход совместим с предложением Б. Джозефа [Joseph 2013], который рассматривает «дрейф» в родственных языках как результат сужения диапазона варьирования, наблюдавшегося в праязыке. Сходство результатов обеспечивает в наших не только единство механизма, который стоит за этим сужением («жизненный цикл»), но и то, что рассмотренные языки обнаруживают нетривиальные сходства в устройстве фонологической грамматики, особенно в том, что касается количественных противопоставлений [Ewels 2009]. Эти сходства создают своеобразный «прайминговый» эффект [Kiparsky 1995], при котором сходные фонетические ключи (такие как преаспирация) используются для выражения сходных фонологических контрастов.&lt;/p&gt;
 </description>
-</item>
-
-
-
-<item>
-<title>Writings</title>
-<link>https://www.anghyflawn.net/writing/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/writing/</guid>
-<description></description>
 </item>
 
 
@@ -133,66 +327,6 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 
 <item>
-<title>Scottish Gaelic</title>
-<link>https://www.anghyflawn.net/categories/scottish-gaelic/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/scottish-gaelic/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Presentations</title>
-<link>https://www.anghyflawn.net/presentation/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/presentation/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Laryngeal phonology</title>
-<link>https://www.anghyflawn.net/categories/laryngeal-phonology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/laryngeal-phonology/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Language contact</title>
-<link>https://www.anghyflawn.net/categories/language-contact/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/language-contact/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Historical phonology</title>
-<link>https://www.anghyflawn.net/categories/historical-phonology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/historical-phonology/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Categories</title>
-<link>https://www.anghyflawn.net/categories/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/</guid>
-<description></description>
-</item>
-
-
-
-<item>
 <title>Zvegincev</title>
 <link>https://www.anghyflawn.net/news/2020/zvegincev/</link>
 <pubDate>Thu, 22 Oct 2020 09:32:12 BST</pubDate>
@@ -215,10 +349,10 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 
 <item>
-<title>Russian</title>
-<link>https://www.anghyflawn.net/categories/russian/</link>
+<title>Phonological Theory</title>
+<link>https://www.anghyflawn.net/categories/phonological-theory/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/russian/</guid>
+<guid>https://www.anghyflawn.net/categories/phonological-theory/</guid>
 <description></description>
 </item>
 
@@ -244,26 +378,6 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 
 <item>
-<title>Phonology-morphology interface</title>
-<link>https://www.anghyflawn.net/categories/phonology-morphology-interface/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/phonology-morphology-interface/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Phonological Theory</title>
-<link>https://www.anghyflawn.net/categories/phonological-theory/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/phonological-theory/</guid>
-<description></description>
-</item>
-
-
-
-<item>
 <title>Vaplujub</title>
 <link>https://www.anghyflawn.net/news/2020/vaplujub/</link>
 <pubDate>Tue, 20 Oct 2020 10:31:55 BST</pubDate>
@@ -281,26 +395,6 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 <guid>https://www.anghyflawn.net/writing/vaplujub/</guid>
 <description>&lt;p&gt;In this brief paper, I suggest that, contrary to much previous literature, the quality of the yer vowels in Modern Russian is predictable, and does not have to be encoded in the underlying representation. This is a consequence of an approach that rejects the long-standing tradition of positing highly abstract underlying representations, and in particular derives the palatalization of consonants from the backness of following vowels. I argue that the quality of yers is predictable from the context, particularly from the palatalization of preceding consonants and from whether the morphological context drives the &lt;a href=&#34;{{ ref &amp;quot;writing/stratal-phonology-russian-morphophonology.md&amp;quot; }}&#34;&gt;otherwise well-known&lt;/a&gt; &lt;em&gt;e ~ ’o&lt;/em&gt; alternation.&lt;/p&gt;
 </description>
-</item>
-
-
-
-<item>
-<title>Papers</title>
-<link>https://www.anghyflawn.net/categories/papers/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/papers/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Teachings</title>
-<link>https://www.anghyflawn.net/teaching/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/teaching/</guid>
-<description></description>
 </item>
 
 
@@ -358,38 +452,6 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 
 <item>
-<title>Glossa paper</title>
-<link>https://www.anghyflawn.net/news/2020/glossa-paper/</link>
-<pubDate>Mon, 03 Aug 2020 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/news/2020/glossa-paper/</guid>
-<description>&lt;p&gt;My paper with &lt;a href=&#34;https://www.ed.ac.uk/profile/william-lamb&#34;&gt;Will Lamb&lt;/a&gt; entitled &lt;a href=&#34;https://www.anghyflawn.net/writing/gaelic-morphology-glossa/&#34;&gt;&lt;em&gt;Dialect variation in Scottish Gaelic nominal morphology: A quantitative study&lt;/em&gt;&lt;/a&gt; will appear in &lt;a href=&#34;https://www.glossa-journal.org&#34;&gt;&lt;em&gt;Glossa&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Dialectology</title>
-<link>https://www.anghyflawn.net/categories/dialectology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/dialectology/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Dialect variation in Scottish Gaelic nominal morphology</title>
-<link>https://www.anghyflawn.net/writing/gaelic-morphology-glossa/</link>
-<pubDate>Mon, 03 Aug 2020 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/writing/gaelic-morphology-glossa/</guid>
-<description>&lt;p&gt;This paper presents a dialectometric analysis of Scottish Gaelic morphology, with a focus on the noun phrase, using previously unpublished data from the Linguistic Survey of Scotland. Fifty-five morphological features were extracted across 201 survey points, and the data subjected to a variety of analyses, including cluster analysis, regression, and correlation analysis. We establish that the Gaelic noun system shows robust diatopic (i. e. geographical) variation; this challenges previous assertions in the literature, which describe Gaelic morphosyntax as geographically uniform. In addition, we argue that our dialectometric results provide an insight into the grammatical structure of the language that is not easily achievable through the analysis of individual varieties. In particular, we argue that the results highlight a dissociation between morphological categories such as case and gender and their morphophonological exponents, which are particularly complex in Scottish Gaelic. The paper thus serves as a proof of concept for the use of dialectometric findings in a theoretical context.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
 <title>Sem1 Start</title>
 <link>https://www.anghyflawn.net/news/2020/sem1-start/</link>
 <pubDate>Sun, 02 Aug 2020 00:00:00 UTC</pubDate>
@@ -425,6 +487,16 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 
 <item>
+<title>Prosodic Structure</title>
+<link>https://www.anghyflawn.net/categories/prosodic-structure/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/prosodic-structure/</guid>
+<description></description>
+</item>
+
+
+
+<item>
 <title>The phonology of Gaelic tonal accent</title>
 <link>https://www.anghyflawn.net/writing/gaelic-tonal-accent-rnag2018/</link>
 <pubDate>Wed, 12 Feb 2020 00:00:00 UTC</pubDate>
@@ -452,10 +524,10 @@ our understanding of the accentual phonology of Gaelic.&lt;/p&gt;
 
 
 <item>
-<title>Prosodic structure</title>
-<link>https://www.anghyflawn.net/categories/prosodic-structure/</link>
+<title>History of Phonology</title>
+<link>https://www.anghyflawn.net/categories/history-of-phonology/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/prosodic-structure/</guid>
+<guid>https://www.anghyflawn.net/categories/history-of-phonology/</guid>
 <description></description>
 </item>
 
@@ -468,16 +540,6 @@ our understanding of the accentual phonology of Gaelic.&lt;/p&gt;
 <guid>https://www.anghyflawn.net/writing/history-of-phonology/</guid>
 <description>&lt;p&gt;This invited contribution to a collection on the history of phonology explores the history of phonological studies in the USSR. I offer a short history of phonology in Russia and the USSR before the formation of the two main theoretical currents (the &amp;lsquo;Leningrad&amp;rsquo; and &amp;lsquo;Moscow&amp;rsquo; schools), and emphasize both their mutual common roots and their closeness to other structuralist frameworks, in particular Prague phonology. I discuss the differences between the two schools both in their approach to the phoneme and in their analysis of morphophonological alternations. Throughout, the focus is on the ways in which a focus on Russian shaped the directions of phonological thinking.&lt;/p&gt;
 </description>
-</item>
-
-
-
-<item>
-<title>History of phonology</title>
-<link>https://www.anghyflawn.net/categories/history-of-phonology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/history-of-phonology/</guid>
-<description></description>
 </item>
 
 
@@ -614,89 +676,6 @@ our understanding of the accentual phonology of Gaelic.&lt;/p&gt;
 <pubDate>Sun, 01 Dec 2019 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/writing/gjert-kristoffersen-fs/</guid>
 <description>&lt;p&gt;This paper (in Norwegian) contains an overview of traditional and modern sources of information regarding preaspiration of |fortis| stops (the /p t k/ series) in Norwegian vernaculars. Traditional sources note them in the dialects of North Gudbrandsdalen, Härjedalen, Rogaland, and a few in Northern Norway. However, I argue that preaspiration is much more widespread than that: I collect evidence from more recent instrumental studies, from dialect corpora, and from an original acoustic study with a focus on Northern Norwegian varieties, and argue, following scholars such as Gunnar Ólafur Hansson and Pétur Helgason, that preaspiration is pervasive in North Germanic vernaculars. I also offer a discussion of some historical consequences of this fact; notably, I suggest that preaspiration may have been implicated in a process traditionally considered an instance of intervocalic lenition.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Gjert Kristoffersen Fs</title>
-<link>https://www.anghyflawn.net/news/2019/gjert-kristoffersen-fs/</link>
-<pubDate>Sun, 01 Dec 2019 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/news/2019/gjert-kristoffersen-fs/</guid>
-<description>&lt;p&gt;I have contributed a &lt;a href=&#34;https://www.anghyflawn.net/writing/gjert-kristoffersen-fs/&#34;&gt;paper&lt;/a&gt; on Norwegian preaspiration to a Festschrift for Gjert Kristoffersen.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Phonological Theory</title>
-<link>https://www.anghyflawn.net/teaching/2019/phonological-theory/</link>
-<pubDate>Mon, 15 Jul 2019 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/teaching/2019/phonological-theory/</guid>
-<description>&lt;p&gt;This course introduces students to a range of important topics in (generative) phonological theory and to phonological data analysis. On the theoretical side, we cover the following topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Basics of phonological theory: contrast, phonemes, allophones, alternations&lt;/li&gt;
-&lt;li&gt;Feature theory&lt;/li&gt;
-&lt;li&gt;Derivations, underlying representations, rules&lt;/li&gt;
-&lt;li&gt;Process interaction and rule ordering&lt;/li&gt;
-&lt;li&gt;Suprasegmental phonology: syllable structure, stress, tone&lt;/li&gt;
-&lt;li&gt;Advanced feature theory: feature geometry, unary features&lt;/li&gt;
-&lt;li&gt;Explanation in phonology&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Throughout the course, there is a strong emphasis on building data analysis and problem solving skills.&lt;/p&gt;
-
-&lt;p&gt;This course is also offered for MSc students (as &lt;a href=&#34;http://www.drps.ed.ac.uk/19-20/dpt/cxlasc11148.htm&#34;&gt;LASC11148&lt;/a&gt;). It is suitable for postgraduate students who have had some previous exposure to phonology.&lt;/p&gt;
-
-&lt;p&gt;Following this course, students will be able to progress to advanced study of phonological theory. In &lt;sup&gt;2019&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2020&lt;/sub&gt;, we are offering LASC10046 Historical Phonology and LASC10089 Current Issues in Phonology.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Linguistics and English Language 1A</title>
-<link>https://www.anghyflawn.net/teaching/2019/lel1a/</link>
-<pubDate>Mon, 15 Jul 2019 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/teaching/2019/lel1a/</guid>
-<description>&lt;p&gt;This is the introductory linguistics &lt;em&gt;ab initio&lt;/em&gt; course for all first-year students in Linguistics and English Language. With &lt;a href=&#34;https://www.ed.ac.uk/profile/graeme-trousdale&#34;&gt;Graeme Trousdale&lt;/a&gt;, I am responsible for the data analysis/language puzzles component of the course.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Language Contact and the History of English</title>
-<link>https://www.anghyflawn.net/teaching/2019/lg-contact-history-english/</link>
-<pubDate>Mon, 15 Jul 2019 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/teaching/2019/lg-contact-history-english/</guid>
-<description>&lt;p&gt;This course familiarizes students with the study of language contact and the role contact has played in the development of English in the British and Irish Isles from the earliest times to the 19th century. It provides some brief historical background and an introduction to historical sociolinguistics, with an emphasis on the study of language contact. Armed with this knowledge, students will be in a position to tackle issues around the role of language contact in shaping the development of English in the British and Irish Isles. We cover the following topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The earliest contacts of the Germanic languages&lt;/li&gt;
-&lt;li&gt;The Celtic hypothesis: early influence of Celtic on Old and Middle English&lt;/li&gt;
-&lt;li&gt;Contact with North Germanic, particularly in the Middle English period, but also with reference to Scots&lt;/li&gt;
-&lt;li&gt;The impact of French, both in the Middle English period and later on&lt;/li&gt;
-&lt;li&gt;&amp;lsquo;Celtic Englishes&amp;rsquo;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Note that this course does &lt;strong&gt;not&lt;/strong&gt; cover the development of English outside of the British and Irish Isles (see &lt;a href=&#34;http://www.drps.ed.ac.uk/19-20/dpt/cxlasc10056.htm&#34;&gt;LASC10056 Global Englishes&lt;/a&gt;), or language contact in the present-day multicultural context (see &lt;a href=&#34;http://www.drps.ed.ac.uk/19-20/dpt/cxlasc10085.htm&#34;&gt;LASC10085 Dialects of English in Britain and Ireland&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;The course is also offered to MSc students, as &lt;a href=&#34;http://www.drps.ed.ac.uk/19-20/dpt/cxlasc11154.htm&#34;&gt;LASC11154&lt;/a&gt;, usually if they are able to pass out of introductory structure courses and have some knowledge of the history of English.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Promotion</title>
-<link>https://www.anghyflawn.net/news/2019/promotion/</link>
-<pubDate>Fri, 02 Aug 2019 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/news/2019/promotion/</guid>
-<description>&lt;p&gt;I have been promoted to Senior Lecturer.&lt;/p&gt;
 </description>
 </item>
 

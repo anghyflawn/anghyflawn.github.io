@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Historical phonology on Pavel Iosad</title>
+    <title>Historical Phonology on Pavel Iosad</title>
     <link>https://www.anghyflawn.net/categories/historical-phonology/</link>
-    <description>Recent content in Historical phonology on Pavel Iosad</description>
+    <description>Recent content in Historical Phonology on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.anghyflawn.net/categories/historical-phonology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Жизненный цикл морфонологических процессов в русском языке</title>
+      <link>https://www.anghyflawn.net/presentation/2021/otipl-colloquium/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/presentation/2021/otipl-colloquium/</guid>
+      <description>Характерное свойство динамических подходов к русской фонологии и морфонологии — как выполненных в духе порождающих фонологических теорий, так и (пост)структуралистских — обширное использование правил, обязательно применяемых в определенном порядке. Обоснование этого порядка — важнейшая задача для теоретического осмысления фактов русского языка, без решения которой динамические подходы являются по сути нефальсифицируемыми: в отсутствие четких ограничений на количество правил и порядок их применения любое чередование можно подвергнуть сколь угодно абстрактному анализу с произвольным количеством правил.</description>
+    </item>
     
     <item>
       <title>The life cycle of preaspiration in the Gaelic languages</title>
