@@ -21,7 +21,7 @@
     
     <meta name="twitter:description" content="These notes are from a workshop on pandoc I ran for Innovative Learning Week 2015.
 What is this about? You can get the PDF file produced with pandoc from the same source as this page here.
-Some terminology  pandoc is the program written by the philosopher John MacFarlane to convert texts between different formats pandoc is able to take files in a variety of formats and produce output in an even bigger variety of formats markdown is a lightweight mark-up language  It was originally created to simplify the creation of HTML pages With pandoc, you can use it to produce a variety of outputs You can also use other input formats, but we focus on markdown  The most relevant output formats for us are  docx, i." />
+Some terminology  pandoc is the program written by the philosopher John MacFarlane to convert texts between different formats pandoc is able to take files in a variety of formats and produce output in an even bigger variety of formats markdown is a lightweight mark-up language  It was originally created to simplify the creation of HTML pages With pandoc, you can use it to produce a variety of outputs You can also use other input formats, but we focus on markdown   The most relevant output formats for us are  docx, i." />
     
     <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
     <script src="https://youcanbook.me/resources/scripts/ycbm.modal.js"></script>
@@ -56,184 +56,160 @@ Some terminology  pandoc is the program written by the philosopher John MacFarla
 <div class="units-row">		
 <div class="unit-20 dateblock"><h4><time>February 2015</time></h4> 
 </div>
-<div class="unit-60">
-
-<p>These notes are from a workshop on <code>pandoc</code> I ran for Innovative Learning Week 2015.</p>
-
+<div class="unit-60"><p>These notes are from a workshop on <code>pandoc</code> I ran for Innovative Learning Week 2015.</p>
 <h1 id="what-is-this-about">What is this about?</h1>
-
 <p>You can get the PDF file produced with <code>pandoc</code> from the same source as this page <a href="/pdf/pandoc.notes.pdf">here</a>.</p>
-
 <h2 id="some-terminology">Some terminology</h2>
-
 <ul>
 <li><code>pandoc</code> is the program written by the philosopher John MacFarlane to convert texts between different formats</li>
 <li><code>pandoc</code> is able to take files in a variety of formats and produce output in an even bigger variety of formats</li>
 <li><code>markdown</code> is a lightweight <em>mark-up</em> language
-
 <ul>
 <li>It was originally created to simplify the creation of HTML pages</li>
 <li>With pandoc, you can use it to produce a variety of outputs</li>
 <li>You can also use other input formats, but we focus on <code>markdown</code></li>
-</ul></li>
+</ul>
+</li>
 <li>The most relevant output formats for us are
-
 <ul>
 <li><code>docx</code>, i.e. Word</li>
 <li><code>tex</code>, which <code>pandoc</code> uses internally to produce <code>PDF</code></li>
-</ul></li>
+</ul>
+</li>
 <li>Isn&rsquo;t this like TeX?
-
 <ul>
 <li>It is: TeX is another type of mark-up language</li>
 <li>The LaTeX system is <em>more</em> powerful than <code>pandoc</code></li>
 <li>However, it has a much steeper learning curve</li>
-</ul></li>
 </ul>
-
+</li>
+</ul>
 <p>This code will produce a presentation slide with a nested bullet list with the LaTeX package <code>beamer</code></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-latex" data-lang="latex"><span style="color:#66d9ef">\begin</span>{frame}{Slide title}
+<span style="color:#66d9ef">\begin</span>{itemize}
+  <span style="color:#66d9ef">\item</span> Item 1
+  <span style="color:#66d9ef">\item</span> Item 2
+  <span style="color:#66d9ef">\begin</span>{itemize}
+      <span style="color:#66d9ef">\item</span> Subitem 1
+      <span style="color:#66d9ef">\item</span> Subitem 2
+  <span style="color:#66d9ef">\end</span>{itemize}
+  <span style="color:#66d9ef">\item</span> Item 3
+<span style="color:#66d9ef">\end</span>{itemize}
+<span style="color:#66d9ef">\end</span>{frame}
+</code></pre></div><p>The same code will be produced if you run <code>pandoc</code> to produce <code>beamer</code> output on the following <code>markdown</code> fragment:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-markdown" data-lang="markdown"><span style="color:#75715e">## Slide title ##
+</span><span style="color:#75715e"></span>
+<span style="color:#66d9ef">*</span> Item 1
+<span style="color:#66d9ef">*</span> Item 2
+    <span style="color:#66d9ef">*</span> Subitem 1
+    <span style="color:#66d9ef">*</span> Subitem 2
+<span style="color:#66d9ef">*</span> Item 3
 
-<pre><code class="language-latex">\begin{frame}{Slide title}
-\begin{itemize}
-  \item Item 1
-  \item Item 2
-  \begin{itemize}
-      \item Subitem 1
-      \item Subitem 2
-  \end{itemize}
-  \item Item 3
-\end{itemize}
-\end{frame}
-</code></pre>
-
-<p>The same code will be produced if you run <code>pandoc</code> to produce <code>beamer</code> output on the following <code>markdown</code> fragment:</p>
-
-<pre><code class="language-markdown">## Slide title ##
-
-* Item 1
-* Item 2
-    * Subitem 1
-    * Subitem 2
-* Item 3
-
-</code></pre>
-
-<ul>
+</code></pre></div><ul>
 <li>Many LaTeX users do not really use its full capabilities, but stick to it because of the superior æsthetic qualities of its output compared to more standard software</li>
 <li>With <code>pandoc</code>, you can get LaTeX typography without ever touching the LaTeX code: <code>pandoc</code> creates perfectly serviceable LaTeX code and can run LaTeX for you to produce a PDF file</li>
 <li>This is how these notes were made</li>
 </ul>
-
 <h2 id="why-pandoc">Why <code>pandoc</code>?</h2>
-
 <ul>
 <li>Flexibility of output (unlike LaTeX)</li>
 <li>Simple mark-up, no point-and-click (similar to LaTeX)</li>
 <li>Easy to achieve consistency of styling thanks to logical mark-up (similar to LaTeX)</li>
 <li>Reliability: all your sources are in <em>plain text</em> (like LaTeX)
-
 <ul>
 <li>No file corruptions</li>
 <li>Guaranteed portability between systems</li>
 <li>No need to fire up and fight Word or similar word processing programs</li>
 <li>Cross-platform stability: write your essay on your iPad</li>
-</ul></li>
+</ul>
+</li>
 <li>Automation of common tasks
-
 <ul>
 <li>Numbering and cross-referencing</li>
 <li>Keeping track of citations vs. references</li>
 <li>Automated typesetting of bibliographies using defined styles</li>
-</ul></li>
+</ul>
+</li>
 <li>Basic support for TeX constructs (notably mathematical symbols)</li>
 </ul>
-
 <h1 id="getting-started">Getting started</h1>
-
 <h2 id="the-pandoc-workflow">The <code>pandoc</code> workflow</h2>
-
 <ul>
 <li>For an example of a Markdown source file, grab the source of these notes <a href="/md/pandoc.notes.md">here</a> (and the picture <a href="http://anghyflawn.github.io/img/kiparsky.png">here</a>)</li>
 <li>You edit your files in a <em>text editor</em>
-
 <ul>
 <li>This can be Notepad on Windows or TextEdit on OS X, but there are editors with good <code>markdown</code> support built-in</li>
 <li>OS X: <a href="http://www.macromates.com">TextMate</a> is a good choice; there are also plenty of bespoke Markdown-writing apps around, but they are often not free</li>
 <li>Windows: something that is frequently recommended is <a href="http://notepad-plus-plus.org">Notepad++</a>, and <a href="http://www.guidingtech.com/31357/notepad-plus-plugins/">here</a> are some notes about enabling <code>markdown</code> support</li>
 <li>Generally, Google is your friend for these things</li>
 <li>There are also the two cross-platform editors <code>Emacs</code> and <code>Vim</code>. They are very powerful and have excellent support for both <code>markdown</code> and <code>pandoc</code>. I would not recommend learning <code>markdown</code> and one of these editors <em>at the same time</em> (or at least with any sort of deadline looming!), but that is my recommendation. Gentler introductions to Emacs are available in the shape of <a href="http:/www.aquamacs.org">Aquamacs</a> (this is essentially Emacs with a slightly more traditional interface; OS X only) and <a href="http://kieranhealy.org/resources/emacs-starter-kit/">Kieran Healy&rsquo;s Emacs Starter Kit</a>, specifically geared towards social scientists (close enough to linguistics!)</li>
-</ul></li>
+</ul>
+</li>
 <li>Once you have written your file, you <em>run</em> <code>pandoc</code>. There is no graphical user interface (unless you use Emacs or Vim&hellip;), so the program must be run in the command line
-
 <ul>
 <li>OS X: Applications &gt; Utilities &gt; Terminal</li>
 <li>Windows: run <code>cmd</code> or <code>powershell</code> to open the Terminal</li>
 <li>To navigate to where your files are, use the command <code>cd</code>, e.g. <code>cd ~/Documents/Essays</code> (<code>~</code> is an abbreviation for <code>/Users/&lt;your username&gt;</code>, i.e. your home folder) or <code>cd C:\Users\&lt;your name&gt;\Documents</code></li>
 <li>To avoid typing out long folder names, type the first characters of the name of the folder you&rsquo;re looking for and press <code>&lt;TAB&gt;</code> to auto-complete the path</li>
 <li>Once you are in the same folder as your files, you are ready to run <code>pandoc</code></li>
-</ul></li>
+</ul>
+</li>
 <li>A typical run of <code>pandoc</code> looks like the following:</li>
 </ul>
-
 <blockquote>
 <p><code>pandoc notes.md -o notes.docx</code></p>
 </blockquote>
-
 <ul>
-<li><p>This will run <code>pandoc</code> on the file <code>notes.md</code>. The file&rsquo;s <em>extension</em> (<code>.md</code> is conventionally used for <code>markdown</code> files) tells <code>pandoc</code> that it is written in <code>markdown</code> and that you want Word output.<sup class="footnote-ref" id="fnref:1"><a href="#fn:1">1</a></sup></p></li>
-
-<li><p>Now try this (this requires a LaTeX system to be installed):</p></li>
+<li>This will run <code>pandoc</code> on the file <code>notes.md</code>. The file&rsquo;s <em>extension</em> (<code>.md</code> is conventionally used for <code>markdown</code> files) tells <code>pandoc</code> that it is written in <code>markdown</code> and that you want Word output.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></li>
 </ul>
-
+<ul>
+<li>Now try this (this requires a LaTeX system to be installed):</li>
+</ul>
 <blockquote>
 <p><code>pandoc notes.md -o notes.pdf</code></p>
 </blockquote>
-
 <ul>
 <li>Under the hood, this creates a <code>.tex</code> file and runs LaTeX on it to produce a PDF file with the LaTeX defaults &mdash; probably already better than Word!</li>
 <li>Rather than retype the commands every time, try pressing the up arrow! It will bring back your previous commands, which you can also edit as required</li>
 </ul>
-
 <h2 id="markdown-cheat-sheet">Markdown cheat sheet</h2>
-
 <p>This gives the main syntax constructs for Markdown as extended by <code>pandoc</code></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-markdown" data-lang="markdown"># Top-level title #
 
-<pre><code class="language-markdown"># Top-level title #
-
-## Second-level title ##
-
-### Third-level title ###
-
+<span style="color:#75715e">## Second-level title ##
+</span><span style="color:#75715e"></span>
+<span style="color:#75715e">### Third-level title ###
+</span><span style="color:#75715e"></span>
 (you get the picture)
 
-_italics like this_ or *this is also italics*
+<span style="font-style:italic">_italics like this_</span> or <span style="font-style:italic">*this is also italics*</span>
 
-__bold like this__ or **this is also bold**
+<span style="font-weight:bold">__bold like this__</span> or <span style="font-weight:bold">**this is also bold**</span>
 
-A link that leads to [pandoc's homepage](http://johnmacfarlane.net/pandoc)
+A link that leads to [<span style="color:#f92672">pandoc&#39;s homepage</span>](<span style="color:#a6e22e">http://johnmacfarlane.net/pandoc</span>)
 
-* A top-level bullet list
-* Another item
-    * A sub-item
-    * Another sub-item
-        * And even deeper nesting
+<span style="color:#66d9ef">*</span> A top-level bullet list
+<span style="color:#66d9ef">*</span> Another item
+    <span style="color:#66d9ef">*</span> A sub-item
+    <span style="color:#66d9ef">*</span> Another sub-item
+        <span style="color:#66d9ef">*</span> And even deeper nesting
 
-1. A numbered list
-2. Another item on the list
-1. The actual numbers do not matter
-5. So you don't have to renumber things if you rearrange them
+<span style="color:#66d9ef">1.</span> A numbered list
+<span style="color:#66d9ef">2.</span> Another item on the list
+<span style="color:#66d9ef">1.</span> The actual numbers do not matter
+<span style="color:#66d9ef">5.</span> So you don&#39;t have to renumber things if you rearrange them
 
-~~This is strikethrough~~ (not really useful perhaps except for some
+<span style="color:#f92672">~~This is strikethrough~~</span> (not really useful perhaps except for some
 syntax?)
-
-&gt; If you have long quotations, you can typeset them in blocks like
-&gt; this
-
+<span style="color:#66d9ef">
+</span><span style="color:#66d9ef">&gt; </span><span style="font-style:italic">If you have long quotations, you can typeset them in blocks like
+</span><span style="font-style:italic"></span><span style="color:#66d9ef">&gt; </span><span style="font-style:italic">this
+</span><span style="font-style:italic"></span>
 This will be ~subscript~ and this will be ^superscript^
 
 You can also have footnotes.[^1]
 
-[^1]: Again, the precise number does not matter, as long as it's the same in the references and the note itself. You can intersperse the footnotes with the text or put them all the end, they will come out as footnotes anyway.
+[^1]: Again, the precise number does not matter, as long as it&#39;s the same in the references and the note itself. You can intersperse the footnotes with the text or put them all the end, they will come out as footnotes anyway.
 
 (@ex) This will be a numbered example
 
@@ -241,10 +217,7 @@ You can refer to it in the text by writing (@ex) again --- as long as
 the label is unique within the document, the numbering and referencing
 will be automatic
 
-</code></pre>
-
-<h1 id="command-line-options">Command-line options</h1>
-
+</code></pre></div><h1 id="command-line-options">Command-line options</h1>
 <ul>
 <li>There are other options that you can pass to <code>pandoc</code> that influence what it does</li>
 <li>Most options have long and short forms</li>
@@ -254,36 +227,32 @@ will be automatic
 <li><code>pandoc myfile.md --output=myfile.pdf</code></li>
 <li>These are equivalent</li>
 </ul>
-
 <h2 id="some-useful-options">Some useful options</h2>
-
 <ul>
 <li><code>-o FILE / --output=FILE</code>: the name of the file you want to produce. <code>pandoc</code> tries to guess the output format using the extension. If you do not pass this option, <code>pandoc</code> will just spit out the result of the conversion back into the terminal</li>
 <li><code>-t FORMAT / --to=FORMAT</code>: the output format, such as <code>docx</code>, <code>latex</code>, <code>html</code> or even <code>plain</code></li>
 <li><code>-S / --smart</code> (capitalization matters! This is also a <em>logical</em> option, meaning there is no argument): typographically correct output
-
 <ul>
 <li>This means that <code>-</code> is a hyphen (used in contexts such as &lsquo;a difficult-to-parse document&rsquo;)</li>
 <li><code>--</code> is an en dash (used to denote ranges of numbers, such as 2&ndash;4)</li>
 <li><code>---</code> is an em dash (the parenthetical dash &mdash; like this)</li>
 <li><code>&quot;</code> and <code>'</code> are corrected to curly quotes depending on context</li>
 <li><code>...</code> is corrected to &hellip;</li>
-</ul></li>
+</ul>
+</li>
 <li><code>-s / --standalone</code>: if you are converting to a format such as LaTeX or HTML, use this option: it will produce a complete file with all the necessary headers and footers</li>
 <li><code>-V KEY[=VAL] / --variable=KEY:VAL</code>: this is used for setting variables such as author or font; see examples below
-
 <ul>
 <li>NB! If you have spaces in the value you&rsquo;re trying to pass, put the whole value in quotes: <code>--V mainfont=&quot;Times New Roman&quot;</code> or <code>--variable=mainfont:&quot;Times New Roman&quot;</code></li>
-</ul></li>
+</ul>
+</li>
 <li><code>-M KEY[=VAL] / --metadata=KEY:VAL</code>: this is used for setting metadata</li>
 <li><code>--toc / --table-of-contents</code>: include a table of contents</li>
 <li><code>-N / --number-sections</code>: what it says. By default, sections in LaTeX (and therefore PDF) output are unnumbered, so it makes sense to turn this on. This has no effect in <code>.docx</code> files, however; you need to fix the <code>.docx</code> template to achieve that.</li>
 <li><code>--reference-docx=FILE</code>: you can create a <code>.docx</code> file with the correct styling (e.g. fonts, sizes, colours) and reuse it by passing in this option. The content of the reference file will be ignored. It is recommended to create a <code>.docx</code> file using <code>pandoc</code>, edit its styles to achieve the desired result, and reuse it.</li>
 <li><code>--latex-engine=pdflatex|lualatex|xelatex</code>: see below</li>
 </ul>
-
 <h2 id="nice-fonts-and-ipa-in-pdf-output">Nice fonts (and IPA) in PDF output</h2>
-
 <ul>
 <li>By default, <code>pandoc</code> creates PDF output using <code>pdflatex</code> &mdash; a very stable version of LaTeX that is, however, quite archaic in its handling of fonts</li>
 <li>In particular, you might have trouble with the IPA</li>
@@ -293,9 +262,7 @@ will be automatic
 <li>Most &lsquo;usual&rsquo; fonts on modern systems (such as Times New Roman or Cambria) support the IPA fine</li>
 <li>Nice alternatives with IPA support include <a href="http://junicode.sourceforge.net">Junicode</a>, <a href="http://scholarsfonts.net/cardofnt.html">Cardo</a>, <a href="http://scripts.sil.org/gentium">Gentium</a>, and <a href="http://www.brill.com/about/brill-fonts">Brill</a></li>
 </ul>
-
 <h2 id="more-uses-for-variables">More uses for variables</h2>
-
 <ul>
 <li>One frequent complaint about non-customized LaTeX output is the large amount of white space on the page compared to the Word defaults</li>
 <li>There is actually a good reason for that (shorter lines make the text more readable), but this is easy to fix</li>
@@ -303,73 +270,58 @@ will be automatic
 <li>The <code>--metadata</code> option is very similar to <code>--variable</code>, and it&rsquo;s used in a similar way</li>
 <li>You can use it to set things such author, title, and date</li>
 </ul>
-
 <blockquote>
 <p><code>--metadata=author:&quot;Pavel Iosad&quot; --metadata=title:&quot;Pandoc notes&quot;</code></p>
 </blockquote>
-
 <ul>
 <li>There is a better way of providing these three essential bits of information</li>
 <li>Start your <code>markdown</code> source file with three lines that all start with %</li>
 </ul>
-
 <pre><code>% This is the title
 % This is the author
 % This is the date
-</code></pre>
-
-<ul>
+</code></pre><ul>
 <li>If you want to leave one of these out, just leave the line blank after the % sign</li>
 <li>You can also put in more complicated metadata in the header: consult the <code>pandoc</code> manual for that.</li>
 </ul>
-
 <h1 id="bibliography">Bibliography</h1>
-
 <ul>
 <li><code>pandoc</code> can also do automated tracking of references and citations</li>
 <li>This means that you only need to mention the work you intend to refer to in the text using a unique <em>citation key</em> and <code>pandoc</code> will take care of putting into your reference list and typesetting the entry in line with the style you require. This process is automatic, so if you end up deleting the in-text citation the entry will also not appear in the reference list.</li>
 <li>To make this work, you require two components:
-
 <ul>
 <li>A bibliographic database</li>
 <li>A style file</li>
-</ul></li>
+</ul>
+</li>
 <li>The bibliographic database (which you should have anyway, to save retyping references you end up reusing) can be in BibTeX format
-
 <ul>
 <li>Such databases can be maintained using bespoke software such as <a href="http://bibdesk.sourceforge.net">BibDesk</a> (installed with MacTeX) or <a href="http://jabref.sourceforge.net">JabRef</a>. Since <code>.bib</code> files are also plain text files, it is possible to do it using your text editor too.</li>
 <li>You can also keep your database in a program such as <a href="http://www.zotero.org">Zotero</a> and export it to <code>.bib</code> when you update it.</li>
 <li>You can use other formats with <code>pandoc</code>, but BibTeX is the most portable</li>
-</ul></li>
 </ul>
-
+</li>
+</ul>
 <h2 id="the-database">The database</h2>
-
 <ul>
 <li>An entry in a BibTeX database looks something like this:</li>
 </ul>
-
 <pre><code>@Book{kiparsky82:_explan,
   author = 	 {Kiparsky, Paul},
   title = 	 {Explanation in phonology},
   publisher = 	 {Foris},
   year = 	 1982,
   location = 	 {Dordrecht}}
-</code></pre>
-
-<ul>
+</code></pre><ul>
 <li>Or, in a graphical program (here: Bibdesk)</li>
 </ul>
-
-<p><img src="/images/kiparsky.png" alt="Example BibTeX entry" /></p>
-
+<p><img src="/images/kiparsky.png" alt="Example BibTeX entry"></p>
 <ul>
 <li>The fields are largely self-explanatory</li>
 <li>The most important one is the <em>citation key</em>: the mnemonic name you use to refer to the entry</li>
 <li>This is the bit after the opening <code>{</code> in the source and &lsquo;cite key&rsquo; in the window</li>
 <li>(It doesn&rsquo;t have to be this descriptive, e.g. you can use <code>SPE</code> for Chomsky &amp; Halle 1967</li>
 <li>You use the cite key to refer to the work
-
 <ul>
 <li><code>[@kiparsky82:_explan]</code> $\Rightarrow$ (Kiparsky 1982)</li>
 <li><code>[@kiparsky82:_explan, p. 1]</code> $\Rightarrow$ (Kiparsky 1982, p. 1)</li>
@@ -377,62 +329,50 @@ will be automatic
 <li><code>@kiparsky82:_explan [p. 1] shows</code> $\Rightarrow$ Kiparsky (1982, p. 1) shows</li>
 <li><code>Phonology has some explaining to do [as shown by @kiparsky82:_explan]</code> $\Rightarrow$ Phonology has some explaining to do (as shown by Kiparsky 1982)</li>
 <li><code>One of Kiparsky's important works [-@kiparsky82:_explan]</code> $\Rightarrow$ One of Kiparsky&rsquo;s important works (1982)</li>
-</ul></li>
+</ul>
+</li>
 <li>You can also have multiple citations, separated by a semicolon
-
 <ul>
 <li><code>[@spe; @kiparsky82:_explan]</code> $\Rightarrow$ (Chomsky &amp; Halle 1967; Kiparsky 1982)</li>
-</ul></li>
 </ul>
-
+</li>
+</ul>
 <h2 id="the-style">The style</h2>
-
 <ul>
 <li>In output formats other than LaTeX, <code>pandoc</code> uses the <code>.csl</code> format to describe citation styles</li>
 <li>CSL files are available in the <a href="http://www.zotero.org/styles">Zotero style repository</a> for the Unified Style Sheet for Linguistics Journals (one of the recommended styles for LEL), APA, and many others</li>
 <li>Setting up automated bibliographies with LaTeX output requires a bit of fiddling about with LaTeX\ itself: shoot me an email if you need help with that</li>
 </ul>
-
 <h2 id="putting-it-all-together">Putting it all together</h2>
-
 <ul>
 <li>This will create a <code>.docx</code> file with a bibliography styled using the Unified Style Sheet:</li>
 </ul>
-
 <blockquote>
-<p><code>pandoc myfile.md -o myfile.docx --bibliography=path/to/your/bib/file
---csl=path/to/your/csl/file</code></p>
+<p><code>pandoc myfile.md -o myfile.docx --bibliography=path/to/your/bib/file --csl=path/to/your/csl/file</code></p>
 </blockquote>
-
 <ul>
 <li>When creating a bibliography in a Word file, remember to end the file with a header at the appropriate level saying something like <code># References #</code></li>
 </ul>
-
 <h1 id="going-further">Going further</h1>
-
 <h2 id="getting-help">Getting help</h2>
-
 <ul>
 <li>The <a href="http://johnmacfarlane.net/pandoc/README.html">pandoc manual</a> is excellent</li>
 </ul>
-
 <h2 id="more-things-to-do">More things to do?</h2>
-
 <ul>
 <li>If you&rsquo;re willing to get your hands (a bit) dirty with TeX, you can fiddle around with templates and set up bibliographies in LaTeX output</li>
 <li>If you do any work with R, you&rsquo;ll know about <code>knitr</code>, the R library for reproducible research. By default (as set up in RStudio), <code>knitr</code> outputs HTML files, but it can also be set up to generate other formats via <code>pandoc</code> (see <a href="http://yihui.name/knitr/demo/pandoc/">here</a>)</li>
 <li>To avoid repetitive typing / command history scouring, consider scripting or Emacs / Vim with their <code>pandoc</code> utilities (both are also excellent LaTeX editors if you go down that particular rabbit hole)</li>
 <li>Consider using version control systems such as Git; see <a href="http://datapub.cdlib.org/2014/05/05/github-a-primer-for-researchers/">here</a></li>
 </ul>
-<div class="footnotes">
-
-<hr />
-
+<section class="footnotes" role="doc-endnotes">
+<hr>
 <ol>
-<li id="fn:1">The input and output formats can also be forced by passing relevant options explicitly. A fuller version of the same run would be <code>pandoc notes.md -f markdown -t docx -o notes.docx</code>
- <a class="footnote-return" href="#fnref:1"><sup>[return]</sup></a></li>
+<li id="fn:1" role="doc-endnote">
+<p>The input and output formats can also be forced by passing relevant options explicitly. A fuller version of the same run would be <code>pandoc notes.md -f markdown -t docx -o notes.docx</code> <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
 </ol>
-</div>
+</section>
 
 </div>
 

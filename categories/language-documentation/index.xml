@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Language Documentation on Pavel Iosad</title>
+    <title>Language documentation on Pavel Iosad</title>
     <link>https://www.anghyflawn.net/categories/language-documentation/</link>
-    <description>Recent content in Language Documentation on Pavel Iosad</description>
+    <description>Recent content in Language documentation on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 03 Dec 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.anghyflawn.net/categories/language-documentation/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 03 Dec 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://www.anghyflawn.net/categories/language-documentation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Making sense of consonant palatalization vowel backness in Irish</title>
       <link>https://www.anghyflawn.net/presentation/2016/ldlt5/</link>
