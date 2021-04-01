@@ -55,80 +55,52 @@ I&rsquo;m a pretty consistent LaTeX user, so to the extent I do slides I do them
 <div class="units-row">		
 <div class="unit-20 dateblock"><h4>December 4, 2014</h4></div>
 <div class="unit-60">
-
-
 <p>This past semester I taught a new course entitled <em><a href="http://www.drps.ed.ac.uk/14-15/dpt/cxlasc10088.htm">Phonological Theory</a></em>. Apart from the content, I decided to experiment a bit with the technical details, specifically using <a href="http://johnmacfarlane.net/pandoc">pandoc</a> and <a href="reveal.js">reveal.js</a> to do the slides and lecture notes.</p>
-
 <p>I&rsquo;m a pretty consistent LaTeX user, so to the extent I do slides I do them in <code>beamer</code>. There is nothing inherently problematic with this, and <a href="https://www.gnu.org/software/auctex/">AUCTeX</a> saves typing a lot of the boilerplate, but writing two–three presentations per week is still time-consuming. I also tend to do the non-recommended thing and put a lot of text on my slides; my justification (apart from the fact that it lets me pace the lectures at least the first time around) is that I use <code>beamerarticle</code> to produce a more text-like notes document that is then quite detailed.</p>
-
 <p>So why pandoc? Well, partly just for the fun of it. My slides + notes workflow also fits quite well with its philosophy of producing multiple output formats from a single input. Perhaps most importantly, markdown is obviously less &lsquo;noisy&rsquo; than LaTeX. Compare this:</p>
-
-<pre><code class="language-markdown">## Slide title ##
-
-* Item 1
-* Item 2
-    * Subitem 1
-    * Subitem 2
-* Item 3
-</code></pre>
-
-<p>and this:</p>
-
-<pre><code class="language-latex">\begin{frame}{Slide title}
-\begin{itemize}
-  \item Item 1
-  \item Item 2
-  \begin{itemize}
-      \item Subitem 1
-      \item Subitem 2
-  \end{itemize}
-  \item Item 3
-\end{itemize}
-\end{frame}
-</code></pre>
-
-<p>Even if you&rsquo;re pretty proficient in LaTeX and filter out the visual noise, I think it&rsquo;s pretty obvious that the former is a bit less horrible.</p>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-markdown" data-lang="markdown"><span style="color:#75715e">## Slide title ##
+</span><span style="color:#75715e"></span>
+<span style="color:#66d9ef">*</span> Item 1
+<span style="color:#66d9ef">*</span> Item 2
+    <span style="color:#66d9ef">*</span> Subitem 1
+    <span style="color:#66d9ef">*</span> Subitem 2
+<span style="color:#66d9ef">*</span> Item 3
+</code></pre></div><p>and this:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-latex" data-lang="latex"><span style="color:#66d9ef">\begin</span>{frame}{Slide title}
+<span style="color:#66d9ef">\begin</span>{itemize}
+  <span style="color:#66d9ef">\item</span> Item 1
+  <span style="color:#66d9ef">\item</span> Item 2
+  <span style="color:#66d9ef">\begin</span>{itemize}
+      <span style="color:#66d9ef">\item</span> Subitem 1
+      <span style="color:#66d9ef">\item</span> Subitem 2
+  <span style="color:#66d9ef">\end</span>{itemize}
+  <span style="color:#66d9ef">\item</span> Item 3
+<span style="color:#66d9ef">\end</span>{itemize}
+<span style="color:#66d9ef">\end</span>{frame}
+</code></pre></div><p>Even if you&rsquo;re pretty proficient in LaTeX and filter out the visual noise, I think it&rsquo;s pretty obvious that the former is a bit less horrible.</p>
 <p>Anyway, I&rsquo;ve now taught the entire course using this workflow, and overall I think I was quite happy with it. The workflow carries over nicely and although there were things that took a bit more work than they would have done if I were using LaTeX I think I felt at least as productive when using pandoc.</p>
-
 <h2 id="the-good">The good</h2>
-
 <p>Writing markdown is of course a piece of cake. I&rsquo;m using Emacs with <a href="http://jblevins.org/projects/markdown-mode/">markdown-mode</a> and <a href="https://joostkremers.github.io/pandoc-mode/">pandoc-mode</a>, which makes it even easier. Consider the task of indenting a sublist, e.g. making a list item (and all its subitems) into a subitem of something else. In markdown-mode, it&rsquo;s a matter of a single keystroke, while in LaTeX it&rsquo;d involve a whole new environment and possibly other adjustments.</p>
-
 <p>The text would usually carry over from slides to notes quite painlessly, so that&rsquo;s good. Pandoc-mode also has a handy feature called a <em>project settings file</em> which allows you to reuse pandoc settings (e.g. includes, bibliography files, CSL files etc.) across multiple input files – having chosen a single set of options it&rsquo;s easy to use them for all the <code>.md</code> files in that directory. If, for whatever reason, you need to use a different set of options for an individual document, that&rsquo;s also possible with per-file settings.</p>
-
 <p>Pandoc also gives you a lot of latitude to tweak how the output looks like, since you have full access to the templates it uses to build the output. This means that my lecture notes look pretty much like any other documents I write and don&rsquo;t use the default TeX settings.</p>
-
 <p>I really liked Reveal.js. It looks pretty nice (though see below) and it has some nifty features. Some are perhaps more pretty than really useful, but I though the overview mode and the speaker notes were especially handy (the speaker notes in particular are nice when you don&rsquo;t want to put something on the slide but still have it in the notes).</p>
-
 <h2 id="the-less-good-and-some-tips">The less good, and some tips</h2>
-
 <p>I did run into some issues that needed resolving, although partly they involve just shaking off the LaTeX mentality. An obvious issue is the lack of access to LaTeX macros. Pandoc has support for a subset of TeX maths in non-TeX output, so it is possible to use things like <code>$\rightarrow$</code> or <code>$\emptyset$</code> (which you need a lot in a course like that), but getting a feature matrix (for which you&rsquo;d use some version of <code>array</code>) is more difficult. Still, it&rsquo;s not as crippling as Word, so that&rsquo;s an advantage already. I didn&rsquo;t really run into a case where there was no way to write what I wanted to write, but I did end up typing out <code>$\rightarrow$</code> a bit more often than I would have wished. (I should probably just have assigned some keystrokes to the right symbols, but I never got round to it.)</p>
-
 <p>(Pandoc-mode does come with something called <code>@@</code>-directives, which can be kicked into a shape resembling TeX macros, but they&rsquo;re still pretty limited and also require more Elisp skills than I could dust off while writing a new course from scratch.)</p>
-
 <p>Diagrams and drawings are another potentially problematic issue. Thankfully, pandoc comes with the filter facility, and the <a href="https://github.com/jgm/pandocfilters/">example repository</a> contains a filter that takes TikZ code and feeds it straight into the output when the output is TeX but creates an image file and embeds it if the output is something else. With a little bit of hacking I was able to make it understand environments like <code>forest</code> (which I recommend for drawing trees) and generally have the pictures assume the desired look and feel. So that&rsquo;s doable.</p>
-
 <p>One potential issue that it took me some time to figure out was getting speaker notes to play nicely. Reveal.js presentations can be shown as static files, but then you don&rsquo;t have access to speaker notes. To get the notes, you need to run a local server using some Node.js magic or other. For one thing, this obviously means that you need to lug your laptop around to the lecture and hope it works. More importantly, reveal.js seems to assume your presentation resides in the same folder as the reveal.js files. If you have multiple source and output files in the directory for your course, you probably don&rsquo;t want to clutter it with its js, css and so on, but rather keep it in a separate folder. But this means that when you run <code>grunt serve</code> from the reveal.js folder, you don&rsquo;t get access to your files. To fix that, you need to go open <code>Gruntfile.js</code> and find the lines</p>
-
-<pre><code class="language-js">		connect: {
-			server: {
-				options: {
-					port: port,
-					base: '.'
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js">		<span style="color:#a6e22e">connect</span><span style="color:#f92672">:</span> {
+			<span style="color:#a6e22e">server</span><span style="color:#f92672">:</span> {
+				<span style="color:#a6e22e">options</span><span style="color:#f92672">:</span> {
+					<span style="color:#a6e22e">port</span><span style="color:#f92672">:</span> <span style="color:#a6e22e">port</span>,
+					<span style="color:#a6e22e">base</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;.&#39;</span>
 				}
 			}
 		},
-</code></pre>
-
-<p>Change the <code>base</code> option to <code>'../'</code>, and it will serve files from the directory above reveal.js, which is what you probably want.</p>
-
+</code></pre></div><p>Change the <code>base</code> option to <code>'../'</code>, and it will serve files from the directory above reveal.js, which is what you probably want.</p>
 <p>One feature that I miss in reveal.js is a counterpart to <code>beamer</code>&rsquo;s <code>allowframebreaks</code> option. It does support manual slide breaking, but that is obviously fragile (not least because the screen in the lecture room doesn&rsquo;t necessarily have the same proportions as yours, so you don&rsquo;t have a 100% reliable guide to when the slide is overfull). Of course you don&rsquo;t have this problem if you don&rsquo;t put too much text on your slide.</p>
-
 <p>A final thing that is not so much a problem as a consequence of lack of time for my part is that changing the look and feel of reveal.js beyond the stock themes requires passable CSS skills, and I definitely did <em>not</em> have time for that.</p>
-
 <h2 id="conclusion">Conclusion</h2>
-
 <p>I found the pandoc + reveal.js route to be a good alternative to beamer for teaching. I think I&rsquo;ll stick to LaTeX/<code>beamer</code> rather than pandoc for serious paper-writing, since the loss of the LaTeX power is only partially compensated by the relative ease of markdown, but for teaching I would recommend this alternative.</p>
 
 
