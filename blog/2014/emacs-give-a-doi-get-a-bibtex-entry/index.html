@@ -55,24 +55,27 @@
 <div class="unit-20 dateblock"><h4>April 22, 2014</h4></div>
 <div class="unit-60">
 <p>One of my enduring frustrations with the various academic publishing platforms (CJO, ScienceDirect, JSTOR and their ilk) is the wildly inconsistent way in which they export BibTeX entries for articles. Sometimes they put them right on the browser page for easy copy-and-paste; sometimes it comes up after a few clicks in a new window; sometimes you end up downloading a file with an impossibly long or counterintuitive name, or called something like <code>science.bib</code> (which Chrome tends to turn into <code>science (14).bib</code> as they accumulate). Since I really only need the BibTeX entry once to get into my master <code>.bib</code> file, that is a waste of time and resources. So if you&rsquo;re using Emacs, here&rsquo;s a simple function which might be helpful</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-elisp" data-lang="elisp">(defun get-bibtex-from-doi (doi)
- <span style="color:#e6db74">&#34;Get a BibTeX entry from the DOI&#34;</span>
- (interactive <span style="color:#e6db74">&#34;MDOI: &#34;</span>)
- (let ((url-mime-accept-string <span style="color:#e6db74">&#34;text/bibliography;style=bibtex&#34;</span>))
+
+<pre><code class="language-elisp">(defun get-bibtex-from-doi (doi)
+ &quot;Get a BibTeX entry from the DOI&quot;
+ (interactive &quot;MDOI: &quot;)
+ (let ((url-mime-accept-string &quot;text/bibliography;style=bibtex&quot;))
    (with-current-buffer 
      (url-retrieve-synchronously 
-       (<span style="color:#a6e22e">format</span> <span style="color:#e6db74">&#34;http://dx.doi.org/%s&#34;</span> 
-       	(replace-regexp-in-string <span style="color:#e6db74">&#34;http://dx.doi.org/&#34;</span> <span style="color:#e6db74">&#34;&#34;</span> doi)))
-     (switch-to-buffer (<span style="color:#a6e22e">current-buffer</span>))
-     (<span style="color:#a6e22e">goto-char</span> (<span style="color:#a6e22e">point-max</span>))
+       (format &quot;http://dx.doi.org/%s&quot; 
+       	(replace-regexp-in-string &quot;http://dx.doi.org/&quot; &quot;&quot; doi)))
+     (switch-to-buffer (current-buffer))
+     (goto-char (point-max))
      (setq bibtex-entry 
-     	  (<span style="color:#a6e22e">buffer-substring</span> 
-          	(<span style="color:#a6e22e">string-match</span> <span style="color:#e6db74">&#34;@&#34;</span> (<span style="color:#a6e22e">buffer-string</span>))
-              (<span style="color:#a6e22e">point</span>)))
-     (<span style="color:#a6e22e">kill-buffer</span> (<span style="color:#a6e22e">current-buffer</span>))))
- (<span style="color:#a6e22e">insert</span> (<span style="color:#a6e22e">decode-coding-string</span> bibtex-entry <span style="color:#e6db74">&#39;utf-8</span>))
+     	  (buffer-substring 
+          	(string-match &quot;@&quot; (buffer-string))
+              (point)))
+     (kill-buffer (current-buffer))))
+ (insert (decode-coding-string bibtex-entry 'utf-8))
  (bibtex-fill-entry))
-</code></pre></div><p>This will ask you for the DOI (you can keep the <code>http://dx.doi.org/</code> bit that you get if you do &lsquo;Copy Link Address&rsquo; from the browser), pull the BibTeX entry via the DOI API, and insert it at point. (I&rsquo;m assuming the buffer is in <code>bibtex-mode</code> already, since it doesn&rsquo;t really make sense for it not to be.) Put this in your <code>init.el</code> and you can now do <code>M-x get-bibtex-from-doi</code>, or bind it to a keychord of your choice. The entry might still need fiddling with (e.g. to fix the citekey in line with your scheme, or to remove the Unicode characters if need be), but hopefully this might be useful.</p>
+</code></pre>
+
+<p>This will ask you for the DOI (you can keep the <code>http://dx.doi.org/</code> bit that you get if you do &lsquo;Copy Link Address&rsquo; from the browser), pull the BibTeX entry via the DOI API, and insert it at point. (I&rsquo;m assuming the buffer is in <code>bibtex-mode</code> already, since it doesn&rsquo;t really make sense for it not to be.) Put this in your <code>init.el</code> and you can now do <code>M-x get-bibtex-from-doi</code>, or bind it to a keychord of your choice. The entry might still need fiddling with (e.g. to fix the citekey in line with your scheme, or to remove the Unicode characters if need be), but hopefully this might be useful.</p>
 
 
 </div>

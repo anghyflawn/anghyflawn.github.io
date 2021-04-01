@@ -1,12 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Initial consonant mutations on Pavel Iosad</title>
+    <title>Initial Consonant Mutations on Pavel Iosad</title>
     <link>https://www.anghyflawn.net/categories/initial-consonant-mutations/</link>
-    <description>Recent content in Initial consonant mutations on Pavel Iosad</description>
+    <description>Recent content in Initial Consonant Mutations on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 28 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://www.anghyflawn.net/categories/initial-consonant-mutations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.anghyflawn.net/categories/initial-consonant-mutations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Celtic mutations</title>
       <link>https://www.anghyflawn.net/writing/mutations-bibliography/</link>
@@ -14,7 +18,7 @@
       
       <guid>https://www.anghyflawn.net/writing/mutations-bibliography/</guid>
       <description>This is an annotated and commented bibliography of works related to the initial consonant mutations of Celtic languages, available by subscription via Oxford Bibliographies Online. Here is the table of contents:
- Introduction General overviews 3. Descriptions of individual languages 4. Welsh 4. Breton 4. Cornish 4. Irish 4. Scottish Gaelic 4. Manx 4. Ancient Celtic languages General bibliographic resources The phonology of mutations 6. Structuralist approaches 7. Rule-based phonology 8.</description>
+ Introduction General overviews  Descriptions of individual languages  Welsh Breton Cornish Irish Scottish Gaelic Manx Ancient Celtic languages   General bibliographic resources The phonology of mutations  Structuralist approaches Rule-based phonology Nonlinear phonology Optimality Theory  The syntax of mutation  The triggering of mutation Direct object mutation in Welsh  Mutations and morphology Mutations and interfaces  Mutations and other components of grammar Language variation and change Mutation in &amp;lsquo;non-traditional&amp;rsquo; varieties Acquisition and psycholinguistics  Diachrony of mutations  The origins of mutations The historical development of mutations  Typological comparison  Since the published version does not have an acknowledgements facility, I would like to thank here two anonymous reviewers, Peadar Ó Muircheartaigh, Máire Ní Chiosáin, and Christopher Lewin for valuable criticisms and suggestions.</description>
     </item>
     
     <item>
@@ -32,7 +36,7 @@
       <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/writing/rara/</guid>
-      <description>In this paper I offer an overview of systems of initial consonant mutations found in the world&amp;rsquo;s languages and attempt to propose a preliminary typology. Many of these phenomena can probably be subsumed under a general theory of nonconcatenative morphology and phonology, but in some cases (notably some of the Celtic ones) the mutations&#39; place in the grammar is less clear. For another, more detailed take on this architectural issue in the specific case of Breton, see also this later paper.</description>
+      <description>In this paper I offer an overview of systems of initial consonant mutations found in the world&amp;rsquo;s languages and attempt to propose a preliminary typology. Many of these phenomena can probably be subsumed under a general theory of nonconcatenative morphology and phonology, but in some cases (notably some of the Celtic ones) the mutations&amp;rsquo; place in the grammar is less clear. For another, more detailed take on this architectural issue in the specific case of Breton, see also this later paper.</description>
     </item>
     
     <item>

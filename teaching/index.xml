@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teachings on Pavel Iosad</title>
@@ -6,7 +6,11 @@
     <description>Recent content in Teachings on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.anghyflawn.net/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.anghyflawn.net/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Historical Linguistics</title>
       <link>https://www.anghyflawn.net/teaching/2021/historical-linguistics/</link>
@@ -14,7 +18,7 @@
       
       <guid>https://www.anghyflawn.net/teaching/2021/historical-linguistics/</guid>
       <description>This course introduces the type of changes that a language may undergo, at all levels of linguistic structure, and the theoretical frameworks that are available to discuss them. The course also looks at sociolinguistic influences on language change and the consequences of language contact including language convergence, creolisation and language death.
-In 2020/2021, I am conducting tutorials covering the entire range of the course’s topics.</description>
+In 2020&amp;frasl;2021, I am conducting tutorials covering the entire range of the course’s topics.</description>
     </item>
     
     <item>
@@ -23,7 +27,7 @@ In 2020/2021, I am conducting tutorials covering the entire range of the course�
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/teaching/2021/lel2d/</guid>
-      <description>This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In 2020/2021, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block, and for the ‘implications of variation and universals’ block (with Graeme Trousdale).</description>
+      <description>This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In 2020&amp;frasl;2021, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block, and for the ‘implications of variation and universals’ block (with Graeme Trousdale).</description>
     </item>
     
     <item>
@@ -32,7 +36,7 @@ In 2020/2021, I am conducting tutorials covering the entire range of the course�
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/teaching/2020/guided-research/</guid>
-      <description>This is a course that offers students the opportunity to pursue their own research in area related to the topic of the seminar. In 2020/2021, I am offering a guided research seminar in both semesters on the following topic:
+      <description>This is a course that offers students the opportunity to pursue their own research in area related to the topic of the seminar. In 2020&amp;frasl;2021, I am offering a guided research seminar in both semesters on the following topic:
 What’s Where When Why: Linguistic diversity, typology, and historical linguistics How do we approach the study of diversity and variation across languages? Why are some structures rare, and others common? Why do certain features tend to occur together?</description>
     </item>
     
@@ -51,7 +55,7 @@ What’s Where When Why: Linguistic diversity, typology, and historical linguist
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/teaching/2020/phonological-theory/</guid>
-      <description>In 2020/2021, in response to the Covid-19 crisis, I am teaching on this course as part of a team that also includes Patrick Honeybone, Benjamin Molineaux, and Laura Arnold. I will teach a block that includes the following topics:
+      <description>In 2020&amp;frasl;2021, in response to the Covid-19 crisis, I am teaching on this course as part of a team that also includes Patrick Honeybone, Benjamin Molineaux, and Laura Arnold. I will teach a block that includes the following topics:
  Basics of phonological theory: contrast, phonemes, allophones, alternations Feature theory Derivations, underlying representations, rules Process interaction and rule ordering  Throughout the course, there is a strong emphasis on building data analysis and problem solving skills.</description>
     </item>
     
@@ -80,7 +84,7 @@ What’s Where When Why: Linguistic diversity, typology, and historical linguist
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/teaching/2020/lel2d/</guid>
-      <description>This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In 2019/2020, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block.</description>
+      <description>This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In 2019&amp;frasl;2020, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block.</description>
     </item>
     
     <item>
@@ -89,7 +93,7 @@ What’s Where When Why: Linguistic diversity, typology, and historical linguist
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/teaching/2020/lel2e/</guid>
-      <description>This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In 2019/2020, I am responsible for the following sections:
+      <description>This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In 2019&amp;frasl;2020, I am responsible for the following sections:
  The Indo-European language family Celtic languages Topics in the phonology of European languages Non-Indo-European languages of Europe (Basque; Finno-Ugric)  </description>
     </item>
     
@@ -137,7 +141,7 @@ What’s Where When Why: Linguistic diversity, typology, and historical linguist
       <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/teaching/2019/lel2d/</guid>
-      <description>This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In 2018/2019, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block.</description>
+      <description>This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In 2018&amp;frasl;2019, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block.</description>
     </item>
     
     <item>
@@ -146,7 +150,7 @@ What’s Where When Why: Linguistic diversity, typology, and historical linguist
       <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/teaching/2019/lel2e/</guid>
-      <description>This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In 2018/2019, I am responsible for the following sections:
+      <description>This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In 2018&amp;frasl;2019, I am responsible for the following sections:
  The Indo-European language family Celtic languages Topics in the phonology of European languages Non-Indo-European languages of Europe (Basque; Finno-Ugric)  </description>
     </item>
     
@@ -204,7 +208,7 @@ What’s Where When Why: Linguistic diversity, typology, and historical linguist
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/teaching/2018/lel2d/</guid>
-      <description>This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In 2017/2018, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block.</description>
+      <description>This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In 2017&amp;frasl;2018, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block.</description>
     </item>
     
     <item>
@@ -213,7 +217,7 @@ What’s Where When Why: Linguistic diversity, typology, and historical linguist
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/teaching/2018/lel2e/</guid>
-      <description>This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In 2017/2018, I am responsible for the following sections:
+      <description>This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In 2017&amp;frasl;2018, I am responsible for the following sections:
  The Indo-European language family Celtic languages Topics in the phonology of European languages Non-Indo-European languages of Europe (Basque; Finno-Ugric)  </description>
     </item>
     
@@ -243,7 +247,7 @@ What’s Where When Why: Linguistic diversity, typology, and historical linguist
       
       <guid>https://www.anghyflawn.net/teaching/2017/cananachas/</guid>
       <description>This course is an obligatory part of the pre-Honours sequence for students on the MA (Hons) degree in Gaelic and Primary Education. It will introduce students to the linguistic analysis of the Scottish Gaelic language, giving an overview of phonetics and phonology, morphology and syntax, together with consideration of key sociolinguistic principles and issues, including phenomena relating to language contact, language shift and status and corpus planning.
-In 2016/2017, I will teach the sections on phonetics and phonology and on language change.</description>
+In 2016&amp;frasl;2017, I will teach the sections on phonetics and phonology and on language change.</description>
     </item>
     
     <item>
@@ -272,7 +276,7 @@ In 2016/2017, I will teach the sections on phonetics and phonology and on langua
       <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/teaching/2017/lel2d/</guid>
-      <description>This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In 2016/2017, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block.</description>
+      <description>This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In 2016&amp;frasl;2017, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block.</description>
     </item>
     
     <item>
@@ -281,7 +285,7 @@ In 2016/2017, I will teach the sections on phonetics and phonology and on langua
       <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/teaching/2017/lel2e/</guid>
-      <description>This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In 2016/2017, I am responsible for the following sections:
+      <description>This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In 2016&amp;frasl;2017, I am responsible for the following sections:
  The Indo-European language family Celtic languages Topics in the phonology of European languages  For course materials, see the relevant page on Learn</description>
     </item>
     
@@ -291,7 +295,7 @@ In 2016/2017, I will teach the sections on phonetics and phonology and on langua
       <pubDate>Mon, 11 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/teaching/2016/lel2d/</guid>
-      <description>This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In 2015/2016, I acted as the course organizer for LEL2D. I was also responsible for the entire phonology block.</description>
+      <description>This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In 2015&amp;frasl;2016, I acted as the course organizer for LEL2D. I was also responsible for the entire phonology block.</description>
     </item>
     
     <item>
@@ -300,7 +304,7 @@ In 2016/2017, I will teach the sections on phonetics and phonology and on langua
       <pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/teaching/2016/celtic-norse-english/</guid>
-      <description>This course runs for the first time in 2015/2016 (but will probably run every other year). It has three main objectives:
+      <description>This course runs for the first time in 2015&amp;frasl;2016 (but will probably run every other year). It has three main objectives:
  An introduction to Celtic linguistics, via familiarizing students with the structural properties of Celtic languages An brief introduction to the study of language contact, with particular attention to criteria used to diagnose contact features A discussion of various ways in which Celtic and North Germanic languages interacted with each other and with English in the British Isles  This course presupposes no knowledge of any modern or ancient Celtic language.</description>
     </item>
     
@@ -320,7 +324,7 @@ In 2016/2017, I will teach the sections on phonetics and phonology and on langua
       <pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/teaching/2016/lel2e/</guid>
-      <description>This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In 2015/2016, I was responsible for the following sections:
+      <description>This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In 2015&amp;frasl;2016, I was responsible for the following sections:
  The Indo-European language family Celtic languages Topics in the phonology of European languages  For course materials, see the relevant page on Learn</description>
     </item>
     
@@ -331,7 +335,7 @@ In 2016/2017, I will teach the sections on phonetics and phonology and on langua
       
       <guid>https://www.anghyflawn.net/teaching/2016/cananachas/</guid>
       <description>This course is an obligatory part of the pre-Honours sequence for students on the MA (Hons) degree in Gaelic and Primary Education. It will introduce students to the linguistic analysis of the Scottish Gaelic language, giving an overview of phonetics and phonology, morphology and syntax, together with consideration of key sociolinguistic principles and issues, including phenomena relating to language contact, language shift and status and corpus planning.
-In 2015/2016, I taught the sections on phonetics and phonology and on language change.</description>
+In 2015&amp;frasl;2016, I taught the sections on phonetics and phonology and on language change.</description>
     </item>
     
     <item>
@@ -352,7 +356,7 @@ In 2015/2016, I taught the sections on phonetics and phonology and on language c
       <guid>https://www.anghyflawn.net/teaching/2015/ilw-pandoc/</guid>
       <description>These notes are from a workshop on pandoc I ran for Innovative Learning Week 2015.
 What is this about? You can get the PDF file produced with pandoc from the same source as this page here.
-Some terminology  pandoc is the program written by the philosopher John MacFarlane to convert texts between different formats pandoc is able to take files in a variety of formats and produce output in an even bigger variety of formats markdown is a lightweight mark-up language  It was originally created to simplify the creation of HTML pages With pandoc, you can use it to produce a variety of outputs You can also use other input formats, but we focus on markdown   The most relevant output formats for us are  docx, i.</description>
+Some terminology  pandoc is the program written by the philosopher John MacFarlane to convert texts between different formats pandoc is able to take files in a variety of formats and produce output in an even bigger variety of formats markdown is a lightweight mark-up language  It was originally created to simplify the creation of HTML pages With pandoc, you can use it to produce a variety of outputs You can also use other input formats, but we focus on markdown  The most relevant output formats for us are  docx, i.</description>
     </item>
     
     <item>
@@ -361,7 +365,7 @@ Some terminology  pandoc is the program written by the philosopher John MacFarla
       <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/teaching/2015/current-issues-in-phonology/</guid>
-      <description>This advanced course introduces students to a variety of live research issues in phonological theory. I teach this course with my colleagues Heinz Giegerich, Patrick Honeybone, and Michael Ramsammy. In 2014/2015, I cover the following topics:
+      <description>This advanced course introduces students to a variety of live research issues in phonological theory. I teach this course with my colleagues Heinz Giegerich, Patrick Honeybone, and Michael Ramsammy. In 2014&amp;frasl;2015, I cover the following topics:
  Contrast in phonology and underspecification. Modified Contrastive Specification and the use of contrastive hierarchies Feature theory: markedness, feature geometry, contrast. Diagnostics of markedness and their cross-linguistic validity Suprasegmental phonology: moraic theory; morae and sonority; onset moraicity  Materials are available on Learn.</description>
     </item>
     
@@ -381,7 +385,7 @@ Some terminology  pandoc is the program written by the philosopher John MacFarla
       <pubDate>Sat, 10 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/teaching/2015/lel2d/</guid>
-      <description>This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In 2014/2015, I am responsible for the entire phonology block. We cover the following topics:
+      <description>This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In 2014&amp;frasl;2015, I am responsible for the entire phonology block. We cover the following topics:
  Phonological typology and theory.</description>
     </item>
     
@@ -391,7 +395,7 @@ Some terminology  pandoc is the program written by the philosopher John MacFarla
       <pubDate>Sat, 10 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/teaching/2015/lel2e/</guid>
-      <description>This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In 2014/2015, I am responsible for the following sections:
+      <description>This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In 2014&amp;frasl;2015, I am responsible for the following sections:
  The Indo-European language family Celtic languages Topics in the phonology of European languages  For course materials, see the relevant page on Learn</description>
     </item>
     
@@ -413,7 +417,8 @@ Some terminology  pandoc is the program written by the philosopher John MacFarla
       <guid>https://www.anghyflawn.net/teaching/2014/phonological-theory-hse/</guid>
       <description>Приглашенный мини-курс «Фонологическая теория», Москва, ГУ-ВШЭ.
 В настоящем курсе рассматриваются важнейшие вопросы фонологической теории в ее генеративном варианте. Курс состоит из пяти лекций:
-Лекция 1: Архитектура фонологической теории материалыТема первой лекции — устройство фонологической теории, место фонологии в теории грамматики и мотивация динамического (генеративного) подхода. В рамках современной теории фонологический модуль представляется как механизм, соотносящий фонологические объекты (множества сегментов, признаков, граничных символов и т.п.), предоставленные словарем, с другими фонологическими объектами, которые описываются в терминах того же алфавита, что и «входные данные», и интерпретируются фонетическим компонентом.</description>
+Лекция 1: Архитектура фонологической теории &amp;nbsp;материалы
+Тема первой лекции — устройство фонологической теории, место фонологии в теории грамматики и мотивация динамического (генеративного) подхода. В рамках современной теории фонологический модуль представляется как механизм, соотносящий фонологические объекты (множества сегментов, признаков, граничных символов и т.п.), предоставленные словарем, с другими фонологическими объектами, которые описываются в терминах того же алфавита, что и «входные данные», и интерпретируются фонетическим компонентом.</description>
     </item>
     
     <item>
@@ -422,7 +427,7 @@ Some terminology  pandoc is the program written by the philosopher John MacFarla
       <pubDate>Fri, 10 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/teaching/2014/lel2d/</guid>
-      <description>This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In 2013/2014, I was responsible for most of the phonology block. We covered the following topics:
+      <description>This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In 2013&amp;frasl;2014, I was responsible for most of the phonology block. We covered the following topics:
  Phonological typology and theory.</description>
     </item>
     
@@ -432,7 +437,7 @@ Some terminology  pandoc is the program written by the philosopher John MacFarla
       <pubDate>Fri, 10 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/teaching/2014/lel2e/</guid>
-      <description>This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In 2013/2014, I was responsible for the following sections:
+      <description>This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In 2013&amp;frasl;2014, I was responsible for the following sections:
  Celtic languages Topics in the phonology of European languages  </description>
     </item>
     

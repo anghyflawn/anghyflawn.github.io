@@ -55,35 +55,42 @@
 <div class="unit-20 dateblock"><h4>July 12, 2014</h4></div>
 <div class="unit-60">
 <p>Although my job title is &lsquo;Lecturer in Theoretical Phonology&rsquo; (<a href="http://www.research.ed.ac.uk/portal/en/persons/pavel-iosad(976edf38-f950-4179-a032-a6cea4b31b3b.html)">no, really</a>, I&rsquo;ve been getting into more empirical work. I went on a data collection trip to South Wales in February to work with Welsh, and only early this week we had two great days collecting Gaelic data in North Argyll – not an area <em>readily</em> associated with Gaelic these days, but in fact we found quite a few very good speakers.</p>
+
 <p>Anyway, this post isn&rsquo;t about that. Having collected the data and processed some of it, I have also been getting to grips with <em>actually</em> doing statistical analysis (as opposed to working through textbooks), which these days inevitably means <a href="http://www.r-project.org.">R</a>. I&rsquo;m giving a couple of talks in Wales next week (<a href="http://privatewww.essex.ac.uk/~wss/wss-21.htm">here</a> and <a href="http://amrywiaeth.wordpress.com">here</a>) with some of the results, so the time had come for me to think about getting my data into my presentations (and eventually papers). Being a LaTeX user, after some poking about I settled on <a href="http://yihui.name/knitr">knitr</a> as the way to get stuff out of R and into LaTeX.</p>
+
 <p>Most of the R wizards I know use <a href="http://www.rstudio.com">RStudio</a>, which is a very good IDE for R, but doesn&rsquo;t come close to the power of Emacs with AUCTeX for LaTeX writing. So far I have found <a href="http://ess.r-studio.org">ESS</a> to be perfectly adequare for my R needs. ESS also supports knitting <code>.Rnw</code> files out of the box via <code>M-n r</code>. Its default weaving engine, however, is Sweave. After some poking about, here&rsquo;s how to get ESS and AUCTeX to play nicely with knitr.</p>
+
 <p>There are two components. One is to make knitr the default engine when tangling outside AUCTeX. This is easily achieved via <code>(setq ess-swv-processor 'knitr)</code> in your <code>init.el</code>, but this only allows you to use knitr as the default when you tangle via <code>M-n T</code>. What this doesn&rsquo;t automate is running LaTeX on the product of the knitting: you have to switch to the <code>.tex</code> file manually and run stuff from there, but this runs the risk of making edits to the <code>.tex</code> file instead of the <code>.Rnw</code>. ESS also has a <code>latex</code> tangling option (<code>M-n l</code>), but this just runs <code>latex</code> from the shell, without any of the AUCTeX customizations.</p>
+
 <p>ESS also has the option to plug into AUCTeX, making relevant commands available to the user via <code>C-c C-c</code>. This is much handier, but unfortunately the functions which add these commands are hardcoded to use Sweave from the shell rather than <code>ess-swv-run-in-R</code>, which is sensitive to the value of <code>ess-swv-processor</code>. So here&rsquo;s what you need in order to get knitr to run into AUCTeX.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-elisp" data-lang="elisp"><span style="color:#75715e">;; somewhere after (require &#39;ess-site)</span>
-(setq ess-swv-plug-into-AUCTeX-p <span style="color:#66d9ef">t</span>)
+
+<pre><code class="language-elisp">;; somewhere after (require 'ess-site)
+(setq ess-swv-plug-into-AUCTeX-p t)
 
 (defun ess-swv-add-TeX-commands ()
-  <span style="color:#e6db74">&#34;Add commands to AUCTeX&#39;s \\[TeX-command-list].&#34;</span>
-  (unless (and (featurep <span style="color:#e6db74">&#39;tex-site</span>) (featurep <span style="color:#e6db74">&#39;tex</span>))
-    (<span style="color:#a6e22e">error</span> <span style="color:#e6db74">&#34;AUCTeX does not seem to be loaded&#34;</span>))
-  (add-to-list <span style="color:#e6db74">&#39;TeX-command-list</span>
-               <span style="color:#f92672">&#39;</span>(<span style="color:#e6db74">&#34;Knit&#34;</span> <span style="color:#e6db74">&#34;Rscript -e \&#34;library(knitr); knit(&#39;%t&#39;)\&#34;&#34;</span>
-                 TeX-run-command <span style="color:#66d9ef">nil</span> (latex-mode) :help
-                 <span style="color:#e6db74">&#34;Run Knitr&#34;</span>) <span style="color:#66d9ef">t</span>)
-  (add-to-list <span style="color:#e6db74">&#39;TeX-command-list</span>
-               <span style="color:#f92672">&#39;</span>(<span style="color:#e6db74">&#34;LaTeXKnit&#34;</span> <span style="color:#e6db74">&#34;%l %(mode) %s&#34;</span>
-                 TeX-run-TeX <span style="color:#66d9ef">nil</span> (latex-mode) :help
-                 <span style="color:#e6db74">&#34;Run LaTeX after Knit&#34;</span>) <span style="color:#66d9ef">t</span>)
-  (setq TeX-command-default <span style="color:#e6db74">&#34;Knit&#34;</span>)
-  (<span style="color:#a6e22e">mapc</span> (lambda (suffix)
-          (add-to-list <span style="color:#e6db74">&#39;TeX-file-extensions</span> suffix))
-        <span style="color:#f92672">&#39;</span>(<span style="color:#e6db74">&#34;nw&#34;</span> <span style="color:#e6db74">&#34;Snw&#34;</span> <span style="color:#e6db74">&#34;Rnw&#34;</span>)))
+  &quot;Add commands to AUCTeX's \\[TeX-command-list].&quot;
+  (unless (and (featurep 'tex-site) (featurep 'tex))
+    (error &quot;AUCTeX does not seem to be loaded&quot;))
+  (add-to-list 'TeX-command-list
+               '(&quot;Knit&quot; &quot;Rscript -e \&quot;library(knitr); knit('%t')\&quot;&quot;
+                 TeX-run-command nil (latex-mode) :help
+                 &quot;Run Knitr&quot;) t)
+  (add-to-list 'TeX-command-list
+               '(&quot;LaTeXKnit&quot; &quot;%l %(mode) %s&quot;
+                 TeX-run-TeX nil (latex-mode) :help
+                 &quot;Run LaTeX after Knit&quot;) t)
+  (setq TeX-command-default &quot;Knit&quot;)
+  (mapc (lambda (suffix)
+          (add-to-list 'TeX-file-extensions suffix))
+        '(&quot;nw&quot; &quot;Snw&quot; &quot;Rnw&quot;)))
 
 (defun ess-swv-remove-TeX-commands (x)
-  <span style="color:#e6db74">&#34;Helper function: check if car of X is one of the Knitr strings&#34;</span>
-  (let ((swv-cmds <span style="color:#f92672">&#39;</span>(<span style="color:#e6db74">&#34;Knit&#34;</span> <span style="color:#e6db74">&#34;LaTeXKnit&#34;</span>)))
-    (unless (<span style="color:#a6e22e">member</span> (<span style="color:#a6e22e">car</span> x) swv-cmds) x)))
-</code></pre></div><p>These are just little changes to the original functions defined in <code>ess-swv.el</code>. Now you can, via <code>C-c C-c</code>, access <code>Knit</code> (which just produces the <code>.tex</code> file) and <code>LaTeXKnit</code>, which runs the LaTeX process as customized by AUCTeX (e.g. to use XeTeX or whatever other options you normally use) on the output, without you having to go the <code>.tex</code> file. Which is nice.</p>
+  &quot;Helper function: check if car of X is one of the Knitr strings&quot;
+  (let ((swv-cmds '(&quot;Knit&quot; &quot;LaTeXKnit&quot;)))
+    (unless (member (car x) swv-cmds) x)))
+</code></pre>
+
+<p>These are just little changes to the original functions defined in <code>ess-swv.el</code>. Now you can, via <code>C-c C-c</code>, access <code>Knit</code> (which just produces the <code>.tex</code> file) and <code>LaTeXKnit</code>, which runs the LaTeX process as customized by AUCTeX (e.g. to use XeTeX or whatever other options you normally use) on the output, without you having to go the <code>.tex</code> file. Which is nice.</p>
 
 
 </div>

@@ -1,12 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Phonetics-phonology interface on Pavel Iosad</title>
+    <title>Phonetics Phonology Interface on Pavel Iosad</title>
     <link>https://www.anghyflawn.net/categories/phonetics-phonology-interface/</link>
-    <description>Recent content in Phonetics-phonology interface on Pavel Iosad</description>
+    <description>Recent content in Phonetics Phonology Interface on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.anghyflawn.net/categories/phonetics-phonology-interface/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.anghyflawn.net/categories/phonetics-phonology-interface/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Жизненный цикл морфонологических процессов в русском языке</title>
       <link>https://www.anghyflawn.net/presentation/2021/otipl-colloquium/</link>
@@ -43,7 +47,7 @@ The commonest solution in the literature is representational: [v] is treated as 
       <guid>https://www.anghyflawn.net/writing/breton-book/</guid>
       <description>The book is a revised and updated version of parts of my PhD thesis. From the publisher&amp;rsquo;s blurb:
  What is the relationship between phonetics and phonology? Are phonological features innate and universal, and do they have fixed phonetic correlates? These questions have recently received renewed prominence in theoretical debates, and this book explores them from a modular, substance-free perspective.
-  This in-depth analysis of Breton serves not only to introduce previously underused data into the theoretical landscape but also to demonstrate the viability of a modular framework for phonology.</description>
+This in-depth analysis of Breton serves not only to introduce previously underused data into the theoretical landscape but also to demonstrate the viability of a modular framework for phonology.</description>
     </item>
     
     <item>

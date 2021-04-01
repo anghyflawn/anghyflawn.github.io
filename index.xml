@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" 
   xmlns:dc="http://purl.org/dc/elements/1.1/"
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
@@ -24,7 +25,7 @@
     <language>en-gb</language>
     
     
-    <updated>Thu, 01 Apr 2021 20:13:12 BST</updated>
+    <updated>Wed, 31 Mar 2021 18:19:35 BST</updated>
 
 
 
@@ -34,17 +35,6 @@
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/</guid>
 <description></description>
-</item>
-
-
-
-<item>
-<title>Otipl Colloquium</title>
-<link>https://www.anghyflawn.net/news/2021/otipl-colloquium/</link>
-<pubDate>Wed, 31 Mar 2021 18:12:22 BST</pubDate>
-<guid>https://www.anghyflawn.net/news/2021/otipl-colloquium/</guid>
-<description>&lt;p&gt;I gave a &lt;a href=&#34;https://www.anghyflawn.net/presentation/2021/otipl-colloquium/&#34;&gt;talk&lt;/a&gt; on the life cycle of some phonological patterns in Russian for the Colloquium series at the Department of Theoretical and Applied Linguistics (OTiPL), Moscow State University.&lt;/p&gt;
-</description>
 </item>
 
 
@@ -60,14 +50,11 @@
 
 
 <item>
-<title>Жизненный цикл морфонологических процессов в русском языке</title>
-<link>https://www.anghyflawn.net/presentation/2021/otipl-colloquium/</link>
-<pubDate>Wed, 31 Mar 2021 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/presentation/2021/otipl-colloquium/</guid>
-<description>&lt;p&gt;Характерное свойство динамических подходов к русской фонологии и морфонологии — как выполненных в духе порождающих фонологических теорий, так и (пост)структуралистских — обширное использование правил, обязательно применяемых в определенном порядке. Обоснование этого порядка — важнейшая задача для теоретического осмысления фактов русского языка, без решения которой динамические подходы являются по сути нефальсифицируемыми: в отсутствие четких ограничений на количество правил и порядок их применения любое чередование можно подвергнуть сколь угодно абстрактному анализу с произвольным количеством правил.&lt;/p&gt;
-&lt;p&gt;В число теорий, призванных выявить ограничения на возможный порядок правил, входит, в частности, лексическая фонология и морфология (включая стратификационные варианты теории оптимальности). В рамках этой модели порядок правил ограничен морфологической и синтаксической структурой высказывания.&lt;/p&gt;
-&lt;p&gt;Подобные стратификационные модели делают интересные предсказания не только в синхронии, но и в диахронии, в рамках так назывемой модели «жизненного цикла фонологических процессов». В докладе рассматриваются примеры жизненного цикла нескольких процессов (палатализации велярных, редукции безударных гласных, поведения согласного /в/) в литературном и диалектном языке и описываются перспективы дальнейшего исследования этих вопросов.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://youtu.be/Ehwb1odKr_g&#34;&gt;Запись доклада на YouTube&lt;/a&gt;&lt;/p&gt;
+<title>Otipl Colloquium</title>
+<link>https://www.anghyflawn.net/news/2021/otipl-colloquium/</link>
+<pubDate>Wed, 31 Mar 2021 18:12:22 BST</pubDate>
+<guid>https://www.anghyflawn.net/news/2021/otipl-colloquium/</guid>
+<description>&lt;p&gt;I gave a &lt;a href=&#34;https://www.anghyflawn.net/presentation/2021/otipl-colloquium/&#34;&gt;talk&lt;/a&gt; on the life cycle of some phonological patterns in Russian for the Colloquium series at the Department of Theoretical and Applied Linguistics (OTiPL), Moscow State University.&lt;/p&gt;
 </description>
 </item>
 
@@ -94,7 +81,7 @@
 
 
 <item>
-<title>Phonology-morphology interface</title>
+<title>Phonology Morphology Interface</title>
 <link>https://www.anghyflawn.net/categories/phonology-morphology-interface/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/categories/phonology-morphology-interface/</guid>
@@ -104,7 +91,7 @@
 
 
 <item>
-<title>Phonetics-phonology interface</title>
+<title>Phonetics Phonology Interface</title>
 <link>https://www.anghyflawn.net/categories/phonetics-phonology-interface/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/categories/phonetics-phonology-interface/</guid>
@@ -114,7 +101,7 @@
 
 
 <item>
-<title>Historical phonology</title>
+<title>Historical Phonology</title>
 <link>https://www.anghyflawn.net/categories/historical-phonology/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/categories/historical-phonology/</guid>
@@ -124,11 +111,16 @@
 
 
 <item>
-<title>Categories</title>
-<link>https://www.anghyflawn.net/categories/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/</guid>
-<description></description>
+<title>Жизненный цикл морфонологических процессов в русском языке</title>
+<link>https://www.anghyflawn.net/presentation/2021/otipl-colloquium/</link>
+<pubDate>Wed, 31 Mar 2021 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/presentation/2021/otipl-colloquium/</guid>
+<description>&lt;p&gt;Характерное свойство динамических подходов к русской фонологии и морфонологии — как выполненных в духе порождающих фонологических теорий, так и (пост)структуралистских — обширное использование правил, обязательно применяемых в определенном порядке. Обоснование этого порядка — важнейшая задача для теоретического осмысления фактов русского языка, без решения которой динамические подходы являются по сути нефальсифицируемыми: в отсутствие четких ограничений на количество правил и порядок их применения любое чередование можно подвергнуть сколь угодно абстрактному анализу с произвольным количеством правил.&lt;/p&gt;
+
+&lt;p&gt;В число теорий, призванных выявить ограничения на возможный порядок правил, входит, в частности, лексическая фонология и морфология (включая стратификационные варианты теории оптимальности). В рамках этой модели порядок правил ограничен морфологической и синтаксической структурой высказывания.&lt;/p&gt;
+
+&lt;p&gt;Подобные стратификационные модели делают интересные предсказания не только в синхронии, но и в диахронии, в рамках так назывемой модели «жизненного цикла фонологических процессов». В докладе рассматриваются примеры жизненного цикла нескольких процессов (палатализации велярных, редукции безударных гласных, поведения согласного /в/) в литературном и диалектном языке и описываются перспективы дальнейшего исследования этих вопросов.&lt;/p&gt;
+</description>
 </item>
 
 
@@ -148,7 +140,7 @@
 <link>https://www.anghyflawn.net/teaching/2021/lel2d/</link>
 <pubDate>Wed, 06 Jan 2021 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/teaching/2021/lel2d/</guid>
-<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In 2020/2021, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block, and for the ‘implications of variation and universals’ block (with &lt;a href=&#34;https://www.ed.ac.uk/profile/graeme-trousdale&#34;&gt;Graeme Trousdale&lt;/a&gt;).&lt;/p&gt;
+<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2020&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2021&lt;/sub&gt;, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block, and for the ‘implications of variation and universals’ block (with &lt;a href=&#34;https://www.ed.ac.uk/profile/graeme-trousdale&#34;&gt;Graeme Trousdale&lt;/a&gt;).&lt;/p&gt;
 </description>
 </item>
 
@@ -160,7 +152,8 @@
 <pubDate>Fri, 01 Jan 2021 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/teaching/2021/historical-linguistics/</guid>
 <description>&lt;p&gt;This course introduces the type of changes that a language may undergo, at all levels of linguistic structure, and the theoretical frameworks that are available to discuss them. The course also looks at sociolinguistic influences on language change and the consequences of language contact including language convergence, creolisation and language death.&lt;/p&gt;
-&lt;p&gt;In 2020/2021, I am conducting tutorials covering the entire range of the course’s topics.&lt;/p&gt;
+
+&lt;p&gt;In &lt;sup&gt;2020&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2021&lt;/sub&gt;, I am conducting tutorials covering the entire range of the course’s topics.&lt;/p&gt;
 </description>
 </item>
 
@@ -171,7 +164,7 @@
 <link>https://www.anghyflawn.net/news/2021/2021-spring-teaching/</link>
 <pubDate>Wed, 06 Jan 2021 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/news/2021/2021-spring-teaching/</guid>
-<description>&lt;p&gt;In Semester 2 of 2020/2021, I am course organizer for the pre-Honours course &lt;a href=&#34;https://www.anghyflawn.net/teaching/2021/lel2d/&#34;&gt;&lt;em&gt;LEL2D: Cross-Linguistic Variation: Limits and Theories&lt;/em&gt;&lt;/a&gt;, where I also teach the universals of variation and phonology blocks. I also teach in pre-Honours on &lt;em&gt;Linguistics and the Gaelic Language&lt;/em&gt;, and at Honours/MSc level on &lt;a href=&#34;https://www.anghyflawn.net/teaching/2021/historical-linguistics/&#34;&gt;&lt;em&gt;Historical Linguistics&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://www.anghyflawn.net/teaching/2020/guided-research/&#34;&gt;&lt;em&gt;Guided Research in Linguistics and English Language&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+<description>&lt;p&gt;In Semester 2 of &lt;sup&gt;2020&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2021&lt;/sub&gt;, I am course organizer for the pre-Honours course &lt;a href=&#34;https://www.anghyflawn.net/teaching/2021/lel2d/&#34;&gt;&lt;em&gt;LEL2D: Cross-Linguistic Variation: Limits and Theories&lt;/em&gt;&lt;/a&gt;, where I also teach the universals of variation and phonology blocks. I also teach in pre-Honours on &lt;em&gt;Linguistics and the Gaelic Language&lt;/em&gt;, and at Honours/MSc level on &lt;a href=&#34;https://www.anghyflawn.net/teaching/2021/historical-linguistics/&#34;&gt;&lt;em&gt;Historical Linguistics&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://www.anghyflawn.net/teaching/2020/guided-research/&#34;&gt;&lt;em&gt;Guided Research in Linguistics and English Language&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
@@ -208,22 +201,22 @@
 
 
 <item>
+<title>Dialectology</title>
+<link>https://www.anghyflawn.net/categories/dialectology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/dialectology/</guid>
+<description></description>
+</item>
+
+
+
+<item>
 <title>Glossa paper</title>
 <link>https://www.anghyflawn.net/news/2020/glossa-paper/</link>
 <pubDate>Wed, 30 Dec 2020 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/news/2020/glossa-paper/</guid>
 <description>&lt;p&gt;My paper with &lt;a href=&#34;https://www.ed.ac.uk/profile/william-lamb&#34;&gt;Will Lamb&lt;/a&gt; entitled &lt;a href=&#34;https://www.anghyflawn.net/writing/gaelic-morphology-glossa/&#34;&gt;&lt;em&gt;Dialect variation in Scottish Gaelic nominal morphology: A quantitative study&lt;/em&gt;&lt;/a&gt; has appeared in &lt;a href=&#34;https://www.glossa-journal.org&#34;&gt;&lt;em&gt;Glossa: A Journal of General Linguistics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
-</item>
-
-
-
-<item>
-<title>Dialectology</title>
-<link>https://www.anghyflawn.net/categories/dialectology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/dialectology/</guid>
-<description></description>
 </item>
 
 
@@ -251,15 +244,39 @@
 
 
 <item>
+<title>Laryngeal Phonology</title>
+<link>https://www.anghyflawn.net/categories/laryngeal-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/laryngeal-phonology/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Language Contact</title>
+<link>https://www.anghyflawn.net/categories/language-contact/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/language-contact/</guid>
+<description></description>
+</item>
+
+
+
+<item>
 <title>Конвергенция фонологических систем в Северной Европе</title>
 <link>https://www.anghyflawn.net/presentation/2020/zvegincev-conference/</link>
 <pubDate>Thu, 22 Oct 2020 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/presentation/2020/zvegincev-conference/</guid>
 <description>&lt;p&gt;This is a Russian summary of the work that I presented, among other places, at the &lt;a href=&#34;https://www.anghyflawn.net/presentation/2019/eshp4/&#34;&gt;Edinburgh Symposium on Historical Phonology&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;В докладе предлагается подход к диахронической конвергенции фонологических систем в неродственных языках, основанный на теории «жизненного цикла фонологических процессов» [Bermúdez-Otero 2007], на примере развития преаспирациии сильных («глухих») взрывных в нескольких языках северной Европы.
 Преаспирация обычно считается явлением типологически редким и диахронически нестабильным [Silverman 2003]. Тем более удивительным кажется ее наличие в таких географически, но не генеалогически, близких языках, как северогерманские, английский (несколько разновидностей), гойдельские языки (ирландский и шотландский), валлийский и саамские языки. Если учесть, что эти языки имеют обширную историю контактов, такое распространение преаспирации часто объяснялось именно взаимовлиянием (ср., например, [Marstrander 1932; Posti 1954; Wagner 1964; Rießler 2008]).&lt;/p&gt;
+
 &lt;p&gt;В последнее время, однако, этот сценарий подвергся пересмотру. Во-первых, для отдельных случаев были предложены более или менее убедительные сценарии эндогенного развития [Ó Baoill 1980; Ní Chasaide 1986; Goblirsch 2005]. Во-вторых, было показано [Pétur Helgason 2002; Clayton 2010], что «слабая», необязательная преаспирация, рассматривавшаяся ранее как диахронически нестабильная, в действительности может сохраняться в течение длительного времени. В-третьих, детальные инструментальные исследования обнаружили, что редкость преаспирации не следует преувеличивать: ее наличие было описано в языках, где ранее она считалась отсутствовавшей, в том числе ирландском, валлийском, английском и многочисленных северогерманских диалектах [Pétur Helgason 2002; Schaeffler 2005]. В-четвертых, данные исторической социолингвистики также не всегда поддерживают контактный сценарий [Iosad 2020].&lt;/p&gt;
+
 &lt;p&gt;Все эти соображения указывают на то, что роль языковых контактов в распространении преаспирации на северо-западе Европы следует пересмотреть. В докладе, тем не менее, показано, что схождения между германскими, кельтскими и саамскими языками в этой области не следует списывать как случайные. Вместо этого их можно рассматривать как результат «дрейфа» в духе У. Сепира, а точнее — того, что развитие преаспирации следует жизненному циклу фонологических процессов. Диахроническая траектория преаспирации в этом случае такова, что она возникает как побочный продукт реализации противопоставления по звонкости, а затем становится необязательным («интегральным») признаком, манипулируемым в рамках фонетического компонента грамматики (так, например, в ольстерских диалектах ирландского, в валлийском или в норвежских диалектах). Следующий шаг развития — превращение в фонологическую единицу, благодаря чем преаспирация, с одной стороны, становится обязательной, а с другой — претерпевает сужение диапазона варьирования (так в исландском или в диалектах шотландского); ср. совместимые предложения для северогерманских языков в [Pétur Helgason 2002] и для гойдельских в [Clayton 2010].&lt;/p&gt;
+
 &lt;p&gt;Предложенный подход совместим с предложением Б. Джозефа [Joseph 2013], который рассматривает «дрейф» в родственных языках как результат сужения диапазона варьирования, наблюдавшегося в праязыке. Сходство результатов обеспечивает в наших не только единство механизма, который стоит за этим сужением («жизненный цикл»), но и то, что рассмотренные языки обнаруживают нетривиальные сходства в устройстве фонологической грамматики, особенно в том, что касается количественных противопоставлений [Ewels 2009]. Эти сходства создают своеобразный «прайминговый» эффект [Kiparsky 1995], при котором сходные фонетические ключи (такие как преаспирация) используются для выражения сходных фонологических контрастов.&lt;/p&gt;
 </description>
 </item>
@@ -272,6 +289,7 @@
 <pubDate>Fri, 30 Oct 2020 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/writing/frlsu-proceedings/</guid>
 <description>&lt;p&gt;This paper is a written-up version of my &lt;a href=&#34;https://www.anghyflawn.net/presentation/2018/frlsu/&#34;&gt;presentation at the 2018 conference of the Forum for Research on the Languages of Scotland and Ulster&lt;/a&gt;.&lt;/p&gt;
+
 &lt;p&gt;In this paper I propose (yet another) reappraisal of the arguments
 regarding the relationship between Norse and Gaelic in the North
 Atlantic world, focusing on the development of preaspiration. There is
@@ -287,6 +305,7 @@ the role of language contact in the development of Gaelic varieties has
 begun to acquire a more solid theoretical underpinning; see in
 particular Stewart (2004); Lindqvist (2015) and most recently Lewin
 (2017).&lt;/p&gt;
+
 &lt;p&gt;I offer an account of the development of preaspiration combining these
 sociolinguistic insights with the theory of the life cycle of
 phonological processes (e.g. Bermúdez-Otero 2007; 2015; Bermúdez-Otero &amp;amp;
@@ -308,31 +327,11 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 
 <item>
-<title>Laryngeal phonology</title>
-<link>https://www.anghyflawn.net/categories/laryngeal-phonology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/laryngeal-phonology/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Language contact</title>
-<link>https://www.anghyflawn.net/categories/language-contact/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/language-contact/</guid>
-<description></description>
-</item>
-
-
-
-<item>
 <title>Zvegincev</title>
 <link>https://www.anghyflawn.net/news/2020/zvegincev/</link>
 <pubDate>Thu, 22 Oct 2020 09:32:12 BST</pubDate>
 <guid>https://www.anghyflawn.net/news/2020/zvegincev/</guid>
-<description>&lt;p&gt;I gave &lt;a href=&#34;https://www.anghyflawn.net/presentation/2020/zvegincev-conference/&#34;&gt;talk&lt;/a&gt; on my ongoing project on northern European areal phonology at the &lt;a href=&#34;http://tipl.philol.msu.ru/index.php/science/conferences/zvegintsev2020&#34;&gt;2020 Zvegintsev Conference&lt;/a&gt; to celebrate 60 years of my &lt;!-- raw HTML omitted --&gt;alma mater&lt;!-- raw HTML omitted --&gt;, OTiPL.&lt;/p&gt;
+<description>&lt;p&gt;I gave &lt;a href=&#34;https://www.anghyflawn.net/presentation/2020/zvegincev-conference/&#34;&gt;talk&lt;/a&gt; on my ongoing project on northern European areal phonology at the &lt;a href=&#34;http://tipl.philol.msu.ru/index.php/science/conferences/zvegintsev2020&#34;&gt;2020 Zvegintsev Conference&lt;/a&gt; to celebrate 60 years of my &lt;em&gt;alma mater&lt;/em&gt;, OTiPL.&lt;/p&gt;
 </description>
 </item>
 
@@ -350,26 +349,30 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 
 <item>
-<title>Rebooting Slavic phonology</title>
-<link>https://www.anghyflawn.net/presentation/2020/abralin/</link>
-<pubDate>Wed, 21 Oct 2020 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/presentation/2020/abralin/</guid>
-<description>&lt;p&gt;The Slavic languages have historically played a very prominent role in the development of Western phonological theory, from some of the earliest pioneers of phonemic theory such as Jan Baudouin de Courtenay, Mikołaj Kruszewski and Lev Shcherba, through the Praguian structuralism of Nikolai Trubetzkoy and (early) Roman Jakobson, and to some of the foundational work of generative phonology. In particular, Morris Halle and Theodore Lightner offered comprehensive analyses of Russian phonology that relied heavily on multi-level derivations, abstract underlying representations and a suite of rules that largely recapitulated diachronic developments. These devices were widely taken up both in the analysis of other Slavic languages and more broadly within the generative phonological tradition.&lt;/p&gt;
-&lt;p&gt;In the present day, the phonological analysis of the Slavic languages is arguably still overshadowed by the frameworks set by these pioneers. On the one hand, much (although by no means all) current theoretical work within the SPE tradition (including ‘post-SPE’ constraint-based frameworks) still operates with assumptions inherited from this work; on the other hand, a number of productive traditions (notably those in Government Phonology and allied theories) in the analysis of Slavic are explicitly framed as alternatives to these approaches.&lt;/p&gt;
-&lt;p&gt;In this talk I sketch out an approach that both rejects the highly abstract analyses of early generative phonology and the wholesale rejection of the SPE tradition. I review some recent work in Russian phonology and argue that closer attention to the phonetics-phonology interface, featural representations, and contrast, combined with a fairly orthodox version of a stratal approach to morphology-phonology interaction, provides us with the means to make significant progress in the analysis of Russian, and likely the Slavic languages more broadly.&lt;/p&gt;
-&lt;p&gt;You can watch the talk below.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-</item>
-
-
-
-<item>
 <title>Phonological Theory</title>
 <link>https://www.anghyflawn.net/categories/phonological-theory/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/categories/phonological-theory/</guid>
 <description></description>
+</item>
+
+
+
+<item>
+<title>Rebooting Slavic phonology</title>
+<link>https://www.anghyflawn.net/presentation/2020/abralin/</link>
+<pubDate>Wed, 21 Oct 2020 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/presentation/2020/abralin/</guid>
+<description>&lt;p&gt;The Slavic languages have historically played a very prominent role in the development of Western phonological theory, from some of the earliest pioneers of phonemic theory such as Jan Baudouin de Courtenay, Mikołaj Kruszewski and Lev Shcherba, through the Praguian structuralism of Nikolai Trubetzkoy and (early) Roman Jakobson, and to some of the foundational work of generative phonology. In particular, Morris Halle and Theodore Lightner offered comprehensive analyses of Russian phonology that relied heavily on multi-level derivations, abstract underlying representations and a suite of rules that largely recapitulated diachronic developments. These devices were widely taken up both in the analysis of other Slavic languages and more broadly within the generative phonological tradition.&lt;/p&gt;
+
+&lt;p&gt;In the present day, the phonological analysis of the Slavic languages is arguably still overshadowed by the frameworks set by these pioneers. On the one hand, much (although by no means all) current theoretical work within the SPE tradition (including ‘post-SPE’ constraint-based frameworks) still operates with assumptions inherited from this work; on the other hand, a number of productive traditions (notably those in Government Phonology and allied theories) in the analysis of Slavic are explicitly framed as alternatives to these approaches.&lt;/p&gt;
+
+&lt;p&gt;In this talk I sketch out an approach that both rejects the highly abstract analyses of early generative phonology and the wholesale rejection of the SPE tradition. I review some recent work in Russian phonology and argue that closer attention to the phonetics-phonology interface, featural representations, and contrast, combined with a fairly orthodox version of a stratal approach to morphology-phonology interaction, provides us with the means to make significant progress in the analysis of Russian, and likely the Slavic languages more broadly.&lt;/p&gt;
+
+&lt;p&gt;You can watch the talk below.&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/rua5e8Wdmzo&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
 </item>
 
 
@@ -390,7 +393,7 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 <link>https://www.anghyflawn.net/writing/vaplujub/</link>
 <pubDate>Fri, 25 Sep 2020 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/writing/vaplujub/</guid>
-<description>&lt;p&gt;In this brief paper, I suggest that, contrary to much previous literature, the quality of the yer vowels in Modern Russian is predictable, and does not have to be encoded in the underlying representation. This is a consequence of an approach that rejects the long-standing tradition of positing highly abstract underlying representations, and in particular derives the palatalization of consonants from the backness of following vowels. I argue that the quality of yers is predictable from the context, particularly from the palatalization of preceding consonants and from whether the morphological context drives the [otherwise well-known]({{ ref &amp;ldquo;writing/stratal-phonology-russian-morphophonology.md&amp;rdquo; }}) &lt;em&gt;e ~ ’o&lt;/em&gt; alternation.&lt;/p&gt;
+<description>&lt;p&gt;In this brief paper, I suggest that, contrary to much previous literature, the quality of the yer vowels in Modern Russian is predictable, and does not have to be encoded in the underlying representation. This is a consequence of an approach that rejects the long-standing tradition of positing highly abstract underlying representations, and in particular derives the palatalization of consonants from the backness of following vowels. I argue that the quality of yers is predictable from the context, particularly from the palatalization of preceding consonants and from whether the morphological context drives the &lt;a href=&#34;{{ ref &amp;quot;writing/stratal-phonology-russian-morphophonology.md&amp;quot; }}&#34;&gt;otherwise well-known&lt;/a&gt; &lt;em&gt;e ~ ’o&lt;/em&gt; alternation.&lt;/p&gt;
 </description>
 </item>
 
@@ -401,14 +404,17 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 <link>https://www.anghyflawn.net/teaching/2020/phonological-theory/</link>
 <pubDate>Wed, 15 Jul 2020 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/teaching/2020/phonological-theory/</guid>
-<description>&lt;p&gt;In 2020/2021, in response to the Covid-19 crisis, I am teaching on this course as part of a team that also includes &lt;a href=&#34;https://www.ed.ac.uk/profile/patrick-honeybone&#34;&gt;Patrick Honeybone&lt;/a&gt;, &lt;a href=&#34;https://www.ed.ac.uk/profile/benjamin-molineaux&#34;&gt;Benjamin Molineaux&lt;/a&gt;, and &lt;a href=&#34;https://www.ed.ac.uk/profile/laura-m-arnold&#34;&gt;Laura Arnold&lt;/a&gt;. I will teach a block that includes the following topics:&lt;/p&gt;
+<description>&lt;p&gt;In &lt;sup&gt;2020&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2021&lt;/sub&gt;, in response to the Covid-19 crisis, I am teaching on this course as part of a team that also includes &lt;a href=&#34;https://www.ed.ac.uk/profile/patrick-honeybone&#34;&gt;Patrick Honeybone&lt;/a&gt;, &lt;a href=&#34;https://www.ed.ac.uk/profile/benjamin-molineaux&#34;&gt;Benjamin Molineaux&lt;/a&gt;, and &lt;a href=&#34;https://www.ed.ac.uk/profile/laura-m-arnold&#34;&gt;Laura Arnold&lt;/a&gt;. I will teach a block that includes the following topics:&lt;/p&gt;
+
 &lt;ul&gt;
 &lt;li&gt;Basics of phonological theory: contrast, phonemes, allophones, alternations&lt;/li&gt;
 &lt;li&gt;Feature theory&lt;/li&gt;
 &lt;li&gt;Derivations, underlying representations, rules&lt;/li&gt;
 &lt;li&gt;Process interaction and rule ordering&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;p&gt;Throughout the course, there is a strong emphasis on building data analysis and problem solving skills. The course will also cover topics relevant to the phonology of English.&lt;/p&gt;
+
 &lt;p&gt;This course is also offered for MSc students (as &lt;a href=&#34;http://www.drps.ed.ac.uk/20-21/dpt/cxlasc11148.htm&#34;&gt;LASC11148&lt;/a&gt;). It is suitable for postgraduate students who have had some previous exposure to phonology.&lt;/p&gt;
 </description>
 </item>
@@ -431,9 +437,14 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 <link>https://www.anghyflawn.net/teaching/2020/guided-research/</link>
 <pubDate>Wed, 15 Jul 2020 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/teaching/2020/guided-research/</guid>
-<description>&lt;p&gt;This is a course that offers students the opportunity to pursue their own research in area related to the topic of the seminar. In 2020/2021, I am offering a guided research seminar in both semesters on the following topic:&lt;/p&gt;
-&lt;h3 id=&#34;whats-where-when-why-linguistic-diversity-typology-and-historical-linguistics&#34;&gt;What’s Where When Why: Linguistic diversity, typology, and historical linguistics&lt;/h3&gt;
+<description>
+
+&lt;p&gt;This is a course that offers students the opportunity to pursue their own research in area related to the topic of the seminar. In &lt;sup&gt;2020&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2021&lt;/sub&gt;, I am offering a guided research seminar in both semesters on the following topic:&lt;/p&gt;
+
+&lt;h3 id=&#34;what-s-where-when-why-linguistic-diversity-typology-and-historical-linguistics&#34;&gt;What’s Where When Why: Linguistic diversity, typology, and historical linguistics&lt;/h3&gt;
+
 &lt;p&gt;How do we approach the study of diversity and variation across languages? Why are some structures rare, and others common? Why do certain features tend to occur together? Explaining such patterns, which are pervasive across language families and linguistic subfields, is the aim of linguistic typology. A venerable tradition, going back to Wilhelm von Humboldt in the early 19th century, gives a role to structural factors, by identifying ‘types’ that languages belong to, and the properties associated with them. Linguistic structures, however, do not exist in a vacuum, and patterns of variation are often related to contingencies of history. Closely related languages, for instance, are often typologically similar. In the early 20th century, the notion of ‘language areas’ was crystallized and thereby introduced geography into the mix. Increased understanding of the mechanics of language contact also led to deeper insights into how it influences patterns of diversity.&lt;/p&gt;
+
 &lt;p&gt;As a result, linguistic typology has increasingly abandoned its focus on structural properties of languages, moving towards a research programme that aims to explain how linguistic diversity patterns in space and time: from ‘what’ to ‘where’, ‘when’, and of course ‘why’. In this seminar we will look at the range of diversity in a number of domains of grammar, consider some key concepts of linguistic typology, and analyse the ways in which theories of grammatical structure and the study of language change, history, anthropology, and geography all contribute to understanding the diversity of human language.&lt;/p&gt;
 </description>
 </item>
@@ -445,7 +456,7 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 <link>https://www.anghyflawn.net/news/2020/sem1-start/</link>
 <pubDate>Sun, 02 Aug 2020 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/news/2020/sem1-start/</guid>
-<description>&lt;p&gt;In Semester 1 of 2020/2021, I am teaching on  &lt;a href=&#34;https://www.anghyflawn.net/teaching/2020/lel1a/&#34;&gt;&lt;em&gt;Linguistics and English Language 1A&lt;/em&gt;&lt;/a&gt;, where I am responsible for the data analysis block, and on &lt;a href=&#34;https://www.anghyflawn.net/teaching/2020/phonological-theory/&#34;&gt;&lt;em&gt;Phonological Theory&lt;/em&gt;&lt;/a&gt;. I am also offering a &lt;a href=&#34;https://www.anghyflawn.net/teaching/2020/guided-research/&#34;&gt;&lt;em&gt;Guided Research in LEL&lt;/em&gt;&lt;/a&gt; seminar entitled &lt;em&gt;What’s Where When Why: Linguistic diversity, typology, and historical linguistics&lt;/em&gt;&lt;/p&gt;
+<description>&lt;p&gt;In Semester 1 of &lt;sup&gt;2020&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2021&lt;/sub&gt;, I am teaching on  &lt;a href=&#34;https://www.anghyflawn.net/teaching/2020/lel1a/&#34;&gt;&lt;em&gt;Linguistics and English Language 1A&lt;/em&gt;&lt;/a&gt;, where I am responsible for the data analysis block, and on &lt;a href=&#34;https://www.anghyflawn.net/teaching/2020/phonological-theory/&#34;&gt;&lt;em&gt;Phonological Theory&lt;/em&gt;&lt;/a&gt;. I am also offering a &lt;a href=&#34;https://www.anghyflawn.net/teaching/2020/guided-research/&#34;&gt;&lt;em&gt;Guided Research in LEL&lt;/em&gt;&lt;/a&gt; seminar entitled &lt;em&gt;What’s Where When Why: Linguistic diversity, typology, and historical linguistics&lt;/em&gt;&lt;/p&gt;
 </description>
 </item>
 
@@ -468,8 +479,19 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 <pubDate>Wed, 15 Apr 2020 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/writing/stratal-phonology-russian-morphophonology/</guid>
 <description>&lt;p&gt;В работе предлагается анализ фрагмента русской морфонологии – чередования &lt;em&gt;e~’o&lt;/em&gt; и некоторых связанных с ним явлений – в духе порождающих стратификационных подходов наподобие лексической фонологии. Цель работы – показать, что это чередование обладает целым рядом свойств, обычно характерных для основообразующих фонологических правил. Таким образом, утверждается, что, с одной стороны, русский материал поддерживает модель, предполагающую стратификацию морфонологических систем, а с другой – стратификационные модели открывают продуктивные подходы к анализу русской морфонологии, эксплицитно связывающие морфонологическую структуру как с фонологическими закономерностями, так и с морфологической и семантической структурой русских слов.&lt;/p&gt;
+
 &lt;p&gt;This paper analyses a fragment of the morphophonological grammar of Russian, namely the so-called &lt;em&gt;e~’о&lt;/em&gt; alternation, within a Lexical Phonology-style stratal model. The aim is to demonstrate that the rule shows a range of properties usually associated with stem-level phonology. Thus, on the one hand, Russian data provides further support for a stratal model of morphophonology, and on the other hand stratal models appear to be a productive approach to Russian morphophonological alternations that explicitly links morphophonology with both phonological patterns and the morphological and semantic structure of Russian words.&lt;/p&gt;
 </description>
+</item>
+
+
+
+<item>
+<title>Prosodic Structure</title>
+<link>https://www.anghyflawn.net/categories/prosodic-structure/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/prosodic-structure/</guid>
+<description></description>
 </item>
 
 
@@ -502,10 +524,10 @@ our understanding of the accentual phonology of Gaelic.&lt;/p&gt;
 
 
 <item>
-<title>Prosodic structure</title>
-<link>https://www.anghyflawn.net/categories/prosodic-structure/</link>
+<title>History of Phonology</title>
+<link>https://www.anghyflawn.net/categories/history-of-phonology/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/prosodic-structure/</guid>
+<guid>https://www.anghyflawn.net/categories/history-of-phonology/</guid>
 <description></description>
 </item>
 
@@ -523,21 +545,12 @@ our understanding of the accentual phonology of Gaelic.&lt;/p&gt;
 
 
 <item>
-<title>History of phonology</title>
-<link>https://www.anghyflawn.net/categories/history-of-phonology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/history-of-phonology/</guid>
-<description></description>
-</item>
-
-
-
-<item>
 <title>LEL2E: Structure and History of European Languages</title>
 <link>https://www.anghyflawn.net/teaching/2020/lel2e/</link>
 <pubDate>Wed, 01 Jan 2020 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/teaching/2020/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In 2019/2020, I am responsible for the following sections:&lt;/p&gt;
+<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2019&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2020&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
+
 &lt;ul&gt;
 &lt;li&gt;The Indo-European language family&lt;/li&gt;
 &lt;li&gt;Celtic languages&lt;/li&gt;
@@ -554,7 +567,7 @@ our understanding of the accentual phonology of Gaelic.&lt;/p&gt;
 <link>https://www.anghyflawn.net/teaching/2020/lel2d/</link>
 <pubDate>Wed, 01 Jan 2020 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/teaching/2020/lel2d/</guid>
-<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In 2019/2020, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block.&lt;/p&gt;
+<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2019&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2020&lt;/sub&gt;, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block.&lt;/p&gt;
 </description>
 </item>
 
@@ -566,13 +579,16 @@ our understanding of the accentual phonology of Gaelic.&lt;/p&gt;
 <pubDate>Wed, 01 Jan 2020 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/teaching/2020/historical-phonology/</guid>
 <description>&lt;p&gt;In this course (co-taught with my colleague &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt;) we consider a variety of issues connected to phonological change. Throughout the course, we address questions such as the following:&lt;/p&gt;
+
 &lt;ul&gt;
 &lt;li&gt;How do we reconstruct the phonology of past language states?&lt;/li&gt;
 &lt;li&gt;What types of phonological changes are attested?&lt;/li&gt;
 &lt;li&gt;How can synchronic phonological theory assist us in the study of historical phonology?&lt;/li&gt;
 &lt;li&gt;What can we learn about the human language faculty by studying historical phonology?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;In 2019/2020, I will cover the following topics :&lt;/p&gt;
+
+&lt;p&gt;In &lt;sup&gt;2019&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2020&lt;/sub&gt;, I will cover the following topics :&lt;/p&gt;
+
 &lt;ul&gt;
 &lt;li&gt;Mechanisms and types of phonological change&lt;/li&gt;
 &lt;li&gt;Phonological typology and phonological change&lt;/li&gt;
@@ -600,7 +616,7 @@ our understanding of the accentual phonology of Gaelic.&lt;/p&gt;
 <link>https://www.anghyflawn.net/news/2020/sem2-start/</link>
 <pubDate>Sun, 05 Jan 2020 12:32:22 UTC</pubDate>
 <guid>https://www.anghyflawn.net/news/2020/sem2-start/</guid>
-<description>&lt;p&gt;In Semester 2 of 2019/2020, I am course organizer for the pre-Honours course &lt;a href=&#34;https://www.anghyflawn.net/teaching/2020/lel2d/&#34;&gt;&lt;em&gt;LEL2D: Cross-Linguistic Variation: Limits and Theories&lt;/em&gt;&lt;/a&gt;, where I also teach the phonology block. I also teach in pre-Honours on &lt;a href=&#34;https://www.anghyflawn.net/teaching/2020/lel2e/&#34;&gt;&lt;em&gt;LEL2E: Structure and History of European Languages&lt;/em&gt;&lt;/a&gt; and on &lt;em&gt;Linguistics and the Gaelic Language&lt;/em&gt;, and at Honours/MSc level on &lt;a href=&#34;https://www.anghyflawn.net/teaching/2020/historical-phonology/&#34;&gt;&lt;em&gt;Historical Phonology&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://www.anghyflawn.net/teaching/2020/current-issues-in-phonology/&#34;&gt;&lt;em&gt;Current Issues in Phonology&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+<description>&lt;p&gt;In Semester 2 of &lt;sup&gt;2019&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2020&lt;/sub&gt;, I am course organizer for the pre-Honours course &lt;a href=&#34;https://www.anghyflawn.net/teaching/2020/lel2d/&#34;&gt;&lt;em&gt;LEL2D: Cross-Linguistic Variation: Limits and Theories&lt;/em&gt;&lt;/a&gt;, where I also teach the phonology block. I also teach in pre-Honours on &lt;a href=&#34;https://www.anghyflawn.net/teaching/2020/lel2e/&#34;&gt;&lt;em&gt;LEL2E: Structure and History of European Languages&lt;/em&gt;&lt;/a&gt; and on &lt;em&gt;Linguistics and the Gaelic Language&lt;/em&gt;, and at Honours/MSc level on &lt;a href=&#34;https://www.anghyflawn.net/teaching/2020/historical-phonology/&#34;&gt;&lt;em&gt;Historical Phonology&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://www.anghyflawn.net/teaching/2020/current-issues-in-phonology/&#34;&gt;&lt;em&gt;Current Issues in Phonology&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
@@ -643,9 +659,23 @@ our understanding of the accentual phonology of Gaelic.&lt;/p&gt;
 <pubDate>Fri, 10 Dec 2010 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/presentation/2019/eshp4/</guid>
 <description>&lt;p&gt;In this talk I offer a framework for understanding convergent diachronic developments in the phonological systems of unrelated languages, informed by the life cycle of phonological processes. I focus on preaspiration of |fortis| stops (the traditional /p t k/ series) in several languages of north-western Europe that are either unrelated, or not related closely enough for preaspiration to be inherited: they include the North Germanic languages, varieties of English, the Gaelic languages, Welsh, and the Sámi languages.&lt;/p&gt;
+
 &lt;p&gt;Preaspiration is commonly claimed to be typologically rare and diachronically unstable (Silverman 2003; Blevins 2017); hence, its appearance in unrelated languages with a history of contact between speakers is often ascribed to that contact (Marstrander 1932; Posti 1954; Wagner 1964; Borgstrøm 1974; Salmons 1992; Hansson 2011; Rießler 2008; McKenna 2013). However, this scenario has recently been challenged. First, more or less convincing non-contact scenarios for the development of preaspiration in individual cases have been proposed (Steblin-Kamenskij 1974; Ó Baoill 1980; Ó Murchú 1986; Ní Chasaide 1986). Second, it has been argued (Helgason 2002; Clayton 2010) that variable, ‘weak’ forms of preaspiration, which authors such as Silverman (2003) have argued to be diachronically unstable, can persist over significant time periods. Third, preaspiration appears to be more widespread than traditionally assumed, cf. Ní Chasaide (1986) on Irish; Morris &amp;amp; Hejná (2019) on Welsh; Docherty &amp;amp; Foulkes (1999); Gordeeva &amp;amp; Scobbie (2010); Hejná (2015); Kettig (2015); Fiasson (2016) on English; Helgason (2002); Schaeffler (2005); Tengesdal (2015); &lt;a href=&#34;https://www.anghyflawn.net/writing/gjert-kristoffersen-fs/&#34;&gt;Iosad (2019)&lt;/a&gt; on North Germanic vernaculars. Fourth, historical and sociolinguistic evidence does not always support the possibility of contact\hyp induced transfer (&lt;a href=&#34;https://www.anghyflawn.net/writing/frlsu-proceedings/&#34;&gt;Iosad submitted&lt;/a&gt;).&lt;/p&gt;
+
 &lt;p&gt;Taken together, these arguments undermine the case for contact as the primary vector of the spread of preaspiration in north-western Europe. I suggest, however, that the convergent development of preaspiration in North Germanic, the Gaelic languages and the Sámi languages should not be entirely written off as coincidental. Instead, I propose to view this development as an instance of &lt;em&gt;drift&lt;/em&gt; along the lines of Sapir (1921). Specifically, I suggest that the similarities arise because the development of preaspiration follows the life cycle of phonological processes (Bermúdez-Otero 2007; 2015). Under this account, preaspiration arises as a variable by-product of the realization of laryngeal contrast. It can remain a variable phonetic rule (as in Ulster Irish, Welsh, English, and some Norwegian varieties), but it can also (as in Icelandic and some Scottish Gaelic varieties) enter the phonological grammar, with a concomitant narrowing in the range of variation. Compatible accounts of the diachrony of preaspiration are offered by Hansson (2001); Helgason (2002); Iosad (2019) for North Germanic and Ó Maolalaigh (2010); Clayton (2010); Iosad (submitted) for the Gaelic languages.&lt;/p&gt;
+
 &lt;p&gt;The suggestion that drift can arise as a consequence of initially variable phonetic patterns proceeding along the life cycle, which makes them progressively more entangled in the categorical grammar, is consistent with the proposal by Joseph (2013) that the historical source of ‘drift’ in related languages is the narrowing of the range of variation found in the proto-language. In the cases considered here, however, the original variation is not inherited, even though the mechanism of drift is the same. I further suggest that the convergent developments have been facilitated by the fact that the languages share significant commonalities in their phonological grammar, particularly with respect to the rôle of moraic quantity (these may or not may be contact-induced at a greater time depth; cf. Salmons 1992). These similarities may &lt;em&gt;prime&lt;/em&gt; (in the sense of Kiparsky 1995) the co-option of similar phonetic cues such as preaspiration to signal quantitative patterns, further contributing to the convergence. I also suggest that a similar mechanism may have led to the rise of at least two other areal phenomena in the region: tonal accents and sonorant pre-stopping.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Preaspirasjon i norsk i nye og gamle kjelder</title>
+<link>https://www.anghyflawn.net/writing/gjert-kristoffersen-fs/</link>
+<pubDate>Sun, 01 Dec 2019 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/writing/gjert-kristoffersen-fs/</guid>
+<description>&lt;p&gt;This paper (in Norwegian) contains an overview of traditional and modern sources of information regarding preaspiration of |fortis| stops (the /p t k/ series) in Norwegian vernaculars. Traditional sources note them in the dialects of North Gudbrandsdalen, Härjedalen, Rogaland, and a few in Northern Norway. However, I argue that preaspiration is much more widespread than that: I collect evidence from more recent instrumental studies, from dialect corpora, and from an original acoustic study with a focus on Northern Norwegian varieties, and argue, following scholars such as Gunnar Ólafur Hansson and Pétur Helgason, that preaspiration is pervasive in North Germanic vernaculars. I also offer a discussion of some historical consequences of this fact; notably, I suggest that preaspiration may have been implicated in a process traditionally considered an instance of intervocalic lenition.&lt;/p&gt;
 </description>
 </item>
 

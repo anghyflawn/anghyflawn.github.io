@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Phonological Theory on Pavel Iosad</title>
@@ -6,7 +6,11 @@
     <description>Recent content in Phonological Theory on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.anghyflawn.net/categories/phonological-theory/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.anghyflawn.net/categories/phonological-theory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Rebooting Slavic phonology</title>
       <link>https://www.anghyflawn.net/presentation/2020/abralin/</link>
@@ -22,7 +26,7 @@
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/writing/vaplujub/</guid>
-      <description>In this brief paper, I suggest that, contrary to much previous literature, the quality of the yer vowels in Modern Russian is predictable, and does not have to be encoded in the underlying representation. This is a consequence of an approach that rejects the long-standing tradition of positing highly abstract underlying representations, and in particular derives the palatalization of consonants from the backness of following vowels. I argue that the quality of yers is predictable from the context, particularly from the palatalization of preceding consonants and from whether the morphological context drives the [otherwise well-known]({{ ref &amp;ldquo;writing/stratal-phonology-russian-morphophonology.</description>
+      <description>In this brief paper, I suggest that, contrary to much previous literature, the quality of the yer vowels in Modern Russian is predictable, and does not have to be encoded in the underlying representation. This is a consequence of an approach that rejects the long-standing tradition of positing highly abstract underlying representations, and in particular derives the palatalization of consonants from the backness of following vowels. I argue that the quality of yers is predictable from the context, particularly from the palatalization of preceding consonants and from whether the morphological context drives the otherwise well-known e ~ ’o alternation.</description>
     </item>
     
     <item>
@@ -42,7 +46,7 @@
       <guid>https://www.anghyflawn.net/writing/breton-book/</guid>
       <description>The book is a revised and updated version of parts of my PhD thesis. From the publisher&amp;rsquo;s blurb:
  What is the relationship between phonetics and phonology? Are phonological features innate and universal, and do they have fixed phonetic correlates? These questions have recently received renewed prominence in theoretical debates, and this book explores them from a modular, substance-free perspective.
-  This in-depth analysis of Breton serves not only to introduce previously underused data into the theoretical landscape but also to demonstrate the viability of a modular framework for phonology.</description>
+This in-depth analysis of Breton serves not only to introduce previously underused data into the theoretical landscape but also to demonstrate the viability of a modular framework for phonology.</description>
     </item>
     
   </channel>

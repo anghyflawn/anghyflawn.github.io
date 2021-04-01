@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Pavel Iosad</title>
@@ -6,202 +6,17 @@
     <description>Recent content in Categories on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.anghyflawn.net/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Historical phonology</title>
-      <link>https://www.anghyflawn.net/categories/historical-phonology/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/historical-phonology/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Thu, 23 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.anghyflawn.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Phonetics-phonology interface</title>
-      <link>https://www.anghyflawn.net/categories/phonetics-phonology-interface/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <title>Books</title>
+      <link>https://www.anghyflawn.net/categories/books/</link>
+      <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anghyflawn.net/categories/phonetics-phonology-interface/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phonology-morphology interface</title>
-      <link>https://www.anghyflawn.net/categories/phonology-morphology-interface/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/phonology-morphology-interface/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Russian</title>
-      <link>https://www.anghyflawn.net/categories/russian/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/russian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dialectology</title>
-      <link>https://www.anghyflawn.net/categories/dialectology/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/dialectology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Papers</title>
-      <link>https://www.anghyflawn.net/categories/papers/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/papers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scottish Gaelic</title>
-      <link>https://www.anghyflawn.net/categories/scottish-gaelic/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/scottish-gaelic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Language contact</title>
-      <link>https://www.anghyflawn.net/categories/language-contact/</link>
-      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/language-contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Laryngeal phonology</title>
-      <link>https://www.anghyflawn.net/categories/laryngeal-phonology/</link>
-      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/laryngeal-phonology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phonological Theory</title>
-      <link>https://www.anghyflawn.net/categories/phonological-theory/</link>
-      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/phonological-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prosodic structure</title>
-      <link>https://www.anghyflawn.net/categories/prosodic-structure/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/prosodic-structure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>History of phonology</title>
-      <link>https://www.anghyflawn.net/categories/history-of-phonology/</link>
-      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/history-of-phonology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gaelic</title>
-      <link>https://www.anghyflawn.net/categories/gaelic/</link>
-      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/gaelic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>North Germanic</title>
-      <link>https://www.anghyflawn.net/categories/north-germanic/</link>
-      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/north-germanic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Celtic</title>
-      <link>https://www.anghyflawn.net/categories/celtic/</link>
-      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/celtic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>English</title>
-      <link>https://www.anghyflawn.net/categories/english/</link>
-      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Germanic</title>
-      <link>https://www.anghyflawn.net/categories/germanic/</link>
-      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/germanic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Irish</title>
-      <link>https://www.anghyflawn.net/categories/irish/</link>
-      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/irish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Welsh</title>
-      <link>https://www.anghyflawn.net/categories/welsh/</link>
-      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/welsh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prosody</title>
-      <link>https://www.anghyflawn.net/categories/prosody/</link>
-      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/prosody/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Substance-free phonology</title>
-      <link>https://www.anghyflawn.net/categories/substance-free-phonology/</link>
-      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/substance-free-phonology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimality Theory</title>
-      <link>https://www.anghyflawn.net/categories/optimality-theory/</link>
-      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/optimality-theory/</guid>
+      <guid>https://www.anghyflawn.net/categories/books/</guid>
       <description></description>
     </item>
     
@@ -215,7 +30,16 @@
     </item>
     
     <item>
-      <title>Contrast in phonology</title>
+      <title>Celtic</title>
+      <link>https://www.anghyflawn.net/categories/celtic/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/celtic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrast in Phonology</title>
       <link>https://www.anghyflawn.net/categories/contrast-in-phonology/</link>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
       
@@ -224,92 +48,29 @@
     </item>
     
     <item>
-      <title>Feature theory</title>
+      <title>Dialectology</title>
+      <link>https://www.anghyflawn.net/categories/dialectology/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/dialectology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English</title>
+      <link>https://www.anghyflawn.net/categories/english/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Theory</title>
       <link>https://www.anghyflawn.net/categories/feature-theory/</link>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/categories/feature-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Initial consonant mutations</title>
-      <link>https://www.anghyflawn.net/categories/initial-consonant-mutations/</link>
-      <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/initial-consonant-mutations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>books</title>
-      <link>https://www.anghyflawn.net/categories/books/</link>
-      <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Language documentation</title>
-      <link>https://www.anghyflawn.net/categories/language-documentation/</link>
-      <pubDate>Sat, 03 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/language-documentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Romance</title>
-      <link>https://www.anghyflawn.net/categories/romance/</link>
-      <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/romance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Morphology</title>
-      <link>https://www.anghyflawn.net/categories/morphology/</link>
-      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/morphology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scots</title>
-      <link>https://www.anghyflawn.net/categories/scots/</link>
-      <pubDate>Thu, 09 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/scots/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sámi</title>
-      <link>https://www.anghyflawn.net/categories/s%C3%A1mi/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/s%C3%A1mi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nivkh</title>
-      <link>https://www.anghyflawn.net/categories/nivkh/</link>
-      <pubDate>Fri, 04 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/nivkh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ulster English</title>
-      <link>https://www.anghyflawn.net/categories/ulster-english/</link>
-      <pubDate>Fri, 09 May 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/ulster-english/</guid>
       <description></description>
     </item>
     
@@ -323,6 +84,87 @@
     </item>
     
     <item>
+      <title>Gaelic</title>
+      <link>https://www.anghyflawn.net/categories/gaelic/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/gaelic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Germanic</title>
+      <link>https://www.anghyflawn.net/categories/germanic/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/germanic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Historical Phonology</title>
+      <link>https://www.anghyflawn.net/categories/historical-phonology/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/historical-phonology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History of Phonology</title>
+      <link>https://www.anghyflawn.net/categories/history-of-phonology/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/history-of-phonology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initial Consonant Mutations</title>
+      <link>https://www.anghyflawn.net/categories/initial-consonant-mutations/</link>
+      <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/initial-consonant-mutations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Irish</title>
+      <link>https://www.anghyflawn.net/categories/irish/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/irish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language Contact</title>
+      <link>https://www.anghyflawn.net/categories/language-contact/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/language-contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language Documentation</title>
+      <link>https://www.anghyflawn.net/categories/language-documentation/</link>
+      <pubDate>Sat, 03 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/language-documentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laryngeal Phonology</title>
+      <link>https://www.anghyflawn.net/categories/laryngeal-phonology/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/laryngeal-phonology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mende</title>
       <link>https://www.anghyflawn.net/categories/mende/</link>
       <pubDate>Mon, 28 Jan 2008 00:00:00 +0000</pubDate>
@@ -332,11 +174,173 @@
     </item>
     
     <item>
+      <title>Morphology</title>
+      <link>https://www.anghyflawn.net/categories/morphology/</link>
+      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/morphology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nivkh</title>
+      <link>https://www.anghyflawn.net/categories/nivkh/</link>
+      <pubDate>Fri, 04 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/nivkh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>North Germanic</title>
+      <link>https://www.anghyflawn.net/categories/north-germanic/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/north-germanic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimality Theory</title>
+      <link>https://www.anghyflawn.net/categories/optimality-theory/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/optimality-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>https://www.anghyflawn.net/categories/papers/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phonetics Phonology Interface</title>
+      <link>https://www.anghyflawn.net/categories/phonetics-phonology-interface/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/phonetics-phonology-interface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phonological Theory</title>
+      <link>https://www.anghyflawn.net/categories/phonological-theory/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/phonological-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phonology Morphology Interface</title>
+      <link>https://www.anghyflawn.net/categories/phonology-morphology-interface/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/phonology-morphology-interface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prosodic Structure</title>
+      <link>https://www.anghyflawn.net/categories/prosodic-structure/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/prosodic-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prosody</title>
+      <link>https://www.anghyflawn.net/categories/prosody/</link>
+      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/prosody/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Romance</title>
+      <link>https://www.anghyflawn.net/categories/romance/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/romance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Russian</title>
+      <link>https://www.anghyflawn.net/categories/russian/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/russian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scots</title>
+      <link>https://www.anghyflawn.net/categories/scots/</link>
+      <pubDate>Thu, 09 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/scots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scottish Gaelic</title>
+      <link>https://www.anghyflawn.net/categories/scottish-gaelic/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/scottish-gaelic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Substance Free Phonology</title>
+      <link>https://www.anghyflawn.net/categories/substance-free-phonology/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/substance-free-phonology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Syntax</title>
       <link>https://www.anghyflawn.net/categories/syntax/</link>
       <pubDate>Sun, 15 Apr 2007 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/categories/syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sámi</title>
+      <link>https://www.anghyflawn.net/categories/s%C3%A1mi/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/s%C3%A1mi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ulster English</title>
+      <link>https://www.anghyflawn.net/categories/ulster-english/</link>
+      <pubDate>Fri, 09 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/ulster-english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welsh</title>
+      <link>https://www.anghyflawn.net/categories/welsh/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/welsh/</guid>
       <description></description>
     </item>
     

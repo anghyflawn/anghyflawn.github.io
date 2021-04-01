@@ -1,12 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Substance-free phonology on Pavel Iosad</title>
+    <title>Substance Free Phonology on Pavel Iosad</title>
     <link>https://www.anghyflawn.net/categories/substance-free-phonology/</link>
-    <description>Recent content in Substance-free phonology on Pavel Iosad</description>
+    <description>Recent content in Substance Free Phonology on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 24 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://www.anghyflawn.net/categories/substance-free-phonology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.anghyflawn.net/categories/substance-free-phonology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>There is no problem of /v/ in Russian phonology</title>
       <link>https://www.anghyflawn.net/presentation/2018/26mfm/</link>
@@ -53,7 +57,7 @@ As discussed by Pétur Helgason (2002), whilst preaspiration and sonorant devoi
       <guid>https://www.anghyflawn.net/writing/breton-book/</guid>
       <description>The book is a revised and updated version of parts of my PhD thesis. From the publisher&amp;rsquo;s blurb:
  What is the relationship between phonetics and phonology? Are phonological features innate and universal, and do they have fixed phonetic correlates? These questions have recently received renewed prominence in theoretical debates, and this book explores them from a modular, substance-free perspective.
-  This in-depth analysis of Breton serves not only to introduce previously underused data into the theoretical landscape but also to demonstrate the viability of a modular framework for phonology.</description>
+This in-depth analysis of Breton serves not only to introduce previously underused data into the theoretical landscape but also to demonstrate the viability of a modular framework for phonology.</description>
     </item>
     
     <item>

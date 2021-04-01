@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>North Germanic on Pavel Iosad</title>
@@ -6,7 +6,11 @@
     <description>Recent content in North Germanic on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.anghyflawn.net/categories/north-germanic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.anghyflawn.net/categories/north-germanic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Drift revisited</title>
       <link>https://www.anghyflawn.net/presentation/2019/eshp4/</link>
@@ -68,7 +72,7 @@ As discussed by Pétur Helgason (2002), whilst preaspiration and sonorant devoi
       <pubDate>Sat, 05 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/writing/nrn-proceedings/</guid>
-      <description>The origin of North Germanic tonal accents is a question with a long history and a range of available answers. Although the basic facts are not in dispute, the accents&#39; historical development remains controversial. In this paper, I aim to contribute an argument in favour of the view that tonal accent arose in post-Viking Age North Germanic in connection with changes in syllable count (Oftedal 1952; Elstad 1980; Bye 2004, 2011; Hognestad 2012).</description>
+      <description>The origin of North Germanic tonal accents is a question with a long history and a range of available answers. Although the basic facts are not in dispute, the accents&amp;rsquo; historical development remains controversial. In this paper, I aim to contribute an argument in favour of the view that tonal accent arose in post-Viking Age North Germanic in connection with changes in syllable count (Oftedal 1952; Elstad 1980; Bye 2004, 2011; Hognestad 2012).</description>
     </item>
     
     <item>

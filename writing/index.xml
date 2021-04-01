@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writings on Pavel Iosad</title>
@@ -6,7 +6,11 @@
     <description>Recent content in Writings on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.anghyflawn.net/writing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.anghyflawn.net/writing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Dialect variation in Scottish Gaelic nominal morphology</title>
       <link>https://www.anghyflawn.net/writing/gaelic-morphology-glossa/</link>
@@ -32,7 +36,7 @@ In this paper I propose (yet another) reappraisal of the arguments regarding the
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/writing/vaplujub/</guid>
-      <description>In this brief paper, I suggest that, contrary to much previous literature, the quality of the yer vowels in Modern Russian is predictable, and does not have to be encoded in the underlying representation. This is a consequence of an approach that rejects the long-standing tradition of positing highly abstract underlying representations, and in particular derives the palatalization of consonants from the backness of following vowels. I argue that the quality of yers is predictable from the context, particularly from the palatalization of preceding consonants and from whether the morphological context drives the [otherwise well-known]({{ ref &amp;ldquo;writing/stratal-phonology-russian-morphophonology.</description>
+      <description>In this brief paper, I suggest that, contrary to much previous literature, the quality of the yer vowels in Modern Russian is predictable, and does not have to be encoded in the underlying representation. This is a consequence of an approach that rejects the long-standing tradition of positing highly abstract underlying representations, and in particular derives the palatalization of consonants from the backness of following vowels. I argue that the quality of yers is predictable from the context, particularly from the palatalization of preceding consonants and from whether the morphological context drives the otherwise well-known e ~ ’o alternation.</description>
     </item>
     
     <item>
@@ -105,7 +109,7 @@ In this paper I propose (yet another) reappraisal of the arguments regarding the
       
       <guid>https://www.anghyflawn.net/writing/mutations-bibliography/</guid>
       <description>This is an annotated and commented bibliography of works related to the initial consonant mutations of Celtic languages, available by subscription via Oxford Bibliographies Online. Here is the table of contents:
- Introduction General overviews 3. Descriptions of individual languages 4. Welsh 4. Breton 4. Cornish 4. Irish 4. Scottish Gaelic 4. Manx 4. Ancient Celtic languages General bibliographic resources The phonology of mutations 6. Structuralist approaches 7. Rule-based phonology 8.</description>
+ Introduction General overviews  Descriptions of individual languages  Welsh Breton Cornish Irish Scottish Gaelic Manx Ancient Celtic languages   General bibliographic resources The phonology of mutations  Structuralist approaches Rule-based phonology Nonlinear phonology Optimality Theory  The syntax of mutation  The triggering of mutation Direct object mutation in Welsh  Mutations and morphology Mutations and interfaces  Mutations and other components of grammar Language variation and change Mutation in &amp;lsquo;non-traditional&amp;rsquo; varieties Acquisition and psycholinguistics  Diachrony of mutations  The origins of mutations The historical development of mutations  Typological comparison  Since the published version does not have an acknowledgements facility, I would like to thank here two anonymous reviewers, Peadar Ó Muircheartaigh, Máire Ní Chiosáin, and Christopher Lewin for valuable criticisms and suggestions.</description>
     </item>
     
     <item>
@@ -116,7 +120,7 @@ In this paper I propose (yet another) reappraisal of the arguments regarding the
       <guid>https://www.anghyflawn.net/writing/breton-book/</guid>
       <description>The book is a revised and updated version of parts of my PhD thesis. From the publisher&amp;rsquo;s blurb:
  What is the relationship between phonetics and phonology? Are phonological features innate and universal, and do they have fixed phonetic correlates? These questions have recently received renewed prominence in theoretical debates, and this book explores them from a modular, substance-free perspective.
-  This in-depth analysis of Breton serves not only to introduce previously underused data into the theoretical landscape but also to demonstrate the viability of a modular framework for phonology.</description>
+This in-depth analysis of Breton serves not only to introduce previously underused data into the theoretical landscape but also to demonstrate the viability of a modular framework for phonology.</description>
     </item>
     
     <item>
@@ -134,7 +138,7 @@ In this paper I propose (yet another) reappraisal of the arguments regarding the
       <pubDate>Sat, 05 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/writing/nrn-proceedings/</guid>
-      <description>The origin of North Germanic tonal accents is a question with a long history and a range of available answers. Although the basic facts are not in dispute, the accents&#39; historical development remains controversial. In this paper, I aim to contribute an argument in favour of the view that tonal accent arose in post-Viking Age North Germanic in connection with changes in syllable count (Oftedal 1952; Elstad 1980; Bye 2004, 2011; Hognestad 2012).</description>
+      <description>The origin of North Germanic tonal accents is a question with a long history and a range of available answers. Although the basic facts are not in dispute, the accents&amp;rsquo; historical development remains controversial. In this paper, I aim to contribute an argument in favour of the view that tonal accent arose in post-Viking Age North Germanic in connection with changes in syllable count (Oftedal 1952; Elstad 1980; Bye 2004, 2011; Hognestad 2012).</description>
     </item>
     
     <item>
@@ -179,7 +183,7 @@ In this paper I propose (yet another) reappraisal of the arguments regarding the
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/writing/infl-book/</guid>
-      <description>This books is a collection of papers presented at the inaugural conference of the Irish Network in Formal Linguistics. To see the table of contents and the editors&#39; introduction, go here.</description>
+      <description>This books is a collection of papers presented at the inaugural conference of the Irish Network in Formal Linguistics. To see the table of contents and the editors&amp;rsquo; introduction, go here.</description>
     </item>
     
     <item>
@@ -215,7 +219,7 @@ In this paper I propose (yet another) reappraisal of the arguments regarding the
       <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/writing/rara/</guid>
-      <description>In this paper I offer an overview of systems of initial consonant mutations found in the world&amp;rsquo;s languages and attempt to propose a preliminary typology. Many of these phenomena can probably be subsumed under a general theory of nonconcatenative morphology and phonology, but in some cases (notably some of the Celtic ones) the mutations&#39; place in the grammar is less clear. For another, more detailed take on this architectural issue in the specific case of Breton, see also this later paper.</description>
+      <description>In this paper I offer an overview of systems of initial consonant mutations found in the world&amp;rsquo;s languages and attempt to propose a preliminary typology. Many of these phenomena can probably be subsumed under a general theory of nonconcatenative morphology and phonology, but in some cases (notably some of the Celtic ones) the mutations&amp;rsquo; place in the grammar is less clear. For another, more detailed take on this architectural issue in the specific case of Breton, see also this later paper.</description>
     </item>
     
   </channel>

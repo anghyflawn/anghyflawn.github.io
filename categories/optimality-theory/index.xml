@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Optimality Theory on Pavel Iosad</title>
@@ -6,7 +6,11 @@
     <description>Recent content in Optimality Theory on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 12 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://www.anghyflawn.net/categories/optimality-theory/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.anghyflawn.net/categories/optimality-theory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Optimality Theory: Motivations and perspectives</title>
       <link>https://www.anghyflawn.net/writing/ot-handbook/</link>
