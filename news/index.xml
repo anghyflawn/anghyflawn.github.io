@@ -6,10 +6,19 @@
     <description>Recent content in News on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 31 Mar 2021 18:12:22 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jun 2021 17:35:18 +0100</lastBuildDate>
     
 	<atom:link href="https://www.anghyflawn.net/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Icngl12</title>
+      <link>https://www.anghyflawn.net/news/2021/icngl12/</link>
+      <pubDate>Wed, 16 Jun 2021 17:35:18 +0100</pubDate>
+      
+      <guid>https://www.anghyflawn.net/news/2021/icngl12/</guid>
+      <description>I presented a talk entitled Phonological convergence in north-western Europe: language contact or drift? at the 12th International Conference of Nordic and General Linguistics organized by the University of Oslo.</description>
+    </item>
     
     <item>
       <title>Otipl Colloquium</title>
