@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" 
   xmlns:dc="http://purl.org/dc/elements/1.1/"
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
@@ -25,7 +24,50 @@
     <language>en-gb</language>
     
     
-    <updated>Fri, 02 Jul 2021 13:15:49 BST</updated>
+    <updated>Fri, 16 Jul 2021 15:38:08 BST</updated>
+
+
+
+<item>
+<title>Writings</title>
+<link>https://www.anghyflawn.net/writing/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/writing/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Welsh</title>
+<link>https://www.anghyflawn.net/categories/welsh/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/welsh/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>The ATR/Laryngeal connection and emergent features</title>
+<link>https://www.anghyflawn.net/writing/calediad/</link>
+<pubDate>Fri, 16 Jul 2021 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/writing/calediad/</guid>
+<description>&lt;p&gt;I consider an unusual sound change and synchronic alternation in south-eastern dialects of Welsh, traditionally referred to as ‘provection’ (Welsh &lt;em&gt;calediad&lt;/em&gt;). This phenomenon involves the ‘devoicing’ of stops following stressed vowels. I suggest that it may be the result of a typologically rare sort of vowel-consonant featural interaction, where ‘devoicing’ is triggered by tense vowels. This is unexpected typologically, since tongue root advancement — often a correlate of ‘tense’ vowel quality — is more frequently associated with voicing rather than devoicing in obstruents. I argue that in Welsh the phonologization of the quality distinction in stressed vowels has created a system where such an interaction is dispreferred.&lt;/p&gt;
+
+&lt;p&gt;I suggest that the unusual consonant-vowel interaction in south-eastern Welsh is facilitated by the phonological ambiguity of the ‘tenseness’ contrast in vowels. Although the distinction between ‘tense’ and ‘lax’ vowel pairs is made consistently in most Welsh dialects, it is often fairly inert phonologically. This makes it possible for it to become involved in a variety of phonological processes. I survey the diversity of ways in which quantity-quality interactions in vowels found across Welsh dialects, and argue that the attested multiple paths of phonologization support a bottom-up, substance-free approach to phonologization. I suggest that the particular strength of the substance-free model lies in its ability to account for different — sometimes drastically so — phonological behaviour emerging from ambiguous data.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Substance-free phonology</title>
+<link>https://www.anghyflawn.net/categories/substance-free-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/substance-free-phonology/</guid>
+<description></description>
+</item>
 
 
 
@@ -40,10 +82,30 @@
 
 
 <item>
-<title>News</title>
-<link>https://www.anghyflawn.net/news/</link>
-<pubDate>Fri, 02 Jul 2021 13:06:26 BST</pubDate>
-<guid>https://www.anghyflawn.net/news/</guid>
+<title>Historical phonology</title>
+<link>https://www.anghyflawn.net/categories/historical-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/historical-phonology/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Feature theory</title>
+<link>https://www.anghyflawn.net/categories/feature-theory/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/feature-theory/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Categories</title>
+<link>https://www.anghyflawn.net/categories/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/</guid>
 <description></description>
 </item>
 
@@ -56,6 +118,16 @@
 <guid>https://www.anghyflawn.net/news/2021/off/</guid>
 <description>&lt;p&gt;I am on research leave in &lt;sup&gt;2021&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2022&lt;/sub&gt;, and am not teaching any courses in this session.&lt;/p&gt;
 </description>
+</item>
+
+
+
+<item>
+<title>News</title>
+<link>https://www.anghyflawn.net/news/</link>
+<pubDate>Fri, 02 Jul 2021 13:06:26 BST</pubDate>
+<guid>https://www.anghyflawn.net/news/</guid>
+<description></description>
 </item>
 
 
@@ -76,36 +148,6 @@
 <link>https://www.anghyflawn.net/presentation/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/presentation/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Historical Phonology</title>
-<link>https://www.anghyflawn.net/categories/historical-phonology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/historical-phonology/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Germanic</title>
-<link>https://www.anghyflawn.net/categories/germanic/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/germanic/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Celtic</title>
-<link>https://www.anghyflawn.net/categories/celtic/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/celtic/</guid>
 <description></description>
 </item>
 
@@ -186,42 +228,32 @@ accents and sonorant pre-stopping.&lt;/p&gt;
 
 
 <item>
+<title>Germanic</title>
+<link>https://www.anghyflawn.net/categories/germanic/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/germanic/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Celtic</title>
+<link>https://www.anghyflawn.net/categories/celtic/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/celtic/</guid>
+<description></description>
+</item>
+
+
+
+<item>
 <title>Otipl Colloquium</title>
 <link>https://www.anghyflawn.net/news/2021/otipl-colloquium/</link>
 <pubDate>Wed, 31 Mar 2021 18:12:22 BST</pubDate>
 <guid>https://www.anghyflawn.net/news/2021/otipl-colloquium/</guid>
 <description>&lt;p&gt;I gave a &lt;a href=&#34;https://www.anghyflawn.net/presentation/2021/otipl-colloquium/&#34;&gt;talk&lt;/a&gt; on the life cycle of some phonological patterns in Russian for the Colloquium series at the Department of Theoretical and Applied Linguistics (OTiPL), Moscow State University.&lt;/p&gt;
 </description>
-</item>
-
-
-
-<item>
-<title>Russian</title>
-<link>https://www.anghyflawn.net/categories/russian/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/russian/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Phonology Morphology Interface</title>
-<link>https://www.anghyflawn.net/categories/phonology-morphology-interface/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/phonology-morphology-interface/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Phonetics Phonology Interface</title>
-<link>https://www.anghyflawn.net/categories/phonetics-phonology-interface/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/phonetics-phonology-interface/</guid>
-<description></description>
 </item>
 
 
@@ -239,6 +271,36 @@ accents and sonorant pre-stopping.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/Ehwb1odKr_g&#34;&gt;Запись доклада на YouTube&lt;/a&gt;&lt;/p&gt;
 </description>
+</item>
+
+
+
+<item>
+<title>Russian</title>
+<link>https://www.anghyflawn.net/categories/russian/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/russian/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Phonology-morphology interface</title>
+<link>https://www.anghyflawn.net/categories/phonology-morphology-interface/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/phonology-morphology-interface/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Phonetics-phonology interface</title>
+<link>https://www.anghyflawn.net/categories/phonetics-phonology-interface/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/phonetics-phonology-interface/</guid>
+<description></description>
 </item>
 
 
@@ -289,16 +351,6 @@ accents and sonorant pre-stopping.&lt;/p&gt;
 
 
 <item>
-<title>Writings</title>
-<link>https://www.anghyflawn.net/writing/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/writing/</guid>
-<description></description>
-</item>
-
-
-
-<item>
 <title>Scottish Gaelic</title>
 <link>https://www.anghyflawn.net/categories/scottish-gaelic/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -319,22 +371,22 @@ accents and sonorant pre-stopping.&lt;/p&gt;
 
 
 <item>
-<title>Dialectology</title>
-<link>https://www.anghyflawn.net/categories/dialectology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/dialectology/</guid>
-<description></description>
-</item>
-
-
-
-<item>
 <title>Glossa paper</title>
 <link>https://www.anghyflawn.net/news/2020/glossa-paper/</link>
 <pubDate>Wed, 30 Dec 2020 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/news/2020/glossa-paper/</guid>
 <description>&lt;p&gt;My paper with &lt;a href=&#34;https://www.ed.ac.uk/profile/william-lamb&#34;&gt;Will Lamb&lt;/a&gt; entitled &lt;a href=&#34;https://www.anghyflawn.net/writing/gaelic-morphology-glossa/&#34;&gt;&lt;em&gt;Dialect variation in Scottish Gaelic nominal morphology: A quantitative study&lt;/em&gt;&lt;/a&gt; has appeared in &lt;a href=&#34;https://www.glossa-journal.org&#34;&gt;&lt;em&gt;Glossa: A Journal of General Linguistics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
+</item>
+
+
+
+<item>
+<title>Dialectology</title>
+<link>https://www.anghyflawn.net/categories/dialectology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/dialectology/</guid>
+<description></description>
 </item>
 
 
@@ -357,26 +409,6 @@ accents and sonorant pre-stopping.&lt;/p&gt;
 <guid>https://www.anghyflawn.net/news/2020/frlsu-published/</guid>
 <description>&lt;p&gt;My paper &lt;a href=&#34;https://www.anghyflawn.net/writing/frlsu-proceedings/&#34;&gt;&lt;em&gt;The life cycle of preaspiration in the Gaelic languages&lt;/em&gt;&lt;/a&gt; has appeared in the &lt;a href=&#34;www.abdn.ac.uk/pfrlsu/volumes/vol-6/&#34;&gt;Proceedings of the 2018 Forum for Research on the Languages of Scotland and Ulster&lt;/a&gt;.&lt;/p&gt;
 </description>
-</item>
-
-
-
-<item>
-<title>Laryngeal Phonology</title>
-<link>https://www.anghyflawn.net/categories/laryngeal-phonology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/laryngeal-phonology/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Language Contact</title>
-<link>https://www.anghyflawn.net/categories/language-contact/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/language-contact/</guid>
-<description></description>
 </item>
 
 
@@ -445,6 +477,26 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 
 <item>
+<title>Laryngeal phonology</title>
+<link>https://www.anghyflawn.net/categories/laryngeal-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/laryngeal-phonology/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Language contact</title>
+<link>https://www.anghyflawn.net/categories/language-contact/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/language-contact/</guid>
+<description></description>
+</item>
+
+
+
+<item>
 <title>Zvegincev</title>
 <link>https://www.anghyflawn.net/news/2020/zvegincev/</link>
 <pubDate>Thu, 22 Oct 2020 09:32:12 BST</pubDate>
@@ -467,16 +519,6 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 
 <item>
-<title>Phonological Theory</title>
-<link>https://www.anghyflawn.net/categories/phonological-theory/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/phonological-theory/</guid>
-<description></description>
-</item>
-
-
-
-<item>
 <title>Rebooting Slavic phonology</title>
 <link>https://www.anghyflawn.net/presentation/2020/abralin/</link>
 <pubDate>Wed, 21 Oct 2020 00:00:00 UTC</pubDate>
@@ -491,6 +533,16 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/rua5e8Wdmzo&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
+</item>
+
+
+
+<item>
+<title>Phonological Theory</title>
+<link>https://www.anghyflawn.net/categories/phonological-theory/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/phonological-theory/</guid>
+<description></description>
 </item>
 
 
@@ -605,16 +657,6 @@ context of the (re-)Gaelicization of Argyll (Jennings &amp;amp; Kruse (2009a);
 
 
 <item>
-<title>Prosodic Structure</title>
-<link>https://www.anghyflawn.net/categories/prosodic-structure/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/prosodic-structure/</guid>
-<description></description>
-</item>
-
-
-
-<item>
 <title>The phonology of Gaelic tonal accent</title>
 <link>https://www.anghyflawn.net/writing/gaelic-tonal-accent-rnag2018/</link>
 <pubDate>Wed, 12 Feb 2020 00:00:00 UTC</pubDate>
@@ -642,10 +684,10 @@ our understanding of the accentual phonology of Gaelic.&lt;/p&gt;
 
 
 <item>
-<title>History of Phonology</title>
-<link>https://www.anghyflawn.net/categories/history-of-phonology/</link>
+<title>Prosodic structure</title>
+<link>https://www.anghyflawn.net/categories/prosodic-structure/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/history-of-phonology/</guid>
+<guid>https://www.anghyflawn.net/categories/prosodic-structure/</guid>
 <description></description>
 </item>
 
@@ -663,79 +705,11 @@ our understanding of the accentual phonology of Gaelic.&lt;/p&gt;
 
 
 <item>
-<title>LEL2E: Structure and History of European Languages</title>
-<link>https://www.anghyflawn.net/teaching/2020/lel2e/</link>
-<pubDate>Wed, 01 Jan 2020 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/teaching/2020/lel2e/</guid>
-<description>&lt;p&gt;This course is (optionally) a part of the pre-Honours sequence in the Linguistics undergraduate degree (but can of course be taken as an outside course). In &lt;sup&gt;2019&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2020&lt;/sub&gt;, I am responsible for the following sections:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The Indo-European language family&lt;/li&gt;
-&lt;li&gt;Celtic languages&lt;/li&gt;
-&lt;li&gt;Topics in the phonology of European languages&lt;/li&gt;
-&lt;li&gt;Non-Indo-European languages of Europe (Basque; Finno-Ugric)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>LEL2D: Cross-Linguistic Variation: Limits and Theories</title>
-<link>https://www.anghyflawn.net/teaching/2020/lel2d/</link>
-<pubDate>Wed, 01 Jan 2020 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/teaching/2020/lel2d/</guid>
-<description>&lt;p&gt;This course is part of the pre-Honours sequence in all LEL single Honours degrees, as well as of some joint degrees (in addition to being available as an outside course). Its main aim is to familiarize students with the study of linguistic diversity and the relationship between language typology and theory-building. In &lt;sup&gt;2019&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2020&lt;/sub&gt;, I am acting as the course organizer for LEL2D. I am also responsible for the entire phonology block.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Historical Phonology</title>
-<link>https://www.anghyflawn.net/teaching/2020/historical-phonology/</link>
-<pubDate>Wed, 01 Jan 2020 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/teaching/2020/historical-phonology/</guid>
-<description>&lt;p&gt;In this course (co-taught with my colleague &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt;) we consider a variety of issues connected to phonological change. Throughout the course, we address questions such as the following:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;How do we reconstruct the phonology of past language states?&lt;/li&gt;
-&lt;li&gt;What types of phonological changes are attested?&lt;/li&gt;
-&lt;li&gt;How can synchronic phonological theory assist us in the study of historical phonology?&lt;/li&gt;
-&lt;li&gt;What can we learn about the human language faculty by studying historical phonology?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In &lt;sup&gt;2019&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2020&lt;/sub&gt;, I will cover the following topics :&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mechanisms and types of phonological change&lt;/li&gt;
-&lt;li&gt;Phonological typology and phonological change&lt;/li&gt;
-&lt;li&gt;The life cycle of phonological processes; transmission and diffusion in phonological change&lt;/li&gt;
-&lt;li&gt;Historical phonology and phonological representations&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Current Issues in Phonology</title>
-<link>https://www.anghyflawn.net/teaching/2020/current-issues-in-phonology/</link>
-<pubDate>Wed, 01 Jan 2020 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/teaching/2020/current-issues-in-phonology/</guid>
-<description>&lt;p&gt;This advanced course introduces students to a variety of live research issues in phonological theory. I teach this course with my colleagues &lt;a href=&#34;http://www.lel.ed.ac.uk/homes/patrick&#34;&gt;Patrick Honeybone&lt;/a&gt; and &lt;a href=&#34;http://www.ed.ac.uk/profile/michael-ramsammy&#34;&gt;Michael Ramsammy&lt;/a&gt;. This year, I am teaching the blocks on phonological analysis with Optimality Theory (3 weeks) and issues around phonological representation and contrast (2 weeks).&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Sem2 Start</title>
-<link>https://www.anghyflawn.net/news/2020/sem2-start/</link>
-<pubDate>Sun, 05 Jan 2020 12:32:22 UTC</pubDate>
-<guid>https://www.anghyflawn.net/news/2020/sem2-start/</guid>
-<description>&lt;p&gt;In Semester 2 of &lt;sup&gt;2019&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2020&lt;/sub&gt;, I am course organizer for the pre-Honours course &lt;a href=&#34;https://www.anghyflawn.net/teaching/2020/lel2d/&#34;&gt;&lt;em&gt;LEL2D: Cross-Linguistic Variation: Limits and Theories&lt;/em&gt;&lt;/a&gt;, where I also teach the phonology block. I also teach in pre-Honours on &lt;a href=&#34;https://www.anghyflawn.net/teaching/2020/lel2e/&#34;&gt;&lt;em&gt;LEL2E: Structure and History of European Languages&lt;/em&gt;&lt;/a&gt; and on &lt;em&gt;Linguistics and the Gaelic Language&lt;/em&gt;, and at Honours/MSc level on &lt;a href=&#34;https://www.anghyflawn.net/teaching/2020/historical-phonology/&#34;&gt;&lt;em&gt;Historical Phonology&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://www.anghyflawn.net/teaching/2020/current-issues-in-phonology/&#34;&gt;&lt;em&gt;Current Issues in Phonology&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-</description>
+<title>History of phonology</title>
+<link>https://www.anghyflawn.net/categories/history-of-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/history-of-phonology/</guid>
+<description></description>
 </item>
 
 

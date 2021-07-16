@@ -6,10 +6,19 @@
     <description>Recent content in Welsh on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.anghyflawn.net/categories/welsh/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The ATR/Laryngeal connection and emergent features</title>
+      <link>https://www.anghyflawn.net/writing/calediad/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/writing/calediad/</guid>
+      <description>I consider an unusual sound change and synchronic alternation in south-eastern dialects of Welsh, traditionally referred to as ‘provection’ (Welsh calediad). This phenomenon involves the ‘devoicing’ of stops following stressed vowels. I suggest that it may be the result of a typologically rare sort of vowel-consonant featural interaction, where ‘devoicing’ is triggered by tense vowels. This is unexpected typologically, since tongue root advancement — often a correlate of ‘tense’ vowel quality — is more frequently associated with voicing rather than devoicing in obstruents.</description>
+    </item>
     
     <item>
       <title>Evidence for Stratal Phonology</title>
@@ -54,15 +63,6 @@
       
       <guid>https://www.anghyflawn.net/writing/welsh-vowels-phonologization/</guid>
       <description>‘Phonologization’ is a process whereby a phonetic phenomenon enters the phonological grammar and becomes conceptualized as the result of categorical manipulation of phonological symbols. I analyse the phonologization of a predictable phonological pattern in Welsh, with particular attention to identifying criteria for whether phonologization has occurred. I argue for a model where phonologization experiences bottom-up and top-down biases. From the bottom up, there is pressure to phonologize phenomena with a categorical distribution; from the top down, there exist formal constraints on featural specification.</description>
-    </item>
-    
-    <item>
-      <title>The ATR/Laryngeal connection and emergent features</title>
-      <link>https://www.anghyflawn.net/writing/calediad/</link>
-      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/writing/calediad/</guid>
-      <description>I consider an unusual sound change and synchronic alternation in south-eastern dialects of Welsh, traditionally referred to as ‘provection’ (Welsh calediad). This phenomenon involves the ‘devoicing’ of stops following stressed vowels. I suggest that it may be the result of a typologically rare sort of vowel-consonant featural interaction, where ‘devoicing’ is triggered by tense vowels. This is unexpected typologically, since tongue root advancement — often a correlate of ‘tense’ vowel quality — is more frequently associated with voicing rather than devoicing in obstruents.</description>
     </item>
     
     <item>
