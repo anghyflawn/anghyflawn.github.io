@@ -3,8 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.anghyflawn.net/news/</loc>
+    <lastmod>2021-07-26T21:06:34+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/</loc>
+    <lastmod>2021-07-26T21:06:34+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2021/rnag/</loc>
+    <lastmod>2021-07-26T21:06:34+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.anghyflawn.net/categories/</loc>
-    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/prosodic-structure/</loc>
+    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/scottish-gaelic/</loc>
+    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/writing/gaelic-tonal-accent-rnag2018/</loc>
+    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/writing/</loc>
+    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -16,12 +56,6 @@
   
   <url>
     <loc>https://www.anghyflawn.net/categories/historical-phonology/</loc>
-    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -40,18 +74,6 @@
   <url>
     <loc>https://www.anghyflawn.net/categories/welsh/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/writing/</loc>
-    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/news/</loc>
-    <lastmod>2021-07-02T13:06:26+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -160,12 +182,6 @@
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/categories/scottish-gaelic/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.anghyflawn.net/news/2020/frlsu-published/</loc>
     <lastmod>2020-12-02T09:44:49+00:00</lastmod>
   </url>
@@ -251,17 +267,6 @@
   <url>
     <loc>https://www.anghyflawn.net/writing/stratal-phonology-russian-morphophonology/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/prosodic-structure/</loc>
-    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/writing/gaelic-tonal-accent-rnag2018/</loc>
-    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
