@@ -6,10 +6,19 @@
     <description>Recent content in North Germanic on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.anghyflawn.net/categories/north-germanic/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Livssyklusmodellen for fonologiske mønster i norsk og nordisk</title>
+      <link>https://www.anghyflawn.net/presentation/2021/mons/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/presentation/2021/mons/</guid>
+      <description>I føredraget set eg fram nokre resultat frå ei gransking av fleire fonologiske mønster i norsk (og i den breiare vestnordiske konteksten), med utgangspunkt i livssyklusmodellen for lydendring. I denne modellen skjer lydendring ved at automatisk fonetisk variasjon vert til fonetiske reglar, deretter til kategoriske fonologiske reglar og vidare til sykliske fonologiske reglar i samspel med morfologien. Eg viser korleis denne modellen kastar nytt lys over fleire velkjende mønster i norsk fonologi og morfologi, frå både strukturelle, historiske og dialektologiske standpunkt.</description>
+    </item>
     
     <item>
       <title>Drift revisited</title>
