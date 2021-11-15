@@ -24,7 +24,7 @@
     <language>en-gb</language>
     
     
-    <updated>Mon, 15 Nov 2021 10:28:24 GMT</updated>
+    <updated>Mon, 15 Nov 2021 10:32:11 GMT</updated>
 
 
 
@@ -92,38 +92,6 @@
 
 
 <item>
-<title>News</title>
-<link>https://www.anghyflawn.net/news/</link>
-<pubDate>Mon, 15 Nov 2021 10:24:26 UTC</pubDate>
-<guid>https://www.anghyflawn.net/news/</guid>
-<description></description>
-</item>
-
-
-
-<item>
-<title>Mrl</title>
-<link>https://www.anghyflawn.net/news/2021/mrl/</link>
-<pubDate>Mon, 15 Nov 2021 10:24:26 UTC</pubDate>
-<guid>https://www.anghyflawn.net/news/2021/mrl/</guid>
-<description>&lt;p&gt;My &lt;a href=&#34;https://www.anghyflawn.net/writing/mrl/&#34;&gt;overview paper on length and quantity in the Romance languages&lt;/a&gt; (with &lt;a href=&#34;https://research.vu.nl/en/persons/w-leo-wetzels&#34;&gt;Leo Wetzels&lt;/a&gt;) has appeared in a &lt;a href=&#34;https://www.degruyter.com/document/doi/10.1515/9783110550283/html&#34;&gt;&lt;em&gt;Manual of Romance phonetics and phonology&lt;/em&gt;&lt;/a&gt;, edited by Christoph Gabriel, Randall Gess and Trudel Meisenburg.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Mons</title>
-<link>https://www.anghyflawn.net/news/2021/mons/</link>
-<pubDate>Fri, 12 Nov 2021 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/news/2021/mons/</guid>
-<description>&lt;p&gt;My &lt;a href=&#34;https://www.anghyflawn.net/presentation/2021/mons/&#34;&gt;keynote presentation&lt;/a&gt; at the &lt;a href=&#34;https://en.uit.no/tavla/artikkel?p_document_id=720437&#34;&gt;19. møte om norsk språk&lt;/a&gt; conference in Tromsø on the application of the life cycle model of phonological change to some data from Norwegian (and Western Nordic more generally) has been postponed to 2022. I will, however, present some of this material in a poster presentation at the &lt;a href=&#34;http://www.lel.ed.ac.uk/symposium-on-historical-phonology/eshp5/&#34;&gt;5th Edinburgh Symposium on Historical Phonology&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
 <title>Writings</title>
 <link>https://www.anghyflawn.net/writing/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -165,6 +133,38 @@ weight-sensitive patterns, primarily relating to the placement of
 stress, minimality requirements, and prosodic morphology, are
 pervasive throughout the family, even in languages without
 phonological length distinctions.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>News</title>
+<link>https://www.anghyflawn.net/news/</link>
+<pubDate>Mon, 15 Nov 2021 10:24:26 UTC</pubDate>
+<guid>https://www.anghyflawn.net/news/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Mrl</title>
+<link>https://www.anghyflawn.net/news/2021/mrl/</link>
+<pubDate>Mon, 15 Nov 2021 10:24:26 UTC</pubDate>
+<guid>https://www.anghyflawn.net/news/2021/mrl/</guid>
+<description>&lt;p&gt;My &lt;a href=&#34;https://www.anghyflawn.net/writing/mrl/&#34;&gt;overview paper on length and quantity in the Romance languages&lt;/a&gt; (with &lt;a href=&#34;https://research.vu.nl/en/persons/w-leo-wetzels&#34;&gt;Leo Wetzels&lt;/a&gt;) has appeared in a &lt;a href=&#34;https://www.degruyter.com/document/doi/10.1515/9783110550283/html&#34;&gt;&lt;em&gt;Manual of Romance phonetics and phonology&lt;/em&gt;&lt;/a&gt;, edited by Christoph Gabriel, Randall Gess and Trudel Meisenburg.&lt;/p&gt;
+</description>
+</item>
+
+
+
+<item>
+<title>Mons</title>
+<link>https://www.anghyflawn.net/news/2021/mons/</link>
+<pubDate>Fri, 12 Nov 2021 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/news/2021/mons/</guid>
+<description>&lt;p&gt;My &lt;a href=&#34;https://www.anghyflawn.net/presentation/2021/mons/&#34;&gt;keynote presentation&lt;/a&gt; at the &lt;a href=&#34;https://en.uit.no/tavla/artikkel?p_document_id=720437&#34;&gt;19. møte om norsk språk&lt;/a&gt; conference in Tromsø on the application of the life cycle model of phonological change to some data from Norwegian (and Western Nordic more generally) has been postponed to 2022. I will, however, present some of this material in a poster presentation at the &lt;a href=&#34;http://www.lel.ed.ac.uk/symposium-on-historical-phonology/eshp5/&#34;&gt;5th Edinburgh Symposium on Historical Phonology&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
 
