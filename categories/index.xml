@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 26 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.anghyflawn.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Historical phonology</title>
       <link>https://www.anghyflawn.net/categories/historical-phonology/</link>
-      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/categories/historical-phonology/</guid>
       <description></description>
@@ -23,9 +23,18 @@
     <item>
       <title>North Germanic</title>
       <link>https://www.anghyflawn.net/categories/north-germanic/</link>
-      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/categories/north-germanic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Romance</title>
+      <link>https://www.anghyflawn.net/categories/romance/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/romance/</guid>
       <description></description>
     </item>
     
@@ -260,15 +269,6 @@
       <pubDate>Sat, 03 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/categories/language-documentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Romance</title>
-      <link>https://www.anghyflawn.net/categories/romance/</link>
-      <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/romance/</guid>
       <description></description>
     </item>
     

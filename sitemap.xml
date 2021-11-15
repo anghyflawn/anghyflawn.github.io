@@ -4,41 +4,79 @@
   
   <url>
     <loc>https://www.anghyflawn.net/categories/</loc>
-    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.anghyflawn.net/categories/historical-phonology/</loc>
-    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.anghyflawn.net/presentation/2021/mons/</loc>
-    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.anghyflawn.net/categories/north-germanic/</loc>
-    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.anghyflawn.net/</loc>
-    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.anghyflawn.net/presentation/</loc>
-    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2021/mrl/</loc>
+    <lastmod>2021-11-15T10:24:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/</loc>
+    <lastmod>2021-11-15T10:24:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2021/mons/</loc>
+    <lastmod>2021-11-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/writing/mrl/</loc>
+    <lastmod>2021-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/romance/</loc>
+    <lastmod>2021-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/writing/</loc>
+    <lastmod>2021-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.anghyflawn.net/presentation/2021/frlsu2021/</loc>
+    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2021/frlsu2021/</loc>
     <lastmod>2021-10-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -52,22 +90,6 @@
     <loc>https://www.anghyflawn.net/categories/laryngeal-phonology/</loc>
     <lastmod>2021-10-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/news/2021/frlsu2021/</loc>
-    <lastmod>2021-08-02T09:13:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/news/</loc>
-    <lastmod>2021-08-02T09:13:11+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/news/2021/mons/</loc>
-    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -90,12 +112,6 @@
   <url>
     <loc>https://www.anghyflawn.net/writing/gaelic-tonal-accent-rnag2018/</loc>
     <lastmod>2021-07-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/writing/</loc>
-    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -790,12 +806,6 @@
   <url>
     <loc>https://www.anghyflawn.net/news/2016/tionol-presentation/</loc>
     <lastmod>2016-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/romance/</loc>
-    <lastmod>2016-11-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
