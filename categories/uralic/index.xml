@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uralic on Pavel Iosad</title>
+    <link>https://www.anghyflawn.net/categories/uralic/</link>
+    <description>Recent content in Uralic on Pavel Iosad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.anghyflawn.net/categories/uralic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The life cycle of phonological patterns explains drift in sound change</title>
+      <link>https://www.anghyflawn.net/presentation/2022/ichl25/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/presentation/2022/ichl25/</guid>
+      <description>In this paper I address the nature of ‘drift’ (Sapir 1921) in phonological change from the perspective of the life cycle of phonological processes (Kiparsky 1995; Bermúdez-Otero 2007; 2015; Bermúdez-Otero &amp;amp; Trousdale 2012). I support the basic account of drift offered by Joseph (2013); Natvig &amp;amp; Salmons (2020), in which parallel changes arise from shared patterns of phonetic and phonological variation inherited from the proto-language. Specifically, I propose that a complete account of drift can be provided if we complement the insight that parallel changes draw on the inherited pool of variation with the proposition that change proceeds along the trajectory guided by the life cycle.</description>
+    </item>
+    
+  </channel>
+</rss>

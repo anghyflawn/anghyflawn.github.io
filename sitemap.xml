@@ -3,6 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.anghyflawn.net/teaching/2023/historical-phonology/</loc>
+    <lastmod>2023-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/</loc>
+    <lastmod>2023-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/teaching/</loc>
+    <lastmod>2023-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/teaching/2023/lel2d/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.anghyflawn.net/categories/</loc>
     <lastmod>2022-11-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -26,14 +48,99 @@
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/</loc>
+    <loc>https://www.anghyflawn.net/presentation/</loc>
     <lastmod>2022-11-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/presentation/</loc>
-    <lastmod>2022-11-26T00:00:00+00:00</lastmod>
+    <loc>https://www.anghyflawn.net/teaching/2022/lel1a/</loc>
+    <lastmod>2022-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/teaching/2022/phonological-theory/</loc>
+    <lastmod>2022-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/teaching/2022/sotl/</loc>
+    <lastmod>2022-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/presentation/2022/ichl25-workshop/</loc>
+    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/teaching-linguistics/</loc>
+    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/presentation/2022/ichl25/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/uralic/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/presentation/2022/29mfm/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/prosodic-structure/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/</loc>
+    <lastmod>2022-05-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2022/ichl/</loc>
+    <lastmod>2022-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2022/sem1-teaching/</loc>
+    <lastmod>2022-05-15T17:35:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2022/29mfm/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2022/oxhop/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/history-of-phonology/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/writing/history-of-phonology/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/writing/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -49,20 +156,35 @@
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/writing/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>https://www.anghyflawn.net/presentation/2021/aarhus/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2021/aarhus/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/presentation/2021/tionol21/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/irish/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/laryngeal-phonology/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.anghyflawn.net/news/2021/mrl/</loc>
     <lastmod>2021-11-15T10:24:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/news/</loc>
-    <lastmod>2021-11-15T10:24:26+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -81,26 +203,8 @@
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/categories/irish/</loc>
-    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/laryngeal-phonology/</loc>
-    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.anghyflawn.net/news/2021/rnag/</loc>
     <lastmod>2021-07-26T21:06:34+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/prosodic-structure/</loc>
-    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -200,12 +304,6 @@
   <url>
     <loc>https://www.anghyflawn.net/teaching/2021/lel2d/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/teaching/</loc>
-    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -315,17 +413,6 @@
   <url>
     <loc>https://www.anghyflawn.net/writing/stratal-phonology-russian-morphophonology/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/history-of-phonology/</loc>
-    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/writing/history-of-phonology/</loc>
-    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
