@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "03-underspecification.html",
+    "href": "03-underspecification.html",
+    "title": "Underspecification and contrast",
+    "section": "",
+    "text": "The key idea behind viewing size as a driver of phonological behaviour is that phonological activity corresponds to the presence of structure. Can we push this further?\n\nIf presence of structure is an explanatory factor and phonological activity is epiphenomenal, what justifies presence or absence of structure?\nWhere does phonological structure come from? What considerations, other than the patterns we are trying to explain, can support or militate against a representational proposal?\nThe story of western phonology as usually told (cf. Anderson 2021) begins with the realization that phonological structure is built because of lexical contrast. It is contrast that plays this external grounding role on which the edifice of phonology is later built: distinctions that are contrastive matter, those that are not are redundant, and phonologists should not care. Seen this way, was it a wise move to abandon this view, as generative phonology tried to do?"
+  },
+  {
+    "objectID": "03-underspecification.html#language-background",
+    "href": "03-underspecification.html#language-background",
+    "title": "Underspecification and contrast",
+    "section": "Language background",
+    "text": "Language background\nWe consider two examples here. The first is from Written (Classical) Manchu, a Tungusic language attested in writing from around the 16th-17th century, and from Xibe, a variety spoken by around 30,000 speakers (2000 census), currently in the Xinjiang but historically primarily in north-eastern China, which is closely related to the varieties that underlay written Manchu. The second example is a well-known pattern from Russian (shared in its essentials by most Slavic languages).\nPDF version of the datasets."
+  },
+  {
+    "objectID": "03-underspecification.html#written-manchu",
+    "href": "03-underspecification.html#written-manchu",
+    "title": "Underspecification and contrast",
+    "section": "Written Manchu",
+    "text": "Written Manchu\n\nThe vowel inventory of Written Manchu\n\n\nFront\nCentral\nBack\n\n\n\n\ni\n\nu\n\n\n\n\nʊ\n\n\n\nə\n\n\n\n\n\nɔ\n\n\n\na\n\n\n\n\nThe vowel [i] exerts a palatalizing influence on at least some preceding consonants.\n\nVowel harmony in Written Manchu\n\nATR harmony in Written Manchu\n\n\nUnsuffixed\nGloss\nSuffixed\nSuffix\n\n\n\n\nxəxə\nwoman\nxəxə-ŋɡə\nGenitive\n\n\naɢa\nrain\naɢa-ŋɢa\n\n\n\nitʂʰi\ndirection\nitʂʰi-ŋɢa\n\n\n\ntʰɔn\nnumber\ntʰɔ-ŋɢa\n\n\n\nsusə\ncoarse\nsusə-tə-\nCausative\n\n\nχʊrχa\nfishing net\nχʊrχa-ta-\n\n\n\ntulpa\ncareless\ntulpa-ta-\n\n\n\ntʂili\nanger\ntʂili-ta-\n\n\n\nsilxi\nenvy\nsilxi-ta\n\n\n\nxətʰu\nstocky\nxətʰu-kən\nAttenuative\n\n\nfarχʊn\ndark\nfarχʊ-kan\n\n\n\npəki\nfirm\npəki-lə-\nCausative\n\n\npaqtʂʰin\nopponent\npaqtʂʰi-la-\n\n\n\nxərə-\nladle out\nxərə-ku\nNominalization\n\n\npaqtʰa-\ncontain\npaqtʰa-qʊ\n\n\n\ntʂʰili-\nchoke\ntʂʰili-qʊ\n\n\n\nsəxəxun\nvertical\nsəxəxuri\nAugmentative\n\n\nlaqtaχʊn\ndrooping\nlaqtaχʊri\n\n\n\nəmtʰə\none each\nəmtʰə-li\nAdjectivization\n\n\ntaχa\nfollow\ntaχa-li\n\n\n\n\nQuestions:\n\nWhat is the distribution of velars and uvulars? How do they relate to vowels?\nWhat classes do the vowels fall into with respect to ATR alternations?\nAre any vowels exempt from patterns involving ATR?"
+  },
+  {
+    "objectID": "02-markedness.html",
+    "href": "02-markedness.html",
+    "title": "Markedness, neutralization, and structural size",
+    "section": "",
+    "text": "What is the relationship between the environment where a phonological rule applies and what the rule does?\nWhat do representations need to look like if we want to make this relationship explicit?\nWhat kinds of patterns are especially informative in this regard?"
+  },
+  {
+    "objectID": "02-markedness.html#language-background",
+    "href": "02-markedness.html#language-background",
+    "title": "Markedness, neutralization, and structural size",
+    "section": "Language background",
+    "text": "Language background\nToday we will look at a number of Kiranti languages. Kiranti is a group of Trans-Himalayan (‘Sino-Tibetan’) languages spoken in eastern Nepal. It generally (but not universally) considered to be a genetic subgrouping within the family, although its precise place is unclear. We will focus especially on the two Eastern Kiranti languages Yakkha [yakk1236] and Yamphu [yamp1244]. Both are spoken by several thousand people (around or under 10,000), and are considered endangered.\nWe focus on data from verbal morphology. Characteristic of the Kiranti languages show a pattern of allomorphy within verbal paradigms in which a stem has two allomorphs, by and large distributed in phonologically conditioned ways; the forms given here are picked (sometimes constructed) to be representative of this conditioning. We start with a consideration of Yakkha.\nPDF version of the datasets."
+  },
+  {
+    "objectID": "02-markedness.html#yakkha-verbs",
+    "href": "02-markedness.html#yakkha-verbs",
+    "title": "Markedness, neutralization, and structural size",
+    "section": "Yakkha verbs",
+    "text": "Yakkha verbs\nWe consider four forms: the infinitive, the negative converb, the 3SG subject past tense form (with a clitic =na), and the 3SG subject + 3SG object past tense form (also with =na). For reasons that we cannot go into here, we should treat the 3SG>3SG marker as consisting of two suffixes /a+u/ underlyingly. The 3SG>3SG form is for obvious reasons absent for intransitive verbs.\nThe transcriptions are given in slightly stricter IPA.\n\n\n\nInfinitive\nNEG.CVB\n3SG.PST\n3SG>3SG.PST\nGloss\n\n\n\n\nwaʔma\nmẽwaʔle\nwajana\nwana\n‘wear’\n\n\nsoʔma\nmensoʔle\nsojana\nsona\n‘look at’\n\n\npiʔma\nmembiʔle\npjana\npina\n‘give’\n\n\ncama\nmenɟale\ncajana\ncona\n‘eat’\n\n\nama\nmẽale\najana\n\n‘descend’\n\n\nsima\nmensile\nsjana\n\n‘die’\n\n\nlapma\nmẽlaple\nlabana\nlabuna\n‘seize’\n\n\napma\nmẽaple\nabana\nabuna\n‘come’\n\n\njokma\nmẽjokle\njoɡana\njoɡuna\n‘search’\n\n\npʰaʔma\nmempʰatle\npʰatana\npʰatuna\n‘help’\n\n\nkeʔma\nmeŋɡetle\nketana\nketuna\n‘bring up’\n\n\nliʔma\nmẽlitle\nlitana\nlituna\n‘plant’\n\n\ntʰuʔma\nmentʰuʔle\ntʰurana\ntʰuruna\n‘sew’\n\n\npoʔma\nmemboʔle\nporana\nporuna\n‘topple’\n\n\ncʰuma\nmencʰule\ncʰusana\ncʰusuna\n‘shrink’\n\n\njama\nmẽjale\njasana\njasuna\n‘be able (to do)’\n\n\n\nReconstruct, as much as you can, the paradigm for the following infinitives:\n\ncima ‘cool down’\ncokma ‘do’\nhoʔma ‘crumble, fall apart’"
+  },
+  {
+    "objectID": "02-markedness.html#yamphu-verbs",
+    "href": "02-markedness.html#yamphu-verbs",
+    "title": "Markedness, neutralization, and structural size",
+    "section": "Yamphu verbs",
+    "text": "Yamphu verbs\nThis is a very artificially constructed dataset from the related language Yamphu. The patterns are similar to those of Yakkha, and will perhaps help you make more sense of the latter. The forms given are again the infinitive, as well as two negative non-past forms: the 1PL inclusive subject and the 1PL exclusive subject. You will need to make an additional generalization about the distribution of the suffixes.\n\n\n\nInfinitive\n1PL.INCL\n1PL.EXCL\nGloss\n\n\n\n\napma\nabini\nabiŋmani\n‘come’\n\n\nkepma\nkebini\nkebiŋmani\n‘stick’\n\n\nkʰaːkma\nkʰaːɡini\nkʰaːɡiŋmani\n‘scrape throat’\n\n\ntʰeʔma\ntʰeʔni\ntʰeduŋmani\n‘lift’\n\n\nhæːʔma\nhæːʔni\nhæːduŋmani\n‘bite’\n\n\nleʔma\nledini\nlediŋmani\n‘be brief’\n\n\nsiʔma\nsiʔni\nsitːuŋmani\n‘hit’\n\n\n\nConsidering what you have been able to figure out about Yamphu, reconstruct as much as you can of the the paradigms of the following verbs:\n\nʔokma ‘find’\ntɾiʔma ‘be contrary’\n\nThe data also attests patterns exemplified by asiʔ ‘previously’ ~ asiʔ-em-ba ‘before’. How do they fit in with the previous data?"
+  },
+  {
+    "objectID": "02-markedness.html#sources",
+    "href": "02-markedness.html#sources",
+    "title": "Markedness, neutralization, and structural size",
+    "section": "Sources",
+    "text": "Sources\nThe Yakkha data is from Schackow (2015). The Yamphu data is extensively discussed by Lacy (2006), who draws on the description by Rutgers (1998)."
+  },
+  {
+    "objectID": "02-markedness.html#considerations-for-discussion",
+    "href": "02-markedness.html#considerations-for-discussion",
+    "title": "Markedness, neutralization, and structural size",
+    "section": "Considerations for discussion",
+    "text": "Considerations for discussion\n\nWhat is the precise nature of the effects observable in this data? How can we use representational machinery to capture them?\nAre non-representational solutions viable in such cases? What would make us choose between representational and non-representational approaches?\nHerce (2020) argues that despite the phonological predictability of the patterns, they should be considered morphological in nature rather than phonological. How should we weigh this alternative against the phonological analysis?"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "What have representations ever done for us?",
+    "section": "",
+    "text": "What kind of problems can phonological representations solve? We will consider issues like phonological class membership, markedness, and locality, which are frequently used to motivate representational devices like privativity or subsegmental geometry;\nWhat is the case for representations? That is to say, in what way are representational solutions particularly well adapted to solving these issues?\nAre representations necessary? The fact that representational solutions are available does not automatically mean that we should adopt them. Are other approaches compatible with the data, too? And do we always have a correct view of the data? We will explore the complexity beyond the neat phonological analyses in the literature.\n\nEach class will focus on one or two data sets, both those of a ‘sanitized’ kind common in phonology teaching (and literature) and those highlighting the complexity of the phenomena and the potential of alternative accounts that do not involve representations, or are not even phonological. The puzzles aim to help you not just engage with the generalizations that have already been made for you but to hone your skills in extracting the substance of the phonological pattern from the raw data."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Course annotation",
+    "section": "",
+    "text": "The course will be quite practical, with a focus on hands-on discussion of curated data sets. This course is most suitable for attendees who already have a grasp of how to construct a basic phonological analysis. As such, there is no set reading, but a familiarity with analysis techniques will be assumed that can be gained by at least a cursory examination of a textbook in generative phonological analysis, insofar as it covers underlying and surface representations, rules and rule ordering, and a basic introduction to phonological features."
+  },
+  {
+    "objectID": "01-representations.html",
+    "href": "01-representations.html",
+    "title": "Phonological features",
+    "section": "",
+    "text": "PDF version of the dataset."
+  },
+  {
+    "objectID": "01-representations.html#questions-to-start-with",
+    "href": "01-representations.html#questions-to-start-with",
+    "title": "Phonological features",
+    "section": "Questions to start with",
+    "text": "Questions to start with\n\nWhat does it mean for a group of segments to function as a class in a language’s phonology?\nWhat criteria can we expect to use? How well should they align?"
+  },
+  {
+    "objectID": "01-representations.html#nivkh-language-background",
+    "href": "01-representations.html#nivkh-language-background",
+    "title": "Phonological features",
+    "section": "Nivkh language background",
+    "text": "Nivkh language background\nNivkh1 (нивхгу диф [ɲivɣɡu dif]) is a language isolate traditionally spoken in Northern Eurasia, along the Amur river in what is now the Russian Far East, and on the island of Sakhalin. It is a language isolate, with no widely accepted genetic link to any other language families. The language is severely endangered: there were 198 speakers in the 2010 Russian census, and this number has likely decreased further since then."
+  },
+  {
+    "objectID": "01-representations.html#consonant-inventory",
+    "href": "01-representations.html#consonant-inventory",
+    "title": "Phonological features",
+    "section": "Consonant inventory",
+    "text": "Consonant inventory\nThe data here represent primarily the Sakhalin dialect; notably, Amur dialects lack the voiced stop series\n\n\n\n\n\n\n\n\n\n\n\n\nManner\nLabial\nCoronal\nPalatal\nVelar\nUvular\nPharyngeal\n\n\n\n\nStop\np pʰ b\nt tʰ d\nc cʰ ɟ\nk kʰ ɡ\nqʰ q ɢ\n\n\n\nFricative\nf v\ns z\n\nx ɣ\nχ ʁ\nh\n\n\nNasal\nm\nn\nɲ\nŋ\n\n\n\n\nLiquid\n\nr r̥ l\n\n\n\n\n\n\nGlide\nw\n\n\nj"
+  },
+  {
+    "objectID": "01-representations.html#analysis-task",
+    "href": "01-representations.html#analysis-task",
+    "title": "Phonological features",
+    "section": "Analysis task",
+    "text": "Analysis task\nExamine the following Nivkh sentences and their translations.\n\nif pitɣə vəkzɟ ‘He lost the book’\ncʰxəf ətək ŋafq r̥uɟ ‘The bear chased the father’s friend’\noʁla ɲzuɟ ‘The child washed me’\nif ŋafq əmək xeq ɣəlnuɟ ‘He saved the friend from the mother’s fox’\nɲi ŋafq vaχ pəkzɟ ‘I lost the friend’s stone’\noʁla ŋafq zosqc ‘The child’s friend destroyed it’\nkʰeq zeŋi paχ tʰəprɟ ‘The fox brought the salmon’s stone’\nəmək rəf cosqc ‘The mother’s house got destroyed’\ncʰxəf təf pilɟ ‘The bear’s house is big’\nɲivx oʁla cʰxəf kəlnuɟ ‘The man saved the child from the bear’\nətək əmək zeŋi r̥əprɟ ‘The father brought the mother’s salmon’\noʁla cʰo raʁrɟ ‘The child watched the fish’\nqan pəkzɟ ‘The dog got lost’\n\nTranslate into English\n\nqan cʰxəf cuɟ\nɲi zuɟ\nif ɲraʁrɟ\n\nTranslate into Nivkh\n\nThe child chased the bear\nThe mother’s book got lost\nI brought the friend’s bear\n\nSome of the original thirteen sentences have other possible translations. Can you spot any?"
+  },
+  {
+    "objectID": "01-representations.html#additional-task",
+    "href": "01-representations.html#additional-task",
+    "title": "Phonological features",
+    "section": "Additional task",
+    "text": "Additional task\nExamine the plural forms of some of the words from the first task. To simplify your task, they are already grouped by allomorph. Can you describe how the plural is formed in Nivkh? Describe any similarities between the formation of the plural and any other phenomena you are familiar with from the first task.\n\n\n\nGroup 1\nGroup 2\nGroup 3\nGroup 4\n\n\n\n\ncʰxəfku\nəməkxu\npitɣəɣu\nqanɡu\n\n\ntəfku\nətəkxu\ncʰoɣu\nɲivɣɡu\n\n\npaχku\nŋafqxu\nzeŋiɣu\noʁlaɡu\n\n\n\nkʰeqxu\n\n\n\n\n\nConsidering all your previous answers, translate the following sentences into English. Can you observe any new phenomena, and explain why the words behave this way?\n\nif qan tʰəprɟ\nəmək qan ɟuɟ\noʁla bitɣə pəkzɟ\nɲi ɲivx tʰuɟ\ncʰxəf ɲivɣ bəkzɟ\n\nIf you can, translate ‘I saved the child from the father’s dog’ into Nivkh."
+  },
+  {
+    "objectID": "01-representations.html#sources",
+    "href": "01-representations.html#sources",
+    "title": "Phonological features",
+    "section": "Sources",
+    "text": "Sources\nThis is a constructed data set that builds on the descriptions of Nivkh by Kreynovich (1937) and Panfilov (1962–1965), as well as Mattissen (2003) and Shiraishi (2006). The latter is focused on discusses the phonology of the language. Hidetoshi Shiraishi also maintains a collection of sound files from Nivkh speakers here. In constructing the data set, I also used the dictionary by Savel’eva & Taksami (1970)."
+  },
+  {
+    "objectID": "01-representations.html#considerations-for-discussion",
+    "href": "01-representations.html#considerations-for-discussion",
+    "title": "Phonological features",
+    "section": "Considerations for discussion",
+    "text": "Considerations for discussion\n\nWhat are the phonological classes we observe?\nWhat context are the alternations triggered in? What are the respective roles of phonology and morphology here?\nHow much of the explanatory burden is carried by how we define features, and determine what segments carry them?"
+  }
+]
