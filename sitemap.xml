@@ -69,25 +69,78 @@
   </url>
   
   <url>
+    <loc>https://www.anghyflawn.net/news/2022/lagb/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/presentation/2022/lagb-workshop/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/teaching-linguistics/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2022/sem1-teaching/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/writing/trond-trosterud-fs/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/laryngeal-phonology/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2022/ttfs/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/uralic/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/writing/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/teaching/2022/egg/</loc>
+    <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.anghyflawn.net/presentation/2022/ichl25-workshop/</loc>
     <lastmod>2022-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/categories/teaching-linguistics/</loc>
+    <loc>https://www.anghyflawn.net/news/2022/ichl/</loc>
     <lastmod>2022-08-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.anghyflawn.net/presentation/2022/ichl25/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/uralic/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -107,22 +160,6 @@
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/news/</loc>
-    <lastmod>2022-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/news/2022/ichl/</loc>
-    <lastmod>2022-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/news/2022/sem1-teaching/</loc>
-    <lastmod>2022-05-15T17:35:18+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.anghyflawn.net/news/2022/oxhop/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
   </url>
@@ -136,12 +173,6 @@
   <url>
     <loc>https://www.anghyflawn.net/writing/history-of-phonology/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/writing/</loc>
-    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -172,12 +203,6 @@
   
   <url>
     <loc>https://www.anghyflawn.net/categories/irish/</loc>
-    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/laryngeal-phonology/</loc>
     <lastmod>2021-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
