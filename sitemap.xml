@@ -30,20 +30,60 @@
   </url>
   
   <url>
+    <loc>https://www.anghyflawn.net/news/2022/akfs/</loc>
+    <lastmod>2022-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.anghyflawn.net/news/</loc>
-    <lastmod>2022-12-05T22:44:33+00:00</lastmod>
+    <lastmod>2022-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/writing/arne-kruse-fs/</loc>
+    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/</loc>
+    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/gaelic/</loc>
+    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/language-contact/</loc>
+    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/north-germanic/</loc>
+    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/papers/</loc>
+    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/writing/</loc>
+    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.anghyflawn.net/news/2022/spring-teaching/</loc>
     <lastmod>2022-12-05T22:44:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/</loc>
-    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -60,12 +100,6 @@
   <url>
     <loc>https://www.anghyflawn.net/news/2022/mons/</loc>
     <lastmod>2022-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/north-germanic/</loc>
-    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -128,12 +162,6 @@
   
   <url>
     <loc>https://www.anghyflawn.net/categories/uralic/</loc>
-    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/writing/</loc>
     <lastmod>2022-08-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -368,20 +396,8 @@
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/categories/papers/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.anghyflawn.net/news/2020/frlsu-published/</loc>
     <lastmod>2020-12-02T09:44:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/language-contact/</loc>
-    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -488,12 +504,6 @@
   <url>
     <loc>https://www.anghyflawn.net/news/2019/eshp4/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/gaelic/</loc>
-    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
