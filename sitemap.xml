@@ -3,20 +3,154 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.anghyflawn.net/teaching/2023/historical-phonology/</loc>
-    <lastmod>2023-01-13T00:00:00+00:00</lastmod>
+    <loc>https://www.anghyflawn.net/teaching/2024/current-issues/</loc>
+    <lastmod>2024-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.anghyflawn.net/</loc>
-    <lastmod>2023-01-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.anghyflawn.net/teaching/</loc>
-    <lastmod>2023-01-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/writing/celtic-mutations-companion/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/breton/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/celtic/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2023/companion/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/initial-consonant-mutations/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/irish/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/papers/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/welsh/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/writing/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/teaching/2023/lel1a/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/teaching/2023/phonological-theory/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2023/sem1-teaching/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2023/calediad-published/</loc>
+    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/feature-theory/</loc>
+    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/historical-phonology/</loc>
+    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/substance-free-phonology/</loc>
+    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/writing/calediad/</loc>
+    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2023/30mfm/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/presentation/2023/30mfm/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/presentation/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/prosodic-structure/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/teaching/2023/historical-phonology/</loc>
+    <lastmod>2023-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -35,20 +169,8 @@
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/news/</loc>
-    <lastmod>2022-12-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.anghyflawn.net/writing/arne-kruse-fs/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/</loc>
-    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -70,26 +192,8 @@
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/categories/papers/</loc>
-    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/writing/</loc>
-    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.anghyflawn.net/news/2022/spring-teaching/</loc>
     <lastmod>2022-12-05T22:44:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/historical-phonology/</loc>
-    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -100,12 +204,6 @@
   <url>
     <loc>https://www.anghyflawn.net/news/2022/mons/</loc>
     <lastmod>2022-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/presentation/</loc>
-    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -192,12 +290,6 @@
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/categories/prosodic-structure/</loc>
-    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.anghyflawn.net/news/2022/29mfm/</loc>
     <lastmod>2022-05-22T00:00:00+00:00</lastmod>
   </url>
@@ -245,12 +337,6 @@
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/categories/irish/</loc>
-    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.anghyflawn.net/news/2021/mrl/</loc>
     <lastmod>2021-11-15T10:24:26+00:00</lastmod>
   </url>
@@ -287,29 +373,6 @@
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/categories/feature-theory/</loc>
-    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/substance-free-phonology/</loc>
-    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/writing/calediad/</loc>
-    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/welsh/</loc>
-    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.anghyflawn.net/news/2021/off/</loc>
     <lastmod>2021-07-02T13:06:26+01:00</lastmod>
   </url>
@@ -317,12 +380,6 @@
   <url>
     <loc>https://www.anghyflawn.net/news/2021/icngl12/</loc>
     <lastmod>2021-06-16T17:35:18+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/celtic/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -755,12 +812,6 @@
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/categories/breton/</loc>
-    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.anghyflawn.net/presentation/2017/esohph3/</loc>
     <lastmod>2017-11-30T00:00:00+00:00</lastmod>
   </url>
@@ -855,12 +906,6 @@
   <url>
     <loc>https://www.anghyflawn.net/writing/mutations-bibliography/</loc>
     <lastmod>2017-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/initial-consonant-mutations/</loc>
-    <lastmod>2017-02-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

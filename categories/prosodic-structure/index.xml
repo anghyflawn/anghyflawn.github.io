@@ -6,10 +6,19 @@
     <description>Recent content in Prosodic structure on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.anghyflawn.net/categories/prosodic-structure/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A metrical approach to ternarity in Northern European accentual contrasts</title>
+      <link>https://www.anghyflawn.net/presentation/2023/30mfm/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/presentation/2023/30mfm/</guid>
+      <description>Many languages of Northern Europe possess typologically non-trivial systems of prosodic con- trasts, analysed variously as ‘tonal/pitch accent’ (North and West Germanic, Gaelic, Baltic), laryngeal accent/stød (North Germanic, Baltic, Finnic, Gaelic), and ternary quantity distinctions (Finnic, Sámi, Gaelic). In this paper, I show that despite the diversity of phonetic correlates, the fundamental structure of these systems is almost perfectly isomorphic. Specifically, they are often three-way contrasts between stressed syllables that lack the segmental material to support the accentual contrast, and two kinds of stressed syllables that do have such segmental content: one bearing some marked accentual specification and one lacking it.</description>
+    </item>
     
     <item>
       <title>Metrical structure and Stratal Phonology provide a complete account of Danish stød</title>
