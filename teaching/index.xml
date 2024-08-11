@@ -6,10 +6,38 @@
     <description>Recent content in Teachings on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.anghyflawn.net/teaching/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Linguistics and English Language 1A</title>
+      <link>https://www.anghyflawn.net/teaching/2024/lel1a/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/teaching/2024/lel1a/</guid>
+      <description>This is the introductory linguistics ab initio course for all first-year students in Linguistics and English Language. This year, I am the Course Organizer and am teaching the phonetics and skills blocks; in addition, with Graeme Trousdale, I am responsible for the data analysis/language puzzles component of the course.</description>
+    </item>
+    
+    <item>
+      <title>Representations and contrast</title>
+      <link>https://www.anghyflawn.net/teaching/2024/egg2024-representations/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/teaching/2024/egg2024-representations/</guid>
+      <description>The topic of this course is how segmental representations can help understand phonological behaviour, and in particular the link between subsegmental structure and phonological activity.
+The insight that the presence of phonological structure (such as a featural specification) and its activity has a long history in phonological theory. An influential early formalization of this idea was the theory of ‘markedness’ (understood quite literally as the presence of a ‘mark’) in Prague School phonology, where it was also linked to the idea that structure was built in the context of a language’s system of contrasts.</description>
+    </item>
+    
+    <item>
+      <title>Slavic Phonology</title>
+      <link>https://www.anghyflawn.net/teaching/2024/egg2024-slavic/</link>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/teaching/2024/egg2024-slavic/</guid>
+      <description>The sound patterns of the Slavic languages played a foundational role in the development of Western phonological theory. Both structuralist and generative phonology share a history (or pre-history) of close engagement with Slavic data and extensive traditions of its analysis. Despite these historical links, the approaches and results achieved in these traditions in dealing with essentially the same data can be strikingly different. Much of this divergence can be ascribed to differences in how to approach the close and complex interaction of morphology and phonology that is characteristic of Slavic languages.</description>
+    </item>
     
     <item>
       <title>Current Issues in Phonology</title>
