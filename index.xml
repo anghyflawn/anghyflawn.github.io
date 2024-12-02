@@ -24,15 +24,15 @@
     <language>en-gb</language>
     
     
-    <updated>Tue, 29 Oct 2024 16:37:13 GMT</updated>
+    <updated>Mon, 02 Dec 2024 11:38:39 GMT</updated>
 
 
 
 <item>
-<title>Teachings</title>
-<link>https://www.anghyflawn.net/teaching/</link>
+<title>Presentations</title>
+<link>https://www.anghyflawn.net/presentation/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/teaching/</guid>
+<guid>https://www.anghyflawn.net/presentation/</guid>
 <description></description>
 </item>
 
@@ -43,6 +43,56 @@
 <link>https://www.anghyflawn.net/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>https://www.anghyflawn.net/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Language contact</title>
+<link>https://www.anghyflawn.net/categories/language-contact/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/language-contact/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>In search of (lost?) contact-induced change in phonology</title>
+<link>https://www.anghyflawn.net/presentation/2024/amc2024/</link>
+<pubDate>Mon, 02 Dec 2024 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/presentation/2024/amc2024/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Historical phonology</title>
+<link>https://www.anghyflawn.net/categories/historical-phonology/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/historical-phonology/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Categories</title>
+<link>https://www.anghyflawn.net/categories/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/categories/</guid>
+<description></description>
+</item>
+
+
+
+<item>
+<title>Teachings</title>
+<link>https://www.anghyflawn.net/teaching/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://www.anghyflawn.net/teaching/</guid>
 <description></description>
 </item>
 
@@ -156,16 +206,6 @@
 
 
 <item>
-<title>Categories</title>
-<link>https://www.anghyflawn.net/categories/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/</guid>
-<description></description>
-</item>
-
-
-
-<item>
 <title>Oxfordre</title>
 <link>https://www.anghyflawn.net/news/2024/oxfordre/</link>
 <pubDate>Fri, 09 Aug 2024 00:00:00 UTC</pubDate>
@@ -249,16 +289,6 @@
 
 
 <item>
-<title>Presentations</title>
-<link>https://www.anghyflawn.net/presentation/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/presentation/</guid>
-<description></description>
-</item>
-
-
-
-<item>
 <title>North Germanic</title>
 <link>https://www.anghyflawn.net/categories/north-germanic/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -321,16 +351,6 @@
 
 &lt;p&gt;I show how the proposed account captures the markedness paradox in Celtic by divorcing the place distinctions from distinctive quantity (moraicity). This also accounts for the fact that mutation patterns persist even when earlier word-medial quantity is lost, as in Brythonic. Furthermore, the Celtic parallel can shed light on the Ibero-Romance patterns without recourse to a poorly evidenced process of sandhi gemination (parallel to Italian &lt;em&gt;raddoppiamento&lt;/em&gt;) proposed by Cravens (2002).&lt;/p&gt;
 </description>
-</item>
-
-
-
-<item>
-<title>Historical phonology</title>
-<link>https://www.anghyflawn.net/categories/historical-phonology/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/historical-phonology/</guid>
-<description></description>
 </item>
 
 
@@ -599,16 +619,6 @@ framework for a range of apparently disparate phenomena.&lt;/p&gt;
 
 
 <item>
-<title>Language contact</title>
-<link>https://www.anghyflawn.net/categories/language-contact/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/categories/language-contact/</guid>
-<description></description>
-</item>
-
-
-
-<item>
 <title>Gaelic</title>
 <link>https://www.anghyflawn.net/categories/gaelic/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -635,17 +645,6 @@ framework for a range of apparently disparate phenomena.&lt;/p&gt;
 <pubDate>Mon, 05 Dec 2022 22:44:33 UTC</pubDate>
 <guid>https://www.anghyflawn.net/news/2022/spring-teaching/</guid>
 <description>&lt;p&gt;In Semester 2 of &lt;sup&gt;2022&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2023&lt;/sub&gt;, I am teaching on &lt;a href=&#34;https://www.anghyflawn.net/teaching/2023/historical-phonology/&#34;&gt;&lt;em&gt;Historical Phonology&lt;/em&gt;&lt;/a&gt;, &lt;a href=&#34;https://www.anghyflawn.net/teaching/2023/lel2d/&#34;&gt;&lt;em&gt;LEL2D: Cross-Linguistic Variation: Limits and Theories&lt;/em&gt;&lt;/a&gt;, and &lt;a href=&#34;https://www.anghyflawn.net/teaching/2023/doe/&#34;&gt;&lt;em&gt;Dialects of English in Britain and Ireland&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-</item>
-
-
-
-<item>
-<title>Mons</title>
-<link>https://www.anghyflawn.net/news/2022/mons/</link>
-<pubDate>Thu, 24 Nov 2022 00:00:00 UTC</pubDate>
-<guid>https://www.anghyflawn.net/news/2022/mons/</guid>
-<description>&lt;p&gt;I presented a keynote talk on &lt;a href=&#34;https://www.anghyflawn.net/presentation/2021/mons/&#34;&gt;the life cycle of phonological processes in Norwegian&lt;/a&gt; at the &lt;a href=&#34;https://en.uit.no/tavla/artikkel?p_document_id=720437&#34;&gt;19. møte om norsk språk&lt;/a&gt; conference, postponed from 2021.&lt;/p&gt;
 </description>
 </item>
 

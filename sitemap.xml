@@ -3,14 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.anghyflawn.net/teaching/2024/lel1a/</loc>
-    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+    <loc>https://www.anghyflawn.net/categories/</loc>
+    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/historical-phonology/</loc>
+    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/presentation/2024/amc2024/</loc>
+    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/language-contact/</loc>
+    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.anghyflawn.net/</loc>
-    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/presentation/</loc>
+    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/teaching/2024/lel1a/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,12 +62,6 @@
   <url>
     <loc>https://www.anghyflawn.net/news/2024/promotion/</loc>
     <lastmod>2024-08-11T17:04:02+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/</loc>
-    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -107,12 +130,6 @@
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/presentation/</loc>
-    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.anghyflawn.net/presentation/2024/fino2024/</loc>
     <lastmod>2024-02-23T00:00:00+00:00</lastmod>
   </url>
@@ -124,12 +141,6 @@
   
   <url>
     <loc>https://www.anghyflawn.net/categories/celtic/</loc>
-    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/historical-phonology/</loc>
     <lastmod>2023-12-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -253,12 +264,6 @@
   
   <url>
     <loc>https://www.anghyflawn.net/categories/gaelic/</loc>
-    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/language-contact/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
