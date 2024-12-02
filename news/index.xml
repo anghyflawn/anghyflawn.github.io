@@ -6,10 +6,19 @@
     <description>Recent content in News on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 11 Aug 2024 17:12:12 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 11:57:37 +0000</lastBuildDate>
     
 	<atom:link href="https://www.anghyflawn.net/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amc</title>
+      <link>https://www.anghyflawn.net/news/2024/amc/</link>
+      <pubDate>Mon, 02 Dec 2024 11:57:37 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/news/2024/amc/</guid>
+      <description>I presented an invited talk on the status of phonological patterns in language contact at the Fourth AMC Symposium at the University of Edinburgh.</description>
+    </item>
     
     <item>
       <title>Teaching</title>

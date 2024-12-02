@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.anghyflawn.net/news/2024/amc/</loc>
+    <lastmod>2024-12-02T11:57:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/</loc>
+    <lastmod>2024-12-02T11:57:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/</loc>
+    <lastmod>2024-12-02T11:57:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.anghyflawn.net/categories/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -26,12 +43,6 @@
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/</loc>
-    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.anghyflawn.net/presentation/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -45,12 +56,6 @@
   <url>
     <loc>https://www.anghyflawn.net/teaching/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/news/</loc>
-    <lastmod>2024-08-11T17:12:12+01:00</lastmod>
     <priority>0</priority>
   </url>
   
