@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Pavel Iosad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.anghyflawn.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Historical phonology</title>
       <link>https://www.anghyflawn.net/categories/historical-phonology/</link>
-      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/categories/historical-phonology/</guid>
       <description></description>
@@ -23,18 +23,36 @@
     <item>
       <title>Language contact</title>
       <link>https://www.anghyflawn.net/categories/language-contact/</link>
-      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/categories/language-contact/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Celtic</title>
+      <link>https://www.anghyflawn.net/categories/celtic/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/celtic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Germanic</title>
       <link>https://www.anghyflawn.net/categories/germanic/</link>
-      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/categories/germanic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Romance</title>
+      <link>https://www.anghyflawn.net/categories/romance/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anghyflawn.net/categories/romance/</guid>
       <description></description>
     </item>
     
@@ -62,24 +80,6 @@
       <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.anghyflawn.net/categories/north-germanic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Celtic</title>
-      <link>https://www.anghyflawn.net/categories/celtic/</link>
-      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/celtic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Romance</title>
-      <link>https://www.anghyflawn.net/categories/romance/</link>
-      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anghyflawn.net/categories/romance/</guid>
       <description></description>
     </item>
     

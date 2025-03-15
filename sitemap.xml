@@ -3,49 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.anghyflawn.net/news/2024/amc/</loc>
-    <lastmod>2024-12-02T11:57:37+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.anghyflawn.net/news/</loc>
-    <lastmod>2024-12-02T11:57:37+00:00</lastmod>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.anghyflawn.net/</loc>
-    <lastmod>2024-12-02T11:57:37+00:00</lastmod>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://www.anghyflawn.net/news/2025/upld25/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.anghyflawn.net/categories/</loc>
-    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.anghyflawn.net/categories/historical-phonology/</loc>
-    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/language-contact/</loc>
+    <lastmod>2025-03-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/presentation/2025/upld2025/</loc>
+    <lastmod>2025-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/presentation/</loc>
+    <lastmod>2025-03-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/celtic/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/presentation/2025/fino2025/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2025/fino25/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/germanic/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/categories/romance/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.anghyflawn.net/news/2024/amc/</loc>
+    <lastmod>2024-12-02T11:57:37+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.anghyflawn.net/presentation/2024/amc2024/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/language-contact/</loc>
-    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/presentation/</loc>
-    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -72,12 +110,6 @@
   <url>
     <loc>https://www.anghyflawn.net/news/2024/egg/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/germanic/</loc>
-    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -145,20 +177,8 @@
   </url>
   
   <url>
-    <loc>https://www.anghyflawn.net/categories/celtic/</loc>
-    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.anghyflawn.net/presentation/2023/eshp6/</loc>
     <lastmod>2023-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.anghyflawn.net/categories/romance/</loc>
-    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
